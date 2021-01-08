@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<zDesc/>
+		<bGameplay/>
+		<bDebug/>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_NO_TUTORIAL</zType>
+		<zName>Отключить обучение</zName>
+		<zDesc>Выключает обучающие события</zDesc>
+		<bGameplay>1</bGameplay>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_NO_REPLAY</zType>
+		<zName>Отключить полный повтор</zName>
+		<zDesc>Поддержка повтора требует большего объема доступной системной памяти</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_ROLE_PLAYING</zType>
+		<zName>RolePlaying</zName>
+		<zDesc>Нет всплывающих окон во время событий</zDesc>
+		<bGameplay>1</bGameplay>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_ALL_CANDIDATES</zType>
+		<zName>Все кандидаты на работу</zName>
+		<zDesc>Кандидаты в Совет, губернатора и генерала, у которых уже есть работа</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_INSTANT_UNIT_MOVEMENT</zType>
+		<zName>Мгновенное перемещение</zName>
+		<zDesc>Отключает анимацию передвижения</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_NO_UNIT_CYCLING</zType>
+		<zName>Без циклического переключения</zName>
+		<zDesc>Отключает автоматическое переключение на следующий юнит</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_FATIGUE_CYCLING</zType>
+		<zName>Цикличность для уставших едииниц</zName>
+		<zDesc>Усталые юниты включены в цикл переключения</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_MOVE_TO_FATIGUE</zType>
+		<zName>Предел усталости</zName>
+		<zDesc>Щелчок за пределами пределами усталости не ставит в очередь дополнительный ход</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_SHOW_ORDERS_COST</zType>
+		<zName>Показать стоимость приказов</zName>
+		<zDesc>Показывать стоимость приказов, вместо оставшихся для каждого хода</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_HIDE_MINIMAP</zType>
+		<zName>Скрыть миникарту</zName>
+		<zDesc></zDesc>
+	</Entry>
+    <Entry>
+        <zType>PLAYEROPTION_HIDE_COUNCIL</zType>
+        <zName>Скрыть портрет</zName>
+        <zDesc></zDesc>
+    </Entry>
+    <Entry>
+        <zType>PLAYEROPTION_MINI_TECH_CARDS</zType>
+        <zName>Мини-дерево технологий</zName>
+        <zDesc>Всегда используйте мини-дерево технологий дисплея вместо того, чтобы выбрать исследования в всплывающем окне</zDesc>
+    </Entry>
+	<Entry>
+		<zType>PLAYEROPTION_DEBUG_HELP</zType>
+		<zName>Отладка</zName>
+		<zDesc></zDesc>
+		<bDebug>1</bDebug>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_SHOW_SYSTEM_TIME</zType>
+		<zName>Показать системное время</zName>
+		<zDesc></zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_HIDE_LANDMARK_NAMES</zType>
+		<zName>Скрыть названия ландшафта</zName>
+		<zDesc>Скрыть названия элементов карты (например, горы, вулканы и.т.д.)</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_FLIP_UNIT_COLORS</zType>
+		<zName>Поменять цвета</zName>
+		<zDesc>Меняет первичные и вторичные цвета для юнитов</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_SHOW_RIVAL_FAMILY_COLORS</zType>
+		<zName>Показать цвета семьи соперников</zName>
+		<zDesc></zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_HIDE_UNIT_MOVEMENT_STEPS</zType>
+		<zName>Скрыть шаги перемещения</zName>
+		<zDesc>Скрыть диапазон перемещения для каждого шага выбранного юнита</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_SHOW_GHOST_UNITS</zType>
+		<zName>Призрачные юниты</zName>
+		<zDesc>Показать недавно видимые юниты</zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_MUTE_AUDIO</zType>
+		<zName>Без звука</zName>
+		<zDesc></zDesc>
+	</Entry>
+	<Entry>
+		<zType>PLAYEROPTION_AZERTY_KEYBOARD</zType>
+		<zName>AZERTY Клавиатура</zName>
+		<zDesc>Расположение горячих клавиш для AZERTY клавиатур</zDesc>
+	</Entry>
+</Root>

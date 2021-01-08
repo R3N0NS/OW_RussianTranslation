@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+		<bToggle/>
+		<bConquest/>
+		<bAmbitions/>
+		<iPercentVP/>
+		<iOpponentMaxPointPercent/>
+		<iMinTurns/>
+		<zHelp/>
+	</Entry>
+	<Entry>
+		<zType>VICTORY_POINTS</zType>
+		<zName>По количеству очков -</zName>
+		<bToggle>1</bToggle>
+		<iPercentVP>100</iPercentVP>
+		<zHelp>Победа от набора целевого количества очков победы.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>VICTORY_DOUBLE</zType>
+		<zName>За двойное количество очков -</zName>
+		<bToggle>1</bToggle>
+		<iPercentVP>50</iPercentVP>
+		<iOpponentMaxPointPercent>50</iOpponentMaxPointPercent>
+		<zHelp>Победа, если набрать вдвое больше очков победы, чем у любой другой нации.
+(Также должно быть не менее половины целевого количества очков победы.)</zHelp>
+	</Entry>
+	<Entry>
+		<zType>VICTORY_AMBITION</zType>
+		<zName>Амбициозная -</zName>
+		<bToggle>1</bToggle>
+		<bAmbitions>1</bAmbitions>
+		<zHelp>Победа за выполнение int(MAX_AMBITIONS) Амбиций.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>VICTORY_TIME</zType>
+		<zName>Время</zName>
+		<iOpponentMaxPointPercent>100</iOpponentMaxPointPercent>
+		<iMinTurns>200</iMinTurns>
+		<zHelp>Победа от обладания наибольшим количеством очков победы в конце 200 лет.</zHelp>
+	</Entry>
+	<Entry>
+		<zType>VICTORY_CONQUEST</zType>
+		<zName>Завоевание</zName>
+		<bConquest>1</bConquest>
+		<zHelp>Victory from conquering all other Nations.</zHelp>
+	</Entry>
+</Root>

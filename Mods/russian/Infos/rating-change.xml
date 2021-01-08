@@ -1,0 +1,126 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 sp1 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zColor/>
+		<zName/>
+		<zIconName/>
+		<zHelp/>
+		<iStrengthModifier/>
+		<iDefenseModifier/>
+		<iCriticalChance/>
+		<iUnitXP/>
+		<aiYieldLeaderRate/>
+		<aiYieldGovernorModifier/>
+		<aiYieldAgentPercent/>
+	</Entry>
+	<Entry>
+		<zType>RATING_WISDOM</zType>
+		<zColor>COLOR_RATING_WISDOM</zColor>
+		<zName>Мудрость</zName>
+		<zIconName>RATING_WISDOM</zIconName>
+		<zHelp>Для лидеров и губернаторов мудрость увеличивает {YIELD_SCIENCE}.
+Для генералов Мудрость увеличивает шанс критического удара юнита.</zHelp>
+		<iCriticalChance>1</iCriticalChance>
+		<aiYieldLeaderRate>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldLeaderRate>
+		<aiYieldGovernorModifier>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiYieldGovernorModifier>
+		<aiYieldAgentPercent>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldAgentPercent>
+	</Entry>
+	<Entry>
+		<zType>RATING_CHARISMA</zType>
+		<zColor>COLOR_RATING_CHARISMA</zColor>
+		<zName>Харизма</zName>
+		<zIconName>RATING_CHARISMA</zIconName>
+		<zHelp>Для лидеров и губернаторов Харизма увеличивает {YIELD_CIVICS}.
+Для генералов Харизма увеличивает силу защиты отряда.</zHelp>
+		<iDefenseModifier>2</iDefenseModifier>
+		<aiYieldLeaderRate>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldLeaderRate>
+		<aiYieldGovernorModifier>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiYieldGovernorModifier>
+		<aiYieldAgentPercent>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldAgentPercent>
+	</Entry>
+	<Entry>
+		<zType>RATING_COURAGE</zType>
+		<zColor>COLOR_RATING_COURAGE</zColor>
+		<zName>Смелость</zName>
+		<zIconName>RATING_COURAGE</zIconName>
+		<zHelp>Для лидеров и губернаторов смелость увеличивает {YIELD_TRAINING}.
+Для генералов смелость увеличивает силу отряда.</zHelp>
+		<iStrengthModifier>1</iStrengthModifier>
+		<aiYieldLeaderRate>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>40</iValue>
+			</Pair>
+		</aiYieldLeaderRate>
+		<aiYieldGovernorModifier>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiYieldGovernorModifier>
+		<aiYieldAgentPercent>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldAgentPercent>
+	</Entry>
+	<Entry>
+		<zType>RATING_DISCIPLINE</zType>
+		<zColor>COLOR_RATING_DISCIPLINE</zColor>
+		<zName>Дисциплина</zName>
+		<zIconName>RATING_DISCIPLINE</zIconName>
+		<zHelp>Для лидеров и губернаторов дисциплина увеличивает {YIELD_MONEY}.
+Для генералов Дисциплина увеличивает опыт отряда каждый год.</zHelp>
+		<iUnitXP>1</iUnitXP>
+		<aiYieldLeaderRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>80</iValue>
+			</Pair>
+		</aiYieldLeaderRate>
+		<aiYieldGovernorModifier>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiYieldGovernorModifier>
+		<aiYieldAgentPercent>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldAgentPercent>
+	</Entry>
+</Root>
