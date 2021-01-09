@@ -1643,27 +1643,27 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WAR_AMBASSADOR_TRIBUTE</zType>
-    <Translation>Мы смирились перед вашей силой.</Translation>
+    <Translation>Мы смирились и признаем вашу силу.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WAR_AMBASSADOR_IF</zType>
-    <Translation>Если ...</Translation>
+    <Translation>Если получится...</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WAR_AMBASSADOR_WAR</zType>
-    <Translation>Вы не получите от нас такого предложения.</Translation>
+    <Translation>Вы не получите от нас ничего.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_NUMBERLESS_GAULS_CONTACT_OPTION_0</zType>
-    <Translation>Мы богаты и предлагаем богатство.</Translation>
+    <Translation>Мы предлагаем богатство.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_NUMBERLESS_GAULS_CONTACT_OPTION_1</zType>
-    <Translation>Мы трудолюбивы и предлагаем металл.</Translation>
+    <Translation>Мы предлагаем металл.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_NUMBERLESS_GAULS_CONTACT_OPTION_2</zType>
-    <Translation>Мы умны и предлагаем знания.</Translation>
+    <Translation>Мы предлагаем знания.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_NUMBERLESS_GAULS_CONTACT_OPTION_NONE</zType>
@@ -1695,15 +1695,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEIGHBORS_OPTION_0</zType>
-    <Translation>Скромный. Вы мало говорите о своем народе, задаете много вопросов.</Translation>
+    <Translation>Скромно. Вы мало говорите о своем народе, задаете много вопросов.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEIGHBORS_OPTION_0_HELP</zType>
-    <Translation>Скромный. Мы мало говорим о своих людях, задаем много вопросов.</Translation>
+    <Translation>Скромно. Мы мало говорим о своих людях, задаем много вопросов.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEIGHBORS_OPTION_1</zType>
-    <Translation>Дружелюбный. Мы обмениваем новости о наших сотрудниках на информацию об их людях.</Translation>
+    <Translation>Дружелюбно. Мы взаимно обменяемся информацией о наших людях.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEIGHBORS_OPTION_1_HELP</zType>
@@ -1711,7 +1711,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEIGHBORS_OPTION_2</zType>
-    <Translation>Надменный. Мы хвастаемся силой своей нации, не оставляя им шанса высказаться.</Translation>
+    <Translation>Надменно. Мы хвастаемся силой своей нации, не оставляя им шанса высказаться.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEIGHBORS_OPTION_2_HELP</zType>
@@ -5531,6 +5531,42 @@
   <Entry>
 		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_IN_THEIR_PLACE_OPTION_PURGE</zType>
 		<Translation>Рабство - это больше, чем заслуживает {TRIBE-0}. Мы очистим землю от них.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_FREEDOM</zType>
+		<Translation>Возможно, вы правы. Пора внести изменения.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_REFUSE</zType>
+		<Translation>Я с уважением отношусь к вашим мыслям, {CHARACTER-SHORT-2}, но в вопросах права есть что учесть.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_IMPRISON</zType>
+		<Translation>Вы смеете оскорблять {PLAYER-3} такими сравнениями? Может быть, ваше место в {TRIBE-0}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_DISHONEST</zType>
+		<Translation>Да, хорошо. Я сделаю все, что в моих силах.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_DISHONEST_HELP</zType>
+		<Translation>Или нет.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_COMMEMORATION_OPTION_FESTIVAL</zType>
+		<Translation>Хороший день для {PLAYER-4}. Отметим праздник!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_COMMEMORATION_OPTION_DISCIPLINE</zType>
+		<Translation>Благодарю вас за ваши поздравления, но {PLAYER-4} должен оставаться сосредоточенным.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_COMMEMORATION_OPTION_ARTIST</zType>
+		<Translation>Я должен сам отметить эту победу!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_COMMEMORATION_OPTION_GLADIATORS</zType>
+		<Translation>Вы слишком абстрактно думаете. Отметим наш триумф мечом и копьем!</Translation>
   </Entry>
 	<Entry beginGroup="Marriage">
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_YES</zType>
