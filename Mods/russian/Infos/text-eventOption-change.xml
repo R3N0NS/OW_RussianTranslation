@@ -4731,7 +4731,7 @@
   </Entry>
   <Entry>
      <zType>TEXT_EVENTOPTION_PLAYER_WAR_OFFER_ENEMY_TRAIT_ZEALOT_TRIBUTE_FURIOUS</zType>
-    <Translation>Пусть ваши боги примут этот дар, чтобы пощадить нас!</Translation>
+    <Translation>Пусть ваши Боги примут этот дар, чтобы пощадить нас!</Translation>
   </Entry>
   <Entry>
      <zType>TEXT_EVENTOPTION_PLAYER_WAR_OFFER_ENEMY_TRAIT_SCHEMER_TRIBUTE_FURIOUS</zType>
@@ -4759,7 +4759,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_WAR_OFFER_ENEMY_TRAIT_ZEALOT_TRIBUTE_MILD</zType>
-    <Translation>Пусть ваши боги примут этот дар, чтобы благословить нас!</Translation>
+    <Translation>Пусть ваши Боги примут этот дар, чтобы благословить нас!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DIPLO_OFFER_RELIGION_SPREAD_ZEALOT_YES</zType>
@@ -6646,7 +6646,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HEIR_CRISIS_NOTHING</zType>
-    <Translation>Если боги того желают...</Translation>
+    <Translation>Если того желают Боги...</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HEIR_CRISIS_SAFE_OK</zType>
@@ -7534,7 +7534,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HEIR_THE_CALLING_OPTION_1</zType>
-    <Translation>Да, вас избрали боги.</Translation>
+    <Translation>Да, вас избрали Боги.</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EVENTOPTION_HEIR_THE_CALLING_OPTION_2</zType>
@@ -11270,7 +11270,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MADNESS_BLOOD_AND_LOVE_OPTION_2</zType>
-    <Translation>Несомненно, боги помогут.</Translation>
+    <Translation>Несомненно, помогут Боги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_MATTER_OF_INCEST_OPTION_0</zType>
@@ -16748,8 +16748,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_POOR_SOULS_OPTION_2</zType>
-    <Translation>Избавь их от страданий, да простят меня
-    боги.</Translation>
+    <Translation>Избавь их от страданий, да простят меня Боги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SHADOW_OF_DEATH_OPTION_0</zType>
@@ -17053,7 +17052,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INSURRECTION_OUT_OF_TOUCH_OPTION_0</zType>
-    <Translation>{G1:ему:ей} мертв для нас.</Translation>
+    <Translation>{G1:Он мертв:Она мертва} для нас.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INSURRECTION_EAGER_PLAYER_OPTION_0</zType>
@@ -17377,7 +17376,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SECRET_RITUALS_OPTION_0</zType>
-    <Translation>Губернатор управляет городом {G0:ним:ней} так, как выбирает {G0:ему:ей}.</Translation>
+    <Translation>Губернатор управляет {G0:его:ее} городом так, как {G0:он сам:она сама}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SECRET_RITUALS_OPTION_1</zType>
@@ -17873,8 +17872,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MIRACLE_BIRTH_OPTION_0</zType>
-    <Translation>Устрой пиршество! Этот день запомнится
-    миру!</Translation>
+    <Translation>Устрой пиршество! Этот день запомнится миру!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MIRACLE_BIRTH_OPTION_1</zType>
@@ -17886,8 +17884,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_END_OF_A_SIEGE_OPTION_0</zType>
-    <Translation>Ввести лошадь внутрь. Давайте отпразднуем нашу
-    победу.</Translation>
+    <Translation>Ввести лошадь внутрь. Давайте отпразднуем нашу победу.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_END_OF_A_SIEGE_OPTION_1</zType>
@@ -17899,7 +17896,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_END_OF_A_SIEGE_BAD_OPTION_1</zType>
-    <Translation>Я чувствую связь (TRAIT_FOOLISH), но мы будем сражаться насмерть!</Translation>
+    <Translation>Я чувствую link(TRAIT_FOOLISH), но мы будем сражаться насмерть!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_END_OF_A_SIEGE_GOOD_OPTION_0</zType>
@@ -18047,7 +18044,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_RISK_OF_CHARM_OPTION_0</zType>
-    <Translation>Мы жизнь суда! Кому не нравится немного драмы в своей жизни?</Translation>
+    <Translation>Мы есть жизнь правительства! Кому не понравится немного драмы в его жизни?</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_RISK_OF_CHARM_OPTION_1</zType>
@@ -18083,7 +18080,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_WEAKNESS_OF_STRENGTH_OPTION_0</zType>
-    <Translation>АД НЕТ! МЫ СРАЖАЕМСЯ! БУДЬ ИХ В ЛИЦО !!</Translation>
+    <Translation>ЧЕРТ ВОЗЬМИ, НЕТ! МЫ СРАЖАЕМСЯ! БЕЙТИ ИХ!!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_WEAKNESS_OF_STRENGTH_OPTION_1</zType>
@@ -18247,7 +18244,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_EIGHT_LAWS</zType>
-    <Translation>[ЗАПИСЬ: ВОСЕМЬ ЗАКОНОВ]</Translation>
+    <Translation>[STUB: ВОСЕМЬ ЗАКОНОВ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_100_POPULATION</zType>
@@ -18267,7 +18264,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_FOUR_THEATER_3</zType>
-    <Translation>[STUB: 4 COLOSSEUMS]</Translation>
+    <Translation>[STUB: 4 КОЛИЗЕЯ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_FOUR_MARKET_3</zType>
@@ -18283,11 +18280,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_FOUR_GARRISON_3</zType>
-    <Translation>[STUB: 4 CITADELS]</Translation>
+    <Translation>[STUB: 4 ЦИТАДЕЛИ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_THREE_CATHEDRAL</zType>
-    <Translation>[ЗАКРЕПЛЕНИЕ: 3 СОБАРА]</Translation>
+    <Translation>[STUB: 3 СОБОРА]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_THREE_LEGENDARY</zType>
@@ -18295,23 +18292,23 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_TWO_WONDERS</zType>
-    <Translation>[ЗАПИСЬ: 2 ЧУДА]</Translation>
+    <Translation>[STUB: 2 ЧУДА]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_FOUR_WONDERS</zType>
-    <Translation>[ЗАПИСЬ: 4 ЧУДА]</Translation>
+    <Translation>[STUB: 4 ЧУДА]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_5_ELDER_SPECIALISTS</zType>
-    <Translation>[ЗАПИСЬ: 5 СТАРШИХ СПЕЦИАЛИСТОВ]</Translation>
+    <Translation>[STUB: 5 СТАРШИХ СПЕЦИАЛИСТОВ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_LEGENDARY_PROJECTS</zType>
-    <Translation>[ЗАПИСЬ: ЛЕГЕНДАРНЫЕ ПРОЕКТЫ]</Translation>
+    <Translation>[STUB: ЛЕГЕНДАРНЫЕ ПРОЕКТЫ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_ONE_CAPITAL</zType>
-    <Translation>[STUB: CAPTURE 1 CAPITAL]</Translation>
+    <Translation>[STUB: ЗАХВАТИТЬ 1 СТОЛИЦУ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_SIX_CAPTURE_CITIES</zType>
@@ -18323,7 +18320,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_10_KILLS_GENERAL</zType>
-    <Translation>[STUB: УБИТЬ 10 ​​ОТДЕЛЕНИЙ КАК ОБЩЕЕ]</Translation>
+    <Translation>[STUB: УБИТЬ 10 ​​ЮНИТОВ С ГЕНЕРАЛОМ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_TWO_MAX_LEVEL_UNIT</zType>
@@ -18331,19 +18328,19 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_EIGHT_GENERALS</zType>
-    <Translation>[STUB: 8 GENERALS]</Translation>
+    <Translation>[STUB: 8 ГЕНЕРАЛОВ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_SIX_GOVERNORS</zType>
-    <Translation>[STUB: 6 GOVERNилиS]</Translation>
+    <Translation>[STUB: 6 ГУБЕРНАТОРОВ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_REVEAL_80</zType>
-    <Translation>[STUB: ОТКРЫТЬ 80% ПЛИТЕЙ]</Translation>
+    <Translation>[STUB: ОТКРЫТЬ 80% КЛЕТОК]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NO_AMBITION</zType>
-    <Translation>[STUB: NOT NOW]</Translation>
+    <Translation>[STUB: НЕ СЕЙЧАС]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SILVER_JUBILEE_OPTION_0</zType>

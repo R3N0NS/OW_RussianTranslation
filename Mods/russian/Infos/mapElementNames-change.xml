@@ -22,25 +22,25 @@
 		<zType>MAP_ELEMENT_NAMES_GENERIC</zType>
 		<azVolcanoNames>
 			<zValue>Килиманджаро</zValue>
-			<zValue>Гора Эльбрус</zValue>
-			<zValue>Гора Казбек</zValue>
-			<zValue>Гора Пико</zValue>
-			<zValue>Гора Меру</zValue>
-			<zValue>Гора Карисимби</zValue>
-			<zValue>Гора Мухабура</zValue>
-			<zValue>Гора Арагац</zValue>
+			<zValue>Эльбрус</zValue>
+			<zValue>Казбек</zValue>
+			<zValue>Пико</zValue>
+			<zValue>Меру</zValue>
+			<zValue>Карисимби</zValue>
+			<zValue>Мухабура</zValue>
+			<zValue>Арагац</zValue>
 			<zValue>Набро</zValue>
-			<zValue>Гора Кения</zValue>
-			<zValue>Гора Гилуве</zValue>
-			<zValue>Кабаргин От</zValue>
+			<zValue>Кения</zValue>
+			<zValue>Гилуве</zValue>
+			<zValue>Кабаргин</zValue>
 			<zValue>Дар-Алагес</zValue>
 			<zValue>Гегам Ридж</zValue>
 			<zValue>Туссайд</zValue>
 			<zValue>Вакак</zValue>
 			<zValue>Тарсо Вун</zValue>
 			<zValue>Порак</zValue>
-			<zValue>Гора Лонгонот</zValue>
-			<zValue>Гора Сусва</zValue>
+			<zValue>Лонгонот</zValue>
+			<zValue>Сусва</zValue>
 		</azVolcanoNames>
 		<azMountainRangeNames>
 			<zValue>Кавказские горы</zValue>
@@ -50,14 +50,14 @@
 			<zValue>Карпаты</zValue>
 			<zValue>Уральские горы</zValue>
 			<zValue>Гиндукуш</zValue>
-			<zValue>Горы Барасан</zValue>
+			<zValue>Барасан</zValue>
 			<zValue>Понтийские горы</zValue>
 			<zValue>Диапазон Виндхья</zValue>
 			<zValue>Араканские горы</zValue>
 			<zValue>Каракорам</zValue>
 		</azMountainRangeNames>
 		<azPeakNames>
-			<zValue>Гора Кораб</zValue>
+			<zValue>Кораб</zValue>
 			<zValue>Базардюзю</zValue>
 			<zValue>Монте-Роза</zValue>
 			<zValue>Пик Молдовену</zValue>
@@ -65,39 +65,39 @@
 			<zValue>Пунта-ла-Мармора</zValue>
 			<zValue>Джабал Сауда</zValue>
 			<zValue>Динара</zValue>
-			<zValue>Гора Тахат</zValue>
+			<zValue>Тахат</zValue>
 			<zValue>Гроссглокнер</zValue>
 			<zValue>Бикку Битти</zValue>
 			<zValue>Малхацен</zValue>
 			<zValue>Рыси</zValue>
-			<zValue>Гора Хермон</zValue>
+			<zValue>Хермон</zValue>
 			<zValue>Шхара</zValue>
 			<zValue>Кекес</zValue>
 			<zValue>Джабаль Умм ад Дами</zValue>
 			<zValue>Триглав</zValue>
-			<zValue>Гора Саннин</zValue>
+			<zValue>Саннин</zValue>
 			<zValue>Джабаль ан Наби Шуайб</zValue>
 		</azPeakNames>
 		<azRiverNames>
 			<zValue>Дунай</zValue>
-			<zValue>Река Кура</zValue>
-			<zValue>Река Тежу</zValue>
-			<zValue>Река Иордан</zValue>
+			<zValue>Кура</zValue>
+			<zValue>Тежу</zValue>
+			<zValue>Иордан</zValue>
 			<zValue>Днепр</zValue>
-			<zValue>Река Висла</zValue>
-			<zValue>Река Сакарья</zValue>
+			<zValue>Висла</zValue>
+			<zValue>Сакарья</zValue>
 			<zValue>Амударья</zValue>
-			<zValue>Река Рона</zValue>
+			<zValue>Рона</zValue>
 			<zValue>Уэд Себу</zValue>
-			<zValue>Река Арас</zValue>
-			<zValue>Река Одер</zValue>
-			<zValue>Река Мондего</zValue>
-			<zValue>Река Кизилирмак</zValue>
-			<zValue>Река Мур</zValue>
+			<zValue>Арас</zValue>
+			<zValue>Одер</zValue>
+			<zValue>Мондего</zValue>
+			<zValue>Кизилирмак</zValue>
+			<zValue>Мур</zValue>
 			<zValue>Уэд-Тенсифт</zValue>
-			<zValue>Река Тиса</zValue>
-			<zValue>Река Шеннон</zValue>
-			<zValue>Река Гедиз</zValue>
+			<zValue>РТиса</zValue>
+			<zValue>Шеннон</zValue>
+			<zValue>Гедиз</zValue>
 			<zValue>Уэд Драа</zValue>
 		</azRiverNames>
 		<azForestNames>
@@ -119,7 +119,7 @@
 			<zValue>Вечнозеленый лес Пиха-Хакки</zValue>
 			<zValue>Алькаррия Хит</zValue>
 			<zValue>Березовый лес Овре Дивидал</zValue>
-			<zValue>Акарларский лес поймы</zValue>
+			<zValue>Акарларский пойменный лес</zValue>
 			<zValue>Кедровый лес Гуро</zValue>
 			<zValue>Можжевельник Киренаика</zValue>
 			<zValue>Венский лес</zValue>
@@ -153,26 +153,26 @@
 			<zValue>Великая песчаная пустыня</zValue>
 		</azDesertNames>
 		<azPlateauNames>
-			<zValue>Плато Барним</zValue>
+			<zValue>Барним</zValue>
 			<zValue>Скайл Кросс</zValue>
-			<zValue>Плато Дюмре</zValue>
-			<zValue>Плато Эленидд</zValue>
-			<zValue>Плато Энгштлигенальп</zValue>
-			<zValue>Плато Кривосе</zValue>
+			<zValue>Дюмре</zValue>
+			<zValue>Эленидд</zValue>
+			<zValue>Энгштлигенальп</zValue>
+			<zValue>Кривосе</zValue>
 			<zValue>Плато проигравшего</zValue>
-			<zValue>Плато Лудогорье</zValue>
-			<zValue>Плато Месета</zValue>
-			<zValue>Плато Каестерт</zValue>
+			<zValue>Лудогорье</zValue>
+			<zValue>Месета</zValue>
+			<zValue>Каестерт</zValue>
 			<zValue>Ровня под Снежкой</zValue>
 			<zValue>Ридж Вардия</zValue>
 			<zValue>Уиндмилл-Хилл-Флэтс</zValue>
-			<zValue>Плато Катаро</zValue>
+			<zValue>Катаро</zValue>
 			<zValue>Кампо Императоре</zValue>
 			<zValue>Кампо Феличе</zValue>
-			<zValue>Плато д'Асси</zValue>
-			<zValue>Плато Каньюерс</zValue>
-			<zValue>Плато Айнтаб</zValue>
-			<zValue>Плато Алеппо</zValue>
+			<zValue>д'Асси</zValue>
+			<zValue>ПКаньюерс</zValue>
+			<zValue>Айнтаб</zValue>
+			<zValue>Алеппо</zValue>
 		</azPlateauNames>
 		<azValleyNames>
 			<zValue>Долина Атал</zValue>
@@ -269,45 +269,45 @@
 	<Entry>
 		<zType>MAP_ELEMENT_NAMES_FOR_ASSYRIA</zType>
 		<azVolcanoNames>
-			<zValue>Гора Арарат</zValue>
-			<zValue>Гора Супхан</zValue>
-			<zValue>Гора Нипур</zValue>
+			<zValue>Арарат</zValue>
+			<zValue>Супхан</zValue>
+			<zValue>Нипур</zValue>
 			<zValue>Монте Тендурек</zValue>
 			<zValue>Монте-Немрут</zValue>
 		</azVolcanoNames>
 		<azMountainRangeNames>
-			<zValue>Горы Синджар</zValue>
-			<zValue>Горы Таурус</zValue>
-			<zValue>Горы Качкар</zValue>
+			<zValue>Синджар</zValue>
+			<zValue>Таурус</zValue>
+			<zValue>Качкар</zValue>
 			<zValue>Чило-Сатский горный хребет</zValue>
-			<zValue>Горы Загрос</zValue>
-			<zValue>Горы Джебель-Маклуб</zValue>
-			<zValue>Горы Аманус</zValue>
+			<zValue>Загрос</zValue>
+			<zValue>Джебель-Маклуб</zValue>
+			<zValue>Аманус</zValue>
 		</azMountainRangeNames>
 		<azPeakNames>
 			<zValue>Джабал Замбар</zValue>
-			<zValue>Гора Альфаф</zValue>
+			<zValue>Альфаф</zValue>
 			<zValue>Гир-э Кумар</zValue>
-			<zValue>Гора Абдулазиз</zValue>
+			<zValue>Абдулазиз</zValue>
 			<zValue>Джабал Абу Руджмайн</zValue>
-			<zValue>Гора Завия</zValue>
+			<zValue>Завия</zValue>
 			<zValue>Джабал Муса</zValue>
 			<zValue>Джабал ар Рувак</zValue>
 		</azPeakNames>
 		<azRiverNames>
-			<zValue>Река Евфрат</zValue>
-			<zValue>Река Тигр</zValue>
+			<zValue>Евфрат</zValue>
+			<zValue>Тигр</zValue>
 			<zValue>Великая река Заб</zValue>
 			<zValue>Маленькая река Заб</zValue>
 			<zValue>Нахр Аль Узайм</zValue>
 			<zValue>Вади Ат Тартар</zValue>
-			<zValue>Река Рубар Атрус</zValue>
-			<zValue>Река Хоср</zValue>
-			<zValue>Река Тублиас</zValue>
-			<zValue>Река Дияла</zValue>
-			<zValue>Река Хабур</zValue>
-			<zValue>Река Оронт</zValue>
-			<zValue>Река Хазир</zValue>
+			<zValue>Рубар Атрус</zValue>
+			<zValue>Хоср</zValue>
+			<zValue>Тублиас</zValue>
+			<zValue>Дияла</zValue>
+			<zValue>Хабур</zValue>
+			<zValue>Оронт</zValue>
+			<zValue>Хазир</zValue>
 		</azRiverNames>
 		<azForestNames>
 			<zValue>Сосновый бор Бассит</zValue>
@@ -387,29 +387,29 @@
 	<Entry>
 		<zType>MAP_ELEMENT_NAMES_FOR_BABYLONIA</zType>
 		<azVolcanoNames>
-			<zValue>Гора Хасан</zValue>
-			<zValue>Гора Эрджиес</zValue>
+			<zValue>Хасан</zValue>
+			<zValue>Эрджиес</zValue>
 			<zValue>Монте-Немрут</zValue>
 			<zValue>Монте Тендурек</zValue>
 		</azVolcanoNames>
 		<azMountainRangeNames>
-			<zValue>Горы Хамрин</zValue>
-			<zValue>Горы Кандиль</zValue>
-			<zValue>Горы Загрос</zValue>
+			<zValue>Хамрин</zValue>
+			<zValue>Кандиль</zValue>
+			<zValue>Загрос</zValue>
 		</azMountainRangeNames>
 		<azPeakNames>
 			<zValue>Джабал Кумар</zValue>
 			<zValue>Джабаль Бирах Магрун</zValue>
 			<zValue>Чика Дар</zValue>
-			<zValue>Гора Корек</zValue>
+			<zValue>Корек</zValue>
 			<zValue>Джабал Санам</zValue>
 			<zValue>Кухе Хаджи Эбрахим</zValue>
 			<zValue>Аль-Матла</zValue>
 		</azPeakNames>
 		<azRiverNames>
-			<zValue>Река Тигр</zValue>
-			<zValue>Река Евфрат</zValue>
-			<zValue>Река Карун</zValue>
+			<zValue>Тигр</zValue>
+			<zValue>Евфрат</zValue>
+			<zValue>Карун</zValue>
 			<zValue>Нахр Аль Дияла</zValue>
 			<zValue>Маленькая река Заб</zValue>
 			<zValue>Великая река Заб</zValue>
@@ -443,9 +443,9 @@
 			<zValue>Вавилонская пустыня</zValue>
 		</azDesertNames>
 		<azPlateauNames>
-			<zValue>Плато Сузиана</zValue>
+			<zValue>Сузиана</zValue>
 			<zValue>Персидское плато</zValue>
-			<zValue>Плато Ариби</zValue>
+			<zValue>Ариби</zValue>
 			<zValue>Голанские высоты</zValue>
 		</azPlateauNames>
 		<azValleyNames>
@@ -535,9 +535,9 @@
 			<zValue>Пустыня Табернас</zValue>
 		</azDesertNames>
 		<azPlateauNames>
-			<zValue>Плато Нефуса</zValue>
-			<zValue>Плато Эль-Хамра</zValue>
-			<zValue>Плато Верхнее</zValue>
+			<zValue>Нефуса</zValue>
+			<zValue>Эль-Хамра</zValue>
+			<zValue>Верхнее</zValue>
 		</azPlateauNames>
 		<azValleyNames>
 			<zValue>Долина Маджарда</zValue>
@@ -676,28 +676,28 @@
 			<zValue>Санторини</zValue>
 		</azVolcanoNames>
 		<azMountainRangeNames>
-			<zValue>Горы Пинд</zValue>
-			<zValue>Горы Тайгет</zValue>
-			<zValue>Горы Лефка Ори</zValue>
+			<zValue>Пинд</zValue>
+			<zValue>Тайгет</zValue>
+			<zValue>Лефка Ори</zValue>
 			<zValue>Родопские горы</zValue>
 		</azMountainRangeNames>
 		<azPeakNames>
-			<zValue>Гора Пентеликус</zValue>
+			<zValue>Пентеликус</zValue>
 			<zValue>Парнон</zValue>
-			<zValue>Гора Олимп</zValue>
+			<zValue>Олимп</zValue>
 			<zValue>Крепление Helicon</zValue>
 			<zValue>Томарос</zValue>
-			<zValue>Гора Пайко</zValue>
+			<zValue>Пайко</zValue>
 			<zValue>Фалакро</zValue>
 		</azPeakNames>
 		<azRiverNames>
-			<zValue>Река Халиакмон</zValue>
-			<zValue>Река Эврос</zValue>
-			<zValue>Река Струма</zValue>
-			<zValue>Река Вардар</zValue>
-			<zValue>Река Ахелос</zValue>
-			<zValue>Река Пинеос</zValue>
-			<zValue>Река Гедиз</zValue>
+			<zValue>Халиакмон</zValue>
+			<zValue>Эврос</zValue>
+			<zValue>Струма</zValue>
+			<zValue>Вардар</zValue>
+			<zValue>Ахелос</zValue>
+			<zValue>Пинеос</zValue>
+			<zValue>Гедиз</zValue>
 		</azRiverNames>
 		<azForestNames>
 			<zValue>Лес Дадиа</zValue>
@@ -707,11 +707,11 @@
 			<zValue>Пестрый лес</zValue>
 		</azForestNames>
 		<azHeathNames>
-			<zValue>Пелопоннесский маки</zValue>
+			<zValue>Пелопоннесский маквис</zValue>
 			<zValue>Пальмовый лес Вай</zValue>
 		</azHeathNames>
 		<azPlainNames>
-			<zValue>Dramas Plain</zValue>
+			<zValue>Равнина драмы</zValue>
 			<zValue>Равнина Мессара</zValue>
 			<zValue>Аргон Педион равнина</zValue>
 			<zValue>Равнина Ханьи</zValue>
@@ -722,9 +722,9 @@
 			<zValue>Пески Делиблато</zValue>
 		</azDesertNames>
 		<azPlateauNames>
-			<zValue>Плато Лассити</zValue>
-			<zValue>Плато Омалос</zValue>
-			<zValue>Плато Нида</zValue>
+			<zValue>Лассити</zValue>
+			<zValue>Омалос</zValue>
+			<zValue>Нида</zValue>
 		</azPlateauNames>
 		<azValleyNames>
 			<zValue>Тебинская долина</zValue>
@@ -777,16 +777,16 @@
 	<Entry>
 		<zType>MAP_ELEMENT_NAMES_FOR_PERSIA</zType>
 		<azVolcanoNames>
-			<zValue>Гора Дамаванд</zValue>
+			<zValue>Дамаванд</zValue>
 			<zValue>Сабалан</zValue>
 			<zValue>Тафтан</zValue>
 			<zValue>Саханд</zValue>
 			<zValue>Базман</zValue>
 		</azVolcanoNames>
 		<azMountainRangeNames>
-			<zValue>Горы Загрос</zValue>
-			<zValue>Горы Эльбурз</zValue>
-			<zValue>Горы Кафланкух</zValue>
+			<zValue>Загрос</zValue>
+			<zValue>Эльбурз</zValue>
+			<zValue>Кафланкух</zValue>
 			<zValue>Башагардские горы</zValue>
 		</azMountainRangeNames>
 		<azPeakNames>
@@ -799,12 +799,12 @@
 			<zValue>Кабир Кух</zValue>
 		</azPeakNames>
 		<azRiverNames>
-			<zValue>Река Арас</zValue>
-			<zValue>Река Карун</zValue>
-			<zValue>Река Кархех</zValue>
-			<zValue>Река Атрек</zValue>
-			<zValue>Река Сефид-Рудь</zValue>
-			<zValue>Река Зайандеруд</zValue>
+			<zValue>Арас</zValue>
+			<zValue>Карун</zValue>
+			<zValue>Кархех</zValue>
+			<zValue>Атрек</zValue>
+			<zValue>Сефид-Рудь</zValue>
+			<zValue>Зайандеруд</zValue>
 		</azRiverNames>
 		<azForestNames>
 			<zValue>Эльбурзский хребет Лесостепь</zValue>
@@ -878,8 +878,8 @@
 	<Entry>
 		<zType>MAP_ELEMENT_NAMES_FOR_ROME</zType>
 		<azVolcanoNames>
-			<zValue>Гора Везувий</zValue>
-			<zValue>Гора Этна</zValue>
+			<zValue>Везувий</zValue>
+			<zValue>Этна</zValue>
 			<zValue>Колли Албани</zValue>
 			<zValue>Монте-Стервятник</zValue>
 			<zValue>Монте Амиата</zValue>
@@ -891,23 +891,23 @@
 			<zValue>Динаридские горы</zValue>
 		</azMountainRangeNames>
 		<azPeakNames>
-			<zValue>Гора Велью</zValue>
-			<zValue>Гора Корно</zValue>
-			<zValue>Гора Амаро</zValue>
-			<zValue>Гора Ветторе</zValue>
-			<zValue>Гора Чимоне</zValue>
-			<zValue>Гора Поллино</zValue>
-			<zValue>Гора Альто</zValue>
+			<zValue>Велью</zValue>
+			<zValue>Корно</zValue>
+			<zValue>Амаро</zValue>
+			<zValue>Ветторе</zValue>
+			<zValue>Чимоне</zValue>
+			<zValue>Поллино</zValue>
+			<zValue>Альто</zValue>
 		</azPeakNames>
 		<azRiverNames>
 			<zValue>Тибр</zValue>
-			<zValue>Река По</zValue>
-			<zValue>Река Адидже</zValue>
-			<zValue>Река Арно</zValue>
-			<zValue>Река Пьяве</zValue>
-			<zValue>Река Алькантара</zValue>
-			<zValue>Река Сальсо</zValue>
-			<zValue>Река Тризо</zValue>
+			<zValue>По</zValue>
+			<zValue>Адидже</zValue>
+			<zValue>Арно</zValue>
+			<zValue>Пьяве</zValue>
+			<zValue>Алькантара</zValue>
+			<zValue>Сальсо</zValue>
+			<zValue>Тризо</zValue>
 		</azRiverNames>
 		<azForestNames>
 			<zValue>Киминийский лес</zValue>
@@ -932,7 +932,7 @@
 			<zValue>Пустыня Аккона</zValue>
 		</azDesertNames>
 		<azPlateauNames>
-			<zValue>Плато Аргимуско</zValue>
+			<zValue>Аргимуско</zValue>
 			<zValue>Альтопиано делле Мурже</zValue>
 			<zValue>Карстовое плато</zValue>
 			<zValue>Плато Сила</zValue>
