@@ -13,7 +13,7 @@
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_SLEEP</zType>
-		<zName>Sleep</zName>
+		<zName>Спать</zName>
 		<zIconName>COOLDOWN_SLEEP</zIconName>
 	</Entry>
 	<Entry>
@@ -58,7 +58,7 @@
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_ADDED_ROAD</zType>
-		<zName>Added Road</zName>
+		<zName>Построить дорогу</zName>
 		<zIconName>SPRITE_BUILD</zIconName>
 	</Entry>
 	<Entry>
@@ -78,7 +78,7 @@
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_FORTIFY</zType>
-		<zName>Fortify</zName>
+		<zName>Укрепиться</zName>
 		<zIconName>SPRITE_FORTIFY</zIconName>
 	</Entry>
 	<Entry>

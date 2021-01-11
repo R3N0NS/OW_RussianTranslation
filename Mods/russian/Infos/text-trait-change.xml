@@ -48,99 +48,99 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_AFFABLE</zType>
-    <Translation>Учтивый</Translation>
+    <Translation>Учтивый~Учтивого~Учтивому~Учтивого~Учтивым~Учтивом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_ELOQUENT</zType>
-    <Translation>Красноречивый</Translation>
+    <Translation>Красноречивый~Красноречивого~Красноречивому~Красноречивый~Красноречивым~Красноречивом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_WARLIKE</zType>
-    <Translation>Строгий</Translation>
+    <Translation>Строгий~Строгого~Строгому~Строгий~Строгим~Строгом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_INSPIRING</zType>
-    <Translation>Вдохновляющий</Translation>
+    <Translation>Вдохновляющий~Вдохновляющего~Вдохновляющему~Вдохновляющий~Вдохновляющим~Вдохновляющем</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_INTELLIGENT</zType>
-    <Translation>Умный</Translation>
+    <Translation>Умный~Умного~Умному~Умный~Умным~Умном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_PROSPEROUS</zType>
-    <Translation>Удачливый</Translation>
+    <Translation>Удачливый~Удачливого~Удачливому~Удачливый~Удачливым~Удачливом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_FRUGAL</zType>
-    <Translation>Скромный</Translation>
+    <Translation>Скромный~Скромного~Скромному~Скромный~Скромным~Скромном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_RIGHTEOUS</zType>
-    <Translation>Справедливый</Translation>
+    <Translation>Справедливый~Справедливого~Справедливому~Справедливый~Справедливым~Справедливом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_CRUEL</zType>
-    <Translation>Жестокий</Translation>
+    <Translation>Жестокий~Жестокого~Жестокому~Жестокий~Жестоким~Жестоком</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_INTOLERANT</zType>
-    <Translation>Раздражительный</Translation>
+    <Translation>Раздражительный~Раздражительного~Раздражительному~Раздражительный~Раздражительный~Раздражительном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_SLOTHFUL</zType>
-    <Translation>Ленивый</Translation>
+    <Translation>Ленивый~Ленивого~Ленивому~Ленивый~Ленивым~Ленивом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_CORRUPT</zType>
-    <Translation>Продажный</Translation>
+    <Translation>Продажный~Продажного~Продажному~Продажный~Продажным~Продажном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_UNCOUTH</zType>
-    <Translation>Грубый</Translation>
+    <Translation>Грубый~Грубого~Грубому~Грубый~Грубым~Грубом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_FOOLISH</zType>
-    <Translation>Глупый</Translation>
+    <Translation>Глупый~Глупого~Глупому~Глупый~Глупым~Глупом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_EXTRAVAGANT</zType>
-    <Translation>Экстравагантный</Translation>
+    <Translation>Экстравагантный~Экстравагантного~Экстравагантному~Экстравагантный~Экстравагантным~Экстравагантном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_DEBAUCHED</zType>
-    <Translation>Скандальный</Translation>
+    <Translation>Скандальный~Скандального~Скандальному~Скандальный~Скандальным~Скандальном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_ROBUST</zType>
-    <Translation>Сильный</Translation>
+    <Translation>Сильный~Сильного~Сильному~Сильный~Сильным~Сильном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_VIGILANT</zType>
-    <Translation>Бдительный</Translation>
+    <Translation>Бдительный~Бдительного~Бдительному~Бдительный~Бдительным~Бдительном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_STRICT</zType>
-    <Translation>Строгий</Translation>
+    <Translation>Строгий~Строгого~Строгому~Строгий~Строгим~Строгом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_DRILLMASTER</zType>
-    <Translation>Вояка</Translation>
+    <Translation>Вояка~Вояки~Вояке~Вояку~Воякой~Вояке</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_KEEN</zType>
-    <Translation>Проницательный</Translation>
+    <Translation>Проницательный~Проницательного~Проницательному~Проницательный~Проницательным~Проницательном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_EQUESTRIAN</zType>
-    <Translation>Всадник</Translation>
+    <Translation>Всадник~Всадника~Всаднику~Всадника~Всадником~Всаднике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_CARPENTER</zType>
-    <Translation>Плотник</Translation>
+    <Translation>Плотник~Плотника~Плотнику~Плотника~Плотником~Плотнике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_ANGLER</zType>
-    <Translation>Моряк</Translation>
+    <Translation>Моряк~Моряка~Моряку~Моряка~Моряком~Моряке</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_PLANTER</zType>

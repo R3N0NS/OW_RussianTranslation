@@ -431,7 +431,7 @@
   </Entry>
   <Entry>
     <zType></zType>
-    <English>ПОБЕДА АЛЬЯНСА!!!</English>
+    <Translation>ПОБЕДА АЛЬЯНСА!!!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_WINNER_ROSTER_LOSS</zType>
@@ -528,7 +528,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_EVENT_STORY_PLAYER_X_CONTACTED</zType>
-    <Translation>[Вы встрелити {0_player}]</Translation>
+    <Translation>[Вы встретили {0_player}]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_EVENT_STORY_CULTURE_EVENT</zType>

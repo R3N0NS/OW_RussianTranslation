@@ -2451,7 +2451,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONTACT_LETHAL_AFFLICTION_OPTION_1</zType>
-    <Translation>Отправить мессенджеров на {PLAYER-0}, требуя справедливости.</Translation>
+    <Translation>Отправить посланников в {PLAYER-0}, требуя справедливости.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONTACT_LETHAL_AFFLICTION_OPTION_2</zType>
@@ -3399,7 +3399,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_MONEY_SCIENCE</zType>
-    <Translation>Мы поделимся с вами нашей наукой по ссылке (YIELD_MONEY).</Translation>
+    <Translation>Мы поделимся с вами нашей наукой по link(YIELD_MONEY).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_FOOD_ORDERS</zType>
@@ -17474,7 +17474,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BE_PREPARED_OPTION_3</zType>
-    <Translation>Я пошлю мессенджеров через {PLAYER-1}, чтобы набирать добровольцев.</Translation>
+    <Translation>Я пошлю посланников через {PLAYER-1}, чтобы набирать добровольцев.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ENEMY_BLACKSMITHS_OPTION_0</zType>

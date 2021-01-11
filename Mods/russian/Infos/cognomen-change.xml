@@ -10,7 +10,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_NEW</zType>
-		<zName>Новый</zName>
+		<zName>Новый(ая)</zName>
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_WARRIOR</zType>
@@ -54,7 +54,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_VALIANT</zType>
-		<zName>Доблестный</zName>
+		<zName>Доблестный(ая)</zName>
 		<iLegitimacy>30</iLegitimacy>
 		<iMinValue>3000</iMinValue>
 		<aiStatValue>
@@ -74,7 +74,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_MIGHTY</zType>
-		<zName>Могучий</zName>
+		<zName>Могучий(ая)</zName>
 		<iLegitimacy>40</iLegitimacy>
 		<iMinValue>4000</iMinValue>
 		<aiStatValue>
@@ -94,7 +94,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_VICTORIOUS</zType>
-		<zName>Победоносный</zName>
+		<zName>Победоносный(ая)</zName>
 		<iLegitimacy>50</iLegitimacy>
 		<iMinValue>5000</iMinValue>
 		<aiStatValue>
@@ -134,7 +134,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_INVINCIBLE</zType>
-		<zName>Непобедимый</zName>
+		<zName>Непобедимый(ая)</zName>
 		<iLegitimacy>70</iLegitimacy>
 		<iMinValue>7000</iMinValue>
 		<aiStatValue>
@@ -154,7 +154,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_CAPABLE</zType>
-		<zName>Способный</zName>
+		<zName>Способный(ая)</zName>
 		<iLegitimacy>20</iLegitimacy>
 		<iMinValue>2000</iMinValue>
 		<aiStatValue>
@@ -170,7 +170,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_READY</zType>
-		<zName>Готовый</zName>
+		<zName>Готовый(ая)</zName>
 		<iLegitimacy>30</iLegitimacy>
 		<iMinValue>3000</iMinValue>
 		<aiStatValue>
@@ -342,7 +342,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_AMBITIOUS</zType>
-		<zName>Амбициозный</zName>
+		<zName>Амбициозный(ая)</zName>
 		<iLegitimacy>20</iLegitimacy>
 		<iMinValue>4000</iMinValue>
 		<aiStatValue>
@@ -374,7 +374,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_BELOVED</zType>
-		<zName>Ненаглядный</zName>
+		<zName>Ненаглядный(ая)</zName>
 		<iLegitimacy>60</iLegitimacy>
 		<iMinValue>6000</iMinValue>
 		<aiStatValue>
@@ -478,7 +478,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_DEVOUT</zType>
-		<zName>Благочестивый</zName>
+		<zName>Благочестивый(ая)</zName>
 		<iLegitimacy>20</iLegitimacy>
 		<iMinValue>2000</iMinValue>
 		<aiStatValue>
@@ -502,7 +502,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_HOLY</zType>
-		<zName>Святой</zName>
+		<zName>Святой(ая)</zName>
 		<iLegitimacy>40</iLegitimacy>
 		<iMinValue>4000</iMinValue>
 		<aiStatValue>
@@ -562,7 +562,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_INTREPID</zType>
-		<zName>Бесстрашный</zName>
+		<zName>Бесстрашный(ая)</zName>
 		<iLegitimacy>50</iLegitimacy>
 		<iMinValue>5000</iMinValue>
 		<aiStatValue>
@@ -598,7 +598,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_LEARNED</zType>
-		<zName>Образованный</zName>
+		<zName>Образованный(ая)</zName>
 		<iLegitimacy>20</iLegitimacy>
 		<iMinValue>2000</iMinValue>
 		<aiStatValue>
@@ -610,7 +610,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_ENLIGHTENED</zType>
-		<zName>Просвещенный</zName>
+		<zName>Просвещенный(ая)</zName>
 		<iLegitimacy>40</iLegitimacy>
 		<iMinValue>4000</iMinValue>
 		<aiStatValue>
@@ -622,7 +622,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_WISE</zType>
-		<zName>Мудрый</zName>
+		<zName>Мудрый(ая)</zName>
 		<iLegitimacy>60</iLegitimacy>
 		<iMinValue>6000</iMinValue>
 		<aiStatValue>
@@ -646,7 +646,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_ANCIENT</zType>
-		<zName>Древний</zName>
+		<zName>Древний(яя)</zName>
 		<iLegitimacy>50</iLegitimacy>
 		<iMinValue>5000</iMinValue>
 		<aiStatValue>
@@ -658,7 +658,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_ABLE</zType>
-		<zName>Способный</zName>
+		<zName>Способный(ая)</zName>
 		<iLegitimacy>30</iLegitimacy>
 		<iMinValue>15000</iMinValue>
 		<aiStatValue>
@@ -806,7 +806,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_JUST</zType>
-		<zName>Справедливый</zName>
+		<zName>Справедливый(ая)</zName>
 		<iLegitimacy>40</iLegitimacy>
 		<iMinValue>20000</iMinValue>
 		<aiStatValue>
@@ -954,7 +954,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_GOOD</zType>
-		<zName>Добрый</zName>
+		<zName>Добрый(ая)</zName>
 		<iLegitimacy>50</iLegitimacy>
 		<iMinValue>25000</iMinValue>
 		<aiStatValue>
@@ -1102,7 +1102,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_STRONG</zType>
-		<zName>Сильный</zName>
+		<zName>Сильный(ая)</zName>
 		<iLegitimacy>60</iLegitimacy>
 		<iMinValue>30000</iMinValue>
 		<aiStatValue>
@@ -1250,7 +1250,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_NOBLE</zType>
-		<zName>Благородный</zName>
+		<zName>Благородный(ая)</zName>
 		<iLegitimacy>70</iLegitimacy>
 		<iMinValue>35000</iMinValue>
 		<aiStatValue>
@@ -1398,7 +1398,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_GLORIOUS</zType>
-		<zName>Славный</zName>
+		<zName>Славный(ая)</zName>
 		<iLegitimacy>80</iLegitimacy>
 		<iMinValue>40000</iMinValue>
 		<aiStatValue>
@@ -1546,7 +1546,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_MAGNIFICENT</zType>
-		<zName>Великолепный</zName>
+		<zName>Великолепный(ая)</zName>
 		<iLegitimacy>90</iLegitimacy>
 		<iMinValue>45000</iMinValue>
 		<aiStatValue>

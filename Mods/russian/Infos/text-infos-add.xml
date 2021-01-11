@@ -3,6 +3,7 @@
 <Root>
 	<Entry>
 		<zType>TEXT_LANGUAGE_RUSSIAN_TRANSLATION</zType>
-		<Translation>Russian</Translation>
+		<English>Russian</English>
+		<Translation>Русский</Translation>
 	</Entry>
 </Root>

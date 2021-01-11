@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <Root>
   <Entry>
     <zType/>
@@ -9,7 +10,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_RANGED</zType>
-		<Translation>Дальнобойный</Translation>
+		<Translation>Дальнобойный~a Дальнобойный~Дальнобойные</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_INFANTRY</zType>

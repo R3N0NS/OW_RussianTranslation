@@ -1447,7 +1447,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY_FAMILY_SEAT</zType>
-    <Translation>Found {0_familySeat}</Translation>
+    <Translation>Основать {0_familySeat}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_FOUND_CITY</zType>
@@ -4302,7 +4302,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_STATE_RELIGION_END</zType>
-    <Translation><![CDATA[Прекратить государственную поддержку религии{true_0: ({0_religion})}</Translation>
+    <Translation>Прекратить государственную поддержку религии{true_0: ({0_religion})}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_RANODM_TECH</zType>
