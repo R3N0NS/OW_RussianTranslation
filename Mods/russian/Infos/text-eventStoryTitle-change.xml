@@ -831,7 +831,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WARLIKE_PRINCESS_TITLE</zType>
-		<Translation>Воинственный {G0: Prince: Princess}</Translation>
+		<Translation>Воинственный {G0:принц:принцесса}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBAL_ENVOY_TITLE</zType>
@@ -1561,13 +1561,41 @@
 		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_FAMILY_LAW_WAR_SCHOLAR_TITLE</zType>
 		<Translation>Незаконно</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_ASK_FAVOR_OUTLAWS_TITLE</zType>
+		<Translation>Преступники</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_ASK_FAVOR_OUTLAWS_SCHOLAR_TITLE</zType>
+		<Translation>Преступники</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_ASK_FAVOR_RESUPPLY_TITLE</zType>
+		<Translation>Пополнение запасов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_ASK_FAVOR_SCHEMER_INVESTMENT_TITLE</zType>
+		<Translation>Возможность инвестирования</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_ASK_FAVOR_PLEA_TITLE</zType>
+		<Translation>Страстная мольба</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_ASK_FAVOR_PLEA_ORATOR_TITLE</zType>
+		<Translation>Страстная мольба</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_ASK_FAVOR_ZEALOT_TITLE</zType>
+		<Translation>Огонь и сера</Translation>
+	</Entry>
 	<Entry beginGroup="Combat">
 		<zType>TEXT_EVENTSTORY_LEADER_SMITING_FOES_TITLE</zType>
 		<Translation>Уничтожение врагов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_BATTLEFIELD_BRILLIANCE_TITLE</zType>
-		<Translation>Battlefield Brilliance</Translation>
+		<Translation>Блеск поля боя</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ORDER_OF_BUSINESS_TITLE</zType>
@@ -3102,8 +3130,16 @@
 		<Translation>Конец альянса</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_ALLIANCE_OPINION_TITLE</zType>
+		<Translation>Конец альянса</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_UPKEEP_TITLE</zType>
 		<Translation>Действующий альянс</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_OPINION_TITLE</zType>
+		<Translation>Конец альянса</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHARACTER_LOVE_KILLS_TITLE</zType>

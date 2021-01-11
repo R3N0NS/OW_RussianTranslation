@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- edited with XMLSpy v2019 rel. 3 sp1 (x64) (http://www.altova.com) by Leyla Johnson (Private) -->
 <Root>
-	<Entry>
+  <Entry>
 		<zType/>
 		<English/>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MAINTAIN_TRUCE_HELP</zType>
     <Translation>Сохранить link(DIPLOMACY_TRUCE).</Translation>
@@ -215,7 +215,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LAW_EPICS</zType>
-    <Translation>Давайте поделимся своими историями.</Translation>
+    <Translation>Давайте поделимся историями.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LAW_EXPLORATION</zType>
@@ -231,7 +231,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LAW_TYRANNY</zType>
-    <Translation>Мое слово-закон!</Translation>
+    <Translation>Мое слово - закон!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LAW_CONSTITUTION</zType>
@@ -339,7 +339,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LAW_SCREEN</zType>
-    <Translation>Правительство будет выбирать законы..</Translation>
+    <Translation>Выбирать законы будет правительство.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELIGION_YES</zType>
@@ -388,11 +388,11 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_COMMERCE_HELP</zType>
     <Translation>Может привести к link(TRAIT_COMMANDER_ARCHETYPE),link(TRAIT_SCHEMER_ARCHETYPE),link(TRAIT_ORATOR_ARCHETYPE),link(TRAIT_BUILDER_ARCHETYPE), или link(TRAIT_DIPLOMAT_ARCHETYPE)</Translation>
-</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COURTIER_NONE</zType>
-    <Translation>Мы не можем позволить себе столько платить.</Translation>
-	</Entry>
+    <Translation>Мы не можем этого себе позволить.</Translation>
+  </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MERCENARY_NO</zType>
     <Translation>Не сейчас.</Translation>
@@ -2407,23 +2407,23 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONTACT_THE_FOOL_OPTION_0</zType>
-    <Translation>Приведи Пифаса во дворец для нашего развлечения.</Translation>
+    <Translation>Приведи его во дворец, пусть всех развлекает.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONTACT_THE_FOOL_OPTION_1</zType>
-    <Translation>Меня не интересуют глупости дурака.</Translation>
+    <Translation>Меня не интересуют эти глупости.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONTACT_THE_FOOL_OPTION_2</zType>
-    <Translation>Его навыки лучше всего использовать в полях.</Translation>
+    <Translation>Его лучше всего использовать в полях.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONTACT_THE_FOOL_OPTION_3</zType>
-    <Translation>Он будет моим репетитором по искусству шутки.</Translation>
+    <Translation>Он будет моим репетитором по искусству юмора.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONTACT_PIEFACES_LESSONS_OPTION_0</zType>
-    <Translation>Pieface? Он просто милый шутник.</Translation>
+    <Translation>Тупица? Он просто милый шутник.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONTACT_PIEFACES_LESSONS_OPTION_1</zType>
@@ -2431,7 +2431,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONTACT_PIEFACES_LESSONS_OPTION_2</zType>
-    <Translation>Сорок ударов плетью для дурака!</Translation>
+    <Translation>Сорок ударов плетью !</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONTACT_MOMENTOUS_MEETING_OPTION_0</zType>
@@ -2439,11 +2439,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONTACT_MOMENTOUS_MEETING_OPTION_1</zType>
-    <Translation>{PLAYER-0,1} пути - не наши пути.</Translation>
+    <Translation>{PLAYER-0,1} путь - не наш путь.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONTACT_MOMENTOUS_MEETING_OPTION_2</zType>
-    <Translation>Мы не будем делать вид, что уважаем этих {PLAYER-0,3}.</Translation>
+    <Translation>Мы не будем делать вид, что уважаем их.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONTACT_LETHAL_AFFLICTION_OPTION_0</zType>
@@ -2463,15 +2463,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_HONORARY_COUNSEL_OPTION_1</zType>
-    <Translation>Отказаться. Этот иностранец слишком хочет помочьнам.</Translation>
+    <Translation>Отказаться. Этот иностранец слишком хочет помочь нам.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_HONORARY_COUNSEL_OPTION_2</zType>
-    <Translation>Поприветствуйте его открыто и сопроводите кодвору.</Translation>
+    <Translation>Поприветствуйте его и сопроводите ко двору.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_PLOTTING_HEIR_OPTION_0</zType>
-    <Translation>Они должны уважать {G1: его: ее}, как они уважают меня.</Translation>
+    <Translation>Они должны уважать {G1:его:ее}, как они уважают меня.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_PLOTTING_HEIR_OPTION_1</zType>
@@ -2479,7 +2479,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_PLOTTING_HEIR_OPTION_2</zType>
-    <Translation>В этом правительстве все поклоняются мне, {CHARACTER-0}.</Translation>
+    <Translation>Все поклонятся мне, {CHARACTER-0}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_DEADLY_INHERITANCE_OPTION_0</zType>
@@ -4471,7 +4471,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYERS_POSITIVE_OPINION_1_HUMBLE</zType>
-    <Translation>Наше смирение привлекает нас обоих.</Translation>
+    <Translation>Наше скромность привлечет обоих.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYERS_POSITIVE_OPINION_2_INSPIRING</zType>
@@ -4631,11 +4631,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_WAR_OFFER_ENEMY_TRAIT_ZEALOT_WAR</zType>
-    <Translation>Только {PLAYER-1,1} Боги могут судить нас!</Translation>
+    <Translation>Только Боги {PLAYER-1,1} могут судить нас!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_WAR_OFFER_ENEMY_TRAIT_ZEALOT_MORE_PYLONS</zType>
-    <Translation>{PLAYER-1,1} Боги поразят этих неверующих!</Translation>
+    <Translation>Боги {PLAYER-1,1} поразят этих неверующих!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_WAR_OFFER_ENEMY_TRAIT_SCHEMER_TRIBUTE</zType>
@@ -4859,15 +4859,15 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_DIPLO_OFFER_ASK_FAVOR_CODE_OF_LAWS_JUDGE</zType>
     <Translation>Напишите {PLAYER-0} новый свод законов.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DIPLO_OFFER_ASK_FAVOR_YES_RESUPPLY</zType>
-		<Translation>placeholder</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DIPLO_OFFER_ASK_FAVOR_YES_INVESTMENT</zType>
-		<Translation>placeholder</Translation>
-	</Entry>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DIPLO_OFFER_ASK_FAVOR_YES_RESUPPLY</zType>
+    <Translation>placeholder</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DIPLO_OFFER_ASK_FAVOR_YES_INVESTMENT</zType>
+    <Translation>placeholder</Translation>
+  </Entry>
 	<Entry beginGroup="Combat">
     <zType>TEXT_EVENTOPTION_LEADER_SMITING_FOES_STATUE</zType>
     <Translation>Поставьте статую в столице.</Translation>
@@ -5446,7 +5446,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOLIA_OPIMA_BETRAYAL_OPTION_0</zType>
-    <Translation>Атаковать {CHARACTER-2}, сбросив {G2: его: ее} с обрыва.</Translation>
+    <Translation>Атаковать {CHARACTER-2}, сбросив {G2:его:ее} с обрыва.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOLIA_OPIMA_BETRAYAL_OPTION_1</zType>
@@ -5477,272 +5477,272 @@
     <Translation>Наколите труп шипом и оставьте его гнить.</Translation>
   </Entry>
   <Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_EBBING_SPRING_OPTION_0</zType>
-		<Translation>Я не могу оправдывать все, что привело к этому. Мы сохраним то, что сможем от их культуры.</Translation>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_EBBING_SPRING_OPTION_0</zType>
+    <Translation>Я не могу оправдывать все, что привело к этому. Мы сохраним то, что сможем от их культуры.</Translation>
   </Entry>
   <Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_EBBING_SPRING_OPTION_1</zType>
-		<Translation>Очень жаль, но {PLAYER-1} должен прийти первым.</Translation>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_EBBING_SPRING_OPTION_1</zType>
+    <Translation>Очень жаль, но {PLAYER-1} должен прийти первым.</Translation>
   </Entry>
   <Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_EBBING_SPRING_OPTION_2</zType>
-		<Translation>Меня больше интересует их казна.</Translation>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_EBBING_SPRING_OPTION_2</zType>
+    <Translation>Меня больше интересует их казна.</Translation>
   </Entry>
   <Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_EBBING_SPRING_OPTION_3</zType>
-		<Translation>Не будет никакого наследия, кроме нашего собственного.</Translation>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_EBBING_SPRING_OPTION_3</zType>
+    <Translation>Не будет никакого наследия, кроме нашего собственного.</Translation>
   </Entry>
   <Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_FINAL_SURGE_OPTION_0</zType>
-		<Translation>К оружию!</Translation>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_FINAL_SURGE_OPTION_0</zType>
+    <Translation>К оружию!</Translation>
   </Entry>
   <Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_FINAL_SURGE_OPTION_0_HELP</zType>
-		<Translation>Битва еще не окончена.</Translation>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_FINAL_SURGE_OPTION_0_HELP</zType>
+    <Translation>Битва еще не окончена.</Translation>
   </Entry>
   <Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_FATAL_OVERSIGHT_OPTION_FORGOT</zType>
-		<Translation>О, я совсем забыл об этом.</Translation>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_FATAL_OVERSIGHT_OPTION_FORGOT</zType>
+    <Translation>О, я совсем забыл об этом.</Translation>
   </Entry>
   <Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_FATAL_OVERSIGHT_OPTION_CASUALTIES</zType>
-		<Translation>Жертвы войны не ограничиваются полем боя.</Translation>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_FATAL_OVERSIGHT_OPTION_CASUALTIES</zType>
+    <Translation>Жертвы войны не ограничиваются полем боя.</Translation>
   </Entry>
   <Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_FATAL_OVERSIGHT_OPTION_VENGEANCE</zType>
-		<Translation>Кто-то должен за это заплатить!</Translation>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_FATAL_OVERSIGHT_OPTION_VENGEANCE</zType>
+    <Translation>Кто-то должен за это заплатить!</Translation>
   </Entry>
   <Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_IN_THEIR_PLACE_OPTION_SLAVERY</zType>
-		<Translation>Да, сейчас самое время.</Translation>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_IN_THEIR_PLACE_OPTION_SLAVERY</zType>
+    <Translation>Да, сейчас самое время.</Translation>
   </Entry>
   <Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_IN_THEIR_PLACE_OPTION_SLAVERY_HELP</zType>
-		<Translation>Мы внедрим рабство.</Translation>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_IN_THEIR_PLACE_OPTION_SLAVERY_HELP</zType>
+    <Translation>Мы внедрим рабство.</Translation>
   </Entry>
   <Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_IN_THEIR_PLACE_OPTION_SILVER_TONGUE</zType>
-		<Translation>Все еще остаешься серебряным языком. Законы не тебе выбирать.</Translation>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_IN_THEIR_PLACE_OPTION_SILVER_TONGUE</zType>
+    <Translation>Все еще остаешься серебряным языком. Законы не тебе выбирать.</Translation>
   </Entry>
   <Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_IN_THEIR_PLACE_OPTION_SUFFERED_ENOUGH</zType>
-		<Translation>{TRIBE-0} достаточно настрадалось. Мы не будем создавать новые трудности.</Translation>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_IN_THEIR_PLACE_OPTION_SUFFERED_ENOUGH</zType>
+    <Translation>{TRIBE-0} достаточно настрадалось. Мы не будем создавать новые трудности.</Translation>
   </Entry>
   <Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_IN_THEIR_PLACE_OPTION_PURGE</zType>
-		<Translation>Рабство - это больше, чем заслуживает {TRIBE-0}. Мы очистим землю от них.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_FREEDOM</zType>
-		<Translation>Возможно, вы правы. Пора внести изменения.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_REFUSE</zType>
-		<Translation>Я с уважением отношусь к вашим мыслям, {CHARACTER-SHORT-2}, но в вопросах права есть что учесть.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_IMPRISON</zType>
-		<Translation>Вы смеете оскорблять {PLAYER-3} такими сравнениями? Может быть, ваше место в {TRIBE-0}.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_DISHONEST</zType>
-		<Translation>Да, хорошо. Я сделаю все, что в моих силах.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_DISHONEST_HELP</zType>
-		<Translation>Или нет.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_COMMEMORATION_OPTION_FESTIVAL</zType>
-		<Translation>Хороший день для {PLAYER-4}. Отметим праздник!</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_COMMEMORATION_OPTION_DISCIPLINE</zType>
-		<Translation>Благодарю вас за ваши поздравления, но {PLAYER-4} должен оставаться сосредоточенным.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_COMMEMORATION_OPTION_ARTIST</zType>
-		<Translation>Я должен сам отметить эту победу!</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_COMMEMORATION_OPTION_GLADIATORS</zType>
-		<Translation>Вы слишком абстрактно думаете. Отметим наш триумф мечом и копьем!</Translation>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_IN_THEIR_PLACE_OPTION_PURGE</zType>
+    <Translation>Рабство - это больше, чем заслуживает {TRIBE-0}. Мы очистим землю от них.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_FREEDOM</zType>
+    <Translation>Возможно, вы правы. Пора внести изменения.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_REFUSE</zType>
+    <Translation>Я с уважением отношусь к вашим мыслям, {CHARACTER-SHORT-2}, но в вопросах права есть что учесть.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_IMPRISON</zType>
+    <Translation>Вы смеете оскорблять {PLAYER-3} такими сравнениями? Может быть, ваше место в {TRIBE-0}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_DISHONEST</zType>
+    <Translation>Да, хорошо. Я сделаю все, что в моих силах.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_THE_WAY_FORWARD_OPTION_DISHONEST_HELP</zType>
+    <Translation>Или нет.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_COMMEMORATION_OPTION_FESTIVAL</zType>
+    <Translation>Хороший день для {PLAYER-4}. Отметим праздник!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_COMMEMORATION_OPTION_DISCIPLINE</zType>
+    <Translation>Благодарю вас за ваши поздравления, но {PLAYER-4} должен оставаться сосредоточенным.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_COMMEMORATION_OPTION_ARTIST</zType>
+    <Translation>Я должен сам отметить эту победу!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_COMMEMORATION_OPTION_GLADIATORS</zType>
+    <Translation>Вы слишком абстрактно думаете. Отметим наш триумф мечом и копьем!</Translation>
   </Entry>
 	<Entry beginGroup="Marriage">
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_YES</zType>
-		<Translation>Да, звоните в колокола.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Да, звоните в колокола.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_NO</zType>
-		<Translation>Нет, не в этот раз.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Нет, не в этот раз.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_FAMILY_1</zType>
-		<Translation>{CHARACTER-2} - лучший выбор.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>{CHARACTER-2} - лучший выбор.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_FAMILY_2</zType>
-		<Translation>{CHARACTER-3} - лучший выбор.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>{CHARACTER-3} - лучший выбор.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_TWO_FAMILIES_1</zType>
-		<Translation>{CHARACTER-1} - лучший выбор.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>{CHARACTER-1} - лучший выбор.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_TWO_FAMILIES_2</zType>
-		<Translation>{CHARACTER-2} - лучший выбор.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>{CHARACTER-2} - лучший выбор.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_TWO_FAMILIES_NO</zType>
-		<Translation>Нет, никто из этих.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Нет, никто из этих.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_FOREIGN_1</zType>
-		<Translation>{CHARACTER-2} - лучший выбор.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>{CHARACTER-2} - лучший выбор.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_FOREIGN_2</zType>
-		<Translation>{CHARACTER-3} - лучший выбор.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>{CHARACTER-3} - лучший выбор.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MISSION_MARRIAGE_FAMILY_1</zType>
-		<Translation>{CHARACTER-2} - лучший выбор.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>{CHARACTER-2} - лучший выбор.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MISSION_MARRIAGE_FAMILY_2</zType>
-		<Translation>{CHARACTER-3} - лучший выбор.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>{CHARACTER-3} - лучший выбор.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MISSION_MARRIAGE_FOREIGN_1</zType>
-		<Translation>{CHARACTER-2} - лучший выбор.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>{CHARACTER-2} - лучший выбор.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MISSION_MARRIAGE_FOREIGN_2</zType>
-		<Translation>{CHARACTER-3} - лучший выбор..</Translation>
-	</Entry>
-	<Entry>
+    <Translation>{CHARACTER-3} - лучший выбор..</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MISSION_MARRIAGE_TRIBE_YES</zType>
-		<Translation>Звоните в колокола.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Звоните в колокола.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MATCHMAKER_0_OPTION_0</zType>
-		<Translation>"Прекрасная и милая молодежь."</Translation>
-	</Entry>
-	<Entry>
+    <Translation>"Прекрасная и милая молодежь."</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MATCHMAKER_0_OPTION_1</zType>
-		<Translation>Красота в уме.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Красота в уме.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MATCHMAKER_0_OPTION_2</zType>
-		<Translation>Я выйду замуж, когда буду готова.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Я выйду замуж, когда буду готова.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MATCHMAKER_0_OPTION_2_HELP</zType>
-		<Translation>Ни один из этих вариантов меня не прельщает.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Ни один из этих вариантов меня не прельщает.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MATCHMAKER_1_OPTION_0</zType>
-		<Translation>{CHARACTER-2} - разумный выбор.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>{CHARACTER-2} - разумный выбор.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MATCHMAKER_1_OPTION_1</zType>
-		<Translation>{CHARACTER-3} есть что предложить.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>{CHARACTER-3} есть что предложить.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MATCHMAKER_1_OPTION_2</zType>
-		<Translation>Все это посредственный выбор.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Все это посредственный выбор.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MATCHMAKER_1_OPTION_2_HELP</zType>
-		<Translation>Давайте поговорим о мире позже.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Давайте поговорим о мире позже.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MATCHMAKER_2_OPTION_0</zType>
-		<Translation>Поклоннику {TRIBE-1,1} трудно устоять.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Поклоннику {TRIBE-1,1} трудно устоять.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MATCHMAKER_2_OPTION_1</zType>
-		<Translation>Семья {FAMILY-3} предлагает лучший вариант.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Семья {FAMILY-3} предлагает лучший вариант.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MATCHMAKER_2_OPTION_2</zType>
-		<Translation>Мне больше всего нравится {PLAYER-4,1}.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Мне больше всего нравится {PLAYER-4,1}.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MATCHMAKER_2_OPTION_3</zType>
-		<Translation>Я не хочу жениться.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Я не хочу жениться.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_PROPOSAL_DECLINE</zType>
-		<Translation>К сожалению, свадьбы не будет.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>К сожалению, свадьбы не будет.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_PROPOSAL_MARRY_US</zType>
-		<Translation>Я рад этому выбору!</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Я рад этому выбору!</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_PROPOSAL_MARRY_HEIR</zType>
-		<Translation>Из моих волос получился бы хороший супруг.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Из моих волос получился бы хороший супруг.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_POLY_FOREIGN_YES</zType>
-		<Translation>Это политический брак, и {CHARACTER-SHORT-3} поймет.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Это политический брак, и {CHARACTER-SHORT-3} поймет.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_POLY_FOREIGN_NO</zType>
-		<Translation>Я не хочу расстраивать {CHARACTER-SHORT-3}, поэтому вынужден отказаться.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Я не хочу расстраивать {CHARACTER-SHORT-3}, поэтому вынужден отказаться.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_POLY_TRIBE_YES</zType>
-		<Translation>Я больше беспокоюсь о том, что огорчит {CHARACTER-SHORT-3}. Однако продолжайте подготовку.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Я больше беспокоюсь о том, что огорчит {CHARACTER-SHORT-3}. Однако продолжайте подготовку.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_POLY_TRIBE_NO</zType>
-		<Translation>ТО что огорчает народ и {G3:моего мужа:мою жену}, заботит меня слишком сильно. Я отвергаю это предложение.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>ТО что огорчает народ и {G3:моего мужа:мою жену}, заботит меня слишком сильно. Я отвергаю это предложение.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_POLY_FAMILY_MONEY</zType>
-		<Translation>Мы примем предложение и дар в качестве золота.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Мы примем предложение и дар в качестве золота.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_POLY_FAMILY_TRAINING</zType>
-		<Translation>Мы возьмем военные ресурсы и примем их предложение.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Мы возьмем военные ресурсы и примем их предложение.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_MARRIAGE_POLY_FAMILY_NO</zType>
-		<Translation>Брак с другой придворной семьей только разлучит нас.</Translation>
-	</Entry>
+    <Translation>Брак с другой придворной семьей только разлучит нас.</Translation>
+  </Entry>
 	<Entry beginGroup="Family">
     <zType>TEXT_EVENTOPTION_FAMILY_GIFT_YES</zType>
-		<Translation>Если они готовы играть в эту игру, то и я тоже.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Если они готовы играть в эту игру, то и я тоже.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_FAMILY_GIFT_NO</zType>
-		<Translation>Может быть, в другой раз.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Может быть, в другой раз.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_IN_YOUR_HONOR_OPTION_0</zType>
-		<Translation>Официальная выставка {PLAYER-3,1} искусства и культуры.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Официальная выставка {PLAYER-3,1} искусства и культуры.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_IN_YOUR_HONOR_OPTION_1</zType>
-		<Translation>Выпивка, песни и светское веселье.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Выпивка, песни и светское веселье.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_IN_YOUR_HONOR_OPTION_2</zType>
-		<Translation>Никакого торжества не требуется. Дар говорит сам за себя.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Никакого торжества не требуется. Дар говорит сам за себя.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_DEVOTED_FOLLOWERS_OPTION_0</zType>
-		<Translation>Правительство сделает все возможное для {RELIGION-2}</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Правительство сделает все возможное для {RELIGION-2}</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_DEVOTED_FOLLOWERS_OPTION_1</zType>
-		<Translation>Мы не можем оказать поддержку прямо сейчас.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Мы не можем оказать поддержку прямо сейчас.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_DEVOTED_FOLLOWERS_OPTION_2</zType>
-		<Translation>Моя вера - между мной и церковью.</Translation>
+    <Translation>Моя вера - между мной и церковью.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_UNEXPECTED_FEELINGS_OPTION_0</zType>
@@ -6358,21 +6358,21 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_MONASTIC_LIVING_OK</zType>
-        <Translation>Отправьте {G0:ему:ей} и сделайте пожертвование.</Translation>
-    </Entry>
-    <Entry>
+    <Translation>Отправьте {G0:ему:ей} и сделайте пожертвование.</Translation>
+   </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_MONASTIC_LIVING_NO</zType>
-        <Translation>Отпустите {G0:ему:ей}, но откажитесь делать пожертвования.</Translation>
-    </Entry>
-    <Entry>
+     <Translation>Отпустите {G0:ему:ей}, но откажитесь делать пожертвования.</Translation>
+   </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_DEEPER_MEANING_OK</zType>
-        <Translation>Наймите великого философа.</Translation>
-    </Entry>
-    <Entry>
+    <Translation>Наймите великого философа.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_RUMOR_HAS_IT_PETS</zType>
-        <Translation>Люди должны игнорировать беспочвенную ложь..</Translation>
-    </Entry>
-    <Entry>
+    <Translation>Люди должны игнорировать беспочвенную ложь..</Translation>
+  </Entry>
+   <Entry>
     <zType>TEXT_EVENTOPTION_RUMOR_HAS_IT_MISUNDERSTOOD</zType>
     <Translation>{G0:Он:Она} следует достойной, но неправильно истолкованной религии.</Translation>
   </Entry>
@@ -7174,35 +7174,35 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COURTIER_A1_SOLDIER</zType>
-    <Translation>Капитан пехоты.</Translation>
+    <Translation>Капитана пехота.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COURTIER_A1_MERCHANT</zType>
-    <Translation>Торговец драгоценными камнями.</Translation>
+    <Translation>Торговца драгоценными камнями.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COURTIER_A2_SOLDIER</zType>
-    <Translation>Энергичный полководец.</Translation>
+    <Translation>Энергичного полководца.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COURTIER_A2_MERCHANT</zType>
-    <Translation>Богатый продавец.</Translation>
+    <Translation>Богатого продавца.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COURTIER_B1_SCIENTIST</zType>
-    <Translation>Красноречивый философ.</Translation>
+    <Translation>Красноречивого филосоафа.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COURTIER_B1_MINISTER</zType>
-    <Translation>Способный администратор.</Translation>
+    <Translation>Способного управляющего.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COURTIER_B2_SCIENTIST</zType>
-    <Translation>Гениальный математик.</Translation>
+    <Translation>Гениального математика.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COURTIER_B2_MINISTER</zType>
-    <Translation>Безупречный юрист.</Translation>
+    <Translation>Безупречного юриста.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GP_WISDOM_LITERATURE_OPTION_0</zType>
@@ -7970,11 +7970,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_NOT_WITHOUT_RISK_OPTION_0</zType>
-    <Translation>Все {PLAYER-1} будут оплакивать уход {G0:его:ее}.</Translation>
+    <Translation>Все в {PLAYER-1} будут оплакивать {G0:его:ее} уход.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_NOT_WITHOUT_RISK_OPTION_1</zType>
-    <Translation>Давайте горевать ... а потом двинемся дальше.</Translation>
+    <Translation>Давайте горевать... а потом двинемся дальше.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_EXCELLENT_STUDENT_OPTION_0</zType>
@@ -8106,11 +8106,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TACTICS_TO_PHILOSOPHY_NO</zType>
-    <Translation>Оставьте {G0:ему:ей}, но наймите лучшего репетитора.</Translation>
+    <Translation>Оставьте все как есть, но наймите лучшего репетитора.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TACTICS_TO_PHILOSOPHY_YES</zType>
-    <Translation>Переключите дисциплины на философию.</Translation>
+    <Translation>Смените {G0:его:ее} обучение на философию.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PHILOSOPHY_TO_COMMERCE_PUNISH</zType>
@@ -8474,7 +8474,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ARCHETYPE_HERO</zType>
-    <Translation>Герой, смелый и вдохновляющий народный символ.</Translation>
+    <Translation>Герой, смелый и вдохновляющий народн.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ARCHETYPE_COMMANDER</zType>
@@ -8482,15 +8482,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ARCHETYPE_TACTICIAN</zType>
-    <Translation>Тактик, храбрый и умный военный ум.</Translation>
+    <Translation>Тактик, храбрый и умный.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ARCHETYPE_ZEALOT</zType>
-    <Translation>Фанатик, убедительный, страстный верующий.</Translation>
+    <Translation>Фанатик, убедительный и страстно верующий.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ARCHETYPE_SCHEMER</zType>
-    <Translation>Плутник, мастер шепота и придворных заговоров.</Translation>
+    <Translation>Плут, мастер придворных заговоров.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ARCHETYPE_ORATOR</zType>
@@ -8502,23 +8502,23 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ARCHETYPE_BUILDER</zType>
-    <Translation>Строитель, трудолюбивый планировщик и надсмотрщик.</Translation>
+    <Translation>Строитель, трудолюбивый и знающий свое дело.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ARCHETYPE_SCHOLAR</zType>
-    <Translation>Ученый, маяк знаний и культуры.</Translation>
+    <Translation>Ученый, источник знаний и культуры.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ARCHETYPE_DIPLOMAT</zType>
-    <Translation>Дипломат, надежный и харизматичный брокер.</Translation>
+    <Translation>Дипломат, надежный и харизматичный.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SCHEMER_SUCCESSION_OPTION_0</zType>
-    <Translation>Мы должны закончить эти сюжеты сейчас.</Translation>
+    <Translation>Мы должны закончить эти заговоры сейчас.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SCHEMER_SUCCESSION_SPOUSE_OPTION_0</zType>
-    <Translation>Мы должны закончить эти сюжеты сейчас.</Translation>
+    <Translation>Мы должны закончить эти заговоры сейчас.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_BITE_THE_HAND_OPTION_0</zType>
@@ -8594,11 +8594,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_AFFAIRS_OF_THE_HEART_OPTION_0</zType>
-    <Translation>Держись подальше от моих личных дел ... или иначе.</Translation>
+    <Translation>Держись подальше от моих личных дел, иначе...</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_AFFAIRS_OF_THE_HEART_OPTION_1</zType>
-    <Translation>Эта договоренность является национальной проблемой.</Translation>
+    <Translation>Это является национальным интересом.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_AFFAIRS_OF_THE_HEART_OPTION_2</zType>
@@ -8606,7 +8606,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_WICKED_CHARGES_OPTION_0</zType>
-    <Translation>Заплатите {CHARACTER-0}, чтобы {G0:ему:ей} молчал.</Translation>
+    <Translation>Заплатите {CHARACTER-0}, чтобы {G0:он молчал:она молчала}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_WICKED_CHARGES_OPTION_1</zType>
@@ -8745,6 +8745,10 @@
     <Translation>Да будет так.</Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_EVENTOPTION_ALLIANCE_OPINION</zType>
+	<Translation>[OK]</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_ALLIANCE_UPKEEP_MONEY</zType>
     <Translation>Примите этот щедрый подарок в виде золота.</Translation>
   </Entry>
@@ -8755,6 +8759,10 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_ALLIANCE_UPKEEP_NO</zType>
     <Translation>Нашему альянсу пришел конец.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_ALLIANCE_OPINION</zType>
+	<Translation>[OK]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_LOVE_KILLS_OPTION_0</zType>
@@ -9398,15 +9406,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_PEACEABLE_KINGDOM_OPTION_0</zType>
-    <Translation>Забота и поведение исследовательской группы.</Translation>
+    <Translation>Изучение помощи и моделей поведения.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_PEACEABLE_KINGDOM_OPTION_1</zType>
-    <Translation>Прогулка между озерами и реками.</Translation>
+    <Translation>Прогулки между озерами и реками.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_PEACEABLE_KINGDOM_OPTION_2</zType>
-    <Translation>Ездить - значит познать настоящую свободу.</Translation>
+    <Translation>Верховая езда - позволит познать настоящую свободу.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_RETURNING_SOLDIER_OPTION_0</zType>
@@ -10030,7 +10038,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BIRTH_A_NEW_HEIR_OPTION_0</zType>
-    <Translation>Мое наследие защищено.</Translation>
+    <Translation>Мое наследие в безопасности.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_THE_PRICE_OPTION_0</zType>
@@ -10478,7 +10486,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_AFTER_DARK_OPTION_3</zType>
-    <Translation>Оставьте их пока.</Translation>
+    <Translation>Оставьте их.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_UNDEFEATED_OPTION_0</zType>
@@ -10486,7 +10494,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_UNDEFEATED_OPTION_1</zType>
-    <Translation>Пригласите учителей присоединиться к нам в правительстве.</Translation>
+    <Translation>Пригласите их присоединиться к нам в правительстве.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_SKIRMISH_OPTION_0</zType>
@@ -10518,11 +10526,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_THE_MONGREL_OPTION_0</zType>
-    <Translation>{G0:Он:Она} относится к собаке нежно и нежно.</Translation>
+    <Translation>{G0:Он:Она} относится к собаке с любовью и нежностью.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_THE_MONGREL_OPTION_1</zType>
-    <Translation>{G0:Он:Она} учит системе вознаграждений и наказаний.</Translation>
+    <Translation>{G0:Он:Она} дрессирует по системе вознаграждений и наказаний.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_THE_MONGREL_OPTION_2</zType>
@@ -10562,7 +10570,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STREET_DEBATE_OPTION_2</zType>
-    <Translation>Наша работа по завоеванию {СЕМЬЯ-2,1} должна продолжаться.</Translation>
+    <Translation>Наша работа по завоеванию {FAMILY-2,1} должна продолжаться.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_CITY_STEPS_OPTION_0</zType>
@@ -10610,7 +10618,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_SHOEMAKER_OPTION_0</zType>
-    <Translation>Не все образование можно получить в классе.</Translation>
+    <Translation>Не все образование можно получить в школе.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_IN_SEARCH_OF_TRUTH_OPTION_0</zType>
@@ -10654,7 +10662,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RESIDENT_ARTIST_OPTION_0</zType>
-    <Translation>Оставьте {G0:ему:ей}, чтобы следовать за {G0:его:ее} собственной музой.</Translation>
+    <Translation>Оставьте {G0:его:ее} в покое, пусть {G0:он:она} следует {G0:его:ее} собственной музой.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RESIDENT_ARTIST_OPTION_1</zType>
@@ -11114,11 +11122,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_A_TALENT_FOR_GEOMETRY_OPTION_0</zType>
-    <Translation>Инженеров у суда не хватает.</Translation>
+    <Translation>В правительстве не хватает инженеров.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_A_TALENT_FOR_GEOMETRY_OPTION_1</zType>
-    <Translation>Плотники делают многое возможным, моя дорогая.</Translation>
+    <Translation>Плотники делают многое - возможным, моя дорогая.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_A_TALENT_FOR_GEOMETRY_OPTION_2</zType>
@@ -11218,7 +11226,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_INCONSOLABLE_OPTION_0</zType>
-    <Translation>Я отправлю сообщение поддержки {СЕМЬЕ-2,1}.</Translation>
+    <Translation>Я отправлю сообщение поддержки {FAMILY-2,1}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_INCONSOLABLE_OPTION_1</zType>
@@ -12158,11 +12166,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEGITIMIZE_THREE_FAMILIES_CONCERN_OPTION_1</zType>
-    <Translation>Сделайте так, чтобы {СЕМЬЯ-3} получила большую партию еды.</Translation>
+    <Translation>Сделайте так, чтобы {FAMILY-3} получила большую партию еды.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEGITIMIZE_THREE_FAMILIES_CONCERN_OPTION_2</zType>
-    <Translation>Подарок из железа для {СЕМЬИ-4} привлечет эти кинжалы на нашу сторону.</Translation>
+    <Translation>Подарок из железа для {FAMILY-4} привлечет эти кинжалы на нашу сторону.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_CLASSIC_TRAGEDY_OPTION_0</zType>
@@ -12367,1607 +12375,1607 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_HEMP_ADDICTION_OPTION_2</zType>
     <Translation>Я научу {CHARACTER-0} сам. Уходи.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_INSPIRING</zType>
-		<Translation>Истинное вдохновение идет от одного сердца к другому.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_PROSPEROUS</zType>
-		<Translation>Это было бы невозможно без денег.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_ELOQUENT</zType>
-		<Translation>Серебряный язык приносит успех.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_EXTRAVAGANT</zType>
-		<Translation>Подарки и удовольствия снищут много друзей.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_CRUEL</zType>
-		<Translation>Тысячи служили, чтобы воля одного могла быть выполнена.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_AFFABLE</zType>
-		<Translation>Никогда не забывай, друзья сопроводят тебя до конца.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_DEBAUCHED</zType>
-		<Translation>Когда-то, в мое время, мы тайком пробирались внутрь служителей любви.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_VIGILANT</zType>
-		<Translation>Никогда не теряйте бдительности, иначе это обернется разграбленными руинами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_STRICT</zType>
-		<Translation>Империя правит строем и трудолюбием.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_KEEN</zType>
-		<Translation>Всегда обращайте внимание на детали. Все дело в мелочах.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_FORESTER</zType>
-		<Translation>Вы не поверите, откуда взялся весь этот лес.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_DELVER</zType>
-		<Translation>Каменщики годами работали в каменоломнях.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_SMELTER</zType>
-		<Translation>Наши кузницы работали день и ночь в течение многих лет.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_DEALMAKER</zType>
-		<Translation>Грандиозные беседы сделали это возможным.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_FIERCE</zType>
-		<Translation>Достаточно одной вражеской армии, чтобы уничтожить его.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_ENGINEER</zType>
-		<Translation>Наши инженеры действительно были невоспетыми героями.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_CARPENTER</zType>
-		<Translation>Вы не поверите в деревообрабатывающие навыки этих плотников.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_BOLD</zType>
-		<Translation>Требуется ясный взгляд и смелое видение, чтобы построить что-то подобное.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_ROMANTIC</zType>
-		<Translation>Поэты любят петь об этом. Почти заставляют сердце замереть.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_SUPERSTITIOUS</zType>
-		<Translation>Мы - нация, благословленная богами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_RUTHLESS</zType>
-		<Translation>Никогда не позволяйте кому-то одержать верх. Никогда.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_SPOILED</zType>
-		<Translation>Да! Это здорово, не правда ли! И все это будет твоим!</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_HUMBLE</zType>
-		<Translation>Я никогда не забуду, во что нам это обошлось.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_PROUD</zType>
-		<Translation>Единственный в своем роде! Зависть всех народов!</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_EXPLORING</zType>
-		<Translation>Есть много других загадок, которые стоит увидеть.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_CUNNING</zType>
-		<Translation>Хитрость в том, чтобы знать, чего все хотят.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_COMMANDER</zType>
-		<Translation>Генералы и солдаты обеспечивают нашу безопасность.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_ORATOR</zType>
-		<Translation>Не так-то просто провести их через совет по планированию.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_BUILDER</zType>
-		<Translation>Я трепещу перед строителями, которые потратили на это жизнь.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_DIPLOMAT</zType>
-		<Translation>Никогда не забывайте, мир и торговля - это пути к процветанию.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_INSPIRING</zType>
+    <Translation>Истинное вдохновение идет от одного сердца к другому.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_PROSPEROUS</zType>
+    <Translation>Это было бы невозможно без денег.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_ELOQUENT</zType>
+    <Translation>Серебряный язык приносит успех.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_EXTRAVAGANT</zType>
+    <Translation>Подарки и удовольствия снищут много друзей.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_CRUEL</zType>
+    <Translation>Тысячи служили, чтобы воля одного могла быть выполнена.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_AFFABLE</zType>
+    <Translation>Никогда не забывай, друзья сопроводят тебя до конца.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_DEBAUCHED</zType>
+    <Translation>Когда-то, в мое время, мы тайком пробирались внутрь служителей любви.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_VIGILANT</zType>
+    <Translation>Никогда не теряйте бдительности, иначе это обернется разграбленными руинами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_STRICT</zType>
+    <Translation>Империя правит строем и трудолюбием.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_KEEN</zType>
+    <Translation>Всегда обращайте внимание на детали. Все дело в мелочах.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_FORESTER</zType>
+    <Translation>Вы не поверите, откуда взялся весь этот лес.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_DELVER</zType>
+    <Translation>Каменщики годами работали в каменоломнях.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_SMELTER</zType>
+    <Translation>Наши кузницы работали день и ночь в течение многих лет.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_DEALMAKER</zType>
+    <Translation>Грандиозные беседы сделали это возможным.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_FIERCE</zType>
+    <Translation>Достаточно одной вражеской армии, чтобы уничтожить его.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_ENGINEER</zType>
+    <Translation>Наши инженеры действительно были невоспетыми героями.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_CARPENTER</zType>
+    <Translation>Вы не поверите в деревообрабатывающие навыки этих плотников.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_BOLD</zType>
+    <Translation>Требуется ясный взгляд и смелое видение, чтобы построить что-то подобное.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_ROMANTIC</zType>
+    <Translation>Поэты любят петь об этом. Почти заставляют сердце замереть.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_SUPERSTITIOUS</zType>
+    <Translation>Мы - нация, благословленная богами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_RUTHLESS</zType>
+    <Translation>Никогда не позволяйте кому-то одержать верх. Никогда.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_SPOILED</zType>
+    <Translation>Да! Это здорово, не правда ли! И все это будет твоим!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_HUMBLE</zType>
+    <Translation>Я никогда не забуду, во что нам это обошлось.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_PROUD</zType>
+    <Translation>Единственный в своем роде! Зависть всех народов!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_EXPLORING</zType>
+    <Translation>Есть много других загадок, которые стоит увидеть.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_CUNNING</zType>
+    <Translation>Хитрость в том, чтобы знать, чего все хотят.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_COMMANDER</zType>
+    <Translation>Генералы и солдаты обеспечивают нашу безопасность.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_ORATOR</zType>
+    <Translation>Не так-то просто провести их через совет по планированию.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_BUILDER</zType>
+    <Translation>Я трепещу перед строителями, которые потратили на это жизнь.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_DIPLOMAT</zType>
+    <Translation>Никогда не забывайте, мир и торговля - это пути к процветанию.</Translation>
     </Entry>
 	<Entry beginGroup="City">
     <zType>TEXT_EVENTOPTION_HAPPINESS_IMMIGRANTS_YES</zType>
-		<Translation>Пусть поселятся в {CITY-0}.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_IMMIGRANTS_SCOUTS</zType>
-		<Translation>Используйте их в качестве разведчиков.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_IMMIGRANTS_MILITARY_INFANTRY</zType>
-		<Translation>Зарегистрируйте их в пехоте.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_IMMIGRANTS_MILITARY_MISSILE</zType>
-		<Translation>Обучайте их как солдат дальнего боя.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_SEASONAL_FESTIVAL_CIVICS</zType>
-		<Translation>Через государство все возможно!</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_SEASONAL_FESTIVAL_SCIENCE</zType>
-		<Translation>За знаниями и наукой будущее!</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_TAX_SURPLUS_MONEY</zType>
-		<Translation>Сохраните золото на будущее.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_TAX_SURPLUS_FOOD</zType>
-		<Translation>Покупайте еду для людей.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_TAX_SURPLUS_STONE</zType>
-		<Translation>Приносите больше камня из карьеров.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_TAX_SURPLUS_WOOD</zType>
-		<Translation>Увеличьте поставки древесины.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_TAX_SURPLUS_IRON</zType>
-		<Translation>Мы можем использовать дополнительное железо.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_ANCIENT_TEMPLE_DEVOTEE</zType>
-		<Translation>Пошлите преданных ухаживать за ним.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_ANCIENT_TEMPLE_STONE</zType>
-		<Translation>Разорвите его на строительный материал.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_CITIZEN_DEFENSE_WALLS</zType>
-		<Translation>Постройте защитные городские стены.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_CITIZEN_DEFENSE_TRAINING</zType>
-		<Translation>Проведите учения по чрезвычайным ситуациям.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_SCAVENGERS_FOOD</zType>
-		<Translation>Рискну оказать поддержку.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_SCAVENGERS_ORDERS</zType>
-		<Translation>Сейчас вы не нужны.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_VOLUNTEERS_WORKER</zType>
-		<Translation>Они должны заниматься каторжными работами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_VOLUNTEERS_SOLDIER</zType>
-		<Translation>Им следует взять в руки оружие.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_PROMISING_STUDENT_SCRIBE</zType>
-		<Translation>Работа на государственной службе.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_PROMISING_STUDENT_POET</zType>
-		<Translation>Поэтическое искусство и перформанс.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_PROMISING_STUDENT_CITIZEN</zType>
-		<Translation>Тяжелый труд</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_FOUND_ZOROASTRIANISM_YES</zType>
-		<Translation>Позвольте ему проповедовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_FOUND_ZOROASTRIANISM_NO</zType>
-		<Translation>Изгнать этого еретика.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_FOUND_JUDAISM_YES</zType>
-		<Translation>Пусть он разъяснит законы иудаизма.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_FOUND_JUDAISM_NO</zType>
-		<Translation>Изгоните этого так называемого монотеиста.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_VALUABLE_EXPERIENCE_ASTUTE</zType>
-		<Translation>Внимательно слушайте политических советников.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_VALUABLE_EXPERIENCE_WISDOM</zType>
-		<Translation>Ищите знания в книгах и у ученых.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_GIFTED_INVENTOR_SCIENTIST</zType>
-		<Translation>Как мыслитель и ученый.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_GIFTED_INVENTOR_SOLDIER</zType>
-		<Translation>Как военный инженер</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_DILIGENT_CLERK_MERCHANT</zType>
-		<Translation>Для управления моей бухгалтерской книгой.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_DILIGENT_CLERK_MINISTER</zType>
-		<Translation>Для надзора за государственными делами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_MATHEMATICAL_BREAKTHROUGH_SCIENTIST</zType>
-		<Translation>Добавьте их в суд.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_MATHEMATICAL_BREAKTHROUGH_SCIENCE</zType>
-		<Translation>Попросите их продолжить исследования.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_ASPIRING_OFFICER_SOLDIER</zType>
-		<Translation>Офицер должен обслуживать суд напрямую.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_ASPIRING_OFFICER_TRAINING</zType>
-		<Translation>Офицер должен оставаться и защищать {CITY-0}.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_BENEVOLENT_TRADER_MERCHANT</zType>
-		<Translation>Нам нужен торговец на суде.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_BENEVOLENT_TRADER_MONEY</zType>
-		<Translation>Выразите нашу признательность.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_TALENTED_POLITICIAN_MINISTER</zType>
-		<Translation>Нам нужен новый дипломат на суде.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_TALENTED_POLITICIAN_CIVICS</zType>
-		<Translation>Проталкивать благоприятную политику в суд.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_FASHIONABLE_PAINTER_CAPITAL</zType>
-		<Translation>Нам нужен новый королевский художник-портретист.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_FASHIONABLE_PAINTER_MURAL</zType>
-		<Translation>Закажите большую общественную фреску.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_ATHLETIC_GAMES_JUDGE</zType>
-		<Translation>Руководить играми в качестве судьи.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_ATHLETIC_GAMES_COMPETE</zType>
-		<Translation>Сам участвовать в соревнованиях по борьбе.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_ATHLETIC_GAMES_GAMBLE</zType>
-		<Translation>Делать ставки на спортсменов.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_POETRY_CONTEST_RECITE</zType>
-		<Translation>Преодолейте страхи {G0:его:ее} и прочтите собственные стихи {G0:его:ее}.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_POETRY_CONTEST_ATTEND</zType>
-		<Translation>Приходите анонимно, чтобы лучше оценить красоту.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_POETRY_CONTEST_JUDGE</zType>
-		<Translation>Оцените лирические достоинства каждой записи.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_PUBLIC_FEAST_MODERATION</zType>
-		<Translation>Проявляйте хорошие манеры и ешьте досыта.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_PUBLIC_FEAST_POOR</zType>
-		<Translation>Раздайте несъеденную пищу бедным.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HAPPINESS_PUBLIC_FEAST_STORE</zType>
-		<Translation>Сохраняйте несъеденные продукты на случай будущих лишений.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_SHIP_BORNE_PLAGUE_OPTION_0</zType>
-		<Translation>Предоставлять врачам возможность улучшить условия.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_SHIP_BORNE_PLAGUE_OPTION_1</zType>
-		<Translation>Запретить иммигрантам въезд в город {CITY-0}.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_SHIP_BORNE_PLAGUE_OPTION_2</zType>
-		<Translation>Сжигайте зараженные участки, чтобы уничтожить болезнь.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CHILD_MIDWIVES_OPTION_0</zType>
-		<Translation>Создать школу для подготовки акушерок.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CHILD_MIDWIVES_OPTION_1</zType>
-		<Translation>Найдите больше врачей для лечения больных и немощных.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_EARTHQUAKE_OPTION_0</zType>
-		<Translation>Мы должны усерднее работать, чтобы угодить богам.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_EARTHQUAKE_OPTION_1</zType>
-		<Translation>Наши инженерные разработки нуждаются в улучшении.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_EARTHQUAKE_OPTION_2</zType>
-		<Translation>Это совпадение, и мы ничего не можем сделать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_MINES_OF_LAURION_YES</zType>
-		<Translation>Купите им необходимые инструменты.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_MINES_OF_LAURION_NO</zType>
-		<Translation>Любые вложения обходятся слишком дорого.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_FOREST_FIRE_OPTION_0</zType>
-		<Translation>Ничего. Природа бывает жестокой.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_FOREST_FIRE_OPTION_1</zType>
-		<Translation>Обыщите местность на предмет возможных пожаров.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_FOREST_FIRE_WOOD_OPTION_0</zType>
-		<Translation>Это хорошие новости.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_FOREST_FIRE_EMBERS_OPTION_0</zType>
-		<Translation>Жители {CITY-1} недовольны.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_FOREST_FIRE_ORPHAN_OPTION_0</zType>
-		<Translation>Финансируйте ее обучение, а затем доставьте ее в суд.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_FOREST_FIRE_ORPHAN_OPTION_1</zType>
-		<Translation>Предложите ей должность писца в {CITY-1}. </Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_FOREST_FIRE_ORPHAN_OPTION_2</zType>
-		<Translation>Я приму ее в свою королевскую семью.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_FOREST_FIRE_TOMB_OPTION_2</zType>
-		<Translation>Посоветуйтесь с местными жителями, что они хотят сделать с этой гробницей.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_FOREST_FIRE_TOMB_OPTION_1</zType>
-		<Translation>Сохранить первоначальное величие гробницы.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_FOREST_FIRE_TOMB_OPTION_0</zType>
-		<Translation>Найдите в гробнице ценные сокровища.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_FOREST_FIRE_MONUMENT_OPTION_2</zType>
-		<Translation>Сейчас мы не можем себе этого позволить.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_FOREST_FIRE_MONUMENT_OPTION_1</zType>
-		<Translation>Объявить гробницу национальным памятником.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_PETS</zType>
-		<Translation>Продавайте их богатым как экзотических домашних животных.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_RESEARCH</zType>
-		<Translation>Отправьте экспедицию, чтобы узнать о них больше.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_SYMBOL</zType>
-		<Translation>Объявить этот вид охраняемым ресурсом.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_LOCALS</zType>
-		<Translation>Оставьте это дело местным жителям в {CITY-1}.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_FISH_CRABS_OPTION_0</zType>
-		<Translation>Если мы сократим количество рыбы, выживет больше крабов.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_FISH_BIRDS_OPTION_2</zType>
-		<Translation>Постарайтесь привлечь туристов, чтобы увидеть красивые стаи.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_FISH_BIRDS_OPTION_0</zType>
-		<Translation>Отпугните птиц, чтобы рыба могла процветать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_SNAKE_OPTION_0</zType>
-		<Translation>Разрешить заинтересованным местным жителям принимать участие в исследованиях.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_SPIDER_OPTION_0</zType>
-		<Translation>Выдать их за редкие коллекционные предметы.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_SPIDER_OPTION_2</zType>
-		<Translation>Поощряйте граждан сообщать обо всем, что интересует.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_GEMS_OPTION_0</zType>
-		<Translation>Мы хорошо заплатим за новый источник драгоценных камней.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_OPPORTUNITIES_FOR_ALL_OPTION_0</zType>
-		<Translation>Улучшить условия труда рабочих.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_OPPORTUNITIES_FOR_ALL_OPTION_1</zType>
-		<Translation>Создавайте более специализированные рабочие места.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_OPPORTUNITIES_FOR_ALL_OPTION_2</zType>
-		<Translation>Открытые возможности для государственной службы.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_A_BEACON_OPTION_0</zType>
-		<Translation>Добавьте их количество в армию.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_A_BEACON_OPTION_1</zType>
-		<Translation>Обеспечьте своих пожилых людей работой.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_A_BEACON_OPTION_2</zType>
-		<Translation>Сделайте их официальными гражданами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_TEMPLE_HYMNS_OPTION_0</zType>
-		<Translation>Все могут насладиться этим благословением.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_TEMPLE_HYMNS_OPTION_1</zType>
-		<Translation>Взимайте плату за эти гимны.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_TEMPLE_HYMNS_OPTION_2</zType>
-		<Translation>Сделать религию приоритетной задачей государства.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_FREEDOM_MOVEMENT_OPTION_0</zType>
-		<Translation>{CITY-0} не подчиняется национальному законодательству.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_FREEDOM_MOVEMENT_OPTION_1</zType>
-		<Translation>Пусть они поэкспериментируют с рабством.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_FREEDOM_MOVEMENT_OPTION_2</zType>
-		<Translation>Свобода пришла давно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_PAID_FUNCTION_OPTION_0</zType>
-		<Translation>Установите link(PROJECT_MISTHOPHORIA) в {CITY-0}.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_PAID_FUNCTION_OPTION_1</zType>
-		<Translation>Требовать обязательного обслуживания жюри.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_PAID_FUNCTION_OPTION_2</zType>
-		<Translation>Держитесь подальше от правовой системы {CITY-0}.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_THE_PUBLIC_PURSE_OPTION_0</zType>
-		<Translation>Установить link(PROJECT_GRAIN_DOLE) в {CITY-0}.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_THE_PUBLIC_PURSE_OPTION_1</zType>
-		<Translation>Используйте деньги, чтобы влиять на ключевую знать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_THE_PUBLIC_PURSE_OPTION_2</zType>
-		<Translation>Купите еду, чтобы раздать голодным.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_A_GOLDEN_AGE_OPTION_0</zType>
-		<Translation>Проведите неделю представлений и стихов.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_A_GOLDEN_AGE_OPTION_1</zType>
-		<Translation>Признайте вклад государства.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_A_GOLDEN_AGE_OPTION_2</zType>
-		<Translation>Проверяйте казначейство на предмет неэффективных действий.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CULTURE_A_GOLDEN_AGE_OPTION_3</zType>
-		<Translation>Прекращение работы на пиршествах и праздниках.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_THE_ZIGGURAT_OPTION_0</zType>
-		<Translation>Посвятите этот храм Любви.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_THE_ZIGGURAT_OPTION_1</zType>
-		<Translation>Посвятите этот храм Мудрости.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_WONDER_THE_ZIGGURAT_OPTION_2</zType>
-		<Translation>Посвятите эту святыню войне.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HEIR_EXPERTISE_ANGLER_OPTION_0</zType>
-		<Translation>Пусть рыбак научит {CHARACTER-0} управлять рыбалкой.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_HEIR_EXPERTISE_ANGLER_OPTION_1</zType>
-		<Translation>Назначьте Рыбака ответственным за обучение специалистов-рыболовов в {CITY-1}.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_GLADIATOR_GAMES_YES</zType>
-		<Translation>Да, финансируйте когорту комбатантов.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_GLADIATOR_GAMES_NO</zType>
-		<Translation>Кровь не должна быть спортом.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_GLADIATOR_GAMES_SOLDIER</zType>
-		<Translation>Я сам их обучу!</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_OEDIPUS_TYRANNUS_NO</zType>
-		<Translation>Давайте не будем показывать пьесы о сыновьях, убивающих своих отцов.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_OEDIPUS_TYRANNUS_YES</zType>
-		<Translation>Покажи, но давайте придерживаться версии Гомера в «Одиссее».</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_THE_OLYMPIAD_SOLDIER</zType>
-		<Translation>Победитель станет вашим личным советником.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_THE_OLYMPIAD_OPINION</zType>
-		<Translation>Мы пригласили спортсменов из всех стран.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_THE_OLYMPIAD_SPEECH</zType>
-		<Translation>Я подготовил зажигательную речь для церемонии.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_THE_LABYRINTH_YES</zType>
-		<Translation>Да, создать link(PROJECT_LABYRINTH).</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_THE_LABYRINTH_NO</zType>
-		<Translation>Это было бы пустой тратой энергии.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_THE_LABYRINTH_FOOLISH</zType>
-		<Translation>Мы не только должны его построить, но я буду первым, кто войдет!</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_THE_LABYRINTH_SUCCESS</zType>
-		<Translation>Распространяйте новости о своих достижениях повсюду.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_THE_LABYRINTH_FAILURE</zType>
-		<Translation>Тяжелые переживания меняют вас.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CITY_ANARCHY_DISTRACT</zType>
-		<Translation>Развлекайте горожан роскошными играми.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CITY_ANARCHY_BURN</zType>
-		<Translation>Сожги совет, пока он в нем.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CITY_ANARCHY_INVITE</zType>
-		<Translation>Пригласите совет на обед, чтобы привлечь их внимание.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CITY_AUTONOMY_YES</zType>
-		<Translation>Пусть они правят собой, пока платят налоги.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CITY_AUTONOMY_NO</zType>
-		<Translation>Никогда! Найдите благородного, {PLAYER-2,1} мужа для {CHARACTER-SHORT-1}.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_SAFE_HOUSES_OPTION_0</zType>
-		<Translation>Защищайте невиновных и всех, кому угрожает опасность.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_SAFE_HOUSES_OPTION_1</zType>
-		<Translation>Любой ценой удержать врага от наших складов.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_SAFE_HOUSES_OPTION_2</zType>
-		<Translation>Эвакуируйте дворян и спасите их владения.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_TO_ARMS_OPTION_0</zType>
-		<Translation>Нам отчаянно нужно больше бойцов.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_TO_ARMS_OPTION_1</zType>
-		<Translation>Разведка и поддержка солдат.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_TO_ARMS_OPTION_2</zType>
-		<Translation>Помогите успокоить и успокоить своих сограждан.</Translation>
-	</Entry>
+    <Translation>Пусть поселятся в {CITY-0}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_IMMIGRANTS_SCOUTS</zType>
+    <Translation>Используйте их в качестве разведчиков.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_IMMIGRANTS_MILITARY_INFANTRY</zType>
+    <Translation>Зарегистрируйте их в пехоте.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_IMMIGRANTS_MILITARY_MISSILE</zType>
+    <Translation>Обучайте их как солдат дальнего боя.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_SEASONAL_FESTIVAL_CIVICS</zType>
+    <Translation>Через государство все возможно!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_SEASONAL_FESTIVAL_SCIENCE</zType>
+    <Translation>За знаниями и наукой будущее!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_TAX_SURPLUS_MONEY</zType>
+    <Translation>Сохраните золото на будущее.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_TAX_SURPLUS_FOOD</zType>
+    <Translation>Покупайте еду для людей.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_TAX_SURPLUS_STONE</zType>
+    <Translation>Приносите больше камня из карьеров.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_TAX_SURPLUS_WOOD</zType>
+    <Translation>Увеличьте поставки древесины.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_TAX_SURPLUS_IRON</zType>
+    <Translation>Мы можем использовать дополнительное железо.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_ANCIENT_TEMPLE_DEVOTEE</zType>
+    <Translation>Пошлите преданных ухаживать за ним.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_ANCIENT_TEMPLE_STONE</zType>
+    <Translation>Разорвите его на строительный материал.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_CITIZEN_DEFENSE_WALLS</zType>
+    <Translation>Постройте защитные городские стены.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_CITIZEN_DEFENSE_TRAINING</zType>
+    <Translation>Проведите учения по чрезвычайным ситуациям.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_SCAVENGERS_FOOD</zType>
+    <Translation>Рискну оказать поддержку.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_SCAVENGERS_ORDERS</zType>
+    <Translation>Сейчас вы не нужны.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_VOLUNTEERS_WORKER</zType>
+    <Translation>Они должны заниматься каторжными работами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_VOLUNTEERS_SOLDIER</zType>
+    <Translation>Им следует взять в руки оружие.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_PROMISING_STUDENT_SCRIBE</zType>
+    <Translation>Работа на государственной службе.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_PROMISING_STUDENT_POET</zType>
+    <Translation>Поэтическое искусство и перформанс.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_PROMISING_STUDENT_CITIZEN</zType>
+    <Translation>Тяжелый труд</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_FOUND_ZOROASTRIANISM_YES</zType>
+    <Translation>Позвольте ему проповедовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_FOUND_ZOROASTRIANISM_NO</zType>
+    <Translation>Изгнать этого еретика.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_FOUND_JUDAISM_YES</zType>
+    <Translation>Пусть он разъяснит законы иудаизма.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_FOUND_JUDAISM_NO</zType>
+    <Translation>Изгоните этого так называемого монотеиста.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_VALUABLE_EXPERIENCE_ASTUTE</zType>
+    <Translation>Внимательно слушайте политических советников.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_VALUABLE_EXPERIENCE_WISDOM</zType>
+    <Translation>Ищите знания в книгах и у ученых.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_GIFTED_INVENTOR_SCIENTIST</zType>
+    <Translation>Как мыслитель и ученый.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_GIFTED_INVENTOR_SOLDIER</zType>
+    <Translation>Как военный инженер</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_DILIGENT_CLERK_MERCHANT</zType>
+    <Translation>Для управления моей бухгалтерской книгой.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_DILIGENT_CLERK_MINISTER</zType>
+    <Translation>Для надзора за государственными делами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_MATHEMATICAL_BREAKTHROUGH_SCIENTIST</zType>
+    <Translation>Добавьте их в суд.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_MATHEMATICAL_BREAKTHROUGH_SCIENCE</zType>
+    <Translation>Попросите их продолжить исследования.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_ASPIRING_OFFICER_SOLDIER</zType>
+    <Translation>Офицер должен обслуживать суд напрямую.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_ASPIRING_OFFICER_TRAINING</zType>
+    <Translation>Офицер должен оставаться и защищать {CITY-0}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_BENEVOLENT_TRADER_MERCHANT</zType>
+    <Translation>Нам нужен торговец на суде.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_BENEVOLENT_TRADER_MONEY</zType>
+    <Translation>Выразите нашу признательность.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_TALENTED_POLITICIAN_MINISTER</zType>
+    <Translation>Нам нужен новый дипломат на суде.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_TALENTED_POLITICIAN_CIVICS</zType>
+    <Translation>Проталкивать благоприятную политику в суд.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_FASHIONABLE_PAINTER_CAPITAL</zType>
+    <Translation>Нам нужен новый королевский художник-портретист.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_FASHIONABLE_PAINTER_MURAL</zType>
+    <Translation>Закажите большую общественную фреску.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_ATHLETIC_GAMES_JUDGE</zType>
+    <Translation>Руководить играми в качестве судьи.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_ATHLETIC_GAMES_COMPETE</zType>
+    <Translation>Сам участвовать в соревнованиях по борьбе.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_ATHLETIC_GAMES_GAMBLE</zType>
+    <Translation>Делать ставки на спортсменов.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_POETRY_CONTEST_RECITE</zType>
+    <Translation>Преодолейте страхи {G0:его:ее} и прочтите собственные стихи {G0:его:ее}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_POETRY_CONTEST_ATTEND</zType>
+    <Translation>Приходите анонимно, чтобы лучше оценить красоту.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_POETRY_CONTEST_JUDGE</zType>
+    <Translation>Оцените лирические достоинства каждой записи.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_PUBLIC_FEAST_MODERATION</zType>
+    <Translation>Проявляйте хорошие манеры и ешьте досыта.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_PUBLIC_FEAST_POOR</zType>
+    <Translation>Раздайте несъеденную пищу бедным.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAPPINESS_PUBLIC_FEAST_STORE</zType>
+    <Translation>Сохраняйте несъеденные продукты на случай будущих лишений.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_SHIP_BORNE_PLAGUE_OPTION_0</zType>
+    <Translation>Предоставлять врачам возможность улучшить условия.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_SHIP_BORNE_PLAGUE_OPTION_1</zType>
+    <Translation>Запретить иммигрантам въезд в город {CITY-0}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_SHIP_BORNE_PLAGUE_OPTION_2</zType>
+    <Translation>Сжигайте зараженные участки, чтобы уничтожить болезнь.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CHILD_MIDWIVES_OPTION_0</zType>
+    <Translation>Создать школу для подготовки акушерок.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CHILD_MIDWIVES_OPTION_1</zType>
+    <Translation>Найдите больше врачей для лечения больных и немощных.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_EARTHQUAKE_OPTION_0</zType>
+    <Translation>Мы должны усерднее работать, чтобы угодить богам.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_EARTHQUAKE_OPTION_1</zType>
+    <Translation>Наши инженерные разработки нуждаются в улучшении.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_EARTHQUAKE_OPTION_2</zType>
+    <Translation>Это совпадение, и мы ничего не можем сделать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MINES_OF_LAURION_YES</zType>
+    <Translation>Купите им необходимые инструменты.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MINES_OF_LAURION_NO</zType>
+    <Translation>Любые вложения обходятся слишком дорого.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_FOREST_FIRE_OPTION_0</zType>
+    <Translation>Ничего. Природа бывает жестокой.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_FOREST_FIRE_OPTION_1</zType>
+    <Translation>Обыщите местность на предмет возможных пожаров.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_FOREST_FIRE_WOOD_OPTION_0</zType>
+    <Translation>Это хорошие новости.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_FOREST_FIRE_EMBERS_OPTION_0</zType>
+    <Translation>Жители {CITY-1} недовольны.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_FOREST_FIRE_ORPHAN_OPTION_0</zType>
+    <Translation>Финансируйте ее обучение, а затем доставьте ее в суд.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_FOREST_FIRE_ORPHAN_OPTION_1</zType>
+    <Translation>Предложите ей должность писца в {CITY-1}. </Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_FOREST_FIRE_ORPHAN_OPTION_2</zType>
+    <Translation>Я приму ее в свою королевскую семью.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_FOREST_FIRE_TOMB_OPTION_2</zType>
+    <Translation>Посоветуйтесь с местными жителями, что они хотят сделать с этой гробницей.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_FOREST_FIRE_TOMB_OPTION_1</zType>
+    <Translation>Сохранить первоначальное величие гробницы.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_FOREST_FIRE_TOMB_OPTION_0</zType>
+    <Translation>Найдите в гробнице ценные сокровища.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_FOREST_FIRE_MONUMENT_OPTION_2</zType>
+    <Translation>Сейчас мы не можем себе этого позволить.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_FOREST_FIRE_MONUMENT_OPTION_1</zType>
+    <Translation>Объявить гробницу национальным памятником.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_PETS</zType>
+    <Translation>Продавайте их богатым как экзотических домашних животных.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_RESEARCH</zType>
+    <Translation>Отправьте экспедицию, чтобы узнать о них больше.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_SYMBOL</zType>
+    <Translation>Объявить этот вид охраняемым ресурсом.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_LOCALS</zType>
+    <Translation>Оставьте это дело местным жителям в {CITY-1}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_FISH_CRABS_OPTION_0</zType>
+    <Translation>Если мы сократим количество рыбы, выживет больше крабов.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_FISH_BIRDS_OPTION_2</zType>
+    <Translation>Постарайтесь привлечь туристов, чтобы увидеть красивые стаи.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_FISH_BIRDS_OPTION_0</zType>
+    <Translation>Отпугните птиц, чтобы рыба могла процветать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_SNAKE_OPTION_0</zType>
+    <Translation>Разрешить заинтересованным местным жителям принимать участие в исследованиях.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_SPIDER_OPTION_0</zType>
+    <Translation>Выдать их за редкие коллекционные предметы.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_SPIDER_OPTION_2</zType>
+    <Translation>Поощряйте граждан сообщать обо всем, что интересует.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NEW_TYPE_OF_ANIMAL_DISCOVERED_GEMS_OPTION_0</zType>
+    <Translation>Мы хорошо заплатим за новый источник драгоценных камней.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_OPPORTUNITIES_FOR_ALL_OPTION_0</zType>
+    <Translation>Улучшить условия труда рабочих.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_OPPORTUNITIES_FOR_ALL_OPTION_1</zType>
+    <Translation>Создавайте более специализированные рабочие места.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_OPPORTUNITIES_FOR_ALL_OPTION_2</zType>
+    <Translation>Открытые возможности для государственной службы.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_A_BEACON_OPTION_0</zType>
+    <Translation>Добавьте их количество в армию.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_A_BEACON_OPTION_1</zType>
+    <Translation>Обеспечьте своих пожилых людей работой.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_A_BEACON_OPTION_2</zType>
+    <Translation>Сделайте их официальными гражданами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_TEMPLE_HYMNS_OPTION_0</zType>
+    <Translation>Все могут насладиться этим благословением.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_TEMPLE_HYMNS_OPTION_1</zType>
+    <Translation>Взимайте плату за эти гимны.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_TEMPLE_HYMNS_OPTION_2</zType>
+    <Translation>Сделать религию приоритетной задачей государства.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_FREEDOM_MOVEMENT_OPTION_0</zType>
+    <Translation>{CITY-0} не подчиняется национальному законодательству.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_FREEDOM_MOVEMENT_OPTION_1</zType>
+    <Translation>Пусть они поэкспериментируют с рабством.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_FREEDOM_MOVEMENT_OPTION_2</zType>
+    <Translation>Свобода пришла давно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_PAID_FUNCTION_OPTION_0</zType>
+    <Translation>Установите link(PROJECT_MISTHOPHORIA) в {CITY-0}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_PAID_FUNCTION_OPTION_1</zType>
+    <Translation>Требовать обязательного обслуживания жюри.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_PAID_FUNCTION_OPTION_2</zType>
+    <Translation>Держитесь подальше от правовой системы {CITY-0}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_THE_PUBLIC_PURSE_OPTION_0</zType>
+    <Translation>Установить link(PROJECT_GRAIN_DOLE) в {CITY-0}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_THE_PUBLIC_PURSE_OPTION_1</zType>
+    <Translation>Используйте деньги, чтобы влиять на ключевую знать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_THE_PUBLIC_PURSE_OPTION_2</zType>
+    <Translation>Купите еду, чтобы раздать голодным.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_A_GOLDEN_AGE_OPTION_0</zType>
+    <Translation>Проведите неделю выступлений и стихов.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_A_GOLDEN_AGE_OPTION_1</zType>
+    <Translation>Признать вклад правительства.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_A_GOLDEN_AGE_OPTION_2</zType>
+    <Translation>Проверяйте казначейство на предмет неэффективных действий.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CULTURE_A_GOLDEN_AGE_OPTION_3</zType>
+    <Translation>Прекращение пиршествахи праздники.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_THE_ZIGGURAT_OPTION_0</zType>
+    <Translation>Посвятите этот храм Любви.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_THE_ZIGGURAT_OPTION_1</zType>
+    <Translation>Посвятите этот храм Мудрости.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WONDER_THE_ZIGGURAT_OPTION_2</zType>
+    <Translation>Посвятите эту святыню войне.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HEIR_EXPERTISE_ANGLER_OPTION_0</zType>
+    <Translation>Пусть рыбак научит {CHARACTER-0} управлять рыбалкой.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HEIR_EXPERTISE_ANGLER_OPTION_1</zType>
+    <Translation>Назначьте Рыбака ответственным за обучение специалистов-рыболовов в {CITY-1}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_GLADIATOR_GAMES_YES</zType>
+    <Translation>Да, финансируйте когорту комбатантов.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_GLADIATOR_GAMES_NO</zType>
+    <Translation>Кровь не должна быть спортом.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_GLADIATOR_GAMES_SOLDIER</zType>
+    <Translation>Я сам их обучу!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_OEDIPUS_TYRANNUS_NO</zType>
+    <Translation>Давайте не будем показывать пьесы о сыновьях, убивающих своих отцов.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_OEDIPUS_TYRANNUS_YES</zType>
+    <Translation>Покажи, но давайте придерживаться версии Гомера в «Одиссее».</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_OLYMPIAD_SOLDIER</zType>
+    <Translation>Победитель станет вашим личным советником.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_OLYMPIAD_OPINION</zType>
+    <Translation>Мы пригласили спортсменов из всех стран.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_OLYMPIAD_SPEECH</zType>
+    <Translation>Я подготовил зажигательную речь для церемонии.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_LABYRINTH_YES</zType>
+    <Translation>Да, создать link(PROJECT_LABYRINTH).</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_LABYRINTH_NO</zType>
+    <Translation>Это было бы пустой тратой энергии.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_LABYRINTH_FOOLISH</zType>
+    <Translation>Мы не только должны его построить, но я буду первым, кто войдет!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_LABYRINTH_SUCCESS</zType>
+    <Translation>Распространяйте новости о своих достижениях повсюду.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_LABYRINTH_FAILURE</zType>
+    <Translation>Тяжелые переживания меняют вас.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CITY_ANARCHY_DISTRACT</zType>
+    <Translation>Развлекайте горожан роскошными играми.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CITY_ANARCHY_BURN</zType>
+    <Translation>Сожги совет, пока он в нем.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CITY_ANARCHY_INVITE</zType>
+    <Translation>Пригласите совет на обед, чтобы привлечь их внимание.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CITY_AUTONOMY_YES</zType>
+    <Translation>Пусть они правят собой, пока платят налоги.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CITY_AUTONOMY_NO</zType>
+    <Translation>Никогда! Найдите благородного, {PLAYER-2,1} мужа для {CHARACTER-SHORT-1}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SAFE_HOUSES_OPTION_0</zType>
+    <Translation>Защищайте невиновных и всех, кому угрожает опасность.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SAFE_HOUSES_OPTION_1</zType>
+    <Translation>Любой ценой удержать врага от наших складов.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SAFE_HOUSES_OPTION_2</zType>
+    <Translation>Эвакуируйте дворян и спасите их владения.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TO_ARMS_OPTION_0</zType>
+    <Translation>Нам отчаянно нужно больше бойцов.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TO_ARMS_OPTION_1</zType>
+    <Translation>Разведка и поддержка солдат.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TO_ARMS_OPTION_2</zType>
+    <Translation>Помогите успокоить и успокоить своих сограждан.</Translation>
+  </Entry>
 	<Entry beginGroup="Religion">
-		<zType>TEXT_EVENTOPTION_GODS_AND_MONSTERS_OPTION_0</zType>
-		<Translation>Мы можем извлечь уроки из этих историй о {RELIGION-1,1}.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_GODS_AND_MONSTERS_OPTION_1</zType>
-		<Translation>Лучше довериться науке.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSINGS_OF_OUR_ANCESTORS_OPTION_0</zType>
-		<Translation>Почитать наших предков - это право.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSINGS_OF_OUR_ANCESTORS_OPTION_1</zType>
-		<Translation>Вместо этого они должны поклоняться мне.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_RELIGIOUS_LAW_OPTION_0</zType>
-		<Translation>Эти меры принимает суд.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_RELIGIOUS_LAW_OPTION_1</zType>
-		<Translation>Нельзя смешивать закон и религию.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_ILLUMINATION_OPTION_0</zType>
-		<Translation>Это единственное истинное учение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_ILLUMINATION_OPTION_1</zType>
-		<Translation>Я хочу услышать больше голосов.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_PERSONAL_FAITH_OPTION_0</zType>
-		<Translation>Пусть каждый из нас последует собственному пониманию.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_PERSONAL_FAITH_OPTION_1</zType>
-		<Translation>Я не позволю дворянам влиять на религию.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DELIVERANCE_OPTION_0</zType>
-		<Translation>Я хочу быть среди спасенных.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DELIVERANCE_OPTION_1</zType>
-		<Translation>{PLAYER-2} не обязан богам.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_MALEVOLENCE_OPTION_0</zType>
-		<Translation>Мы вместе столкнемся с этим злом.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_MALEVOLENCE_OPTION_1</zType>
-		<Translation>Настоящая битва идет с врагами {PLAYER-3}.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_MYSTICAL_TRANCE_OPTION_0</zType>
-		<Translation>Ответы лежат на более высоком уровне.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_MYSTICAL_TRANCE_OPTION_1</zType>
-		<Translation>Для меня это похоже на суеверие.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_THE_RIGHTEOUS_PATH_OPTION_0</zType>
-		<Translation>{RELIGION-2,3} не может собираться в больших количествах.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_THE_RIGHTEOUS_PATH_OPTION_1</zType>
-		<Translation>Верующие могут двигаться и собираться, как им заблагорассудится.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_THE_RIGHTEOUS_PATH_OPTION_2</zType>
-		<Translation>Я не буду вмешиваться.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_RELIGION_OPINION_0</zType>
-		<Translation>[{RELIGION-0}]</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_RELIGION_OPINION_1</zType>
-		<Translation>[{RELIGION-1}]</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_RELIGION_OPINION_2</zType>
-		<Translation>[ВАША КРАСОТА ВПЕЧАТЛЯЕТ ИХ]</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_THE_GODS_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_THE_GODS_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_THE_GODS_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_THE_GODS_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_THE_GODS_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_THE_GODS_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_NINURTA_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_NINURTA_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_NINURTA_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_NINURTA_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_NINURTA_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_NINURTA_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_MARS_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_MARS_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_MARS_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_MARS_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MARS_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MARS_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_NUSKA_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_NUSKA_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_NUSKA_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_NUSKA_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_NUSKA_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_NUSKA_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ATAR_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ATAR_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ATAR_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ATAR_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ATAR_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ATAR_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_VULCAN_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_VULCAN_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_VULCAN_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_VULCAN_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_VULCAN_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_VULCAN_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_NABU_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_NABU_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_NABU_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_NABU_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_NABU_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_NABU_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ATHENA_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ATHENA_OPTION_1</zType>
-		<Translation>Увы, самое главное.нажатие.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ATHENA_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ATHENA_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ATHENA_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ATHENA_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_SHAMASH_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_SHAMASH_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_SHAMASH_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_SHAMASH_OPTION_1</zType>
-		<Translation>DePlease примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_SHAMASH_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_SHAMASH_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_RA_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_RA_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_RA_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_RA_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_RA_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_RA_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_HVAR_KHSHAITA_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_HVAR_KHSHAITA_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_HVAR_KHSHAITA_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_HVAR_KHSHAITA_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_HVAR_KHSHAITA_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_HVAR_KHSHAITA_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_MELQART_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_MELQART_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_MELQART_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_MELQART_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MELQART_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MELQART_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_POSEIDON_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_POSEIDON_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_POSEIDON_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_POSEIDON_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_POSEIDON_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_POSEIDON_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ANAHITA_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ANAHITA_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ANAHITA_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ANAHITA_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ANAHITA_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ANAHITA_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ISHTAR_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ISHTAR_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ISHTAR_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ISHTAR_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ISHTAR_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ISHTAR_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ASTARTE_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ASTARTE_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ASTARTE_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ASTARTE_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ASTARTE_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ASTARTE_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_VENUS_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_VENUS_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_VENUS_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_VENUS_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_VENUS_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_VENUS_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ERESHKIGAL_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ERESHKIGAL_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ERESHKIGAL_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ERESHKIGAL_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ERESHKIGAL_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>	
-    <Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ERESHKIGAL_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_OSIRIS_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_OSIRIS_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_OSIRIS_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_OSIRIS_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_OSIRIS_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_OSIRIS_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_HADES_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_HADES_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_HADES_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_HADES_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_HADES_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_HADES_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ESHMUN_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ESHMUN_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ESHMUN_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ESHMUN_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ESHMUN_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ESHMUN_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ISIS_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ISIS_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ISIS_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ISIS_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ISIS_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ISIS_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ASHUR_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ASHUR_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ASHUR_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ASHUR_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ASHUR_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ASHUR_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_MARDUK_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_MARDUK_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_MARDUK_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_MARDUK_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MARDUK_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MARDUK_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ZEUS_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_ZEUS_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ZEUS_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_ZEUS_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ZEUS_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ZEUS_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_TANIT_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_TANIT_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_TANIT_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_TANIT_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_TANIT_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_TANIT_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_VESTA_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_VESTA_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_VESTA_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_VESTA_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_VESTA_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_VESTA_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_NEITH_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_NEITH_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_NEITH_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_NEITH_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_NEITH_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_NEITH_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_MITHRA_OPTION_0</zType>
-		<Translation>Для нас большая честь участвовать.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_BLESSING_OF_MITHRA_OPTION_1</zType>
-		<Translation>Увы, дела стоят очень остро.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_MITHRA_OPTION_0</zType>
-		<Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DEDICATION_OF_MITHRA_OPTION_1</zType>
-		<Translation>Примите мои глубочайшие извинения</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MITHRA_OPTION_0</zType>
-		<Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MITHRA_OPTION_1</zType>
-		<Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
-	</Entry>
+    <zType>TEXT_EVENTOPTION_GODS_AND_MONSTERS_OPTION_0</zType>
+    <Translation>Мы можем извлечь уроки из этих историй о {RELIGION-1,1}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_GODS_AND_MONSTERS_OPTION_1</zType>
+    <Translation>Лучше довериться науке.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSINGS_OF_OUR_ANCESTORS_OPTION_0</zType>
+    <Translation>Почитать наших предков - это право.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSINGS_OF_OUR_ANCESTORS_OPTION_1</zType>
+    <Translation>Вместо этого они должны поклоняться мне.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_RELIGIOUS_LAW_OPTION_0</zType>
+    <Translation>Эти меры принимает суд.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_RELIGIOUS_LAW_OPTION_1</zType>
+    <Translation>Нельзя смешивать закон и религию.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_ILLUMINATION_OPTION_0</zType>
+    <Translation>Это единственное истинное учение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_ILLUMINATION_OPTION_1</zType>
+    <Translation>Я хочу услышать больше голосов.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_PERSONAL_FAITH_OPTION_0</zType>
+    <Translation>Пусть каждый из нас последует собственному пониманию.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_PERSONAL_FAITH_OPTION_1</zType>
+    <Translation>Я не позволю дворянам влиять на религию.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DELIVERANCE_OPTION_0</zType>
+    <Translation>Я хочу быть среди спасенных.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DELIVERANCE_OPTION_1</zType>
+    <Translation>{PLAYER-2} не обязан богам.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MALEVOLENCE_OPTION_0</zType>
+    <Translation>Мы вместе столкнемся с этим злом.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MALEVOLENCE_OPTION_1</zType>
+    <Translation>Настоящая битва идет с врагами {PLAYER-3}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MYSTICAL_TRANCE_OPTION_0</zType>
+    <Translation>Ответы лежат на более высоком уровне.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MYSTICAL_TRANCE_OPTION_1</zType>
+    <Translation>Для меня это похоже на суеверие.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_RIGHTEOUS_PATH_OPTION_0</zType>
+    <Translation>{RELIGION-2,3} не может собираться в больших количествах.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_RIGHTEOUS_PATH_OPTION_1</zType>
+    <Translation>Верующие могут двигаться и собираться, как им заблагорассудится.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_RIGHTEOUS_PATH_OPTION_2</zType>
+    <Translation>Я не буду вмешиваться.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_RELIGION_OPINION_0</zType>
+    <Translation>[{RELIGION-0}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_RELIGION_OPINION_1</zType>
+    <Translation>[{RELIGION-1}]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_RELIGION_OPINION_2</zType>
+    <Translation>[ВАША КРАСОТА ВПЕЧАТЛЯЕТ ИХ]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_THE_GODS_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_THE_GODS_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_THE_GODS_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_THE_GODS_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_THE_GODS_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_THE_GODS_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_NINURTA_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_NINURTA_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_NINURTA_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_NINURTA_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_NINURTA_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_NINURTA_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_MARS_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_MARS_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_MARS_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_MARS_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MARS_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MARS_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_NUSKA_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_NUSKA_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_NUSKA_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_NUSKA_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_NUSKA_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_NUSKA_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ATAR_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ATAR_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ATAR_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ATAR_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ATAR_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ATAR_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_VULCAN_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_VULCAN_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_VULCAN_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_VULCAN_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_VULCAN_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_VULCAN_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_NABU_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_NABU_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_NABU_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_NABU_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_NABU_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_NABU_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ATHENA_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ATHENA_OPTION_1</zType>
+    <Translation>Увы, самое главное.нажатие.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ATHENA_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ATHENA_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ATHENA_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ATHENA_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_SHAMASH_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_SHAMASH_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_SHAMASH_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_SHAMASH_OPTION_1</zType>
+    <Translation>DePlease примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_SHAMASH_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_SHAMASH_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_RA_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_RA_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_RA_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_RA_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_RA_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_RA_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_HVAR_KHSHAITA_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_HVAR_KHSHAITA_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_HVAR_KHSHAITA_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_HVAR_KHSHAITA_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_HVAR_KHSHAITA_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_HVAR_KHSHAITA_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_MELQART_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_MELQART_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_MELQART_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_MELQART_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MELQART_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MELQART_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_POSEIDON_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_POSEIDON_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_POSEIDON_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_POSEIDON_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_POSEIDON_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_POSEIDON_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ANAHITA_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ANAHITA_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ANAHITA_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ANAHITA_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ANAHITA_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ANAHITA_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ISHTAR_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ISHTAR_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ISHTAR_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ISHTAR_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ISHTAR_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ISHTAR_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ASTARTE_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ASTARTE_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ASTARTE_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ASTARTE_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ASTARTE_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ASTARTE_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_VENUS_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_VENUS_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_VENUS_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_VENUS_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_VENUS_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_VENUS_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ERESHKIGAL_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ERESHKIGAL_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ERESHKIGAL_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ERESHKIGAL_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ERESHKIGAL_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>	
+   <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ERESHKIGAL_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_OSIRIS_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_OSIRIS_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_OSIRIS_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_OSIRIS_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_OSIRIS_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_OSIRIS_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_HADES_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_HADES_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_HADES_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_HADES_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_HADES_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_HADES_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ESHMUN_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ESHMUN_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ESHMUN_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ESHMUN_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ESHMUN_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ESHMUN_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ISIS_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ISIS_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ISIS_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ISIS_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ISIS_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ISIS_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ASHUR_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ASHUR_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ASHUR_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ASHUR_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ASHUR_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ASHUR_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_MARDUK_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_MARDUK_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_MARDUK_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_MARDUK_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MARDUK_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MARDUK_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ZEUS_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_ZEUS_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ZEUS_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_ZEUS_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ZEUS_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_ZEUS_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_TANIT_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_TANIT_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_TANIT_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_TANIT_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_TANIT_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_TANIT_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_VESTA_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_VESTA_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_VESTA_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_VESTA_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_VESTA_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_VESTA_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_NEITH_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_NEITH_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_NEITH_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_NEITH_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_NEITH_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_NEITH_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_MITHRA_OPTION_0</zType>
+    <Translation>Для нас большая честь участвовать.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BLESSING_OF_MITHRA_OPTION_1</zType>
+    <Translation>Увы, дела стоят очень остро.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_MITHRA_OPTION_0</zType>
+    <Translation>Спасибо, мы примем ваше любезное предложение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DEDICATION_OF_MITHRA_OPTION_1</zType>
+    <Translation>Примите мои глубочайшие извинения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MITHRA_OPTION_0</zType>
+    <Translation>Я смиряюсь перед богами и их покорными слугами.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MITHRA_OPTION_1</zType>
+    <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
+  </Entry>
 	<Entry beginGroup="Law">
     <zType>TEXT_EVENTOPTION_THREAT_OF_MUTINY_OPTION_0</zType>
-		<Translation>{PLAYER-1} обретет свободу.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>{PLAYER-1} обретет свободу.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_THREAT_OF_MUTINY_OPTION_1</zType>
-		<Translation>Двор подчиняется воле своего {G1:короля:королевы}.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Двор подчиняется воле своего {G1:короля:королевы}.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_WEAK_WILL_OPTION_0</zType>
-		<Translation>Да, рабство - это естественный порядок.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Да, рабство - это естественный порядок.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_WEAK_WILL_OPTION_1</zType>
-		<Translation>Я не буду отвечать на пустые угрозы.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Я не буду отвечать на пустые угрозы.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_WEAK_WILL_OPTION_2</zType>
-		<Translation>{G1:Ему:Ей} следует помнить {G1:его:ее} место.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>{G1:Ему:Ей} следует помнить {G1:его:ее} место.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_MUST_I_DO_EVERYTHING_OPTION_0</zType>
-		<Translation>{FAMILY-0,1} нельзя доверять</Translation>
-	</Entry>
-	<Entry>
+    <Translation>{FAMILY-0,1} нельзя доверять</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_MUST_I_DO_EVERYTHING_OPTION_1</zType>
-		<Translation>Не мне критиковать методы {FAMILY-0}.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Не мне критиковать методы {FAMILY-0}.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_BALANCE_OF_POWER_OPTION_0</zType>
-		<Translation>Мы возьмем на себя управление ... неохотно.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Мы возьмем на себя управление ... неохотно.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_BALANCE_OF_POWER_OPTION_1</zType>
-		<Translation>Они должны сами устранить беспорядок.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Они должны сами устранить беспорядок.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_TIME_TO_CELEBRATE_OPTION_0</zType>
-		<Translation>Самый старый и самый достойный.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Самый старый и самый достойный.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_TIME_TO_CELEBRATE_OPTION_1</zType>
-		<Translation>Глава каждой дворянской семьи.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Глава каждой дворянской семьи.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_TIME_TO_CELEBRATE_OPTION_2</zType>
-		<Translation>Беднейшие из бедных.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Беднейшие из бедных.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_A_SINGULAR_VISION_OPTION_0</zType>
-		<Translation>Я буду править так, как считаю нужным.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Я буду править так, как считаю нужным.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_A_SINGULAR_VISION_OPTION_1</zType>
-		<Translation>Вы делаете предложения в последний раз.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Вы делаете предложения в последний раз.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_A_SINGULAR_VISION_OPTION_2</zType>
-		<Translation>Нашей страной не может управлять один человек.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Нашей страной не может управлять один человек.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_SHARE_THE_BURDEN_OPTION_0</zType>
-		<Translation>Давайте задокументируем наши принципы.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Давайте задокументируем наши принципы.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_SHARE_THE_BURDEN_OPTION_1</zType>
-		<Translation>Мое слово - единственный закон.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Мое слово - единственный закон.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_THE_STREET_SINGER_OPTION_0</zType>
-		<Translation>Исследует другие земли и записывает свои путешествия.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Исследует другие земли и записывает свои путешествия.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_THE_STREET_SINGER_OPTION_1</zType>
-		<Translation>Написание великих произведений национальной гордости.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Написание великих произведений национальной гордости.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_THE_STREET_SINGER_OPTION_2</zType>
-		<Translation>Служение нации часть нашего правительства.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Служение нации часть нашего правительства.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_NEW_HORIZONS_OPTION_0</zType>
-		<Translation>{CHARACTER-1} прав.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>{CHARACTER-1} прав.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_NEW_HORIZONS_OPTION_1</zType>
-		<Translation>Глупо игнорировать внешний мир.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Глупо игнорировать внешний мир.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_IDLE_HANDS_OPTION_0</zType>
-		<Translation>Мы не должны мешать нашему устойчивому росту.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Мы не должны мешать нашему устойчивому росту.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_IDLE_HANDS_OPTION_1</zType>
-		<Translation>Профессиональные солдаты будут в приоритете.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Профессиональные солдаты будут в приоритете.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_IDLE_HANDS_OPTION_2</zType>
-		<Translation>Я хочу по возможности избегать других народов.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Я хочу по возможности избегать других народов.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_A_FEEBLE_MILITARY_OPTION_0</zType>
-		<Translation>Добровольцы - ядро нашей армии.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Добровольцы - ядро нашей армии.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_A_FEEBLE_MILITARY_OPTION_1</zType>
-		<Translation>Обученная постоянная армия обеспечит нам безопасность.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Обученная постоянная армия обеспечит нам безопасность.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_CAPTIVES_OF_BELIEF_OPTION_0</zType>
-		<Translation>Освободите их, они достаточно долго страдали.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Освободите их, они достаточно долго страдали.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_CAPTIVES_OF_BELIEF_OPTION_1</zType>
-		<Translation>Держите их взаперти, подальше от наших людей.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Держите их взаперти, подальше от наших людей.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_HEAVENS_CHOSEN_OPTION_0</zType>
-		<Translation>Всем должно быть ясно, что я не бог.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Всем должно быть ясно, что я не бог.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_HEAVENS_CHOSEN_OPTION_1</zType>
-		<Translation>Божественному нет места в нашей политике.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Божественному нет места в нашей политике.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_HEAVENS_CHOSEN_OPTION_2</zType>
-		<Translation>Это правда. Небеса направляют мою руку.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Это правда. Небеса направляют мою руку.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_FRIEND_OF_THE_FAITH_OPTION_0</zType>
-		<Translation>Здесь все могут поклоняться.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Здесь все могут поклоняться.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_FRIEND_OF_THE_FAITH_OPTION_1</zType>
-		<Translation>Установить ограничения для паломников на посещение.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Установить ограничения для паломников на посещение.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_ABUNDANCE_OF_RICHES_OPTION_0</zType>
-		<Translation>Мы должны воздерживать наших людей.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Мы должны воздерживать наших людей.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_ABUNDANCE_OF_RICHES_OPTION_1</zType>
-		<Translation>Правители должны жить в роскоши.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Правители должны жить в роскоши.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_UNPAID_DEBTS_OPTION_0</zType>
-		<Translation>Обесценение монет заставит экономике развиваться.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Обесценение монет заставит экономике развиваться.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_UNPAID_DEBTS_OPTION_1</zType>
-		<Translation>Выплачивайте ссуды тем, что есть в казне.</Translation>
-	</Entry>
-	<Entry>
+    <Translation>Выплачивайте ссуды тем, что есть в казне.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_LAW_UNPAID_DEBTS_OPTION_2</zType>
-		<Translation>Откажитесь оказывать {PLAYER-2,3} поддержку.</Translation>
-	</Entry>
+    <Translation>Откажитесь оказывать {PLAYER-2,3} поддержку.</Translation>
+  </Entry>
 	<Entry beginGroup="Miscellaneous">
     <zType>TEXT_EVENTOPTION_ADOPT_RELIGION_YES</zType>
     <Translation>Принять {RELIGION-0}.</Translation>
@@ -14550,15 +14558,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MYSTERIOUS_SWORD_GIFTS</zType>
-    <Translation>Я принимаю меч с подарками для фермера.</Translation>
+    <Translation>Я принимаю меч, с дарами для фермера.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MYSTERIOUS_SWORD_DISMISS</zType>
-    <Translation>Меч по праву принадлежит мне! Отдай мне!</Translation>
+    <Translation>Меч по праву принадлежит мне! Отдай его!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MYSTERIOUS_SWORD_REFUSE</zType>
-    <Translation>Скорее всего, проклят. Немедленно отошлите его.</Translation>
+    <Translation>Скорее всего он проклят. Немедленно уберите его.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MYSTERIOUS_SWORD_USING_WIELD</zType>
@@ -14666,7 +14674,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DARKENED_MOON_GODS</zType>
-    <Translation>Делайте подношения богам и молитесь о дневном свете.</Translation>
+    <Translation>Делайте подношения и молитесь.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RENOWNED_BEAUTY_ADVICE</zType>
@@ -14942,8 +14950,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELIGIOUS_FREEDOM_ORTHODOXY</zType>
-    <Translation>Мы поддержим истинную веру -
-    {RELIGION-1,3}.</Translation>
+    <Translation>Мы поддержим истинную веру - {RELIGION-1}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELIGIOUS_FREEDOM_TOLERANCE</zType>
@@ -15059,8 +15066,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TECH_LATEEN_ADRIFT_OPTION_0</zType>
-    <Translation>Мы должны защитить {RELIGION-3} и его
-    последователей.</Translation>
+    <Translation>Мы должны защитить {RELIGION-3} и его последователей.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TECH_LATEEN_ADRIFT_OPTION_1</zType>
@@ -15200,7 +15206,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TECH_BARDING_A_FRIENDLY_REQUEST_OPTION_1</zType>
-    <Translation>Наши военные обучат {ИГРОКА-1} бардингу.</Translation>
+    <Translation>Наши военные обучат {PLAYER-1} бардингу.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TECH_BARDING_A_FRIENDLY_REQUEST_OPTION_2</zType>
@@ -15544,11 +15550,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELIGION_THEY_DO_NOT_BELONG_OPTION_1</zType>
-    <Translation>Соблюдайте законы, ограничивающие {РЕЛИГИЮ-2}.</Translation>
+    <Translation>Соблюдайте законы, ограничивающие {RELIGION-2}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELIGION_THEY_DO_NOT_BELONG_OPTION_2</zType>
-    <Translation>Сделайте {РЕЛИГИЮ-2} нашей новой государственной религией.</Translation>
+    <Translation>Сделайте {RELIGION-2} нашей новой государственной религией.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELIGION_BOW_BEFORE_US_OPTION_0</zType>
@@ -15560,7 +15566,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELIGION_BOW_BEFORE_US_OPTION_2</zType>
-    <Translation>Сделать {РЕЛИГИЮ-0} нашей государственной религией.</Translation>
+    <Translation>Сделать {RELIGION-0} нашей государственной религией.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELIGION_BOW_BEFORE_US_OPTION_3</zType>
@@ -16016,7 +16022,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_IN_ABSENTIA_OPTION_0</zType>
-    <Translation>Не нужно извинений. {CHARACTER-SHORT-1} просто не {G1:знал:знала}  {G2:его:ее} с хорошей стороны.</Translation>
+    <Translation>Не нужно извинений. {CHARACTER-SHORT-1} просто не {G1:знал:знала} {G2:его:ее} с хорошей стороны.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_IN_ABSENTIA_OPTION_1</zType>
@@ -16184,7 +16190,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STORIES_OF_GLORY_OPTION_1</zType>
-    <Translation>Внешний мир держит {PLAYER-0}   будущее.</Translation>
+    <Translation>Внешний мир держит {PLAYER-0} будущее.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STORIES_OF_GLORY_OPTION_2</zType>
@@ -17160,7 +17166,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_TOO_MUCH_ATTENTION_OPTION_0</zType>
-    <Translation>Я должен отказаться. {G0:ему:ей} неправильно поняли намерениями.</Translation>
+    <Translation>Я должен отказаться. {G0:Eму:Eй} неправильно поняли намерениями.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_TOO_MUCH_ATTENTION_OPTION_1</zType>
@@ -17188,7 +17194,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_A_WARM_BED_OPTION_1</zType>
-    <Translation>{G0:ему:ей} слишком многого требует.</Translation>
+    <Translation>{G0:Он:Она} слишком многого требует.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_A_WARM_BED_OPTION_2</zType>
@@ -17200,7 +17206,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_SURPRISE_BENEFACTOR_OPTION_1</zType>
-    <Translation>{G2:ему:ей} мог бы использовать некоторые политические связи.</Translation>
+    <Translation>{G2:Он мог:Она могла} бы использовать некоторые политические связи.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFLUENCE_SURPRISE_BENEFACTOR_OPTION_2</zType>
@@ -17296,7 +17302,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COMPLICATIONS_OPTION_0</zType>
-    <Translation>Суду нужно рассмотреть более важные дела.</Translation>
+    <Translation>Правительству нужно рассмотреть более важные дела.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COMPLICATIONS_OPTION_1</zType>
@@ -18712,7 +18718,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELIGIOUS_UPRISING_SUBDUE</zType>
-    <Translation>Как они смеют сомневаться в превосходстве {РЕЛИГИИ-2}!</Translation>
+    <Translation>Как они смеют сомневаться в превосходстве {RELIGION-2}!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_KILLED_IN_COLD_WATER_SIDE_WITH_FIRST_FAMILY</zType>
@@ -19020,7 +19026,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COMING_OF_AGE_HEAD</zType>
-    <Translation>Попросите {ПЕРСОНАЖА-4} почтить нашу семью, прочитав сиддур на церемонии.</Translation>
+    <Translation>Попросите {CHARACTER-4} почтить нашу семью, прочитав сиддур на церемонии.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COMING_OF_AGE_SELF</zType>
@@ -19032,7 +19038,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUINS_RELIGIOUS_CARVINGS_OPTION_0</zType>
-    <Translation>Должно быть, это произошло от предшественника {РЕЛИГИИ-2} в этом регионе.</Translation>
+    <Translation>Должно быть, это произошло от предшественника {RELIGION-2} в этом регионе.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUINS_RELIGIOUS_CARVINGS_OPTION_1</zType>

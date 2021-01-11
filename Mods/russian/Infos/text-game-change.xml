@@ -52,11 +52,11 @@
   <Entry>
     <zType>TEXT_GAME_TEAM_ALLIANCE_WAR</zType>
     <Translation>{1_player} объявляет link(DIPLOMACY_WAR) вместе {2_team}, потому что состоит в link(CONCEPT_ALLIANCE_PLAYER) с {0_team}!</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GAME_TRIBE_ALLIANCE_WAR</zType>
-		<Translation>Из-за link(CONCEPT_ALLIANCE_TRIBE) с {0_team}, {1_tribe} отвечает на объявление link(DIPLOMACY_WAR) от {2_team} link(DIPLOMACY_WAR)!</Translation>
-	</Entry>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TRIBE_ALLIANCE_WAR</zType>
+    <Translation>Из-за link(CONCEPT_ALLIANCE_TRIBE) с {0_team}, {1_tribe} отвечает на объявление link(DIPLOMACY_WAR) от {2_team} link(DIPLOMACY_WAR)!</Translation>
+  </Entry>
   <Entry>
     <zType>TEXT_GAME_RELIGION_THEOLOGY</zType>
     <Translation>{0_religion} hпринимает теологию {1_theology}.</Translation>
@@ -72,10 +72,10 @@
   <Entry>
     <zType>TEXT_GAME_TEAM_DEFEAT_POPUP_NO_HEIR</zType>
     <Translation>Правление королевской династии {0_player} закончилось!</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GAME_PLAYER_SURRENDER_POPUP</zType>
-		<Translation>{0_player} сдался!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_SURRENDER_POPUP</zType>
+    <Translation>{0_player} сдался!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_RELIGION_FOUNDED</zType>
@@ -115,12 +115,12 @@
   </Entry>
   <Entry>
     <zType>TEXT_GAME_OTHER_TEAM_NEW_RULER_POPUP</zType>
-    <Translation><![CDATA[Нам сообщили о том, что {0_oldLeader} <masculine_0>мертв<feminine>мертва<end>. {1_newLeader} берет на себя правление государством.]]></Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GAME_TRIBE_NEW_RULER_POPUP</zType>
-		<Translation>Из-за границы пришло известие о смерти {0_oldLeader}. {1_newLeader} теперь возглавляет {2_tribe}.</Translation>
-	</Entry>
+    <Translation>Нам сообщили о том, что смерть настигла {0_oldLeader}. {1_newLeader} берет на себя правление государством.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_TRIBE_NEW_RULER_POPUP</zType>
+    <Translation>Из-за границы пришло известие о смерти {0_oldLeader}. {1_newLeader} теперь возглавляет {2_tribe}.</Translation>
+  </Entry>
   <Entry>
     <zType>TEXT_GAME_NEW_LAW_FOR_HEIR_POPUP</zType>
     <Translation>По старым законам у вас нет легитимного наследника. Если вы примете {0_law}, {1_character} взойдет на трон.</Translation>
@@ -167,7 +167,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_GAME_BARBARIAN_WAVE_COMING_POPUP</zType>
-    <Translation>Ваши дозорные сообщили о набегах link(BARBARIAN_TRIBE,1), которые ожидаются в ближайше годы.</Translation>
+    <Translation>Ваши дозорные сообщили о набегах link(TRIBE_BARBARIANS,1), которые ожидаются в ближайше годы.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_COURTIER_JOINED_POPUP</zType>
@@ -285,18 +285,18 @@
   <Entry>
     <zType>TEXT_GAME_DECISION_RETIRING_GENERAL_PROMPT</zType>
     <Translation>Выберите нового link(CONCEPT_GENERAL)</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GAME_DECISION_DEAD_COUNCIL_TITLE</zType>
-		<Translation>Смерть {0_council}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GAME_DECISION_DEAD_COUNCIL</zType>
-		<Translation>{0_character}, наш {1_council}, умер на работе.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GAME_DECISION_DEAD_COUNCIL_PROMPT</zType>
-		<Translation>Выбрать нового {0_council}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DECISION_DEAD_COUNCIL_TITLE</zType>
+    <Translation>Смерть {0_council}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DECISION_DEAD_COUNCIL</zType>
+    <Translation>{0_character}, наш {1_council}, умер на работе.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DECISION_DEAD_COUNCIL_PROMPT</zType>
+    <Translation>Выбрать нового {0_council}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DECISION_DEAD_GOVERNOR_TITLE</zType>
@@ -386,10 +386,10 @@
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_CONVERT_RELIGION</zType>
     <Translation>{0_character} становится последователем {1,1_religion}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GAME_DO_BONUS_HEAD_RELIGION</zType>
-		<Translation>{0_character} Становится главой {1_religion}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_DO_BONUS_HEAD_RELIGION</zType>
+    <Translation>{0_character} Становится главой {1_religion}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_FAMILY_LAW</zType>
@@ -413,23 +413,23 @@
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_CITIZENS</zType>
-    <Translation><![CDATA[{0_value} за <singular_0>{1_citizenLink}<plural>{1_citizenLink}<plural2>{1,2_citizenLink}<end>]]></Translation>
+    <Translation><![CDATA[{0_value} за <singular_0>{1_citizenLink}<plural>{1,2_citizenLink}<end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_BORDER_GROWTH</zType>
-    <Translation><![CDATA[{0_value} <singular_0>клетка<plural>клетки<plural2>клеток<end> территории]]></Translation>
+    <Translation><![CDATA[{0_value} <singular_0>клетка<plural>клеток<end> территории]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_CULTURE_LEVELS</zType>
-    <Translation><![CDATA[{0_value} за <singular_0>{1_culture}<plural>{1,3_culture}<plural2>{1,3_culture}<end>]]></Translation>
+    <Translation><![CDATA[{0_value} за <singular_0>{1_culture}<plural>{1,2_culture}<end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_DISCONTENT_LEVELS</zType>
-    <Translation><![CDATA[{0_value} за <singular_0>уровень<plural>уровни<plural2>уровни<end> link(YIELD_DISCONTENT)]]></Translation>
+    <Translation><![CDATA[{0_value} за <singular_0>уровень<plural>уровни<end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_REBEL_UNITS</zType>
-    <Translation><![CDATA[{0_value} за <singular_0>отряд<plural>отряды<plural2>отряды<end> {1_rebel}]]></Translation>
+    <Translation><![CDATA[{0_value} за <singular_0>отряд<plural>отряды<end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_IMPROVEMENTS_DESTROYED</zType>
@@ -441,7 +441,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_AGENT_CITY</zType>
-    <Translation>{0_character} становится link(CONCEPT_AGENT,4)</Translation>
+    <Translation>{0_character} становится link(CONCEPT_AGENT)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_PLUS_ONE</zType>
@@ -613,7 +613,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_FOUND_RELIGION</zType>
-    <Translation>{0_player}: основывает {1,3_religion}</Translation>
+    <Translation>{0_player}: основывает {1_religion}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_STATE_RELIGION_END</zType>
@@ -669,7 +669,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_GAME_CITY_DISCONTENT_CHANGE_LOG_DATA</zType>
-    <Translation><![CDATA[В г. {1_city} {0_level} <singular_0>Уровень<plural>Уровня<plural2>Уровней<end> link(YIELD_DISCONTENT,1)]]></Translation>
+    <Translation><![CDATA[В г. {1_city} {0_level} <singular_0>Уровень<plural>Уровня<plural2>Уровней<end> link(YIELD_DISCONTENT)]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_UNIT_ATTACKED_LOG_DATA</zType>
@@ -822,9 +822,9 @@
   <Entry>
     <zType>TEXT_GAME_PLAYER_TRUCE_WITH</zType>
     <Translation>Объявлено перемирие с {0_strength} {1}</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_GAME_PLAYER_AI_ORDERS_TO_TEAMMATES</zType>
-		<Translation>{0_player} дарит вам {1} неиспользованный {2_yield}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GAME_PLAYER_AI_ORDERS_TO_TEAMMATES</zType>
+    <Translation>{0_player} дарит вам {1} неиспользованный {2_yield}</Translation>
   </Entry>
 </Root>

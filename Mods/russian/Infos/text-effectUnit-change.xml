@@ -159,6 +159,10 @@
     <Translation>Инженер</Translation>
   </Entry>
   <Entry>
+	<zType>TEXT_EFFECTUNIT_SHRAPNEL</zType>
+	<Translation>Шрапнель</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EFFECTUNIT_ROUT</zType>
     <Translation>Разгром</Translation>
   </Entry>

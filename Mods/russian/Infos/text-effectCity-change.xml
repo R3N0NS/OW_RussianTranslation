@@ -18,7 +18,7 @@
   <Entry>
 	<zType>TEXT_EFFECTCITY_STATE_RELIGION_SOURCE</zType>
 	<Translation>Государственная религия</Translation>
-	</Entry>
+  </Entry>
 	<!--Name-->
   <Entry>
     <zType>TEXT_EFFECTCITY_BASE</zType>
@@ -59,44 +59,44 @@
   <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_LANDOWNERS_HONEY</zType>
 	<Translation>Помещичий Мtд</Translation>
-	</Entry>
-	<Entry>
+  </Entry>
+  <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_CHAMPIONS_WINE	</zType>
 	<Translation>Вино Чемпиона</Translation>
-	</Entry>
-	<Entry>
+  </Entry>
+  <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_STATESMEN_PEARL</zType>
 	<Translation>Жемчужины Деятелей</Translation>
-	</Entry>
-	<Entry>
+  </Entry>
+  <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_PATRONS_GEM</zType>
 	<Translation>Драгоценные Камни</Translation>
-	</Entry>
-	<Entry>
+  </Entry>
+  <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_CLERICS_INCENSE</zType>
 	<Translation>Благовония Священнослужителей</Translation>
-	</Entry>
-	<Entry>
+  </Entry>
+  <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_SAGES_LAVENDER</zType>
 	<Translation>Лаванда Мудрецов</Translation>
-	</Entry>
-	<Entry>
+  </Entry>
+  <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_TRADERS_OLIVE</zType>
 	<Translation>Торговцы Оливок</Translation>
-	</Entry>
-	<Entry>
+  </Entry>
+  <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_ARTISANS_DYE</zType>
 	<Translation>Краска ремеслиников</Translation>
-	</Entry>
-	<Entry>
+  </Entry>
+  <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_RIDERS_SALT</zType>
 	<Translation>Соль Всадников</Translation>
-	</Entry>
-	<Entry>
+  </Entry>
+  <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_HUNTERS_FUR</zType>
 	<Translation>Охотничий Мех</Translation>
-	</Entry>
-	<Entry>												   
+  </Entry>
+  <Entry>												   
     <zType>TEXT_EFFECTCITY_FAMILYCLASS_STATESMEN_SEAT_DECREE</zType>
     <Translation>Распорядители~Распорядителей~Распорядителей~Распорядителей</Translation>
   </Entry>
@@ -309,10 +309,10 @@
     <Translation>Священная война~Священной войне</Translation>
   </Entry>
   <Entry>
-		<zType>TEXT_EFFECTCITY_LAW_GUILDS</zType>
+	<zType>TEXT_EFFECTCITY_LAW_GUILDS</zType>
     <Translation>Гильдии</Translation>
-	</Entry>
-	<Entry>
+  </Entry>
+  <Entry>
     <zType>TEXT_EFFECTCITY_LAW_ELITES</zType>
     <Translation>Элита~Элиты</Translation>
   </Entry>
