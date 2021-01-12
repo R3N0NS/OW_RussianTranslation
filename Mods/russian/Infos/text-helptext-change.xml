@@ -1316,7 +1316,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_WIDGET_MAKE_DECISION_EVENT_CHARACTER_TRAIT</zType>
-	<Translation>{0_character} Becomes {1_trait}</Translation>
+	<Translation>{0_character} становится {1_trait}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_MAKE_DECISION_EVENT_CHARACTER_COUNCIL</zType>

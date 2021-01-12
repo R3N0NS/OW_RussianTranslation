@@ -108,7 +108,7 @@
 			</Pair>
 		</aiArchetypeDie>
 		<azNicknames>
-			<zValue>the Soldier</zValue>
+			<zValue>Солдат</zValue>
 		</azNicknames>
 	</Entry>
 	<Entry>
@@ -204,7 +204,7 @@
 			</Pair>
 		</aiArchetypeDie>
 		<azNicknames>
-			<zValue>the Minister</zValue>
+			<zValue>Министр</zValue>
 		</azNicknames>
 	</Entry>
 	<Entry>
@@ -296,7 +296,7 @@
 			</Pair>
 		</aiArchetypeDie>
 		<azNicknames>
-			<zValue>the Merchant</zValue>
+			<zValue>Купец</zValue>
 		</azNicknames>
 	</Entry>
 	<Entry>
@@ -384,7 +384,7 @@
 			</Pair>
 		</aiArchetypeDie>
 		<azNicknames>
-			<zValue>the Scientist</zValue>
+			<zValue>Ученый</zValue>
 		</azNicknames>
 	</Entry>
 </Root>

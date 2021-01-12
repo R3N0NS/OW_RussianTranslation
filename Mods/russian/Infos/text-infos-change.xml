@@ -1126,6 +1126,14 @@
     <Translation>Открыть 80% карты</Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_GOAL_THREE_CARAVANS</zType>
+    <Translation>Задачи трех караванов</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GOAL_SIX_CARAVANS</zType>
+    <Translation>Задачи шести караванов</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_GOAL_THREE_CITIES_FOREIGN</zType>
     <Translation>Захватить 3 города</Translation>
   </Entry>
@@ -1276,7 +1284,7 @@
     <Translation>Симпатия</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_OPINIONTRIBE_PLEASED</zType>
+    <zType>TEXT_OPINIONTRIBE_FRIENDLY</zType>
     <Translation>Дружелюбие</Translation>
   </Entry>
   <!--InfoOpinionCharacter-->

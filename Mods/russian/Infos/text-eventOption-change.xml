@@ -7990,7 +7990,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_WILDERNESS_SURVIVAL_OPTION_1</zType>
-    <Translation>{G0:Ему:Ей} полезно научиться использовать слабости.</Translation>
+    <Translation>{G0:Ему:Ей} полезно научиться использовать слабость.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_MASTER_ORATION_OPTION_0</zType>
@@ -11434,7 +11434,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_LETTER_FOR_TOOLS_OPTION_1</zType>
-    <Translation>Мы не можем жалеть денег.</Translation>
+    <Translation>Мы не можем отправить денег.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_LONELINESS_ABROAD_OPTION_0</zType>

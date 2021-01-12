@@ -144,35 +144,35 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_PLANTER</zType>
-    <Translation>Фермер</Translation>
+    <Translation>Фермер~Фермера~Фермеру~Фермера~Фермером~Фермере</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_FORESTER</zType>
-    <Translation>Лесник</Translation>
+    <Translation>Лесник~Лесника~Леснику~Лесника~Лесником~Леснике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_DELVER</zType>
-    <Translation>Поставщик</Translation>
+    <Translation>Поставщик~Поставщика~Поставщику~Поставщика~Поставщиком~Поставщике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_SMELTER</zType>
-    <Translation>Плавильщик</Translation>
+    <Translation>Плавильщик~Плавильщика~Плавильщику~Плавильщика~Плавильщиком~Плавильщике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_HERDER</zType>
-    <Translation>Пастух</Translation>
+    <Translation>Пастух~Пастух~Пастуху~Пастуха~Пастухом~Пастухе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_DEALMAKER</zType>
-    <Translation>Делец</Translation>
+    <Translation>Делец~Дельца~Дельцу~Дельца~Дельцом~Дельце</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_TRACKER</zType>
-    <Translation>Охотник</Translation>
+    <Translation>Охотник~Охотника~Охотнику~Охотника~Охотником~Охотнике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_SWIFT</zType>
-    <Translation>Неуловимый</Translation>
+    <Translation>Неуловимый~Неуловимого~Неуловимому~Неуловимый~Неуловимым~Неуловимом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_MARKSMAN</zType>
@@ -180,15 +180,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_BESIEGER</zType>
-    <Translation>Осаждающий</Translation>
+    <Translation>Осаждающий~Осаждающего~Осаждающему~Осаждающий~Осаждающим~Осаждающем</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_TOUGH</zType>
-    <Translation>Суровый</Translation>
+    <Translation>Суровый~Сурового~Суровому~Суровый~Суровым~Суровом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_BLOODTHIRSTY</zType>
-    <Translation>Кровожадный</Translation>
+    <Translation>Кровожадный~Кровожадного~Кровожадного~Кровожадный~Кровожадным~Кровожадном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_HECKLER</zType>
@@ -196,35 +196,35 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_STEADFAST</zType>
-    <Translation>Непоколебимый</Translation>
+    <Translation>Непоколебимый~Непоколебимого~Непоколебимому~Непоколебимый~Непоколебимым~Непоколебимом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_HERBALIST</zType>
-    <Translation>Травник</Translation>
+    <Translation>Травник~Травника~Травнику~Травник~Травником~Травнике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_HIGHLANDER</zType>
-    <Translation>Горец</Translation>
+    <Translation>Горец~Горца~Горцу~Горца~Горцем~Горце</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_RANGER</zType>
-    <Translation>Странник</Translation>
+    <Translation>Странник~Странника~Страннику~Странника~Странником~Страннике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_EXPLORING</zType>
-    <Translation>Исследователь</Translation>
+    <Translation>Исследователь~Исследователя~Исследователю~Исследователя~Исследователем~Исследователе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_BRAVE</zType>
-    <Translation>Храбрец</Translation>
+    <Translation>Храбрец~Храбреца~Храбрецу~Храбреца~Храбрецом~Храбреце</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_SHIELDBEARER</zType>
-    <Translation>Щитоносец</Translation>
+    <Translation>Щитоносец~Щитоносца~Щитоносцу~Щитоносца~Щитоносцем~Щитоносце</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_FIERCE</zType>
-    <Translation>Свирепый</Translation>
+    <Translation>Свирепый~Свирепого~Свирепому~Свирепый~Свирепым~Свирепом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_HORSEBANE</zType>
@@ -232,83 +232,83 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_ENGINEER</zType>
-    <Translation>Инженер</Translation>
+    <Translation>Инженер~Инженера~Инженеру~Инженера~Инженером~Инженере</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_BOLD</zType>
-    <Translation>Смелый</Translation>
+    <Translation>Смелый~Смелый~Смелому~Смелый~Смелым~Смелом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_COWARDLY</zType>
-    <Translation>Трусливый</Translation>
+    <Translation>Трусливый~Трусливого~Трусливому~Трусливый~Трусливым~Трусливом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_GRACIOUS</zType>
-    <Translation>Милостивый</Translation>
+    <Translation>Милостивый~Милостивого~Милостивому~Милостивый~Милостивым~Милостивом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_GREEDY</zType>
-    <Translation>Алчный</Translation>
+    <Translation>Алчный~Алчного~Алчному~Алчный~Алчным~Алчном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_CUNNING</zType>
-    <Translation>Коварный</Translation>
+    <Translation>Коварный~Коварного~Коварному~Коварный~Коварным~Коварном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_ROMANTIC</zType>
-    <Translation>Романтичный</Translation>
+    <Translation>Романтичный~Романтичный~Романтичному~Романтичный~Романтичным~Романтичном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_EDUCATED</zType>
-    <Translation>Образованный</Translation>
+    <Translation>Образованный~Образованного~Образованному~Образованный~Образованным~Образованном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_SUPERSTITIOUS</zType>
-    <Translation>Суеверный</Translation>
+    <Translation>Суеверный~Суеверного~Суеверному~Суеверный~Суеверным~Суеверном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_COMPASSIONATE</zType>
-    <Translation>Сочувствующий</Translation>
+    <Translation>Сочувствующий~Сочувствующего~Сочувствующему~Сочувствующего~Сочувствующим~Сочувствующем</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_RUTHLESS</zType>
-    <Translation>Беспощадный</Translation>
+    <Translation>Беспощадный~Беспощадного~Беспощадному~Беспощадный~Беспощадным~Беспощадном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_LOYAL</zType>
-    <Translation>Преданный</Translation>
+    <Translation>Преданный~Преданного~Преданному~Преданный~Преданным~Преданном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_BITTER</zType>
-    <Translation>Суровый</Translation>
+    <Translation>Суровый~Сурового~Суровому~Суровый~Суровым~Суровом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_SPOILED</zType>
-    <Translation>Избалованный</Translation>
+    <Translation>Избалованный~Избалованного~Избалованному~Избалованный~Избалованным~Избалованном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_HONEST</zType>
-    <Translation>Честный</Translation>
+    <Translation>Честный~Честный~Честному~Честный~Честным~Честном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_DISHONEST</zType>
-    <Translation>Нечестный</Translation>
+    <Translation>Нечестный~Нечестного~Нечестному~Нечестный~Нечестный~Нечестном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_PIOUS</zType>
-    <Translation>Праведный</Translation>
+    <Translation>Праведный~Праведного~Праведному~Праведный~Праведным~Праведном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_WANTON</zType>
-    <Translation>Своенравный</Translation>
+    <Translation>Своенравный~Своенравного~Своенравному~Своенравный~Своенравным~Своенравном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_HUMBLE</zType>
-    <Translation>Робкий</Translation>
+    <Translation>Робкий~Робкого~Робкому~Робкий~Робким~Робком</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_PROUD</zType>
-    <Translation>Гордый</Translation>
+    <Translation>Гордый~Гордого~Гордому~Гордый~Гордым~Гордом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_HEARTBROKEN</zType>
@@ -316,11 +316,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_BEAUTIFUL</zType>
-    <Translation>Прекрасный</Translation>
+    <Translation>Прекрасный~Прекрасного~Прекрасному~Прекрасный~Прекрасным~Прекрасном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_WITTY</zType>
-    <Translation>Остроумный</Translation>
+    <Translation>Остроумный~Остроумного~Остроумному~Остроумному~Остроумным~Остроумном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_STUDY_TACTICS</zType>
@@ -340,23 +340,23 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_BLESSED</zType>
-    <Translation>Благословенный</Translation>
+    <Translation>Благословенный~Благословенного~Благословенному~Благословенный~Благословенным~Благословенном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_CURSED</zType>
-    <Translation>Проклятый</Translation>
+    <Translation>Проклятый~Проклятого~Проклятому~Проклятый~Проклятым~Проклятом</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_ILL</zType>
-    <Translation>Больной</Translation>
+    <Translation>Больной~Больного~Больному~Больного~Больным~Больном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_SEVERELY_ILL</zType>
-    <Translation>Тяжело больной</Translation>
+    <Translation>Тяжело больной~Тяжело больного~Тяжело больному~Тяжело больного~Тяжело больным~Тяжело больном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_INCUBATED</zType>
-    <Translation>Выношенный</Translation>
+    <Translation>Выношенный~Выношенного~Выношенному~Выношенный~Выношенным~Выношенном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_POISONER</zType>
@@ -364,11 +364,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_POISONED</zType>
-    <Translation>Отравленный</Translation>
+    <Translation>Отравленный~Отравленного~Отравленному~Отравленный~Отравленным~Отравленном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_MISERABLE</zType>
-    <Translation>Жалкий</Translation>
+    <Translation>Жалкий~Жалкого~Жалкому~Жалкий~Жалким~Жалком</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_SCARRED</zType>
@@ -376,11 +376,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_CRIPPLED</zType>
-    <Translation>Изувеченный</Translation>
+    <Translation>Изувеченный~Изувеченного~Изувеченному~Изувеченный~Изувеченным~Изувеченном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_BLINDED</zType>
-    <Translation>Ослепленный</Translation>
+    <Translation>Ослепленный~Ослепленного~Ослепленному~Ослепленный~Ослепленным~Ослепленном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_IMPRISONED</zType>
@@ -388,11 +388,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_FUGITIVE</zType>
-    <Translation>Беглец</Translation>
+    <Translation>Беглец~Беглеца~Беглецу~Беглеца~Беглеца~Беглеце</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_MISSING</zType>
-    <Translation>Пропавший</Translation>
+    <Translation>Пропавший~Пропавшего~Пропавшему~Пропавший~Пропавшим~Пропавшем</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_UNDER_ASYLUM</zType>
@@ -400,55 +400,55 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_ELOPED</zType>
-    <Translation>Скрывающийся</Translation>
+    <Translation>Скрывающийся~Скрывающегося~Скрывающемуся~Скрывающийся~Скрывающимся~Скрывающемся</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_CAPTURED</zType>
-    <Translation>Заложник</Translation>
+    <Translation>Заложник~Заложника~Заложнику~Заложника~Заложником~Заложнике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_EXILED</zType>
-    <Translation>Высланный</Translation>
+    <Translation>Высланный~Высланного~Высланному~Высланного~Высланным~Высланном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_DESERTER</zType>
-    <Translation>Дезертир</Translation>
+    <Translation>Дезертир~Дезертира~Дезертиру~Дезертира~Дезертиром~Дезертире</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_DOOMED</zType>
-    <Translation>Осужденный</Translation>
+    <Translation>Осужденный~Осужденный~Осужденному~Осужденного~Осужденным~Осужденном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_GAY</zType>
-    <Translation>Гомосексуал</Translation>
+    <Translation>Гомосексуал~Гомосексуала~Гомосексуалу~Гомосексуала~Гомосексуалом~Гомосексуале</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_BASTARD</zType>
-    <Translation>Незаконнорожденный</Translation>
+    <Translation>Незаконнорожденный~Незаконнорожденного~Незаконнорожденному~Незаконнорожденный~Незаконнорожденным~Незаконнорожденном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_SLIGHTED</zType>
-    <Translation>Ущемленный</Translation>
+    <Translation>Ущемленный~Ущемленного~Ущемленному~Ущемленный~Ущемленным~Ущемленном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_INFAMOUS</zType>
-    <Translation>Бесславный</Translation>
+    <Translation>Бесславный~Бесславного~Бесславному~Бесславный~Бесславным~Бесславном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_CLAIMED</zType>
-    <Translation>Востребованный</Translation>
+    <Translation>Востребованный~Востребованного~Востребованному~Востребованный~Востребованным~Востребованном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_PRIEST</zType>
-    <Translation>Священник</Translation>
+    <Translation>Священник~Священника~Священнику~Священника~Священником~Священнике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_ARTIST</zType>
-    <Translation>Художник</Translation>
+    <Translation>Художник~Художника~Художнику~Художника~Художником~Художнике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_FAMOUS</zType>
-    <Translation>Известный</Translation>
+    <Translation>Известный~Известного~Известному~Известный~Известным~Известном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_POPULAR_HERO</zType>
@@ -460,11 +460,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_PREGNANT</zType>
-    <Translation>Беременная</Translation>
+    <Translation>Беременная~Беременной~Беременной~Беременную~Беременной~Беременной</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_ABDICATED</zType>
-    <Translation>Отрекшийся</Translation>
+    <Translation>Отрекшийся~Отрекшегося~Отрекшемуся~Отрекшийся~Отрекшимся~Отрекшемся</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_REGENT</zType>
@@ -476,7 +476,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_EXOTIC</zType>
-    <Translation>Иноземный</Translation>
+    <Translation>Иноземный~Иноземного~Иноземному~Иноземный~Иноземным~Иноземном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_EXCLUDED</zType>
@@ -484,31 +484,31 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_DIVINE</zType>
-    <Translation>Божественный</Translation>
+    <Translation>Божественный~Божественного~Божественному~Божественный~Божественным~Божественном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_SOLDIER</zType>
-    <Translation>Солдат</Translation>
+    <Translation>Солдат~Солдата~Солдату~Солдата~Солдатом~Солдате</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_DRUNK</zType>
-    <Translation>Пьяница</Translation>
+    <Translation>Пьяница~Пьяницы~Пьянице~Пьяницу~Пьяницей~Пьянице</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_INSANE</zType>
-    <Translation>Безумец</Translation>
+    <Translation>Безумец~Безумца~Безумцу~Безумца~Безумцем~Безумце</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_MOURNING</zType>
-    <Translation>Скорбящий</Translation>
+    <Translation>Скорбящий~Скорбящего~Скорбящему~Скорбящий~Скорбящим~Скорбящем</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_PROPHET</zType>
-    <Translation>Священник</Translation>
+    <Translation>Священник~Священника~Священнику~Священника~Священником~Священнике</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_ARCHON</zType>
-    <Translation>Властитель</Translation>
+    <Translation>Властитель~Властителя~Властителю~Властителя~Властителем~Властителе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_MYSTERIOUS_SWORD</zType>
@@ -572,11 +572,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_ASCETIC</zType>
-    <Translation>Аскет</Translation>
+    <Translation>Аскет~Аскета~Аскету~Аскета~Аскетом~Аскете</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_HORSE</zType>
-    <Translation>Кобыла</Translation>
+    <Translation>Кобыла~Кобылы~Кобыле~Кобылу~Кобылой~Кобыле</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_AMARNA_REFORMER</zType>
