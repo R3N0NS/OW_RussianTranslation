@@ -25,7 +25,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_ALLIANCE_TRIBE</zType>
-    <Translation>Союз с варварами</Translation>
+    <Translation>Союз с племенем</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_TRIBE</zType>
@@ -1314,7 +1314,7 @@
 
     Я - Ромул, и я основал Рим, город, которому суждено править миром.</Translation>
   </Entry>
-  <!--InfoOpinionBarbarian-->
+  <!--InfoOpinionTribe-->
   <Entry>
     <zType>TEXT_OPINIONTRIBE_FURIOUS</zType>
     <Translation>Ярость</Translation>

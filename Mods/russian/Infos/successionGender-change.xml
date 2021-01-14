@@ -11,37 +11,37 @@
     <Entry>
         <zType>SUCCESSIONGENDER_AGNATIC</zType>
         <zName>Агнатическая примогенитура</zName>
-        <zHelp>Only Males descendants can inherit</zHelp>
+        <zHelp>Наследовать могут только потомки мужского пола</zHelp>
         <bSingleGender>1</bSingleGender>
         <Gender>GENDER_MALE</Gender>
     </Entry>
     <Entry>
         <zType>SUCCESSIONGENDER_AGNATIC_COGNATIC</zType>
         <zName>Агнатическо-когнатическая примогенитура</zName>
-        <zHelp>Males inherit before Females</zHelp>
+        <zHelp>Мужчины наследуют раньше женщин</zHelp>
         <Gender>GENDER_MALE</Gender>
     </Entry>
     <Entry>
         <zType>SUCCESSIONGENDER_ABSOLUTE_COGNATIC</zType>
         <zName>Абсолютная примогенитура</zName>
-        <zHelp>Genders inherit equally</zHelp>
+        <zHelp>Мужчины и женщины наследуют одинаково</zHelp>
     </Entry>
     <Entry>
         <zType>SUCCESSIONGENDER_ENATIC_COGNATIC</zType>
         <zName>Матрилинейно-когнатическая примогенитура</zName>
-        <zHelp>Females inherit before Males</zHelp>
+        <zHelp>Женщины наследуют раньше мужчин</zHelp>
         <Gender>GENDER_FEMALE</Gender>
     </Entry>
     <Entry>
         <zType>SUCCESSIONGENDER_ENATIC</zType>
         <zName>Матрилинейная примогенитура</zName>
-        <zHelp>Only Females descendants can inherit</zHelp>
+        <zHelp>Только потомки женщин могут наследовать</zHelp>
         <bSingleGender>1</bSingleGender>
         <Gender>GENDER_FEMALE</Gender>
     </Entry>
     <Entry>
         <zType>SUCCESSIONGENDER_RANDOM</zType>
         <zName>Случайно</zName>
-        <zHelp>Each player follows a random, potentially different, succession gender</zHelp>
+        <zHelp>Каждый игрок следует случайной, потенциально различной последовательности.</zHelp>
     </Entry>
 </Root>

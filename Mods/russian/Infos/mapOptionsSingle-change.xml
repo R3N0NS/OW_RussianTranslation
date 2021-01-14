@@ -12,20 +12,20 @@
 	<Entry>
 		<zType>MAP_OPTIONS_SINGLE_MIRROR</zType>
 		<Name>TEXT_MAP_OPTION_MIRROR_MAP</Name>
-		<zDescription>East-West symmetric map: need even number of teams</zDescription>
+		<zDescription>Симметричная карта Восток-Запад: нужно четное количество команд</zDescription>
 		<bSinglePlayerValid>0</bSinglePlayerValid>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTIONS_SINGLE_SEASIDE_CENTER_BIAS</zType>
 		<Name>TEXT_MAP_OPTION_CENTER_BIAS</Name>
-		<zDescription>Player starts near the center of the map, only in single player</zDescription>
+		<zDescription>Игрок начинает игру ближе к центру карты, только в одиночном режиме</zDescription>
 		<bDefault>1</bDefault>
 		<bMultiPlayerValid>0</bMultiPlayerValid>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTIONS_SINGLE_CENTER_BIAS</zType>
 		<Name>TEXT_MAP_OPTION_CENTER_BIAS</Name>
-		<zDescription>Avoid starting near west or east map edges, only in single player</zDescription>
+		<zDescription>Избегайте старта вблизи западных или восточных краев карты, только в одиночном режиме</zDescription>
 		<bDefault>1</bDefault>
 		<bMultiPlayerValid>0</bMultiPlayerValid>
 	</Entry>

@@ -9,31 +9,31 @@
 	<Entry>
 		<zType>SUCCESSIONORDER_PRIMOGENITURE</zType>
 		<zName>Первородство</zName>
-		<zHelp>Oldest child inherits</zHelp>
+		<zHelp>Наследует старший ребенок</zHelp>
 	</Entry>
 	<Entry>
 		<zType>SUCCESSIONORDER_ULTIMOGENITURE</zType>
 		<zName>Ультимогенитура</zName>
-		<zHelp>Youngest child inherits</zHelp>
+		<zHelp>Наследует младший ребенок</zHelp>
 	</Entry>
 	<Entry>
 		<zType>SUCCESSIONORDER_LATERAL</zType>
 		<zName>Латеральный</zName>
-		<zHelp>Siblings inherit before children</zHelp>
+		<zHelp>Братья и сестры наследуют раньше детей</zHelp>
 	</Entry>
 	<Entry>
 		<zType>SUCCESSIONORDER_DYNASTIC</zType>
 		<zName>Династический</zName>
-		<zHelp>Oldest direct line from Founder</zHelp>
+		<zHelp>Самая старая прямая линия от Основателя</zHelp>
 	</Entry>
 	<Entry>
 		<zType>SUCCESSIONORDER_SENIORITY</zType>
 		<zName>Старшинство</zName>
-		<zHelp>Oldest dynasty member inherits</zHelp>
+		<zHelp>Наследует старейший член династии </zHelp>
 	</Entry>
 	<Entry>
 		<zType>SUCCESSIONORDER_RANDOM</zType>
 		<zName>Случайно</zName>
-		<zHelp>Each player follows a random, potentially different, succession order</zHelp>
+		<zHelp>Каждый игрок следует случайному, потенциально различному порядку следования</zHelp>
 	</Entry>
 </Root>

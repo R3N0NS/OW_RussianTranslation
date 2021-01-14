@@ -557,7 +557,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_QUESTS_FINISHED</zType>
-    <Translation>{singular_0:Задание:Заданий} завершено</Translation>
+    <Translation>{singular_0:Задание::Задания:Заданий} завершено</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_RIVER</zType>
@@ -674,11 +674,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENTOPTION_ADDS_LINK</zType>
-    <Translation>Adds link: {0}</Translation>
+    <Translation>Добавляет: {0}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENTOPTION_STARTS_LINK</zType>
-    <Translation>Starts link: {0}</Translation>
+    <Translation>Начинает: {0}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_COOLDOWN</zType>
@@ -771,7 +771,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_MENU_TRIBE_LEVEL</zType>
-    <Translation>Уровень варваров: {0}</Translation>
+    <Translation>Уровень племен: {0}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_MENU_SUCCESSION</zType>
@@ -807,7 +807,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_WIDGET_MENU_TURN_SCALE</zType>
-	<Translation>Turn Scale: {0}</Translation>
+	<Translation>Масштаб хода: {0}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_MENU_TURN_TIMER</zType>
@@ -1095,7 +1095,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_VICTORY_GOAL_FINISHED</zType>
-    <Translation>{0}{true_1: (ДОСТИГНУТО)}</Translation>
+    <Translation>{0}{true_1: (ЗАВЕРШЕНО)}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_REDRAW_TECH</zType>
@@ -1219,7 +1219,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_PLAYER_LEGITIMACY_RECRUIT</zType>
-    <Translation>{0_value}: Recruited link(CONCEPT_MERCENARY)</Translation>
+    <Translation>{0_value}: завербованные link(CONCEPT_MERCENARY)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_PLAYER_LEGITIMACY_COUNT</zType>
@@ -1263,7 +1263,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_RELEASE_GENERAL</zType>
-    <Translation>Освобождает {0_general} от возглавления {1_unit}</Translation>
+    <Translation>Отзывает {0_general} от отряда {1_unit}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_CITY_GOVERNOR</zType>
@@ -1275,7 +1275,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_WIDGET_START_MISSION_CHARACTER_REQUIRES</zType>
-	<Translation>Requires {0_character}: {1_subject}</Translation>
+	<Translation>Вербует {0_character}: {1_subject}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_DELAY_DECISION</zType>
@@ -1846,7 +1846,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_TURN_REPLAY_DO_AI_MOVES_X</zType>
-    <Translation><![CDATA[Автовопроизведение {0_number} <singular_0>ход<plural>ходов<plural2>ходов<end>]]></Translation>
+    <Translation>Автовопроизведение {0_number} {singular_0:хода:ходов:ходов}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_TECH_DECK</zType>
@@ -2191,7 +2191,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_COGNOMEN</zType>
-    <Translation>A Cognomen can increase the Legitimacyicon(YIELD_LEGITIMACY) of your Leader</Translation>
+    <Translation>Статус может увеличить Legitimacyicon(YIELD_LEGITIMACY) вашего лидера</Translation>
     </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_LOCATION</zType>
@@ -2399,11 +2399,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_URBAN_ATTACK_MODIFIER</zType>
-    <Translation>{0_trait} Attacking: {1}</Translation>
+    <Translation>{0_trait} Атакующий: {1}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_URBAN_DEFENSE_MODIFIER</zType>
-    <Translation>{0_trait} Defending: {1}</Translation>
+    <Translation>{0_trait} Защищающийся: {1}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_VEGETATION_DEFEND</zType>
@@ -2439,7 +2439,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_ZOC</zType>
-    <Translation>Зона контроля охватывает соседние клетки отряда (кроме другого берега {0_riverLink}).{br} и мешает вражеским отрядам двигаться от одной клетки link(CONCEPT_ZOC) к другой.{br}Удерживайте [{1_key}], чтобы увидеть ЗК.</Translation>
+    <Translation><![CDATA[Зона контроля охватывает соседние клетки отряда (кроме другого берега {0_riverLink}).<br> и мешает вражеским отрядам двигаться от одной клетки link(CONCEPT_ZOC) к другой.<br>Удерживайте [{1_key}], чтобы увидеть ЗК.]]></Translation>
   </Entry>
   <!--Tile Tooltip-->
   <Entry>
@@ -3246,7 +3246,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_ADDS_LUXURY</zType>
-    <Translation><![CDATA[Добавляет {0_luxuryLink}{true_1: {1_cityYield}} ({2_resource})</Translation>
+    <Translation>Добавляет {0_luxuryLink}{true_1: {1_cityYield}} ({2_resource})</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_CITY_HELP_NO_YIELDS_AUTO_BUILD</zType>
@@ -3981,7 +3981,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRIBE_LEVEL</zType>
-    <Translation>Уровень варваров: {0}</Translation>
+    <Translation>Уровень племен: {0}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRIBE_LEVEL_NOT_DECLARE_WAR</zType>
@@ -4532,7 +4532,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_TRAIT_NO_COURTIER</zType>
-	<Translation>Cannot be a {0_courtier}</Translation>
+	<Translation>Не может быть {0_courtier}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_JOB_PREREQ</zType>
@@ -4552,44 +4552,44 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_OPINION_RELIGION</zType>
-    <Translation>{0_value} Opinion if not of your State Religion</Translation>
+    <Translation>{0_value} мнение, если не следует вашей религии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_OPINION_PROXIMITY</zType>
-    <Translation>{0_value} Opinion if too close to us</Translation>
+    <Translation>{0_value} мнение, если слишком близко к нам</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_OPINION_STRENGTH</zType>
-    <Translation>{0_value} Opinion if stronger than us</Translation>
+    <Translation>{0_value} мнение, если сильнее нас</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_OPINION_KNOWLEDGE</zType>
-    <Translation>{0_value} Opinion if more knowledgeable than us</Translation>
+    <Translation>{0_value} мнение, если знают больше нас</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_OPINION_GENERALS</zType>
-    <Translation>{0_value} Opinion if more link(CONCEPT_GENERAL) than us</Translation>
+    <Translation>{0_value} мнение, если больше link(CONCEPT_GENERAL) чем у нас</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_OPINION_GOVERNORS</zType>
-    <Translation>{0_value} Opinion if more link(CONCEPT_GOVERNOR) than us</Translation>
+    <Translation>{0_value} мнение, если больше link(CONCEPT_GOVERNOR) чем у нас</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_OPINION_WONDERS</zType>
-    <Translation>{0_value} Opinion if more Wonders than us</Translation>
+    <Translation>{0_value} мнение, если больше Чудес, чем у нас</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_OPINION_LAWS</zType>
-    <Translation>{0_value} Opinion if more Active Laws than us</Translation>
+    <Translation>{0_value} мнение, если принято больше законов, чем у нас</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_OPINION_COGNOMEN</zType>
-    <Translation>{0_value} Opinion if Leader has better Cognomen than our Leader</Translation>
+    <Translation>{0_value} мнение, если статус их правителя выше, чем нашего</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_OPINION_TRADES</zType>
-    <Translation>{0_value} Opinion if more Trades with another Nation than with us</Translation>
-  </Entry>
+    <Translation>{0_value} мнение, если они торгуют с другой нацией больше, чем с нами</Translation>
+   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_BIRTH_CHANCE</zType>
     <Translation>{0_value}% шанс завести ребенка</Translation>
@@ -4742,7 +4742,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_RELIGION_STATE_PLAYER_EFFECT</zType>
-	<Translation>As State Religion: {LIST}</Translation>
+	<Translation>Государственная религия: {LIST}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_RELIGION_SPREAD_HELP</zType>
@@ -4981,11 +4981,11 @@
   <!--Tile Buttons-->
   <Entry>
 	<zType>TEXT_HELPTEXT_TILE_RECRUIT_MERCENARY_BUTTON</zType>
-	<Translation>Recruit {0_unit}</Translation>
+	<Translation>Завербовать {0_unit}</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_TILE_HIRE_MERCENARY_BUTTON</zType>
-	<Translation>Hire {0_unit}</Translation>
+	<Translation>Нанять {0_unit}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TILE_HARVEST_RESOURCE_BUTTON</zType>
@@ -5560,39 +5560,39 @@
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_CHARACTER_OPINION_TRAIT_PROXIMITY</zType>
-	<Translation>{0}: Too close to us ({1_trait})</Translation>
+	<Translation>{0}: Слишком близко к нам ({1_trait})</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_CHARACTER_OPINION_TRAIT_STRENGTH</zType>
-	<Translation>{0}: Stronger than us ({1_trait})</Translation>
+	<Translation>{0}: Сильнее нас ({1_trait})</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_CHARACTER_OPINION_TRAIT_KNOWLEDGE</zType>
-	<Translation>{0}: More knowledgeable than us ({1_trait})</Translation>
+	<Translation>{0}: Знают больше нас ({1_trait})</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_CHARACTER_OPINION_TRAIT_GENERALS</zType>
-	<Translation>{0}: More link(CONCEPT_GENERAL), {1}, than us, {2} ({3_trait})</Translation>
+	<Translation>{0}: Больше link(CONCEPT_GENERAL), {1}, чем у нас, {2} ({3_trait})</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_CHARACTER_OPINION_TRAIT_GOVERNORS</zType>
-	<Translation>{0}: More link(CONCEPT_GOVERNOR), {1}, than us, {2} ({3_trait})</Translation>
+	<Translation>{0}: Больше link(CONCEPT_GOVERNOR), {1}, чем у нас, {2} ({3_trait})</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_CHARACTER_OPINION_TRAIT_WONDERS</zType>
-	<Translation>{0}: More Wonders, {1}, than us, {2} ({3_trait})</Translation>
+	<Translation>{0}: Больше Чудес, {1}, чем у нас, {2} ({3_trait})</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_CHARACTER_OPINION_TRAIT_LAWS</zType>
-	<Translation>{0}: More Active Laws, {1}, than us, {2} ({3_trait})</Translation>
+	<Translation>{0}: Действует больше законов, {1}, чем у нас, {2} ({3_trait})</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_CHARACTER_OPINION_TRAIT_COGNOMEN</zType>
-	<Translation>{0}: {1_cognomen} is greater than {2_cognomen} ({3_trait})</Translation>
+	<Translation>{0}: Статус {1_cognomen} выше, чем  {2_cognomen} ({3_trait})</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_CHARACTER_OPINION_TRAIT_TRADES</zType>
-	<Translation>{0}: More Trades with another Nation than with us, {1} ({2_trait})</Translation>
+	<Translation>{0}: Больше торговли с другими нациями, чем с нами, {1} ({2_trait})</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CHARACTER_RATING_TRAIT_ARCHETYPE</zType>
@@ -5632,7 +5632,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LEAVE_JOB_COUNCIL</zType>
-    <Translation>Will leave Council as {0_council}</Translation>
+    <Translation>Перестанет быть {0_council} Совета</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LEAVE_JOB_GENERAL</zType>
@@ -5660,11 +5660,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_MAKE_GOVERNOR</zType>
-    <Translation>{true_0:Оставить:назначить} {1} link(CONCEPT_GOVERNOR) г. {2}</Translation>
+    <Translation>{true_0:Оставить:Назначить} {1} link(CONCEPT_GOVERNOR) г. {2}</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_MAKE_GOVERNOR_ALREADY</zType>
-	<Translation>Is Already link(CONCEPT_GOVERNOR)</Translation>
+	<Translation>Уже link(CONCEPT_GOVERNOR)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_MAKE_GOVERNOR_OPINION</zType>
@@ -5676,7 +5676,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_MAKE_AGENT_ALREADY</zType>
-	<Translation>Is Already link(CONCEPT_AGENT)</Translation>
+	<Translation>Уже link(CONCEPT_AGENT)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_MAKE_AGENT_OPINION</zType>
@@ -5692,7 +5692,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CHOOSE_AGENT_CLICK_TO_CHANGE_AGENT</zType>
-    <Translation><![CDATA[<TEXT_HOTKEY_CTRL_CLICK> — выбрать link(CONCEPT_AGENT)]]></Translation>
+    <Translation><![CDATA[<TEXT_HOTKEY_CTRL_CLICK> — изменить link(CONCEPT_AGENT)]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CHOOSE_AGENT_CLICK_TO_RETURN_AGENT</zType>
@@ -5733,7 +5733,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_SAVE_SCENARIO_BUTTON</zType>
-	<Translation>Save (Uncompressed)</Translation>
+	<Translation>Сохранить (нераспакованно)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_QUICK_LOAD_BUTTON</zType>
@@ -5809,31 +5809,31 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_MAIN_MENU_QUICK_START</zType>
-    <Translation>Load thesingle-player game that was last saved</Translation>
+    <Translation>Загрузить последнюю сохраненную одиночную игру</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_MAIN_MENU_WEBSITE</zType>
-    <Translation>Visit the Mohawk website for more info</Translation>
+    <Translation>Посетить сайт Mohawk, чтобы узнать больше</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_MAIN_MENU_DISCORD</zType>
-    <Translation>Visit the Discord channel for Old World</Translation>
+    <Translation>Посетить канал Old World в Discord</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_JOIN_MP_NEED_PASSWORD</zType>
-    <Translation>You must enter a password to join the game</Translation>
+    <Translation>Чтобы присоединиться к игре, необходимо ввести пароль</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_DELETE_CLOUD_SAVE</zType>
-    <Translation>Remove this game from your list of active games. If you are the game's host, this deletes the game for all other players as well.</Translation>
+    <Translation>Удалить эту игру из списка активных игр. Если вы хост, это удалит игру и для остальных участников.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_DOWNLOAD_CLOUD_SAVE</zType>
-    <Translation>Download the game save file from the cloud (host only).</Translation>
+    <Translation>Загрузить сохранение из облака (только для хоста).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CLOUD_KICK</zType>
-    <Translation>Active player surrenders and becomes controlled by the AI</Translation>
+    <Translation>Активный игрок сдается и переходит под управление ИИ</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DISBAND_UNIT_PROMPT_TITLE</zType>
@@ -5990,7 +5990,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_HELPSCREEN_STARTING_LAWS</zType>
-    <Translation>Принимает {singular_0:закон:законы}</Translation>
+    <Translation>{singular_0:Начальный закон:Начальные законы:Начальные законы}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_HELPSCREEN_UNLOCKS_LAWS</zType>
@@ -5998,7 +5998,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_HELPSCREEN_LAWS</zType>
-    <Translation>{singular_0:Закон:>Законы}</Translation>
+    <Translation>{singular_0:Закон:Законы:Законы}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_HELPSCREEN_REQUIRES_PROJECTS</zType>
@@ -6054,7 +6054,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_HELPSCREEN_TERRAINS</zType>
-    <Translation>{singular_0:Рельеф:Рельефы}</Translation>
+    <Translation>{singular_0:Ландшафт:Ландшафты:Ландшафты}</Translation>
   </Entry>
   <!--OptionsMenu-->
   <Entry>
@@ -6080,15 +6080,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_CITY_FAMILY_DESC</zType>
-    <Translation>Give your newest City, {0_city}, to one of your Families...</Translation>
+    <Translation>Передать ваш новый город, {0_city}, одной из семей...</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_POPUP_DECISION_OFFER_PEACE_TITLE</zType>
-	<Translation>Peace Offer</Translation>
+	<Translation>Предложение мира</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_POPUP_DECISION_OFFER_TRUCE_TITLE</zType>
-	<Translation>Truce Offer</Translation>
+	<Translation>редложение перемирия</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_OFFER_PEACE_TRIBE_DESC</zType>
@@ -6116,7 +6116,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_COUNCIL</zType>
-    <Translation>your {0_council}</Translation>
+    <Translation>ваш {0_council}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_GENERAL</zType>
@@ -6140,7 +6140,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_AMBITION_DESC</zType>
-	<Translation>Пришло время выбрать будущее стремление {0_nation}?</Translation>
+	<Translation>Не пора ли выбрать будущее стремление {0_nation}?</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_CITY_FAMILY_TITLE</zType>
@@ -6242,7 +6242,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_HIGHEST_RIVAL</zType>
-    <Translation>(Сильнейний соперник: {0})</Translation>
+    <Translation>(Сильнейший соперник: {0})</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_LUXURIES</zType>
@@ -6278,7 +6278,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_MILITARY_UNITS</zType>
-    <Translation>Requires {0} Military {singular_0:Unit:Units}</Translation>
+    <Translation>Требуется {0} Military {singular_0:Unit:Units}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_MAX_LEVEL_UNITS</zType>
@@ -6391,7 +6391,7 @@
   <!--Law Help-->
   <Entry>
     <zType>TEXT_HELPTEXT_LAW_HELP_NAME</zType>
-    <Translation>{true_0:{0} (закон){{true_1: [действует]}</Translation>
+    <Translation>{true_0:{0} (закон)}{true_1: [действует]}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LAW_HELP_EFFECT_UPKEEP</zType>
@@ -6536,7 +6536,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_PLAYER_OPINION_OF_PLAYER</zType>
-    <Translation>{0_player} мнение о {true_1:{1}:вас): {2}</Translation>
+    <Translation>{0_player} мнение о {true_1:{1}:вас}: {2}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_PLAYER_OPINION_RIVAL_NATION</zType>
@@ -6587,7 +6587,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TOOLTIP_FREEZE_TOOLTIP</zType>
-    <Translation><![CDATA[Заморозить подсказки: [MIDDLE-CLICK]<br><true_0> или {0_presskey}<false><end>]]></Translation>
+    <Translation><![CDATA[Заморозить подсказки: [MIDDLE-CLICK]<br>{true_0: или {0_presskey}}]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TOOLTIP_TILE_XY</zType>

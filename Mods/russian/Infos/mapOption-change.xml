@@ -9,87 +9,87 @@
 	<Entry>
 		<zType>MAP_OPTION_HIGH_RESOURCES</zType>
 		<zName>Много</zName>
-		<zDescription>More resources on the map</zDescription>
+		<zDescription>Больше ресурсов на карте</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_MEDIUM_RESOURCES</zType>
 		<zName>Обычно</zName>
-		<zDescription>Regular amount of resources</zDescription>
+		<zDescription>Обычный объем ресурсов</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_LOW_RESOURCES</zType>
 		<zName>Мало</zName>
-		<zDescription>Fewer resources on the map</zDescription>
+		<zDescription>Меньше ресурсов на карте</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_DEFAULT_RESOURCES</zType>
 		<zName>Стандартно</zName>
-		<zDescription>Use painted map's resources</zDescription>
+		<zDescription>Используйте ресурсы нарисованной карты</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_RANDOM_RESOURCES</zType>
 		<zName>Случайно</zName>
-		<zDescription>Use random resource placement</zDescription>
+		<zDescription>Использовать случайное размещение ресурсов</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_PLAYER_START_ANYWHERE</zType>
 		<zName>Везде</zName>
-		<zDescription>Start anywhere</zDescription>
+		<zDescription>Начните где угодно</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_WATER_SIZE_RANDOM</zType>
 		<zName>Случайно</zName>
-		<zDescription>Randomly chooses an option</zDescription>
+		<zDescription>Случайно выбирает вариант</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_SEASIDE_PLAYER_START_COAST</zType>
 		<zName>Берег</zName>
-		<zDescription>Start adjacent to salt water</zDescription>
+		<zDescription>Старт рядом с соленой водой</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_SEASIDE_PLAYER_START_INLAND</zType>
 		<zName>Материк</zName>
-		<zDescription>Start away from salt water</zDescription>
+		<zDescription>Старт вдали с соленой воды</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_SEASIDE_TRIBES_RANDOM</zType>
 		<zName>Случайно</zName>
-		<zDescription>Varied in number and distribution</zDescription>
+		<zDescription>Разнятся по численности и распределению</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_SEASIDE_TRIBES_FIVE</zType>
 		<zName>Пять Племен</zName>
-		<zDescription>Wide variation in size of Tribes</zDescription>
+		<zDescription>Большие различия в размерах племен</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_SEASIDE_TRIBES_FOUR</zType>
 		<zName>Четыре Племени</zName>
-		<zDescription>Quadrants</zDescription>
+		<zDescription>Квадранты</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_SEASIDE_TRIBES_THREE</zType>
 		<zName>Три Племени</zName>
-		<zDescription>Tribes of similar sizes. More unaffiliated camps.</zDescription>
+		<zDescription>Племена сходных размеров. Больше независимых лагерей.</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_SEASIDE_TERRAIN_RANDOM</zType>
 		<zName>Случайно</zName>
-		<zDescription>Randomly choose one of the other selections</zDescription>
+		<zDescription>Случайным образом один из вариантов</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_SEASIDE_TERRAIN_TUNDRA</zType>
 		<zName>Тундра</zName>
-		<zDescription>This game will include some Tundra</zDescription>
+		<zDescription>Эта игра будет включать в себя некоторую тундру</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_SEASIDE_TERRAIN_DESERT</zType>
 		<zName>Пустыня</zName>
-		<zDescription>This game will include a major Desert</zDescription>
+		<zDescription>Эта игра будет включать в себя большую пустыню</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_SEASIDE_TERRAIN_MOUNTAINS</zType>
 		<zName>Больше гор</zName>
-		<zDescription>This game will include extra Mountains</zDescription>
+		<zDescription>Эта игра будет включать в себя дополнительные горы</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_SEASIDE_TERRAIN_WATER</zType>
@@ -254,146 +254,146 @@
 	<Entry>
 		<zType>MAP_OPTION_NORTHERN_OCEAN_PLAYER_START_CONTINENT</zType>
 		<zName>На континенте</zName>
-		<zDescription>Start on the main continent. Selecting a high number of Nations may require some to be in the north.</zDescription>
+		<zDescription>Начните с главного континента. Выбор большого числа наций может потребовать, чтобы некоторые из них находились на севере.</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_NORTHERN_OCEAN_PLAYER_START_ISLANDS</zType>
 		<zName>Острова и полуострова</zName>
-		<zDescription>Start in the north, on an island or snaky peninsula. Selecting a high number of Nations may require some to be on the continent.</zDescription>
+		<zDescription>Начните с севера, с острова или змеиного полуострова. Выбор большого числа наций может потребовать, чтобы некоторые из них были на континенте.</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_NORTHERN_OCEAN_TRIBES_NATIVE</zType>
 		<zName>Местный</zName>
-		<zDescription>Use Tribal homelands native to Northern Ocean</zDescription>
+		<zDescription>Используйте родные земли племен родом из Северного океана</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_NORTHERN_OCEAN_TRIBES_RANDOM</zType>
 		<zName>Случайный</zName>
-		<zDescription>Makes use of a randomly selected core Tribe method instead of using the one tailored to this map</zDescription>
+		<zDescription>Использует случайно выбранный метод основного племени вместо того, чтобы использовать тот, который адаптирован к этой карте</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_CONTINENT_PLAYER_START_SEA</zType>
 		<zName>Берег</zName>
-		<zDescription>Start adjacent to salt water</zDescription>
+		<zDescription>Начните рядом с соленой водой</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_CONTINENT_PLAYER_START_INLAND</zType>
 		<zName>Материк</zName>
-		<zDescription>Start away from salt water</zDescription>
+		<zDescription>Начните вдали от соленой воды</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_CONTINENT_TRIBES_RANDOM</zType>
 		<zName>Случайно</zName>
-		<zDescription>Varied in number and distribution</zDescription>
+		<zDescription>Разнятся по численности и распределению</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_CONTINENT_TRIBES_SCATTERED</zType>
 		<zName>Пять Племен</zName>
-		<zDescription>Scattered</zDescription>
+		<zDescription>Разбросанны</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_CONTINENT_TRIBES_QUADRANTS</zType>
 		<zName>Четыре Племени</zName>
-		<zDescription>Quadrants</zDescription>
+		<zDescription>Квадранты</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_CONTINENT_TRIBES_INLAND</zType>
 		<zName>Только на материке</zName>
-		<zDescription>Two Tribes in play, all camps away from the ocean</zDescription>
+		<zDescription>Два племени в игре, все лагеря далеко от океана</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_CONTINENT_TRIBES_COASTAL</zType>
 		<zName>Только возле берега</zName>
-		<zDescription>Two Mounted Tribes in play, all camps near salt water</zDescription>
+		<zDescription>Два конных племени в игре, все лагеря у соленой воды</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_CONTINENT_TERRAIN_EITHER</zType>
 		<zName>Любой</zName>
-		<zDescription>Extreme terrain can be either tundra or desert</zDescription>
+		<zDescription>Ландшафт экстремального типа может быть как тундровым, так и пустынным</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_CONTINENT_TERRAIN_TUNDRA</zType>
 		<zName>Тундра</zName>
-		<zDescription>Extreme terrain on this map will be tundra</zDescription>
+		<zDescription>Экстремальный  ландшафт на этой карте будет тундра</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_CONTINENT_TERRAIN_DESERT</zType>
 		<zName>Пустыня</zName>
-		<zDescription>Extreme terrain on this map will be desert</zDescription>
+		<zDescription>Экстремальный  ландшафт на этой карте будет пустыня</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_PLATEAU</zType>
 		<zName>Плоскогорье</zName>
-		<zDescription>Start in the south, on the great plateau</zDescription>
+		<zDescription>Начните с юга, на Великом плато</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_MIDLAND</zType>
 		<zName>Средняя полоса</zName>
-		<zDescription>Start in the middle latitudes</zDescription>
+		<zDescription>Начало в средних широтах</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_COASTAL_RAIN_BASIN_PLAYER_START_OCEAN</zType>
 		<zName>Рядом с океаном</zName>
-		<zDescription>Start in the north, near the ocean</zDescription>
+		<zDescription>Начните с севера, недалеко от океана</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_COASTAL_RAIN_BASIN_TRIBES_RANDOM</zType>
 		<zName>Случайно</zName>
-		<zDescription>Varied in number and distribution</zDescription>
+		<zDescription>Варьируются по численности и распределению</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_COASTAL_RAIN_BASIN_TRIBES_FIVE</zType>
 		<zName>Пять Племен</zName>
-		<zDescription>Scattered</zDescription>
+		<zDescription>Разбросанны</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_COASTAL_RAIN_BASIN_TRIBES_FOUR</zType>
 		<zName>Четыре Племени</zName>
-		<zDescription>Quadrants</zDescription>
+		<zDescription>Квадранты</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_COASTAL_RAIN_BASIN_TRIBES_THREE</zType>
-		<zName>три Племени</zName>
-		<zDescription>One Tribe per latitude band</zDescription>
+		<zName>Три Племени</zName>
+		<zDescription>Одно племя на Широтную полосу</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_COASTAL_RAIN_BASIN_TRIBES_TWO</zType>
 		<zName>Два Племени</zName>
-		<zDescription>One Tribe in the west, the other in the east</zDescription>
+		<zDescription>Одно племя на западе, другое на востоке</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_COASTAL_RAIN_BASIN_TRIBES_ONE</zType>
 		<zName>Одно Племя</zName>
-		<zDescription>One colossal Tribe owns the middle of the map</zDescription>
+		<zDescription>Одно гигантское племя владеет серединой карты</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_COASTAL_RAIN_BASIN_TRIBES_BARBARIANS</zType>
 		<zName>Только Варвары</zName>
-		<zDescription>No Tribes, only Barbarian camps</zDescription>
+		<zDescription>Никаких племен, только лагеря Варваров</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_DISJUNCTION_CONTINENTS_WEIGHTED_RANDOM</zType>
 		<zName>Взвешенно-случайно</zName>
-		<zDescription>Each of the eight continent generation methods has an equal chance to be used</zDescription>
+		<zDescription>Каждый из восьми методов генерации континентов имеет равные шансы быть использованным</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_DISJUNCTION_CONTINENTS_TWO_EVEN</zType>
 		<zName>Два континента - разделенные поровну</zName>
-		<zDescription>Two continents of nearly-equal size</zDescription>
+		<zDescription>Два континента почти одинакового размера</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_DISJUNCTION_CONTINENTS_TWO_UNEVEN</zType>
 		<zName>Два континента - разделенные неравномерно</zName>
-		<zDescription>Two continents, one larger than the other</zDescription>
+		<zDescription>Два континента, один больше другого</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_DISJUNCTION_CONTINENTS_THREE_EVEN</zType>
 		<zName>Три континента - разделенные поровну</zName>
-		<zDescription>Three continents of nearly-equal size</zDescription>
+		<zDescription>Три континента почти одинакового размера</zDescription>
 	</Entry>
 	<Entry>
 		<zType>MAP_OPTION_DISJUNCTION_CONTINENTS_THREE_UNEVEN</zType>
 		<zName>Три континента - разделенные неравномерно</zName>
-		<zDescription>Three continents of uneven sizes</zDescription>
+		<zDescription>Три континента разных размеров</zDescription>
 	</Entry>
 </Root>

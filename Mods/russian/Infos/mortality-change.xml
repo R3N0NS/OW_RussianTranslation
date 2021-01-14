@@ -9,16 +9,16 @@
 	<Entry>
 		<zType>MORTALITY_LONG</zType>
 		<zName>Низкая</zName>
-		<zHelp>Characters live longer lives</zHelp>
+		<zHelp>Персонажи живут дольше</zHelp>
 	</Entry>
 	<Entry>
 		<zType>MORTALITY_STANDARD</zType>
 		<zName>Стандартная</zName>
-		<zHelp>Characters do not frequently die young</zHelp>
+		<zHelp>Персонажи не так часто умирают молодыми</zHelp>
 	</Entry>
 	<Entry>
 		<zType>MORTALITY_REALISTIC</zType>
 		<zName>Реалистичная</zName>
-		<zHelp>Nasty, Brutish, and Short</zHelp>
+		<zHelp>Скверный, грубый и короткий цикл жизни</zHelp>
 	</Entry>
 </Root>

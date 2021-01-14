@@ -15,24 +15,24 @@
 	<Entry>
 		<zType>GAMEOPTION_AI_ONLY</zType>
 		<zName>Только ИИ</zName>
-		<zHelp>Human players follow the same rules as the AI.</zHelp>
+		<zHelp>Человеческие игроки следуют тем же правилам, что и ИИ.</zHelp>
 		<bDebug>1</bDebug>
 	</Entry>
 	<Entry>
 		<zType>GAMEOPTION_NO_CHARACTERS</zType>
 		<zName>Нет персонажей</zName>
-		<zHelp>Characters and Families are removed from the game.</zHelp>
+		<zHelp>Персонажи и семьи удаляются из игры.</zHelp>
 		<bDefaultMultiPlayer>1</bDefaultMultiPlayer>
 	</Entry>
 	<Entry>
 		<zType>GAMEOPTION_NO_TRIBES</zType>
 		<zName>Нет племен</zName>
-		<zHelp>Tribes are replaced by link(TRIBE_BARBARIANS).</zHelp>
+		<zHelp>Племена заменяются link(TRIBE_BARBARIANS).</zHelp>
 	</Entry>
 	<Entry>
 		<zType>GAMEOPTION_NO_FOG_OF_WAR</zType>
 		<zName>Без тумана войны</zName>
-		<zHelp>Map starts fully revealed and stays visible.</zHelp>
+		<zHelp>Карта полностью открыта и остается видимой.</zHelp>
 		<abFirstUnitInvalid>
 			<Pair>
 				<zIndex>UNIT_SCOUT</zIndex>
@@ -43,35 +43,35 @@
 	<Entry>
 		<zType>GAMEOPTION_NO_TEAM_MOVEMENT</zType>
 		<zName>Нет командного передвижения</zName>
-		<zHelp>Players cannot move their Teammates' Units.</zHelp>
+		<zHelp>Игроки не могут перемещать юниты своих товарищей по команде.</zHelp>
 		<bSinglePlayer>0</bSinglePlayer>
 	</Entry>
 	<Entry>
 		<zType>GAMEOPTION_LOCKED_SAVE</zType>
 		<zName>Защитить сохранение</zName>
-		<zHelp>The save file is checked against a hash to prevent modification using an outside editor.</zHelp>
+		<zHelp>Файл сохранения проверяется на соответствию хэшу, чтобы предотвратить изменение с помощью внешнего редактора.</zHelp>
 	</Entry>
 	<Entry>
 		<zType>GAMEOPTION_NO_UNDO</zType>
 		<zName>Нет отмены</zName>
-		<zHelp>Player is not allowed to undo a move after it has been made.</zHelp>
+		<zHelp>Игрок не может отменить ход после того, как он был сделан.</zHelp>
 		<bMultiPlayer>0</bMultiPlayer>
 	</Entry>
 	<Entry>
 		<zType>GAMEOPTION_LOCK_PLAYER_OPTIONS</zType>
 		<zName>Заблокировать параметры</zName>
-		<zHelp>Cannot change gameplay player options after the game has started</zHelp>
+		<zHelp>Невозможно изменить параметры игрового процесса после начала игры</zHelp>
 		<bMultiPlayer>0</bMultiPlayer>
 	</Entry>
 	<Entry>
 		<zType>GAMEOPTION_RANDOMIZE_FAMILIES</zType>
 		<zName>Перемешать семьи</zName>
-		<zHelp>Randomize the class of each Family (Sage, Artisan, Champion, etc).</zHelp>
+		<zHelp>Рандомизируйте класс каждой семьи (мудрец, ремесленник, чемпион и т. д.).</zHelp>
 	</Entry>
 	<Entry>
 		<zType>GAMEOPTION_ONE_CITY_CHALLENGE</zType>
 		<zName>Один город</zName>
-		<zHelp>Players are not allowed to control more than one city.</zHelp>
+		<zHelp>Игрокам не разрешается контролировать более одного города.</zHelp>
 		<abFirstUnitInvalid>
 			<Pair>
 				<zIndex>UNIT_SETTLER</zIndex>

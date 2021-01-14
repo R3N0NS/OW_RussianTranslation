@@ -11054,7 +11054,10 @@ link(CONCEPT_IMPROVEMENT,2) может быть расширенно link(CONCEP
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_HARVEST_RESOURCE</zType>
-		<Translation>Отряд {UNIT-0} переместился на {RESOURCE-2} - ресурс, пригодный для сбора урожая! Вы можете потратить link(YIELD_ORDERS) icon(YIELD_ORDERS), чтобы получить небольшое количество сырья.</Translation>
+		<Translation>Отряд {UNIT-0} переместился на {RESOURCE-2} - ресурс, пригодный для сбора урожая! Вы можете потратить link(YIELD_ORDERS) icon(YIELD_ORDERS), чтобы получить небольшое количество сырья.
+
+Ресурсы, которые находятся в вне границах любого города или слишком далеко от одного из ваших городов, не могут быть собраны.
+</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_ON_COOLDOWN</zType>
@@ -11066,7 +11069,8 @@ link(CONCEPT_IMPROVEMENT,2) может быть расширенно link(CONCEP
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_OUT_OF_ORDERS</zType>
-		<Translation>У вас закончились link(YIELD_ORDERS)! Для командования {UNIT-0} нужно дождаться следующего года.</Translation>
+		<Translation>У вас закончились link(YIELD_ORDERS)! Для командования {UNIT-0} нужно дождаться следующего года.
+Наиболее важным источником link(YIELD_ORDERS) является link(CONCEPT_LEGITIMACY).</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_RELIGION</zType>
@@ -11078,7 +11082,10 @@ link(CONCEPT_IMPROVEMENT,2) может быть расширенно link(CONCEP
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_NATION_CONTACT</zType>
-		<Translation>Вы встретили нацию соперника! Другие империи - ваши главные противники, однако успешное ведение дипломатии может подарить мощного торгового партнера и союзника. Вам предстоит решить, с какими империями вступать в союз, а какие завоевывать.</Translation>
+		<Translation>Вы встретили нацию соперника! Другие империи - ваши главные противники, однако успешное ведение дипломатии может подарить мощного торгового партнера и союзника. Вам предстоит решить, с какими империями вступать в союз, а какие завоевывать.
+
+Чтобы вести дипломатию, вы должны назначить link(COUNCIL_AMBASSADOR).
+</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_TRIBES</zType>
@@ -11098,7 +11105,8 @@ link(CONCEPT_IMPROVEMENT,2) может быть расширенно link(CONCEP
 		<zType>TEXT_EVENTSTORY_TUTORIAL_SUCCESSION</zType>
 		<Translation>В вашей семье появился новый наследник, {CHARACTER-0}! Должное воспитание наследников необходимо для существования империи: кто-то должен взять бразды правления в свои руки после смерти нынешнего лидера.
 
-Как только ваши наследники подрастут, вы сможете подготовить их к тем задачам, которые они должны выполнять. Ваша семья не просто правит королевством: правильный выбор губернаторов и советников поможет сформировать мощное правительство.</Translation>
+Как только ваши наследники подрастут, вы сможете подготовить их к тем задачам, которые они должны выполнять. Ваша семья не просто правит королевством: правильный выбор губернаторов и советников поможет сформировать мощное правительство.
+Ваш наследник (и другие члены семьи) могут сделать больше, чем просто ждать, чтобы унаследовать трон. Вы можете использовать их как link(CONCEPT_GOVERNOR,1) и link (CONCEPT_COUNCILOR,1) для формирования своего правительства.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_LEGITIMACY</zType>
