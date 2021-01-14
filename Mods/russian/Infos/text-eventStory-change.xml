@@ -3,7 +3,7 @@
 <Root>
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_TRUCE_HOSTAGE</zType>
@@ -330,7 +330,13 @@
 		<Translation>Охрана, посланная {CHARACTER-1}, пытается арестовать {CHARACTER-0}, но встречает маловероятное сопротивление: {PLAYER-2}. Похоже, что {CHARACTER-SHORT-0} вступил в сговор с {PLAYER-2,3}, чтобы протолкнуть нужные законы через правительство. Теперь их группа томится в нашей тюрьме.
 
 {CHARACTER-SHORT-2} требует, чтобы мы освободили этих людей и {CHARACTER-SHORT-0}, позволив им вернуться к {PLAYER-2}. Конечно, такая амнистия будет истолковано как признак слабости.</Translation>
-    </Entry>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUPPORTING_THE_FAITH</zType>
+		<Translation><![CDATA[Лидер <p.is_sub.S0=SUBJECT_ZOROASTRIANISM>Магов<p=SUBJECT_CHRISTIANITY>Епископов<p=SUBJECT_JUDAISM>Коэнов<p=SUBJECT_MANICHAEISM>Избранных<else>Жрецов<end> попросил аудиенции. Серьезным голосом он говорит о том, как верующие смотрят на вас как на пример.
+
+Он предполагает, что, возможно, демонстрация поддержки {RELIGION-0} поможет вам обоим.]]></Translation>
+	</Entry>
 	<Entry beginGroup="Exploration">
 		<zType>TEXT_EVENTSTORY_RUINS_SURVIVORS</zType>
 		<Translation>Эта деревня недавно подверглась нападению. Мы обнаружили группу выживших, затаившихся в ее руинах. Похоже, они готовы отказаться от обломков старой жизни и присоединиться к нашей империи, но наша культура им совсем не знакома. 
@@ -1434,6 +1440,78 @@
 		<Translation>Наша несравненная репутация справедливости побудила {TRIBE-0} подумать о заключении с нами союза. Это потребует небольшого платежа золотом. Продолжим?</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_MIGHTY</zType>
+		<Translation>An emissary from the {TRIBE-0} has arrived to propose closer ties between our peoples.
+
+“Mighty {CHARACTER-1}, long have our two peoples lived in peace and enjoyed a close relationship,” he announces. “We feel the time has come to sign a formal alliance. What say you?”
+
+The {TRIBE-0} could be a powerful ally, but of course, we may be drawn into their wars at inopportune times.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_ZEALOUS</zType>
+		<Translation>A holy messenger arrives from the {TRIBE-1}. She bears a message from the link(TRAIT_ZEALOT_ARCHETYPE,1) {CHARACTER-0}.
+
+“The gods have spoken. An alliance between the {TRIBE-1} and {PLAYER-2} is blessed in their eyes. Will you listen to their truth?”</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_SCHOLAR</zType>
+		<Translation>An aide to the erudite scholar {CHARACTER-0} brings us an offer of alliance. {CHARACTER-SHORT-0} wishes to usher in a new era of peace and learning, unmatched since the reign of Ur-Nammu.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_JUDGE</zType>
+		<Translation>A clerk from the office of the fair-minded link(TRAIT_JUDGE_ARCHETYPE) {CHARACTER-0} has arrived bearing an injunction requesting an alliance between us forthwith. This will remedy the lack of judicial enforcement in the immediate area and bring relief to many plaintiffs to whom our individual realms cannot render aid on their own.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_BUILDER</zType>
+		<Translation>An emissary sent by {CHARACTER-0} has brought us an offer of alliance. {CHARACTER-SHORT-0}, a brilliant builder, now desires to build a powerful union between our realms. 
+
+“We must build an alliance which will stand the test of time” {G0:his:her} emissary quotes.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_COMMANDER</zType>
+		<Translation>A captain bearing the seal of the famed commander {CHARACTER-0} tells us that {CHARACTER-SHORT-0} is ready to lead our armies to victory if we will ally with {G0:him:her}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_TACTICIAN</zType>
+		<Translation>An envoy from {CHARACTER-0} has arrived. He reveals that {CHARACTER-SHORT-0}, using {G0:his:her} great tactical skill, has determined that an alliance with us is the optimal move to make at this time.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_HERO</zType>
+		<Translation>A champion of {CHARACTER-0} has arrived at the court. She brings word that {CHARACTER-SHORT-0} wishes to sign an alliance with us in order to lead both our peoples to glory.
+
+ “Think of the battles we could win, with the {TRIBE-1} and {PLAYER-2} united!”, she excitedly adds.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_SCHEMER</zType>
+		<Translation>You awaken and notice, with some alarm, that there is a note pinned to the headboard of your bed by a dagger. After a brief yet frantic search of your bed chambers you return and read the note.
+
+It is an offer of alliance from {CHARACTER-0}. {G0:He:She} apologizes for any alarm caused by the method of delivery, but {G0:he:she} wished to make clear what kind of skills {G0:he:she} could bring to the table.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_DIPLOMAT</zType>
+		<Translation>{CHARACTER-0} has made it known to us that {G0:he:she} feels the time is right to bind our two nations with a historic alliance treaty, which {G0:he:she} is sure will secure “peace in our time.”</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_ORATOR</zType>
+		<Translation>A messenger has reached us from {CHARACTER-0}. He says that he is under strict instructions to deliver the message exactly as {CHARACTER-SHORT-0} delivered it to him. 
+
+The messenger seems to focus for a moment, strikes a powerful pose with a hand outstretched, and begins, “Our TWO peoples must become ONE!” He clenches his outstretched hand into a fist. “Only TOGETHER can we grow STRONG, can we PROSPER, can we CONQUER!” he thunders. He lowers his hand, growing solemn, looking thoughtful. “Truly, this is a ONCE in a lifetime opportunity to ENTWINE our realms into a beautiful TAPESTRY.” Suddenly, he looks pained, worried. “To turn down such an offer would be DISASTROUS, only a FOOL would do so.”
+
+The messenger collapses to the ground, spent. One courtier begins to applaud politely, but quickly stops when no one else joins in.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_TERROR</zType>
+		<Translation>A messenger from the {TRIBE-0} seeks an audience with you.
+
+“{CHARACTER-1}, we of the {TRIBE-0} seek your protection. The night is dark and full of terrors, but your empire is the shining light which can banish our fears. Sign an alliance with us and we shall surely enter a golden age!”</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_STRANGE</zType>
+		<Translation>A {TRIBE-0,1} envoy stands before you today, proposing that {PLAYER-1} and the {TRIBE-0} sign a formal alliance to stand united against any who dare threaten your two realms.
+
+A strange people, prone to {random_R0:passionate speeches:cannibalism:sudden rages:wild parties:creating catchy songs:beautiful crafting:berserk anger:practical jokes:stealing horses:vicious gossip:impromptu poetry slams:storing their wealth within easily breakable pottery:unrelenting neutrality:running into battle naked}, they have nonetheless been good friends to your people for some time now.</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_PEACE_OFFER</zType>
 		<Translation>{TRIBE-0} представляет предложение, обещающее стабильный мир. Мы одобряем?</Translation>
 	</Entry>
@@ -1471,8 +1549,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FLORID_DIPLOMAT</zType>
-		<Translation>Влиятельный лидер {TRIBE-0,1} прибыл, чтобы сообщить нам, что {G0:его:ее} народ объявляет войну. Поскольку {G0:Он:Она} перечисляет их обиды, мы не можем не заметить {G0:его:ее}
- богатую одежду и красноречивую риторику. Ясно, что это {G0:мужчина:женщина}, {G0:который:которая} ценит прекрасные вещи ...
+		<Translation>Влиятельный лидер {TRIBE-0,1} прибыл, чтобы сообщить нам, что {G0:его:ее} народ объявляет войну. Поскольку {G0:Он:Она} перечисляет их обиды, мы не можем не заметить {G0:его:ее} богатую одежду и красноречивую риторику. Ясно, что это {G0:мужчина:женщина}, {G0:который:которая} ценит прекрасные вещи ...
 </Translation>
 	</Entry>
 	<Entry>
@@ -1773,12 +1850,8 @@
 Что мы ему скажем?</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_HERO</zType>
-		<Translation><![CDATA[До нас дошли слухи, что {PLAYER-0,3} планируют атаковать нас. Их правитель, link(TRAIT_HERO_ARCHETYPE) {CHARACTER-SHORT-0} поклялся сокрушить наши армии и разрушить города голыми руками {G0:его:ее}. Тем не менее, эту войну можно предотвратить, отдав дань уважения и умиротворив {G0:его:ее} эго.
-
-Тем не менее, эту войну еще можно предотвратить, отдав дань уважения и умиротворив {G0:его:ее} эго
-
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая панику среди придворных.
+		<zType>TEXT_EVENTSTORY_WAR_OFFER_CLOSING</zType>
+		<Translation><![CDATA[<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая панику среди придворных.
 <p=SUBJECT_SLOTHFUL>"Ох..", вы вздыхаете, услышав это. "Это так утомительно!"
 <p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете своим придворным, что не чувствуют себя комфортно.
 <p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
@@ -1811,368 +1884,69 @@
 <p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
 <p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
 <p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else>"Какая проблема!" вы объявляете в правительстве.<end>
-]]></Translation>
+<else>"Какая проблема!" вы объявляете в правительстве.<end>]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_HERO</zType>
+		<Translation>До нас дошли слухи, что {PLAYER-0,3} планируют атаковать нас. Их правитель, link(TRAIT_HERO_ARCHETYPE) {CHARACTER-SHORT-0} поклялся сокрушить наши армии и разрушить города голыми руками {G0:его:ее}. Тем не менее, эту войну можно предотвратить, отдав дань уважения и умиротворив {G0:его:ее} эго.
+
+Тем не менее, эту войну еще можно предотвратить, отдав дань уважения и умиротворив {G0:его:ее} эго
+
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_ZEALOT</zType>
-		<Translation><![CDATA[link(TRAIT_ZEALOT_ARCHETYPE) {CHARACTER-SHORT-0} начала проповедовать против нас. {G0:Он:Она} утверждает, что боги {PLAYER-0,1} осудили нас и что {G0:его:ее} святая обязанность уничтожить нас! Этот крестовый поход против нас, скорее всего, скоро начнется всерьез, если мы не сможем умиротворить их данью.
+		<Translation>link(TRAIT_ZEALOT_ARCHETYPE) {CHARACTER-SHORT-0} начала проповедовать против нас. {G0:Он:Она} утверждает, что боги {PLAYER-0,1} осудили нас и что {G0:его:ее} святая обязанность уничтожить нас! Этот крестовый поход против нас, скорее всего, скоро начнется всерьез, если мы не сможем умиротворить их данью.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_ZEALOT_FURIOUS</zType>
-		<Translation><![CDATA[link(TRAIT_ZEALOT_ARCHETYPE) {CHARACTER-0} в ярости начала проповедовать против нас. {G0:Он:Она} утверждает, что боги {PLAYER-0,1} осудили нас и что {G0:его:ее} святая обязанность уничтожить нас! Этот крестовый поход против нас, скорее всего, скоро начнется всерьез, если мы не сможем умиротворить их огромной данью.
+		<Translation>link(TRAIT_ZEALOT_ARCHETYPE) {CHARACTER-0} в ярости начала проповедовать против нас. {G0:Он:Она} утверждает, что боги {PLAYER-0,1} осудили нас и что {G0:его:ее} святая обязанность уничтожить нас! Этот крестовый поход против нас, скорее всего, скоро начнется всерьез, если мы не сможем умиротворить их огромной данью.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" вы объявляете в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_ZEALOT_MILD</zType>
-		<Translation><![CDATA[link(TRAIT_ZEALOT_ARCHETYPE,1) {CHARACTER-0} {G0:отчитал:отчитала} нас во время одной из своих проповедей. {G0:Он:Она} утверждает, что Боги {PLAYER-0,1} недовольны нами, и {G0:его:ее} святая обязанность предупредить нас к покаянию!
+		<Translation>link(TRAIT_ZEALOT_ARCHETYPE,1) {CHARACTER-0} {G0:отчитал:отчитала} нас во время одной из своих проповедей. {G0:Он:Она} утверждает, что Боги {PLAYER-0,1} недовольны нами, и {G0:его:ее} святая обязанность предупредить нас к покаянию!
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_TACTICIAN</zType>
-		<Translation><![CDATA[{CHARACTER-0}, хитрая link(TRAIT_TACTICIAN_ARCHETYPE), как говорят, планирует атаку на нас. Это может иметь катастрофические последствия, поскольку, как говорят, {G0:он:она} не имеет себе равных на поле боя. Возможно, если мы предложим дань уважения {PLAYER-0,3}, пока можно будет успокоить его.
+		<Translation>{CHARACTER-0}, хитрая link(TRAIT_TACTICIAN_ARCHETYPE), как говорят, планирует атаку на нас. Это может иметь катастрофические последствия, поскольку, как говорят, {G0:он:она} не имеет себе равных на поле боя. Возможно, если мы предложим дань уважения {PLAYER-0,3}, пока можно будет успокоить его.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_TACTICIAN_FURIOUS</zType>
-		<Translation><![CDATA[{CHARACTER-0}, хитрая link(TRAIT_TACTICIAN_ARCHETYPE), помимо самого {G0:себя: себя}, гневается на нас и планирует вскоре атаковать. Это может иметь катастрофические последствия, поскольку, как говорят, {G0:он:она} не имеет себе равных на поле боя. Возможно, если мы предложим большую дань уважения {PLAYER-0,3}, пока можно будет умиротворить его.
+		<Translation>{CHARACTER-0}, хитрая link(TRAIT_TACTICIAN_ARCHETYPE), помимо самого {G0:себя: себя}, гневается на нас и планирует вскоре атаковать. Это может иметь катастрофические последствия, поскольку, как говорят, {G0:он:она} не имеет себе равных на поле боя. Возможно, если мы предложим большую дань уважения {PLAYER-0,3}, пока можно будет умиротворить его.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_TACTICIAN_MILD</zType>
-		<Translation><![CDATA[{CHARACTER-0}, хитрая link(TRAIT_TACTICIAN_ARCHETYPE), возможно, планирует нападение на нас. Это было бы катастрофой, так как {G0:он:она}, как говорят, не имеет себе равных на поле боя. Возможно, если мы предложим дань уважения, {PLAYER-0,3} можно будет умиротворить и восстановить дружеские отношения.
+		<Translation>{CHARACTER-0}, хитрая link(TRAIT_TACTICIAN_ARCHETYPE), возможно, планирует нападение на нас. Это было бы катастрофой, так как {G0:он:она}, как говорят, не имеет себе равных на поле боя. Возможно, если мы предложим дань уважения, {PLAYER-0,3} можно будет умиротворить и восстановить дружеские отношения.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_COMMANDER</zType>
-		<Translation><![CDATA[По слухам, известная link(TRAIT_COMMANDER_ARCHETYPE), {CHARACTER-0} планирует кампанию против нас! Во главе армий {PLAYER-0,1} {G0:он:она} будет грозным противником. Наш единственный шанс избежать войны - упредить ее, предложив дань.
+		<Translation>По слухам, известная link(TRAIT_COMMANDER_ARCHETYPE), {CHARACTER-0} планирует кампанию против нас! Во главе армий {PLAYER-0,1} {G0:он:она} будет грозным противником. Наш единственный шанс избежать войны - упредить ее, предложив дань.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_COMMANDER_FURIOUS</zType>
-		<Translation><![CDATA[Знаменитая link(TRAIT_COMMANDER_ARCHETYPE), {CHARACTER-0} яростно планирует кампанию против нас! Во главе армий {PLAYER-0,1} {G0:он:она} будет грозным противником. Наш единственный шанс избежать войны - это предотвратить ее, предложив щедрую дань.
+		<Translation>Знаменитая link(TRAIT_COMMANDER_ARCHETYPE), {CHARACTER-0} яростно планирует кампанию против нас! Во главе армий {PLAYER-0,1} {G0:он:она} будет грозным противником. Наш единственный шанс избежать войны - это предотвратить ее, предложив щедрую дань.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_COMMANDER_MILD</zType>
-		<Translation><![CDATA[По слухам, известная link(TRAIT_COMMANDER_ARCHETYPE), {CHARACTER-0}, думает о кампании против нас! Во главе армий {PLAYER-0,1} {G0:он:она} мог быть грозным противником. Наш единственный шанс избежать войны - упредить ее, предложив дань.
+		<Translation>По слухам, известная link(TRAIT_COMMANDER_ARCHETYPE), {CHARACTER-0}, думает о кампании против нас! Во главе армий {PLAYER-0,1} {G0:он:она} мог быть грозным противником. Наш единственный шанс избежать войны - упредить ее, предложив дань.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_TRAIT_TACTICIAN_ARCHETYPE_ANGRY_3</zType>
@@ -2888,826 +2662,147 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_SCHEMER</zType>
-		<Translation><![CDATA[{CHARACTER-SHORT-0} из {PLAYER-0,0}} готовится к войне против нас. {CHARACTER-SHORT-0}, будучи link(TRAIT_SCHEMER_ARCHETYPE), должен был предать нас рано или поздно, но, возможно, удастся отложить атаку {G0:его:ее}, отдав дань уважения. Однако это может просто позволить {PLAYER-0,3} еще больше укрепить свои силы для проведения более мощной атаки в будущем.
+		<Translation>{CHARACTER-SHORT-0} из {PLAYER-0,0}} готовится к войне против нас. {CHARACTER-SHORT-0}, будучи link(TRAIT_SCHEMER_ARCHETYPE), должен был предать нас рано или поздно, но, возможно, удастся отложить атаку {G0:его:ее}, отдав дань уважения. Однако это может просто позволить {PLAYER-0,3} еще больше укрепить свои силы для проведения более мощной атаки в будущем.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_SCHEMER_FURIOUS</zType>
-		<Translation><![CDATA[{CHARACTER-SHORT-0} из {PLAYER-0,0} готовится к войне против нас. {CHARACTER-SHORT-0}, будучи link(TRAIT_SCHEMER_ARCHETYPE), должен был предать нас рано или поздно, а явная ненависть {G0:его:ее} к нам только ускорила решение {G0:его:ее}, но, возможно, это могло бы можно будет отсрочить атаку {G0:его:ее}, заплатив много дани.
+		<Translation>{CHARACTER-SHORT-0} из {PLAYER-0,0} готовится к войне против нас. {CHARACTER-SHORT-0}, будучи link(TRAIT_SCHEMER_ARCHETYPE), должен был предать нас рано или поздно, а явная ненависть {G0:его:ее} к нам только ускорила решение {G0:его:ее}, но, возможно, это могло бы можно будет отсрочить атаку {G0:его:ее}, заплатив много дани. 
 
 Остерегайтесь, это может позволить {PLAYER-0,3} еще больше укрепить свои силы для нападения в будущем.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_SCHEMER_MILD</zType>
-		<Translation><![CDATA[{CHARACTER-SHORT-0} из {PLAYER-0,0}} может готовиться к войне против нас. {CHARACTER-SHORT-0}, будучи link(TRAIT_SCHEMER_ARCHETYPE), скорее всего, предаст нас рано или поздно, но, возможно, удастся отложить {G0:его:ее} планы, отдав дань уважения.
+		<Translation>{CHARACTER-SHORT-0} из {PLAYER-0,0}} может готовиться к войне против нас. {CHARACTER-SHORT-0}, будучи link(TRAIT_SCHEMER_ARCHETYPE), скорее всего, предаст нас рано или поздно, но, возможно, удастся отложить {G0:его:ее} планы, отдав дань уважения.
 
 Хотя это может позволить {PLAYER-0,3} наращивать свои силы для более мощного нападения в будущем, {G0:он:она} вполне может вступить в заговор с другой империей.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_ORATOR</zType>
-		<Translation><![CDATA[Правитель {PLAYER-0,0} - известный link(TRAIT_ORATOR_ARCHETYPE), но теперь {G0:он:она} обращает свои таланты против нас, побуждая {PLAYER- 0,3} напасть. Война кажется неизбежной, если вместо этого мы не воздадим дань.
+		<Translation>Правитель {PLAYER-0,0} - известный link(TRAIT_ORATOR_ARCHETYPE), но теперь {G0:он:она} обращает свои таланты против нас, побуждая {PLAYER- 0,3} напасть. Война кажется неизбежной, если вместо этого мы не воздадим дань.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_ORATOR_FURIOUS</zType>
-		<Translation><![CDATA[Правитель {PLAYER-0,0} - известный link(TRAIT_ORATOR_ARCHETYPE), но теперь {G0:он:она} обращает на нас свою ярость, подталкивая {PLAYER-0,3}, атаковать наше царство. Война кажется неизбежной, если мы не воздадим большую дань.
+		<Translation>Правитель {PLAYER-0,0} - известный link(TRAIT_ORATOR_ARCHETYPE), но теперь {G0:он:она} обращает на нас свою ярость, подталкивая {PLAYER-0,3}, атаковать наше царство. Война кажется неизбежной, если мы не воздадим большую дань.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_ORATOR_MILD</zType>
-		<Translation><![CDATA[Правитель {PLAYER-0,0} - известный link(TRAIT_ORATOR_ARCHETYPE), но теперь {G0:он:она} обращается против нас, склоняя {PLAYER- 0,3}, чтобы сразиться с нами. Возможно будет война, если вместо этого мы не предложим дань.
+		<Translation>Правитель {PLAYER-0,0} - известный link(TRAIT_ORATOR_ARCHETYPE), но теперь {G0:он:она} обращается против нас, склоняя {PLAYER- 0,3}, чтобы сразиться с нами. Возможно будет война, если вместо этого мы не предложим дань.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_JUDGE</zType>
-		<Translation><![CDATA[{CHARACTER-0}, link(TRAIT_JUDGE_ARCHETYPE) из {PLAYER-0,0} {G0:сложил:сложила} о нас безошибочное суждение подстегиваемое {G0:его:ее} явной яростью. {G0:Он:Она} считает, что {G0:обнаружил:обнаружила}, что мы хотим, и теперь готовится привести в исполнение приговор силой своего оружия.
+		<Translation>{CHARACTER-0}, link(TRAIT_JUDGE_ARCHETYPE) из {PLAYER-0,0} {G0:сложил:сложила} о нас безошибочное суждение подстегиваемое {G0:его:ее} явной яростью. {G0:Он:Она} считает, что {G0:обнаружил:обнаружила}, что мы хотим, и теперь готовится привести в исполнение приговор силой своего оружия.
 
 Если мы хотим избежать войны, нам придется заплатить большую дань.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_JUDGE_FURIOUS</zType>
-		<Translation><![CDATA[{CHARACTER-SHORT-0}, link(TRAIT_JUDGE_ARCHETYPE) из {PLAYER-0,0},{{G0:сложил:сложила} о нас безошибочное суждение подстегиваемое {G0:его:ее} явной яростью.. {G0:он:она} believes {G0:он:она} has taken our measure and found us wanting, and now {G0:он:она} prepares to enforce {G0:его:ее} sentence through force of arms.
+		<Translation>{CHARACTER-SHORT-0}, link(TRAIT_JUDGE_ARCHETYPE) из {PLAYER-0,0},{G0:сложил:сложила} о нас безошибочное суждение подстегиваемое {G0:его:ее} явной яростью.. {G0:Он:Она} считает, что {G0:обнаружил:обнаружила} что мы хотим, и теперь готовится привести приговор в исполнение с помощью оружия.
 
 Если мы хотим избежать войны, нам придется заплатить огромную дань.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а судебный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_JUDGE_MILD</zType>
-		<Translation><![CDATA[{CHARACTER-SHORT-0}, link(TRAIT_JUDGE_ARCHETYPE) of {PLAYER-0,0}, {G0:сложил:сложила} о нас безошибочное суждение. {G0:он:она} believes {G0:он:она} has reason to investigate us, and if necessary {G0:он:она} will prepare to enforce {G0:его:ее} sentence through force of arms. 
+		<Translation>{CHARACTER-SHORT-0}, link(TRAIT_JUDGE_ARCHETYPE) of {PLAYER-0,0}, {G0:сложил:сложила} о нас безошибочное суждение. {G0:Он:Она} считает, что у есть причина у нас расследование , и при необходимости готовится привести приговор в исполнение с помощью оружия.
 
 Если мы хотим избежать войны, нам придется заплатить небольшую дань.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! "- восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете суду: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может рассчитывать угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" - заявляете вы своим нервным придворным.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному суду.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:Он:Она} станет ужасным предупреждением!"- восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Конечно, мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED>Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку, чтобы удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH>Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а клерк придворного пера воспламеняется.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else>"Какая проблема!" объявляете в суд.<end>]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_BUILDER</zType>
-		<Translation><![CDATA[{CHARACTER-0} - это link(TRAIT_BUILDER_ARCHETYPE) могущественной империи ,но {G0:его:ее} постоянные проекты застроек требуют бесконечного потока сырья, и {character-short-0} теперь обращает {G0:его:ее} жадные глаза на наши ресурсы. 
+		<Translation>{CHARACTER-0} - это link(TRAIT_BUILDER_ARCHETYPE) могущественной империи ,но {G0:его:ее} постоянные проекты застроек требуют бесконечного потока сырья, и {character-short-0} теперь обращает {G0:его:ее} жадные глаза на наши ресурсы. 
 		
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а придворный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_BUILDER_FURIOUS</zType>
-		<Translation><![CDATA[{CHARACTER-0} - это link(TRAIT_BUILDER_ARCHETYPE) могущественной империи ,но {G0:его:ее} постоянные проекты застроек требуют бесконечного потока сырья, и {CHARACTER-SHORT-0} теперь обращает {G0:его:ее} жадные глаза на наши ресурсы. Мы - очевидная цель из-за {G0: его: ее} хорошо известной ненависти к нашей империи.
+		<Translation>{CHARACTER-0} - это link(TRAIT_BUILDER_ARCHETYPE) могущественной империи ,но {G0:его:ее} постоянные проекты застроек требуют бесконечного потока сырья, и {CHARACTER-SHORT-0} теперь обращает {G0:его:ее} жадные глаза на наши ресурсы. Мы - очевидная цель из-за {G0: его: ее} хорошо известной ненависти к нашей империи.
 
--Война неизбежна, если мы немедленно не предложим большую дань.
+Война неизбежна, если мы немедленно не предложим дань.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а придворный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_BUILDER_MILD</zType>
-		<Translation><![CDATA[{CHARACTER-0} - это link(TRAIT_BUILDER_ARCHETYPE) могучей империи, но {G0:его:ее} строительные проекты требуют нескончаемого потока сырья, и теперь { G0:его:ее} жадный взгляд пал на наши ресурсы. Вероятна война, если мы сразу не предложим дань.
+		<Translation>{CHARACTER-0} - это link(TRAIT_BUILDER_ARCHETYPE) могучей империи, но {G0:его:ее} строительные проекты требуют нескончаемого потока сырья, и теперь { G0:его:ее} жадный взгляд пал на наши ресурсы. Вероятна война, если мы сразу не предложим дань.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а придворный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_SCHOLAR</zType>
-		<Translation><![CDATA[{CHARACTER-SHORT-0} из {PLAYER-0,0} готовится к войне против нас. Ссылка {CHARACTER-SHORT-0} link(TRAIT_SCHOLAR_ARCHETYPE), несомненно, подсчитала, что это идеальное время для атаки. Однако можно было бы отсрочить вторжение {G0:его:ее}, отдав дань уважения и изменив переменные в уравнениях {G0:его:ее}.
+		<Translation>{CHARACTER-SHORT-0} из {PLAYER-0,0} готовится к войне против нас. Ссылка {CHARACTER-SHORT-0} link(TRAIT_SCHOLAR_ARCHETYPE), несомненно, подсчитала, что это идеальное время для атаки. Однако можно было бы отсрочить вторжение {G0:его:ее}, отдав дань уважения и изменив переменные в уравнениях {G0:его:ее}.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а придворный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_SCHOLAR_FURIOUS</zType>
-		<Translation><![CDATA[{CHARACTER-SHORT-0} из {PLAYER-0,0} готовится к войне против нас. {CHARACTER-SHORT-0} link(TRAIT_SCHOLAR_ARCHETYPE), несомненно, подсчитала, что это идеальное время для атаки.
+		<Translation>{CHARACTER-SHORT-0} из {PLAYER-0,0} готовится к войне против нас. {CHARACTER-SHORT-0} link(TRAIT_SCHOLAR_ARCHETYPE), несомненно, подсчитала, что это идеальное время для атаки.
 
 Однако можно было бы отсрочить вторжение {G0:его:ее}, отдав дань уважения и изменив переменные в уравнениях {G0:его:ее}. И все же будет трудно преодолеть неистовую ярость {G0:его:ее}.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а придворный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_SCHOLAR_MILD</zType>
-		<Translation><![CDATA[По слухам, {CHARACTER-SHORT-0} из {PLAYER-0,0} рассматривает возможность войны против нас. {CHARACTER-SHORT-0}, link(TRAIT_SCHOLAR_ARCHETYPE), без сомнения подсчитала, что идеальное время для атаки на нас приближается. Тем не менее, можно было бы предотвратить вторжение {G0:его:ее}, отдав дань уважения, изменив переменные в уравнениях {G0:его:ее}.
+		<Translation>По слухам, {CHARACTER-SHORT-0} из {PLAYER-0,0} рассматривает возможность войны против нас. {CHARACTER-SHORT-0}, link(TRAIT_SCHOLAR_ARCHETYPE), без сомнения подсчитала, что идеальное время для атаки на нас приближается. Тем не менее, можно было бы предотвратить вторжение {G0:его:ее}, отдав дань уважения, изменив переменные в уравнениях {G0:его:ее}.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а придворный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_DIPLOMAT</zType>
-		<Translation><![CDATA[Известная link(TRAIT_DIPLOMAT_ARCHETYPE) {CHARACTER-SHORT-0} из {PLAYER-0,0} больше не считает, что с нами стоит разговаривать. Вместо этого {G0:он:она} намеревается сформировать коалицию из других стран, чтобы "положить конец нашей угрозе раз и навсегда".
+		<Translation>Известная link(TRAIT_DIPLOMAT_ARCHETYPE) {CHARACTER-SHORT-0} из {PLAYER-0,0} больше не считает, что с нами стоит разговаривать. Вместо этого {G0:он:она} намеревается сформировать коалицию из других стран, чтобы "положить конец нашей угрозе раз и навсегда".
 
 Это явно не идеально.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а придворный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_DIPLOMAT_FURIOUS</zType>
-		<Translation><![CDATA[Знаменитая link(TRAIT_DIPLOMAT_ARCHETYPE) {CHARACTER-0} игрока {PLAYER-0,0}, движимая великим гневом {G0:его:ее}, больше не считает, что с нами стоит разговаривать. Вместо этого {G0:он:она} намеревается сформировать коалицию из других стран, чтобы "положить конец нашей угрозе раз и навсегда".
+		<Translation>Знаменитая link(TRAIT_DIPLOMAT_ARCHETYPE) {CHARACTER-0} игрока {PLAYER-0,0}, движимая великим гневом {G0:его:ее}, больше не считает, что с нами стоит разговаривать. Вместо этого {G0:он:она} намеревается сформировать коалицию из других стран, чтобы "положить конец нашей угрозе раз и навсегда".
 
 Это явно далеко не идеально.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а придворный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_DIPLOMAT_MILD</zType>
-		<Translation><![CDATA[Известная link(TRAIT_DIPLOMAT_ARCHETYPE) {CHARACTER-SHORT-0} из {PLAYER-0,0} теряет веру в то, что нам стоит поговорить. Вместо этого {G0:он:она} размышляет о необходимости сформировать коалицию из других стран, чтобы заставить нас пойти на уступки.
+		<Translation>Известная link(TRAIT_DIPLOMAT_ARCHETYPE) {CHARACTER-SHORT-0} из {PLAYER-0,0} теряет веру в то, что нам стоит поговорить. Вместо этого {G0:он:она} размышляет о необходимости сформировать коалицию из других стран, чтобы заставить нас пойти на уступки.
 
 Это явно далеко не идеально.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а придворный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_HERO_FURIOUS</zType>
-		<Translation><![CDATA[До нас дошли слухи, что {PLAYER-0,3} в ярости на нас и планируют вторжение. Их правитель, великое link(TRAIT_HERO_ARCHETYPE) {CHARACTER-SHORT-0} поклялся сокрушить нас, вести наш народ перед {G0:его:ее} и выслушать причитания наших женщин.
+		<Translation>До нас дошли слухи, что {PLAYER-0,3} в ярости на нас и планируют вторжение. Их правитель, великое link(TRAIT_HERO_ARCHETYPE) {CHARACTER-SHORT-0} поклялся сокрушить нас, вести наш народ перед {G0:его:ее} и выслушать причитания наших женщин.
 
 Тем не менее, эту войну можно предотвратить, заплатив большую дань и умиротворив {G0: его:ее} эго.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а придворный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_HERO_MILD</zType>
-		<Translation><![CDATA[До нас дошли слухи, что {PLAYER-0,3} рассматривают возможность нападения на нас. Их правитель, великое link(TRAIT_HERO_ARCHETYPE) {CHARACTER-SHORT-0} поклялся сокрушить наши армии и разрушить наши города голыми руками {G0:его:ее}, если это произойдет.
+		<Translation>До нас дошли слухи, что {PLAYER-0,3} рассматривают возможность нападения на нас. Их правитель, великое link(TRAIT_HERO_ARCHETYPE) {CHARACTER-SHORT-0} поклялся сокрушить наши армии и разрушить наши города голыми руками {G0:его:ее}, если это произойдет.
 
 И все же эту войну можно предотвратить, отдав дань уважения и умиротворив {G0:его:ее} эго.
 
-<p.is_sub.S1=SUBJECT_FOOLISH>"Мы обречены! Это конец!" вы кричите, вызывая некоторую панику среди ваших придворных.
-<p=SUBJECT_SLOTHFUL>"Ух", вы вздыхаете, услышав это. "Это так утомительно!"
-<p=SUBJECT_CORRUPT>"Конечно, мы можем просто подкупить их. Взяточничество почти всегда работает! " - восклицаете вы придворным, выглядящим неуютно.
-<p=SUBJECT_BRAVE>"Не о чем беспокоиться!" Вы объявляете двору: "Я приведу армию к победе!"
-<p=SUBJECT_BOLD>"Мы должны нанести удар первыми! Удача благоволит смелым!" - восклицаете вы, драматично жестикулируя.
-<p=SUBJECT_WARLIKE>"Наконец-то, есть за что бороться!" вы взволнованно плачете.
-<p=SUBJECT_INSPIRING>"Сила {PLAYER-1} непоколебима, {PLAYER-0} не может надеяться угрожать нам!" вы успокаиваете своих придворных. Многие почувствовали облегчение.
-<p=SUBJECT_ROBUST>"Ха!" вы восклицаете: "Я хотел бы увидеть {PLAYER-0,1}, который сможет бросить мне вызов!"
-<p=SUBJECT_VIGILANT>"Я знал, что что-то подобное приближается, - объявляете вы, - и я готов к этому!"
-<p=SUBJECT_STRICT>"Главное - сохранять дисциплину перед лицом опасности!" вы говорите своим упорядоченным придворным.
-<p=SUBJECT_DRILLMASTER>"По крайней мере, армия хорошо обучена", - размышляете вы перед встревоженным двором.
-<p=SUBJECT_KEEN>"В бой!" - восклицаете вы, возможно, преждевременно, в удивленном суде.
-<p=SUBJECT_EQUESTRIAN>"Нашей первоочередной задачей должно быть обеспечение большего количества лошадей!" вы объявляете в суд, который явно не рассматривал это.
-<p=SUBJECT_SWIFT>"Нет времени терять зря!" - кричите вы, вскакивая на ноги.
-<p=SUBJECT_RIGHTEOUS>"Мы победим, наше право на нашей стороне!" вы объявляете себе нервных придворных.
-<p=SUBJECT_CRUEL>"Я хочу, чтобы каждый {PLAYER-0,1} был насажен на короткую ставку!" объявляете шокированному двору.
-<p=SUBJECT_INTOLERANT>"Я никогда не доверял этим мерзавцам {PLAYER-0,1}!" - восклицаете вы своим советникам.
-<p=SUBJECT_AFFABLE>"Разве мы все не можем просто поладить?" Вы размышляете в суде.
-<p=SUBJECT_ELOQUENT>"Если {CHARACTER-SHORT-0} не может служить хорошим примером, {G0:он:она} станет ужасным предупреждением!" - восклицаете вы своим придворным.
-<p=SUBJECT_INTELLIGENT>"{CHARACTER-SHORT-0} не умеет ясно мыслить!" - воскликнете вы в суде.
-<p=SUBJECT_PROSPEROUS>"Должен быть какой-то способ заработать на этом деньги", - размышляете вы вслух.
-<p=SUBJECT_FRUGAL>"Ужасно! Это такая трата денег! " вы жалуетесь в свой суд.
-<p=SUBJECT_EXTRAVAGANT>"Первым делом нужно заказать 1000 золотых копий!" - восклицаете вы своим усталым придворным.
-<p=SUBJECT_DEALMAKER>"Разве мы можем заключить сделку с {CHARACTER-SHORT-0}?" ты задумался.
-<p=SUBJECT_DEBAUCHED> Пытаясь подбодрить себя, перед принятием решения делайте мысленную пометку: удвоить заказ оливкового масла для сегодняшней оргии.
-<p=SUBJECT_UNCOUTH> Расстроенный этой новостью, вы обрушиваете поток проклятий, столь мерзких, что несколько придворных падают в обморок, один разрывается слезами, а придворный чиновник загорается.
-<p=SUBJECT_CARPENTER>"Это действительно отвлечет от моих столярных работ!" объявить в правительстве.
-<p=SUBJECT_ANGLER>"Это действительно отвлекает от моей рыбалки!" объявить в правительстве.
-<p=SUBJECT_PLANTER>"Это действительно отвлечет мои посадки!" объявить в правительстве.
-<p=SUBJECT_FORESTER>"Это действительно отвлечет мое лесное хозяйство!" объявить в правительстве.
-<p=SUBJECT_DELVER>"Это действительно отвлечет от моего майнинга!" объявить в правительстве.
-<p=SUBJECT_SMELTER>"Это действительно отвлечет от моей ковки!" объявить в правительстве.
-<p=SUBJECT_HERDER>"Это действительно отвлечет от моего стада!" объявить в правительстве.
-<else> "Какая проблема!" объявить в правительстве.<end>
-]]></Translation>
+{TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
 	<Entry beginGroup="Combat">
 		<zType>TEXT_EVENTSTORY_LEADER_SMITING_FOES</zType>
@@ -7479,7 +6574,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNCHECKED</zType>
-		<Translation>оставленный в покое, чтобы укрепить {G0:его:ее} hold on {CITY-1}, {CHARACTER-0}'s power has gone unchecked for years. Похоже, что {G0:он:она} больше не удовлетворяется простым управлением городом.
+		<Translation>оставленный в покое, чтобы укрепить {G0:его:ее} {CITY-1}, власть {CHARACTER-0} не контролируется уже много лет. Похоже, что {G0:он:она} больше не довольствуется простым управлением городом.
 
 По настоянию {CHARACTER-SHORT-0} граждане в {CITY-1} начали восстание против королевских войск. Эта агрессия будет только распространяться.</Translation>
 	</Entry>
@@ -8165,8 +7260,8 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_BRAVE_BOASTS</zType>
-		<Translation>На светском собрании вы только что закончили потчевать своих друзей рассказом о дерзости, когда {CHARACTER-SHORT-1} приближается к вам.
-"{CHARACTER-SHORT-0}, вы самый храбрый {G0:мужчина: женщина}, которого я когда-либо встречал! Может быть, мы поужинаем вместе, и вы расскажете мне побольше о своих подвигах?"</Translation>
+		<Translation>На светском собрании  вы только что закончили потчевать своих друзей историей о безрассудстве, когда {CHARACTER-SHORT-1} приближается к вам.
+"{CHARACTER-SHORT-0}, вы самый храбрый {G0:мужчина:женщина}, которого я когда-либо встречал! Может быть, мы поужинаем вместе, и вы расскажете мне побольше о своих подвигах?"</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_BOLD_BOASTS</zType>
@@ -8284,7 +7379,7 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_CLASSIC_TRAGEDY_INVESTIGATION</zType>
-		<Translation>После расследования выясняется, что {CHARACTER-2} голодал {G2:himself:herself}. Более того, {G2:он:она} безумно влюбился в {CHARACTER-0}, который отверг {G2:его:ее} ухаживания.  В припадке ярости или безумия, мы не можем знать, {CHARACTER-SHORT-2} убил {G2:himself:herself} и послал письмо вам. 
+		<Translation>После расследования выясняется, что {CHARACTER-2} {G2:голодал:голодала}. Более того, {G2:он:она} безумно влюбился в {CHARACTER-0}, который отверг {G2:его:ее} ухаживания.  В припадке ярости или безумия, мы не можем знать, {CHARACTER-SHORT-2} убил {G2:himself:herself} и послал письмо вам. 
 
 Похоже, что {CHARACTER-0} был оправдан, а {CHARACTER-2} был сумасшедшим.</Translation>
 	</Entry>
@@ -8340,7 +7435,7 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_BOTH_EDUCATED</zType>
-		<Translation> " - и, конечно же, гипотенуза всегда должна быть равна -", ваш вывод прерывается {CHARACTER-SHORT-1}, поскольку {G1:он:она} заканчивает вашу мысль за вас: “сумма площадей квадратов на двух других сторонах!”
+		<Translation> "- и, конечно же, гипотенуза всегда должна быть равна...", ваш вывод прерывается {CHARACTER-SHORT-1}, поскольку {G1:он:она} заканчивает вашу мысль за вас: “сумма площадей квадратов на двух других сторонах!”
 
 В последнее время это происходит все чаще и чаще. {CHARACTER-SHORT-1} всегда знает, о чем вы думаете, когда вместе обсуждаете последнюю теорему.
 
@@ -8394,7 +7489,7 @@ Dear {CHARACTER-SHORT-1},
 		<zType>TEXT_EVENTSTORY_STUDY_MONEY_OR_FRIENDS</zType>
 		<Translation>{CHARACTER-0} приходит к вам в спальню рано утром, прерывая ваш обычный распорядок дня. 
 
-"- Я не знаю, что делать.- {CHARACTER-SHORT-0} прислоняется к балкону, глядя на столицу. - Мои занятия идут хорошо, но чего-то не хватает. Я разрываюсь. Я люблю звук денег, но я также люблю своих друзей. Они становятся ревнивыми и отстраненными, когда видят мое богатство. Что же мне делать?"</Translation>
+"- Я не знаю, что делать." {CHARACTER-SHORT-0} прислоняется к балкону, глядя на столицу. "- Мои занятия идут хорошо, но чего-то не хватает. Я разрываюсь. Я люблю звук денег, но я также люблю своих друзей. Они становятся ревнивыми и отстраненными, когда видят мое богатство. Что же мне делать?"</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_HEMP_ADDICTION</zType>
@@ -8486,7 +7581,7 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HAPPINESS_TAX_SURPLUS</zType>
-		<Translation>{CITY-0}'s treasury overflows with gold. Руководство города призывает к немедленному финансированию ключевых проектов. 
+		<Translation>Казна {CITY-0} переполнена золотом. Руководство города призывает к немедленному финансированию ключевых проектов. 
 
 Что они должны делать с этими избыточными средствами?</Translation>
 	</Entry>
@@ -8606,7 +7701,7 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHILD_MIDWIVES</zType>
-		<Translation>После здоровых родов вашего любимого {CHARACTER-0}, {G1:Ваша жена рекламирует:вы рекламируете} замечательные навыки женщин, которые помогали при родах. 
+		<Translation>После здоровых родов вашего любимого {CHARACTER-0}, {G1:Ваша жена расхваливает:вы расхваливаете} замечательные навыки женщин, которые помогали при родах. 
 
 Медицинская подготовка для акушерок может быть благом, но некоторые в правительстве все еще считают, что врачи-это единственное решение.</Translation>
 	</Entry>
@@ -8722,7 +7817,7 @@ Dear {CHARACTER-SHORT-1},
 		<zType>TEXT_EVENTSTORY_CULTURE_FREEDOM_MOVEMENT</zType>
 		<Translation>Просвещенные лидеры {CITY-0} переживают значительный сдвиг в своих культурных взглядах. После нескольких лет напряженных дебатов они предлагают отменить национальное рабство. Они хотят начать с {CITY-0} и сделать его примером для всех {PLAYER-1}.
 
-Решение, как всегда, остается за судом.</Translation>
+Решение, как всегда, остается за правительством.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CULTURE_PAID_FUNCTION</zType>
@@ -8754,7 +7849,7 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GLADIATOR_GAMES</zType>
-		<Translation>С завершением link link(IMPROVEMENT_THEATER_3,1) в {CITY-1}, глава семейства {FAMILY-2}, {CHARACTER-SHORT-3}, призывает нас проводить игры для link(PROJECT_GLADIATORS) в городе в качестве развлечения для всех.</Translation>
+		<Translation>С завершением link(IMPROVEMENT_THEATER_3,1) в {CITY-1}, глава семейства {FAMILY-2}, {CHARACTER-SHORT-3}, призывает нас проводить игры для link(PROJECT_GLADIATORS) в городе в качестве развлечения для всех.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_OEDIPUS_TYRANNUS</zType>
@@ -9160,7 +8255,7 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEDICATION_OF_VENUS</zType>
-		<Translation>Киприанские послушники Венеры скользят во двор, разжигая желания курьеров. Пьянящие запахи ладана и лаванды наполняют воздух, а подтянутые тела и красивые лица отвлекают от более насущных дел. 
+		<Translation>Киприанские прислужники Венеры проникают во двор, разжигая желания курьеров. Пьянящие запахи ладана и лаванды наполняют воздух, а подтянутые тела и красивые лица отвлекают от более насущных дел. 
 
 {CHARACTER-2} выходит из своих рядов и кланяется вам. "- Да благословит тебя любовь. Мы пришли сегодня, чтобы пригласить вас на посвящение link(IMPROVEMENT_SHRINE_VENUS) в {CITY-0}. Будем ли мы рассчитывать на вашу внешность?"</Translation>
 	</Entry>
@@ -9486,13 +8581,7 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry beginGroup="Miscellaneous">
 		<zType>TEXT_EVENTSTORY_ADOPT_RELIGION</zType>
-		<Translation>Не пора ли принять {RELIGION-0} в качестве нашей государственной религии?</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTSTORY_START_SLAVERY</zType>
-		<Translation>Правительство открыло прения по вопросу о труде. Мы придерживаемся двух мнений по этому вопросу. Мы можем принять практику link(LAW_SLAVERY), или мы можем сохранить link(LAW_FREEDOM) в {PLAYER-0}. 
-
-Что же мы постановим?</Translation>
+		<Translation>Прихожане со всей страны приходят в правительство в поисках руководства. Не пора ли принять {RELIGION-0} в качестве нашей государственной религии? Это увеличит link(YIELD_CULTURE)icon(YIELD_CULTURE) и уменьшит link(YIELD_DISCONTENT)icon(YIELD_DISCONTENT) в {RELIGION-0,1} городах.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EPICS_EXPLORATION</zType>
@@ -9585,8 +8674,10 @@ Dear {CHARACTER-SHORT-1},
 Что мы поддерживаем?</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTSTORY_RELIGION_FOUNDED</zType>
-		<Translation>Верующие со всей страны прибывают ко двору в поисках руководства. Готов ли {PLAYER-0} принять {RELIGION-1} в качестве своей государственной религии?</Translation>
+		<zType>TEXT_EVENTSTORY_START_SLAVERY</zType>
+		<Translation>Правительство проводит дебаты по вопросу о труде, и у нас два мнения по этому вопросу. Мы можем принять практику link (LAW_SLAVERY), или мы можем сохранить link(LAW_FREEDOM) в {PLAYER-0}.
+
+Что мы будем постановлять?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CEREMONIAL_OFFERING</zType>
@@ -10241,7 +9332,7 @@ Dear {CHARACTER-SHORT-1},
 		<zType>TEXT_EVENTSTORY_WONDER_THE_CIRCUS</zType>
 		<Translation>Рабочие проревите их одобрение, когда последний камень будет установлен на место. цирк Максимус наконец-то закончил!
 
-То впечатляющее место проведения-2000 футов в длину и 400 футов в ширину-примет всех желающих. будущие публичные фестивали и мероприятия. Возможности таковы безграничный.</Translation>
+То впечатляющее место проведения - 2000 футов в длину и 400 футов в ширину-примет всех желающих. будущие публичные фестивали и мероприятия. Возможности таковы безграничный.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_A_SPIRITUAL_CROSSROADS</zType>
@@ -10417,7 +9508,7 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TECH_LATEEN_CAPSIZED_SPIES</zType>
-		<Translation>Наутро после ужасного шторма охранники обнаруживают перевернувшуюся парусную лодку, подметавшуюся на берегу недалеко от поместья {FAMILY-2,2}. После нескольких часов интенсивных допросов выжившие признаются, что шпионили в пользу руководства {PLAYER-1}. Они утверждают, что {CHARACTER-3} работает совместно с {PLAYER-1,3} над прекращением дела правительства.
+		<Translation>Утром после ужасного шторма охранники обнаруживают перевернувшуюся парусную лодку, выброшенную на берег недалеко от поместья {FAMILY-2,2}. После нескольких часов интенсивных допросов выжившие признаются, что шпионили в пользу руководства {PLAYER-1}. Они утверждают, что {CHARACTER-3} работает совместно с {PLAYER-1,3} над прекращением дела правительства.
 
 Что мы будем с этим делать?</Translation>
 	</Entry>
@@ -10454,13 +9545,13 @@ Dear {CHARACTER-SHORT-1},
 Члены семьи обратились в правительство с требованием возмещения ущерба или удаления великого ученого {CHARACTER-2}, который первым предложил им использовать это устройство.</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTSTORY_TECH_SARISSA_COMPANION_CAVALRY</zType>
+		<zType>TEXT_EVENTSTORY_TECH_INFANTRY_SQUARE_COMPANION_CAVALRY</zType>
 		<Translation>Несмотря на кардинальное развитие сариссы, некоторые опасаются, что она создает новые проблемы. Солдаты, владеющие этими длинными копьями, чрезвычайно уязвимы для фланговых атак, особенно от конных войск. Наши генералы ищут средства для изучения тактики защиты тыла.
 
 Что прикажет правительство?</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTSTORY_TECH_SARISSA_FOOLISH_DISPLAY</zType>
+		<zType>TEXT_EVENTSTORY_TECH_INFANTRY_SQUARE_FOOLISH_DISPLAY</zType>
 		<Translation>Пытаясь продемонстрировать тактику сариссы для группы обожающих молодых {G1:женщин:мужчин}, наследник {CHARACTER-1} случайно порезал {G1:себя:сама} с острой железной головой оружия. Судебные врачи опасаются, что {G1:он:она} может не полностью выздороветь.
 
 Готовы ли мы к смене порядка?</Translation>
@@ -10515,7 +9606,7 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_BATH_HOUSE_CONSPIRACY</zType>
-		<Translation>Трагедия! Во время регулярного посещения {G2:его:ее} королевской бани {CHARACTER-2} был убит диссидентами. Этот сюжет восходит к {CHARACTER-0}, но он также включает {CHARACTER-3} и {CHARACTER-4}.
+		<Translation>Трагедия! Во время регулярного посещения {G2:его:ее} королевской бани, {CHARACTER-2} был убит диссидентами. Этот заговор был прослежен до {CHARACTER-0}, но он также включает {CHARACTER-3} и {CHARACTER-4}.
 
 Общественность и правительство требуют, чтобы мы показали этим заговорщикам пример, несмотря на их благородное происхождение.</Translation>
 	</Entry>
@@ -10575,13 +9666,13 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_JEALOUS_RAGE</zType>
-		<Translation>У нас ужасные новости. В ярости ревнивый ваш {G0:муж: жена} был пойман на планировании убийства {CHARACTER-2}, который, как считал {G0:он:она}, ухаживал за вашими чувствами.
+		<Translation>У нас ужасные новости. В ярости ревнивый ваш {G0:муж:жена} был пойман на планировании убийства {CHARACTER-2}, который, как считал {G0:он:она}, ухаживал за вашими чувствами.
 
 Как вы оцениваете судьбу {G0:короля:королевы}?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_GOLDEN_OPPORTUNITY</zType>
-		<Translation>{CHARACTER-0} явился к нам наедине с прекрасной возможностью в {CITY-2}. {G0:Он:Она} строит огромное хранилище на семейной земле. Если нам понадобится место, будет достаточно места для дополнительных товаров. Конечно, {G0:он:она} хочет сохранить это между вами двумя, чтобы другие семьи не узнали.
+		<Translation>{CHARACTER-0} явился к нам с прекрасной возможностью в {CITY-2}. {G0:Он:Она} строит огромное хранилище на семейной земле. Если нам понадобится место, tuj будет достаточно для дополнительных товаров. Конечно, {G0:он:она} хочет сохранить это между вами двумя, чтобы другие семьи не узнали.
 
 Мы можем либо собрать часть товаров, либо инвестировать, помогая {CHARACTER-0} развивать предприятие {G0:его:ее}.</Translation>
 	</Entry>
@@ -10607,15 +9698,15 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_LOVER_NO_MORE</zType>
-		<Translation>После очередной страстной встречи ваш возлюбленный, {CHARACTER-0}, показывает, что {G0:его:ее} недовольство его изменой растет. "Я больше не буду соглашаться на секретность. Я хочу быть {G0:king: queen}".
+		<Translation>После очередной страстной встречи ваш возлюбленный, {CHARACTER-0}, показывает, что {G0:его:ее} недовольство его изменой растет. "Я больше не буду соглашаться держать все в тайне. Я хочу быть {G0:королем:королевой}".
 
-{G0:Он:Она} предлагает заговор с целью убийства вашего {G2:мужа: жены}, что потребует времени и планирования. Не говоря уже о холодном сердце.
+{G0:Он:Она} предлагает заговор с целью убийства вашего {G2:мужа:жены}, что потребует времени и планирования. Не говоря уже о холодном сердце.
 
 Наш шпион, {CHARACTER-3}, ждет ваших приказов ...</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_FAMILY_DEBTS</zType>
-		<Translation>Ваш возлюбленный, {CHARACTER-0}, приходит к вам с личной просьбой. {G0:Его: Ее} большая семья в {CITY-2} подвергается преследованиям со стороны взыскателя долгов, и они находятся в опасности потерять свой дом и имущество.
+		<Translation>Ваш возлюбленный, {CHARACTER-0}, приходит к вам с личной просьбой. {G0:Его:Ее} большая семья в {CITY-2} подвергается преследованиям со стороны взыскателя долгов, и они находятся в опасности потерять свой дом и имущество.
 
 Мы не советуем вмешиваться в подобные дела, но это частное дело {G0:короля:королевы}.</Translation>
 	</Entry>
@@ -10901,7 +9992,7 @@ Dear {CHARACTER-SHORT-1},
 		<zType>TEXT_EVENTSTORY_STRANGER_AT_THE_DOOR</zType>
 		<Translation>Однажды на ступенях дворца появился незнакомец. Вам потребовалось всего мгновение, чтобы узнать в тощей, оборванной фигуре {CHARACTER-SHORT-1}, {G0:наследника:наследницу} трона {PLAYER-0,1}. За годы, прошедшие с вашей последней встречи, {G0:он сильно изменился:она сильно изменилась}, превратившись из ребенка в {G0:импозантного молодого мужчину:импозантную молодую женщину}.
 
--Однажды вы мне уже помогли,- {G0:произнес он:произнесла она} слабым голосом. - Теперь мне снова нужна ваша помощь. Я хочу вернуться в {PLAYER-1}.</Translation>
+"- Однажды вы мне уже помогли," {G0:произнес он:произнесла она} слабым голосом. "- Теперь мне снова нужна ваша помощь. Я хочу вернуться в {PLAYER-1}."</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_AMBITION_CHARISMA</zType>
@@ -10977,7 +10068,7 @@ Dear {CHARACTER-SHORT-1},
 		<zType>TEXT_EVENTSTORY_REINED_IN</zType>
 		<Translation>{G1:Ваш муж:Ваша жена} выражает свое недовольство тем, как правит правительство. "Как может правитель править, когда {G0:он обуздан:она обуздана} Конституцией? Разве вы не {G0:король:королева} из {PLAYER-0}?"
 
-{G0 Она:Он} оставляет вас в покое, чтобы вы подумали о своей силе.</Translation>
+{G0:Она:Он} оставляет вас в покое, чтобы вы подумали о своей силе.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LOST_INTEGRITY</zType>
@@ -11925,11 +11016,17 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_WORKER_SELECTED</zType>
-		<Translation>link(UNIT_WORKER,2) создают постройки, развивая территорию города. Сельские постройки, например link(IMPROVEMENT_FARM,2) и link(IMPROVEMENT_MINE,2), обеспечивают империю ресурсами. Улучшения на link(CONCEPT_URBAN) клетках, такие как link(IMPROVEMENT_BARRACKS,2) или link(IMPROVEMENTCLASS_SHRINE,2), приносят link(YIELD_TRAINING) или link(YIELD_CULTURE).</Translation>
+		<Translation>link(UNIT_WORKER,2) создают постройки, развивая территорию города. Сельские постройки, например link(IMPROVEMENT_FARM,2) и link(IMPROVEMENT_MINE,2), обеспечивают империю ресурсами. Улучшения на link(CONCEPT_URBAN) клетках, такие как link(IMPROVEMENT_BARRACKS,2) или link(IMPROVEMENTCLASS_SHRINE,2), приносят link(YIELD_TRAINING) или link(YIELD_CULTURE).
+
+За некоторыми исключениями улучшения link(CONCEPT_URBAN) должны быть построены на другой link(CONCEPT_URBAN) клетке или рядом с ней. Отсутствие улучшений link(CONCEPT_URBAN) приведет к улучшению link(YIELD_DISCONTENT), поэтому тщательно планируйте и оставляйте для них место рядом с вашими городами.
+
+link(CONCEPT_IMPROVEMENT,2) может быть расширенно link(CONCEPT_SPECIALIST,2) за счет link(YIELD_CIVICS) с экрана города.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_SLINGER_SELECTED</zType>
-		<Translation>link(UNIT_SLINGER) - это link(UNITTRAIT_RANGED). Они атакуют врагов с расстояния двух и более клеток, позволяя вам эффективно использовать link(YIELD_ORDERS) в сражениях. Они могут стрелять еще дальше, находясь на вершине link(HEIGHT_HILL,2), но будут наносить меньше урона на больших расстояниях и при атаке отрядов, укрывшихся в link(VEGETATION_TREES) или link(VEGETATION_SCRUB)</Translation>
+		<Translation>link(UNIT_SLINGER) - это link(UNITTRAIT_RANGED). Они атакуют врагов с расстояния двух и более клеток, позволяя вам эффективно использовать link(YIELD_ORDERS) в сражениях. Они могут стрелять еще дальше, находясь на вершине link(HEIGHT_HILL,2), но будут наносить меньше урона на больших расстояниях и при атаке отрядов, укрывшихся в link(VEGETATION_TREES) или link(VEGETATION_SCRUB)
+
+Хорошо управляемые отряды link(UNITTRAIT_RANGED) могут быть эффективны с link(YIELD_ORDERS) в бою.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_WARRIOR_SELECTED</zType>
@@ -11988,6 +11085,10 @@ Dear {CHARACTER-SHORT-1},
 		<Translation>Вы подготовили еще одного link(UNIT_SETTLER), но для основания города, возможно, придется отвоевать земли варваров. Варвары ведут себя иначе, чем организованные племена, находясь со всеми в состоянии link(DIPLOMACY_WAR). На ранних этапах развития империи их лагеря являются удобной мишенью для экспансии.</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_SPECIALIST</zType>
+		<Translation>Your link(UNIT_WORKER,2) have completed link(IMPROVEMENT_FARM,1), enabling you to build link(SPECIALIST_FARMER,1) link(CONCEPT_SPECIALIST). link(CONCEPT_SPECIALIST,2) can be recruited from the City Screen by clicking the green plus button next to an link(CONCEPT_IMPROVEMENT). A link(CONCEPT_SPECIALIST,0) can boost the yield of link(CONCEPT_IMPROVEMENT,1) at the cost of some link(YIELD_CIVICS).</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_AMBITION</zType>
 		<Translation>Вы открыли возможность выбирать амбиции. Амбиции - это цели и желания семей империи, выполнение которых даст вам и вашим потомкам постоянный бонус к link(YIELD_ORDERS).
 
@@ -12003,11 +11104,13 @@ Dear {CHARACTER-SHORT-1},
 		<zType>TEXT_EVENTSTORY_TUTORIAL_LEGITIMACY</zType>
 				<Translation>Вы получили статус link(COGNOMEN_EXPLORER)! Статус описывает ваши недавние достижения и повышает легитимность icon(YIELD_LEGITIMACY).
 
-Чем выше уровень легитимности icon(YIELD_LEGITIMACY), тем больше количество link(YIELD_ORDERS) и лучше отношения с семьями. Высокий уровень легитимности icon(YIELD_LEGITIMACY) важен для создания мощной империи!</Translation>
+Чем выше уровень легитимности Legitimacyicon(YIELD_LEGITIMACY), тем больше количество link(YIELD_ORDERS) и лучше отношения с семьями. Высокий уровень легитимности icon(YIELD_LEGITIMACY) важен для создания мощной империи!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_MARRIAGE</zType>
-		<Translation>Вы приняли предложение руки и сердца для члена семьи! Брак - это полезный дипломатический инструмент для установления связей с другими семьями, племенами и нациями. С его помощью можно сохранить ваш род, передавая престол по наследству после смерти правителя.</Translation>
+		<Translation>Вы приняли предложение руки и сердца для члена link(CONCEPT_FAMILY)! Брак - это полезным дипломатическим инструмент для формирования связей с другими link(CONCEPT_FAMILY, 1), племенами и нациями. Он также позволяет вашей link(CONCEPT_FAMILY) продолжать свой род с законными наследниками, которые будут иметь право взять на себя управление, после смерти нынешний правителя.
+
+Если вы умрете без наследника, игра закончится!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_PROMOTION</zType>
@@ -12270,7 +11373,7 @@ Dear {CHARACTER-SHORT-1},
 		<zType>TEXT_EVENTSTORY_PROPHET_IN_CHAINS</zType>
 		<Translation>Когда ваши люди штурмовали {CITY-4}, они нашли {CHARACTER-SHORT-0} на дне сухого колодца в городских подземельях. Они привели к вам этого так называемого пророка.
 
-Плачая, {CHARACTER-SHORT-0} становится перед вами на колени. "Так сказал Иегова: {CHARACTER-SHORT-1} выступит против {CITY-4} и атакует его огнем. О {CHARACTER-SHORT-1}, эти пророчества сбылись благодаря вашей руке, и воля Иеговы, Бога {RELIGION-2}</Translation>
+Плача, {CHARACTER-SHORT-0} становится перед вами на колени. "Так сказал Иегова: {CHARACTER-SHORT-1} выступит против {CITY-4} и атакует его огнем. О {CHARACTER-SHORT-1}, эти пророчества сбылись благодаря вашей руке, и воля Иеговы, Бога {RELIGION-2}"</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_PROPHET_FROM_THE_SEA</zType>
@@ -12419,8 +11522,8 @@ Dear {CHARACTER-SHORT-1},
 		<zType>TEXT_EVENTSTORY_RUTHLESS_SLAUGHTER</zType>
 		<Translation>Войска под командованием генерала {CHARACTER-0} одержали победу в бою, но сцена была ужасной. Когда солдаты {PLAYER-1,1} были разбиты и беспорядочно отступали, {CHARACTER-0} возглавил атаку, чтобы убить паникующего врага. {G0:Он:Она} было замечено, когда он лично наносил удар группе {PLAYER-1,3}, которые пытались сдаться.
 
-Tales of this slaughter have reached {PLAYER-1} through one of their very few survivors, and the {PLAYER-1,3} are so discouraged by this display of war at its most savage that they're willing to commit to an immediate truce.</Translation>
-	</Entry>
+Рассказы об этой бойне дошли до {PLAYER-1} через одного из их очень немногих выживших, и {PLAYER-1,3} настолько обескуражен этим проявлением войны в ее самой дикой форме, что они готовы заключить немедленное перемирие.</Translation>
+    </Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PROFESSIONAL_AND_PROFICIENT</zType>
 		<Translation>Одержав очередную победу для {PLAYER-0}, генерал {CHARACTER-0} замечает, что руководство армией профессиональных солдат сильно отличается от армий призывников, с которыми {G0:он:она} знакомо через {G0:его:ее} исследования военной истории. "Профессиональные солдаты не только различаются по заработной плате, они могут использовать разную тактику на поле боя, и их следует вести по-другому", - заключает {CHARACTER-0}.</Translation>
@@ -12685,7 +11788,7 @@ Tales of this slaughter have reached {PLAYER-1} through one of their very few su
 		<zType>TEXT_EVENTSTORY_PARENTAL_GUIDANCE</zType>
 		<Translation>Письмо пришло от вашего наследника, {CHARACTER-1}. Он гласит:
 
-"{G2:Father: Mother}, я без слов горжусь тем, что служу народу {CITY-0} в качестве их губернатора. Управлять делами города - непростая задача, но однажды я займу трон, и каждую ночь я молитесь, чтобы мудрость была достойна называть себя вашим {G1:son: дочь}.
+"{G2:Отец:Мама}, я без слов горжусь тем, что служу народу {CITY-0} в качестве их губернатора. Управлять делами города - непростая задача, но однажды я займу трон, и каждую ночь я молитесь, чтобы мудрость была достойна называть себя вашим {G1:son: дочь}.
 
 "Поскольку я ищу свой собственный путь, не окажете ли вы мне честь советом, как стать лучшим правителем, которым я могу быть? "</Translation>
 	</Entry>

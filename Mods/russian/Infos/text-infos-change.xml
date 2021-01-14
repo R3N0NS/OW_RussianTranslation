@@ -3,7 +3,7 @@
 <Root>
   <Entry>
     <zType/>
-    <English/>
+    <Translation/>
   </Entry>
   <!--InfoBuild-->
   <Entry>
@@ -28,11 +28,15 @@
     <Translation>Союз с варварами</Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_CONCEPT_TRIBE</zType>
+    <Translation>Племя~Племена</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_CONCEPT_ALLIANCE_PLAYER</zType>
     <Translation>Союз с варварами</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_CONCEPT_UNIT_ANCHOR</zType>
+    <zType>TEXT_CONCEPT_ANCHOR</zType>
     <Translation>Бросить якорь</Translation>
   </Entry>
   <Entry>
@@ -56,6 +60,10 @@
 	<Translation>Культурное событие</Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_CONCEPT_DESIRED_AMBITION</zType>
+    <Translation>Желаемые амбиции</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_CONCEPT_DISTANCE_MODIFIER</zType>
     <Translation>Модификатор расстояния</Translation>
   </Entry>
@@ -68,6 +76,10 @@
     <Translation>Родовое гнездо семьи~родового гнезда семьи</Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_CONCEPT_FAMILY</zType>
+    <Translation>Семья~Семьи</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_CONCEPT_GENERAL</zType>
     <Translation>Генерал~Генерала~Генералу~Генерала~Генералом~Генерале~Генералы~Генералов</Translation>
   </Entry>
@@ -76,8 +88,36 @@
     <Translation>Губернатор~Губернатора~Губернатору~Губернатора~Губернатором~Губернаторе~Губернаторы~Губернаторов</Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_CONCEPT_COUNCILOR</zType>
+    <Translation>Советник~Советники</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONCEPT_SPECIALIST</zType>
+    <Translation>Специалист~a Специалист~Специалисты</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_CONCEPT_HARVEST_RESOURCE</zType>
-    <Translation>Собрать ресурс</Translation>
+    <Translation>Собрать ресурс~Собрать ресурсы~Собираемый ресурс</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONCEPT_MARCH</zType>
+    <Translation>Маршировать</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONCEPT_FATIGUE</zType>
+    <Translation>Усталость</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONCEPT_AMBITION</zType>
+    <Translation>Амбиция~Амбиции</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONCEPT_STATE_RELIGION</zType>
+    <Translation>Государственная религия~Государственная религии</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONCEPT_COGNOMEN</zType>
+    <Translation>Cognomen~Cognomens</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_HIDDEN</zType>
@@ -112,8 +152,16 @@
     <Translation>Возвести сооружение</Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_CONCEPT_IMPROVEMENT</zType>
+    <Translation>Улучшение~an Улучшение~Улучшения</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_CONCEPT_REBEL</zType>
     <Translation>Мятежник</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_CONCEPT_DISCIPLE</zType>
+    <Translation>Ученик~Ученики</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_ROAD</zType>
@@ -143,6 +191,10 @@
     <zType>TEXT_CONCEPT_URBAN</zType>
     <Translation><![CDATA[Городские клетки~Города~Городского~Городскому~Городской~Городским~Городском~Городское~Городского~Городскому~Городское~Городским~Городском~Городская~Городской~Городской~Городскую~Городской~Городской~Городские~Городских~Городским~Городские~Городскими~Городских~Города]]></Translation>
   </Entry>
+	<!--<Entry>
+    <zType>TEXT_CONCEPT_RURAL</zType>
+    <Translation>Сельский</Translation>
+  </Entry>-->
   <Entry>
     <zType>TEXT_CONCEPT_ZOC</zType>
     <Translation>ЗК</Translation>
@@ -946,7 +998,7 @@
     <Translation>Открыть гидравлику и цепной привод</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_GOAL_UNIT_TACTICS_MARTIAL_CODE</zType>
+    <zType>TEXT_GOAL_COHORTS_MARTIAL_CODE</zType>
     <Translation>Открыть тактику отрядов и военный кодекс</Translation>
   </Entry>
   <Entry>
@@ -958,7 +1010,7 @@
     <Translation>Открыть арбалет и латинский парус</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_GOAL_BARDING_SARISSA</zType>
+    <zType>TEXT_GOAL_BARDING_INFANTRY_SQUARE</zType>
     <Translation>Открыть конную защиту и сариссу</Translation>
   </Entry>
   <Entry>
@@ -1383,18 +1435,6 @@
     <Translation>Старший прислужник~Старшего прислужника~Старшему прислужнику~Старшего прислужника~Старшим прислужником~Старшем прислужнике</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_SPECIALIST_DOCTOR_1</zType>
-    <Translation>Младший целитель~Младшего целителя~Младшему целителю~Младшего целителя~Младшим целителем~Младшем целителе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_DOCTOR_2</zType>
-    <Translation>Целитель~Целителя~Целителю~Целителя~Целителем~Целителе</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_SPECIALIST_DOCTOR_3</zType>
-    <Translation>Старший целитель~Старшего целителя~Старшему целителю~Старшего целителя~Старшим целителем~Старшем целителе</Translation>
-  </Entry>
-  <Entry>
     <zType>TEXT_SPECIALIST_MONK_1</zType>
     <Translation>Младший монах~Младшего монаха~Младшему монаху~Младшего монаха~Младшим монахом~Младшем монахе</Translation>
   </Entry>
@@ -1419,16 +1459,16 @@
     <Translation>Старший священник~Старшего священника~Старшему священнику~Старшего священника~Старшим священником~Старшем священнике</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_SPECIALIST_BISHOP_1</zType>
-    <Translation>Младший епископ~Младшего епископа~Младшему епископу~Младшего епископа~Младшим епископом~Младшем епископе</Translation>
+    <zType>TEXT_SPECIALIST_OFFICER_1</zType>
+    <Translation>Младший офицер~Младшего офицера~Младшему офицеру~Младшего офицера~Младшим офицером~Младшем офицере</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_SPECIALIST_BISHOP_2</zType>
-    <Translation>Епископ~Епископа~Епископу~Епископа~Епископом~Епископе</Translation>
+    <zType>TEXT_SPECIALIST_OFFICER_2</zType>
+    <Translation>Офицер~Офицера~Офицеру~Офицера~Офицером~Офицере</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_SPECIALIST_BISHOP_3</zType>
-    <Translation>Старший епископ~Старшего епископа~Старшему епископу~Старшего епископа~Старшим епископом~Старшем епископе</Translation>
+    <zType>TEXT_SPECIALIST_OFFICER_3</zType>
+    <Translation>Старший офицер~Старшего офицера~Старшему офицеру~Старшего офицера~Старшим офицером~Старшем офицере</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_POET_1</zType>
@@ -1441,6 +1481,18 @@
   <Entry>
     <zType>TEXT_SPECIALIST_POET_3</zType>
     <Translation>Старший поэт~Старшего поэта~Старшему поэту~Старшего поэта~Старшим поэтом~Старшем поэте</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SPECIALIST_SCRIBE_1</zType>
+    <Translation>Младший писарь~Младшего писаря~Младшему писарю~Младшего писаря~Младшим писарем~Младшем писаре</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SPECIALIST_SCRIBE_2</zType>
+    <Translation>Писарь~Писаря~Писарю~Писаря~Писарем~Писаре</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_SPECIALIST_SCRIBE_3</zType>
+    <Translation>Старший писарь~Старшего писаря~Старшему писарю~Старшего писаря~Старшим писарем~Старшем писаре</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_SHOPKEEPER_1</zType>
@@ -1467,28 +1519,28 @@
     <Translation>Старший философ~Старшего философа~Старшему философу~Старшего философа~Старшим философом~Старшем философе</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_SPECIALIST_SCRIBE_1</zType>
-    <Translation>Младший писарь~Младшего писаря~Младшему писарю~Младшего писаря~Младшим писарем~Младшем писаре</Translation>
+    <zType>TEXT_SPECIALIST_DOCTOR_1</zType>
+    <Translation>Младший целитель~Младшего целителя~Младшему целителю~Младшего целителя~Младшим целителем~Младшем целителе</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_SPECIALIST_SCRIBE_2</zType>
-    <Translation>Писарь~Писаря~Писарю~Писаря~Писарем~Писаре</Translation>
+    <zType>TEXT_SPECIALIST_DOCTOR_2</zType>
+    <Translation>Целитель~Целителя~Целителю~Целителя~Целителем~Целителе</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_SPECIALIST_SCRIBE_3</zType>
-    <Translation>Старший писарь~Старшего писаря~Старшему писарю~Старшего писаря~Старшим писарем~Старшем писаре</Translation>
+    <zType>TEXT_SPECIALIST_DOCTOR_3</zType>
+    <Translation>Старший целитель~Старшего целителя~Старшему целителю~Старшего целителя~Старшим целителем~Старшем целителе</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_SPECIALIST_OFFICER_1</zType>
-    <Translation>Младший офицер~Младшего офицера~Младшему офицеру~Младшего офицера~Младшим офицером~Младшем офицере</Translation>
+    <zType>TEXT_SPECIALIST_BISHOP_1</zType>
+    <Translation>Младший епископ~Младшего епископа~Младшему епископу~Младшего епископа~Младшим епископом~Младшем епископе</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_SPECIALIST_OFFICER_2</zType>
-    <Translation>Офицер~Офицера~Офицеру~Офицера~Офицером~Офицере</Translation>
+    <zType>TEXT_SPECIALIST_BISHOP_2</zType>
+    <Translation>Епископ~Епископа~Епископу~Епископа~Епископом~Епископе</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_SPECIALIST_OFFICER_3</zType>
-    <Translation>Старший офицер~Старшего офицера~Старшему офицеру~Старшего офицера~Старшим офицером~Старшем офицере</Translation>
+    <zType>TEXT_SPECIALIST_BISHOP_3</zType>
+    <Translation>Старший епископ~Старшего епископа~Старшему епископу~Старшего епископа~Старшим епископом~Старшем епископе</Translation>
   </Entry>
   <!--InfoTech-->
   <Entry>
@@ -1752,11 +1804,11 @@
     <Translation>Система сводов~Системы сводов~Системе сводов~Систему сводов~Системой сводов~Системе сводов</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_TECH_UNIT_TACTICS</zType>
+    <zType>TEXT_TECH_COHORTS</zType>
     <Translation>Тактика отрядов~Тактики отрядов~Тактике отрядов~Тактику отрядов~Тактикой отрядов~Тактике отрядов</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_TECH_UNIT_TACTICS_BONUS_SOLDIER</zType>
+    <zType>TEXT_TECH_COHORTS_BONUS_SOLDIER</zType>
     <Translation>Бесплатный придворный солдат~Бесплатного придворного солдат~Бесплатному придворный солдат</Translation>
   </Entry>
   <Entry>
@@ -1784,7 +1836,7 @@
     <Translation>Конная защита~Конной защиты~Конной защите~Конную защиту~Конной защитой~Конной защите</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_TECH_SARISSA</zType>
+    <zType>TEXT_TECH_INFANTRY_SQUARE</zType>
     <Translation>Сарисса~Сариссы~Сариссе~Сариссу~Сариссой~Сариссе</Translation>
   </Entry>
   <Entry>

@@ -2,7 +2,7 @@
 <Root>
   <Entry>
     <zType/>
-    <English/>
+    <Translation/>
   </Entry>
   <Entry>
     <zType>TEXT_GENERIC_CONFIRM</zType>
@@ -154,6 +154,10 @@
     <Translation>Генерал:</Translation>
   </Entry>
   <Entry>
+	<zType>TEXT_UI_UNIT_ATTACK_PREVIEW_GENERAL_ENEMY_DEFENSE</zType>
+	<Translation>Генерал icon(Icon_Defense)</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_WATER_VS_LAND</zType>
     <Translation>Вода vs Земля:</Translation>
   </Entry>
@@ -200,6 +204,10 @@
   <Entry>
     <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_IMMUNE</zType>
     <Translation>Имунитет</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_CITY_ATTACK_PREVIEW_POPULATION</zType>
+	<Translation>Население</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_UNIT_COOLDOWN_FATIGUED</zType>

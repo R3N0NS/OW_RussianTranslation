@@ -5,7 +5,7 @@
   <!--NOTE: improvement names that are mass nouns or plural do not need multiple types in English-->
   <Entry>
     <zType/>
-    <English/>
+    <Translation/>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_REPAIR</zType>

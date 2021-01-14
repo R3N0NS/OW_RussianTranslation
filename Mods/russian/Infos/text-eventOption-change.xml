@@ -3,7 +3,7 @@
 <Root>
   <Entry>
 		<zType/>
-		<English/>
+		<Translation/>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MAINTAIN_TRUCE_HELP</zType>
@@ -340,22 +340,6 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_LAW_SCREEN</zType>
     <Translation>Выбирать законы будет правительство.</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_EVENTOPTION_RELIGION_YES</zType>
-    <Translation>Мы примем {RELIGION-1}.</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_EVENTOPTION_RELIGION_NO</zType>
-    <Translation>Мы не будем решать прямо сейчас.</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_EVENTOPTION_RELIGION_NO_HELP</zType>
-    <Translation>Старые пути должны сохраниться.</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_EVENTOPTION_RELIGION_SCREEN</zType>
-    <Translation>Старые способы сохранятся.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_PHILOSOPHY</zType>
@@ -1476,6 +1460,10 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_RUINS_STRANGE_SCROLL_STUDY</zType>
     <Translation>Изучите свиток.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_RUINS_STRANGE_SCROLL_SCIENTIST</zType>
+	<Translation>Найдите кого-нибудь, кто расшифрует текст.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUINS_STRANGE_SCROLL_DESTROY</zType>
@@ -4868,6 +4856,14 @@
     <zType>TEXT_EVENTOPTION_DIPLO_OFFER_ASK_FAVOR_YES_INVESTMENT</zType>
     <Translation>placeholder</Translation>
   </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_ALLIANCE_WELCOME_MIGHTY</zType>
+    <Translation>Мы приветствуем союз с {TRIBE-0}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_ALLIANCE_WELCOME_THEM</zType>
+    <Translation>Мы приветствуем союз с {TRIBE-1}.</Translation>
+  </Entry>
 	<Entry beginGroup="Combat">
     <zType>TEXT_EVENTOPTION_LEADER_SMITING_FOES_STATUE</zType>
     <Translation>Поставьте статую в столице.</Translation>
@@ -6722,7 +6718,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEGITIMIZE_HEIR_YES</zType>
-    <Translation>Мы должны узаконить рождение {CHARACTER-SHORT-0}.</Translation>
+    <Translation>Мы должны узаконить рождение {CHARACTER-SHORT-1}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEGITIMIZE_HEIR_NO</zType>
@@ -7466,11 +7462,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DEATH_THE_PRICE_OF_POWER_OPTION_0</zType>
-    <Translation>Я должен отречься от {G1: его: ее} за то, что он испортил родословную.</Translation>
+    <Translation>Я должен отречься от {G1:его:ее} за то, что он испортил родословную.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DEATH_THE_PRICE_OF_POWER_OPTION_1</zType>
-    <Translation>Я буду стоять рядом со своим {G1: son :aughter} перед лицом пристального внимания.</Translation>
+    <Translation>Я буду стоять рядом со своим {G1:сыном:дочерью} перед лицом пристального внимания.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DEATH_ACT_OF_MALICE_OPTION_0</zType>
@@ -7746,7 +7742,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_DOWNWARD_SPIRAL_OPTION_0</zType>
-    <Translation>Я уйду, чтобы утешить своего скорбящего {G1: муж: жена}.</Translation>
+    <Translation>Я уйду, чтобы утешить своего скорбящего {G1:муж:жена}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_DOWNWARD_SPIRAL_OPTION_1</zType>
@@ -8006,7 +8002,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_DISCIPLINARY_ACTION_OPTION_0</zType>
-    <Translation>{CHARACTER-0} должен подчиняться {G0: самому: себе}, иначе его накажут!</Translation>
+    <Translation>{CHARACTER-0} должен повиноваться, иначе его накажут!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_DISCIPLINARY_ACTION_OPTION_1</zType>
@@ -8234,7 +8230,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SIGNS_OF_LUNACY_PHYSICIANS</zType>
-    <Translation>Это безумие! Вызовите судебных врачей!</Translation>
+    <Translation>Это безумие! Вызовите придворных врачей!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WORRISOME_MATCH_ALLOW</zType>
@@ -8246,7 +8242,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_IMPUDENT_MATCH_STOP</zType>
-    <Translation>Пошлите наследника. {G0:он:она} со временем забудет {G1: его: ее}.</Translation>
+    <Translation>Пошлите наследника. {G0:он:она} со временем забудет {G1:его:ее}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_IMPUDENT_MATCH_ALLOW</zType>
@@ -8358,7 +8354,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_SPECIAL_RECOGNITION_01_OPTION_0</zType>
-    <Translation>У нас нет другого выбора, кроме как уступить {G2: его: ее}.</Translation>
+    <Translation>У нас нет другого выбора, кроме как уступить {G2:его:ее}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_SPECIAL_RECOGNITION_01_OPTION_1</zType>
@@ -8686,7 +8682,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_ENEMY_COUNSEL_OPTION_2</zType>
-    <Translation>Освободить {G1: его: ее} неизвестной судьбе.</Translation>
+    <Translation>Освободить {G1:его:ее} неизвестной судьбе.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_AUDITED_OPTION_0</zType>
@@ -9346,7 +9342,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DEATH_FUNERAL_PROCESSION_OPTION_0</zType>
-    <Translation>Семья обязана уважать {G0: его: ее}.</Translation>
+    <Translation>Семья обязана уважать {G0:его:ее}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DEATH_FUNERAL_PROCESSION_OPTION_1</zType>
@@ -9586,7 +9582,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_A_TIME_TO_REAP_OPTION_3</zType>
-    <Translation>Отпустите {G1: его: ее}.</Translation>
+    <Translation>Отпустите {G1:его:ее}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_ENTRAILS_OPTION_0</zType>
@@ -10442,7 +10438,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_POINT_OF_NO_RETURN_OPTION_0</zType>
-    <Translation>Я никогда не находил {G1: его: ее} особенно милым.</Translation>
+    <Translation>Я никогда не находил {G1:его:ее} особенно милым.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_POINT_OF_NO_RETURN_OPTION_1</zType>
@@ -11710,11 +11706,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_DISPOSITION_HIGH_WISDOM_OPTION_0</zType>
-    <Translation>Продолжайте хорошую работу.</Translation>
+    <Translation>Продолжайте, хорошая работу.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_DISPOSITION_LOW_CHARISMA_OPTION_0</zType>
-    <Translation>К сожалению, действительно.</Translation>
+    <Translation>Действительно, очень прискорбно.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_DISPOSITION_LOW_COURAGE_OPTION_0</zType>
@@ -11970,11 +11966,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEADER_LOVED_LOVE_RIVAL_VENGEFU_LACCEPT</zType>
-    <Translation>Покажи мне, какой ты {G1: мужчина: женщина}!</Translation>
+    <Translation>Покажи мне, какой ты {G1:мужчина:женщина}!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEADER_LOVED_LOVE_RIVAL_VENGEFUL_DECLINE</zType>
-    <Translation>Уходи, {G1: knave: блудница}!</Translation>
+    <Translation>Уходи, {G1:мошенник:блудница}!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEADER_LOVED_THRILLING_CONVERSATION_ACCEPT</zType>
@@ -12030,7 +12026,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEADER_LOVED_FISHING_DECLINE_HELP</zType>
-    <Translation>Подробно объяснять детали удочки, пока {G1:он:она} не уйдет.</Translation>
+    <Translation>Объясните детали удочки очень подробно, пока {G1:он:она} не уйдет.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEADER_LOVED_ROBUST_ACCEPT</zType>
@@ -12050,7 +12046,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEADER_LOVED_MOCKING_LAUGHTER_ACCEPT</zType>
-    <Translation>Меня всегда интересовал {G1: man: woman} с умелым языком!</Translation>
+    <Translation>Меня всегда {G1:интересовал мужчина:интересовала женщина} с умелым языком!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEADER_LOVED_MOCKING_LAUGHTER_DECLINE</zType>
@@ -12138,7 +12134,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEGITIMIZE_BASTARDS_BODY_OPTION_2</zType>
-    <Translation>Понятно. {CHARACTER-2} - гнусный {G2: убийца: убийца}!</Translation>
+    <Translation>Понятно. {CHARACTER-2} - гнусный {G2:убийца:убийца}!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEGITIMIZE_BASTARDS_BODY_LOVER_OPTION_0</zType>
@@ -12330,7 +12326,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_DISASTER_AT_SEA_OPTION_2</zType>
-    <Translation>Я сам найду {G0: его: ее}.</Translation>
+    <Translation>Я сам найду {G0:его:ее}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_BOOKISH_DEMEANOR_OPTION_0</zType>
@@ -12634,7 +12630,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HAPPINESS_ASPIRING_OFFICER_SOLDIER</zType>
-    <Translation>Офицер должен обслуживать суд напрямую.</Translation>
+    <Translation>Офицер должен обслуживать правительство напрямую.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HAPPINESS_ASPIRING_OFFICER_TRAINING</zType>
@@ -12642,7 +12638,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HAPPINESS_BENEVOLENT_TRADER_MERCHANT</zType>
-    <Translation>Нам нужен торговец на суде.</Translation>
+    <Translation>Нам нужен торговец в правительстве.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HAPPINESS_BENEVOLENT_TRADER_MONEY</zType>
@@ -12650,7 +12646,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HAPPINESS_TALENTED_POLITICIAN_MINISTER</zType>
-    <Translation>Нам нужен новый дипломат на суде.</Translation>
+    <Translation>Нам нужен новый дипломат в правительстве.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HAPPINESS_TALENTED_POLITICIAN_CIVICS</zType>
@@ -13043,6 +13039,18 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_GODS_AND_MONSTERS_OPTION_1</zType>
     <Translation>Лучше довериться науке.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SUPPORTING_THE_FAITH_OPTION_GOLD</zType>
+    <Translation>Мы сделаем очень щедрое (и очень публичное) пожертвование.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SUPPORTING_THE_FAITH_OPTION_REFUSE</zType>
+    <Translation>Отошлите его, это их собственная забота.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SUPPORTING_THE_FAITH_OPTION_PRAYER</zType>
+    <Translation>Я буду вести службу в столице.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BLESSINGS_OF_OUR_ANCESTORS_OPTION_0</zType>
@@ -13820,6 +13828,54 @@
     <zType>TEXT_EVENTOPTION_DISPLEASURE_OF_MITHRA_OPTION_1</zType>
     <Translation>Нет! Я не приму твое предложение. А теперь уходите немедленно.</Translation>
   </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SHRINE_BLESSING_RELIGIOUS</zType>
+    <Translation>Нет ничего важнее благословения богов.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SHRINE_BLESSING_GOOD</zType>
+    <Translation>Конечно, мы должны работать вместе, чтобы улучшить нашу нацию.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SHRINE_BLESSING_BAD</zType>
+    <Translation>Немедленно убирайся с моего двора!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SHRINE_BLESSING_STRONG</zType>
+    <Translation>Наверняка боги захотят, чтобы вы защищали свои дома!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SHRINE_BLESSING_WEAK</zType>
+    <Translation>Мне все равно. Делай, что хочешь.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SHRINE_BLESSING_CARNAL</zType>
+    <Translation>{CHARACTER-SHORT-2}, присоединяйтесь ко мне сегодня вечером в моей каюте.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SHRINE_BLESSING_TRADITIONAL</zType>
+    <Translation>Как было во времена моих предков, так и будет.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SHRINE_BLESSING_SINFUL</zType>
+    <Translation>Стража, арестуйте эту толпу! Я хочу, чтобы они боялись меня!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SHRINE_BLESSING_VIRTUOUS</zType>
+    <Translation>Конечно, мы можем найти здесь что-то общее!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SHRINE_BLESSING_INQUISITIVE</zType>
+    <Translation>Очень интригующе! Я бы с удовольствием изучил это сам.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SHRINE_BLESSING_MARTIAL</zType>
+    <Translation>Мы будем сражаться за богов вместе!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SHRINE_BLESSING_PARANOID</zType>
+    <Translation>Не хотите ли освежиться?</Translation>
+  </Entry>
 	<Entry beginGroup="Law">
     <zType>TEXT_EVENTOPTION_THREAT_OF_MUTINY_OPTION_0</zType>
     <Translation>{PLAYER-1} обретет свободу.</Translation>
@@ -14242,7 +14298,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DINOSAUR_BONES_FREEDOM_VERSION_OPTION_0</zType>
-    <Translation>Отправьте судебного агента, который займется этим.</Translation>
+    <Translation>Отправьте агента, который займется этим.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DINOSAUR_BONES_FREEDOM_VERSION_OPTION_1</zType>
@@ -15162,30 +15218,30 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TECH_WINDLASS_ACCIDENTS_HAPPEN_OPTION_2</zType>
-    <Translation>Удалите {CHARACTER-2} из суда.</Translation>
+    <Translation>Уберите {CHARACTER-2} из правительства.</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_EVENTOPTION_TECH_SARISSA_COMPANION_CAVALRY_OPTION_0</zType>
+    <zType>TEXT_EVENTOPTION_TECH_INFANTRY_SQUARE_COMPANION_CAVALRY_OPTION_0</zType>
     <Translation>Создавайте кавалерию для защиты.</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_EVENTOPTION_TECH_SARISSA_COMPANION_CAVALRY_OPTION_1</zType>
+    <zType>TEXT_EVENTOPTION_TECH_INFANTRY_SQUARE_COMPANION_CAVALRY_OPTION_1</zType>
     <Translation>Формируйте фаланги со своими солдатами.</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_EVENTOPTION_TECH_SARISSA_COMPANION_CAVALRY_OPTION_2</zType>
+    <zType>TEXT_EVENTOPTION_TECH_INFANTRY_SQUARE_COMPANION_CAVALRY_OPTION_2</zType>
     <Translation>Проведите специализированное обучение сариссе.</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_EVENTOPTION_TECH_SARISSA_FOOLISH_DISPLAY_OPTION_0</zType>
+    <zType>TEXT_EVENTOPTION_TECH_INFANTRY_SQUARE_FOOLISH_DISPLAY_OPTION_0</zType>
     <Translation>Шрамы формируют характер, даже такой уродливый.</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_EVENTOPTION_TECH_SARISSA_FOOLISH_DISPLAY_OPTION_1</zType>
+    <zType>TEXT_EVENTOPTION_TECH_INFANTRY_SQUARE_FOOLISH_DISPLAY_OPTION_1</zType>
     <Translation>{G1:Он:Она} теперь для нас бесполезен.</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_EVENTOPTION_TECH_SARISSA_FOOLISH_DISPLAY_OPTION_2</zType>
+    <zType>TEXT_EVENTOPTION_TECH_INFANTRY_SQUARE_FOOLISH_DISPLAY_OPTION_2</zType>
     <Translation>Сделайте публичную демонстрацию нашей поддержки.</Translation>
   </Entry>
   <Entry>
@@ -16058,7 +16114,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FAMILY_OSTRACIZED_OPTION_0</zType>
-    <Translation>У семьи {FAMILY-0} нет убедительных доказательств вины {CHARACTER-SHORT-3}.</Translation>
+    <Translation>Нет никаких убедительных доказательств против {CHARACTER-SHORT-3}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FAMILY_OSTRACIZED_OPTION_1</zType>
@@ -17617,6 +17673,10 @@
     <Translation>Я тщательно обдумаю выбор семьи!</Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_EVENTOPTION_TUTORIAL_SPECIALIST_OPTION_0</zType>
+    <Translation>Я найму link(CONCEPT_SPECIALIST,2), чтобы увеличить свое производство!</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_WORKER_SELECTED_OPTION_0</zType>
     <Translation>Давайте приступим к работе!</Translation>
   </Entry>
@@ -18358,7 +18418,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SILVER_JUBILEE_OPTION_2</zType>
-    <Translation>Я возьму другого {G1: муж: жена}! Мы будем наслаждаться песнями, вином и общением!</Translation>
+    <Translation>Я возьму другого {G1:муж:жена}! Мы будем наслаждаться песнями, вином и общением!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GOLD_JUBILEE_OPTION_0</zType>
@@ -18566,7 +18626,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CODE_OF_LAWS_NOBLES</zType>
-    <Translation>Мы позволим знатным семьям предлагать своих мудрейших судей в качестве судей.</Translation>
+    <Translation>Мы позволим знатным семьям предлагать своих мудрейших в качестве судей.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CODE_OF_LAWS_MYSELF</zType>

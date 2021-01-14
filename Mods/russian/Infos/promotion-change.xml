@@ -216,6 +216,36 @@
 		<bUpgrade>1</bUpgrade>
 	</Entry>
 	<Entry>
+		<zType>PROMOTION_COCKSWAIN</zType>
+		<zName>Маневренный</zName>
+		<EffectUnit>EFFECTUNIT_COCKSWAIN</EffectUnit>
+		<bUpgrade>1</bUpgrade>
+	</Entry>
+	<Entry>
+		<zType>PROMOTION_GRAPPLER</zType>
+		<zName>Боец</zName>
+		<EffectUnit>EFFECTUNIT_GRAPPLER</EffectUnit>
+		<bUpgrade>1</bUpgrade>
+	</Entry>
+	<Entry>
+		<zType>PROMOTION_SEABORN</zType>
+		<zName>Рожденный морем</zName>
+		<EffectUnit>EFFECTUNIT_SEABORN</EffectUnit>
+		<bUpgrade>1</bUpgrade>
+	</Entry>
+	<Entry>
+		<zType>PROMOTION_OVERWHELM</zType>
+		<zName>Сокрушительность</zName>
+		<EffectUnit>EFFECTUNIT_OVERWHELM</EffectUnit>
+		<bUpgrade>1</bUpgrade>
+	</Entry>
+	<Entry>
+		<zType>PROMOTION_FIRESHIP</zType>
+		<zName>Огненный</zName>
+		<EffectUnit>EFFECTUNIT_FIRESHIP</EffectUnit>
+		<bUpgrade>1</bUpgrade>
+	</Entry>
+	<Entry>
 		<zType>PROMOTION_VALOR</zType>
 		<zName>Доблесть</zName>
 		<EffectUnit>EFFECTUNIT_VALOR</EffectUnit>

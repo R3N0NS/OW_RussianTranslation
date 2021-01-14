@@ -667,7 +667,7 @@
 	<Entry>
 		<zType>MEMORYFAMILY_IMPROPER_VASSAL_REPRIMAND</zType>
 		<zText>Reprimanded us for impropriety</zText>
-		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_NORMAL</MemoryLevel>
+		<MemoryLevel>MEMORYLEVEL_NEG_LOW_NORMAL</MemoryLevel>
 	</Entry>
 	<Entry>
 		<zType>MEMORYFAMILY_IMPROPER_VASSAL_LET_GO</zType>

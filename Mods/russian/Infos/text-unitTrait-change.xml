@@ -2,7 +2,7 @@
 <Root>
   <Entry>
     <zType/>
-    <English/>
+    <Translation/>
   </Entry>
   <Entry>
 		<zType>TEXT_UNITTRAIT_MELEE</zType>
@@ -10,7 +10,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_RANGED</zType>
-		<Translation>Дальнобойный~a Дальнобойный~Дальнобойные</Translation>
+		<Translation>Дальнобойный</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_UNITTRAIT_INFANTRY</zType>

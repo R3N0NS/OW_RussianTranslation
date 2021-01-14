@@ -3,7 +3,11 @@
 <Root>
 	<Entry>
 		<zType/>
-		<English/>
+		<Translation/>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_TITLE</zType>
+		<Translation>Шанс link(DIPLOMACY_PEACE)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_TRUCE_TITLE</zType>
@@ -252,6 +256,10 @@
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNLIKELY_ALLIES_TITLE</zType>
 		<Translation>Маловероятные союзники</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SUPPORTING_THE_FAITH_TITLE</zType>
+		<Translation>Демонстрация веры</Translation>
 	</Entry>
 	<Entry beginGroup="Exploration">
 		<zType>TEXT_EVENTSTORY_RUINS_SURVIVORS_TITLE</zType>
@@ -912,10 +920,6 @@
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SECURING_PEACE_RETURNING_EMISSARY_MISUNDERSTANDING_TITLE</zType>
 		<Translation>Вернувшийся эмиссар</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_TITLE</zType>
-		<Translation>Ссылка на проигрыватель (DIPLOMACY_PEACE)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_PEACE_BUILDING_TRUST_TITLE</zType>
@@ -1588,6 +1592,58 @@
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_ASK_FAVOR_ZEALOT_TITLE</zType>
 		<Translation>Огонь и сера</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_MIGHTY_TITLE</zType>
+		<Translation>Племенной Союз</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_STRANGE_TITLE</zType>
+		<Translation>Племенной Союз</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_TERROR_TITLE</zType>
+		<Translation>Племенной Союз</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_ZEALOUS_TITLE</zType>
+		<Translation>Племенной Союз</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_ORATOR_TITLE</zType>
+		<Translation>Племенной Союз</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_DIPLOMAT_TITLE</zType>
+		<Translation>Племенной Союз</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_SCHEMER_TITLE</zType>
+		<Translation>Племенной Союз</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_HERO_TITLE</zType>
+		<Translation>Племенной Союз</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_TACTICIAN_TITLE</zType>
+		<Translation>Племенной Союз</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_COMMANDER_TITLE</zType>
+		<Translation>Племенной Союз</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_BUILDER_TITLE</zType>
+		<Translation>Племенной Союз</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_JUDGE_TITLE</zType>
+		<Translation>Племенной Союз</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_SCHOLAR_TITLE</zType>
+		<Translation>Племенной союз</Translation>
 	</Entry>
 	<Entry beginGroup="Combat">
 		<zType>TEXT_EVENTSTORY_LEADER_SMITING_FOES_TITLE</zType>
@@ -5518,10 +5574,6 @@
 		<Translation>Государственная религия?</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTSTORY_START_SLAVERY_TITLE</zType>
-		<Translation>link(LAW_SLAVERY) Сейчас?</Translation>
-	</Entry>
-	<Entry>
 		<zType>TEXT_EVENTSTORY_EPICS_EXPLORATION_TITLE</zType>
 		<Translation>link(LAW_EPICS) или link(LAW_EXPLORATION)</Translation>
 	</Entry>
@@ -5582,8 +5634,8 @@
 		<Translation>link(LAW_COIN_DEBASEMENT) или link(LAW_MONETARY_REFORM)</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTSTORY_RELIGION_FOUNDED_TITLE</zType>
-		<Translation>{RELIGION-1}?</Translation>
+		<zType>TEXT_EVENTSTORY_START_SLAVERY_TITLE</zType>
+		<Translation>link(LAW_SLAVERY) сейчас?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CEREMONIAL_OFFERING_TITLE</zType>
@@ -6150,11 +6202,11 @@
 		<Translation>Происходят несчастные случаи</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTSTORY_TECH_SARISSA_COMPANION_CAVALRY_TITLE</zType>
+		<zType>TEXT_EVENTSTORY_TECH_INFANTRY_SQUARE_COMPANION_CAVALRY_TITLE</zType>
 		<Translation>Защитите фланги</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTSTORY_TECH_SARISSA_FOOLISH_DISPLAY_TITLE</zType>
+		<zType>TEXT_EVENTSTORY_TECH_INFANTRY_SQUARE_FOOLISH_DISPLAY_TITLE</zType>
 		<Translation>Глупый показ</Translation>
 	</Entry>
 	<Entry>
@@ -7188,6 +7240,10 @@
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_TRIBES_TITLE</zType>
 		<Translation>Обучение: Варвары</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_SPECIALIST_TITLE</zType>
+		<Translation>Обучение: Специалисты</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_SUCCESSION_TITLE</zType>

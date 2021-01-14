@@ -2,7 +2,7 @@
 <Root>
   <Entry>
     <zType/>
-    <English/>
+    <Translation/>
   </Entry>
   <Entry>
     <zType>TEXT_MISCOPTION_EMAIL_NAME</zType>
@@ -26,7 +26,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_MISCOPTION_RESOLUTION_DESC</zType>
-    <English/>
+    <Translation/>
   </Entry>
   <Entry>
     <zType>TEXT_MISCOPTION_FULLSCREENMODE_NAME</zType>

@@ -4,7 +4,7 @@
   <!--Name-->
   <Entry>
     <zType/>
-    <English/>
+    <Translation/>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTUNIT_COMBAT1</zType>
@@ -51,8 +51,16 @@
     <Translation>Герой (правитель)</Translation>
   </Entry>
   <Entry>
+	<zType>TEXT_EFFECTUNIT_HERO_MELEE</zType>
+	<Translation>Герой (link(UNITTRAIT_MELEE))</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EFFECTUNIT_COMMANDER</zType>
     <Translation>Командир~Командира~Командиру~Командира~Командиром~Командире</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EFFECTUNIT_COMMANDER_INFANTRY</zType>
+	<Translation>Командир (link(UNITTRAIT_INFANTRY))</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTUNIT_TACTICIAN</zType>
@@ -161,6 +169,26 @@
   <Entry>
 	<zType>TEXT_EFFECTUNIT_SHRAPNEL</zType>
 	<Translation>Шрапнель</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EFFECTUNIT_COCKSWAIN</zType>
+	<Translation>Маневренный</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EFFECTUNIT_GRAPPLER</zType>
+	<Translation>Боец</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EFFECTUNIT_SEABORN</zType>
+	<Translation>Рожденный морем</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EFFECTUNIT_OVERWHELM</zType>
+	<Translation>Сокрушительный</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EFFECTUNIT_FIRESHIP</zType>
+	<Translation>Огненный</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTUNIT_ROUT</zType>

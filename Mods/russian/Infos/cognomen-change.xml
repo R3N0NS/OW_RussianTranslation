@@ -634,7 +634,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_OLD</zType>
-		<zName>Пожилой</zName>
+		<zName>Пожилой(ая)</zName>
 		<iLegitimacy>40</iLegitimacy>
 		<iMinValue>4000</iMinValue>
 		<aiStatValue>
@@ -1694,7 +1694,7 @@
 	</Entry>
 	<Entry>
 		<zType>COGNOMEN_GREAT</zType>
-		<zName>Великий</zName>
+		<zName>Великий(ая)</zName>
 		<iLegitimacy>100</iLegitimacy>
 		<iMinValue>50000</iMinValue>
 		<aiStatValue>

@@ -3,7 +3,7 @@
   <!--Generic-->
   <Entry>
     <zType/>
-    <English/>
+    <Translation/>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_YES</zType>
@@ -342,15 +342,15 @@
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_EFFECT_PLAYER_SOURCE_RELIGION</zType>
     <Translation>Государственная религия: {0_religion}</Translation>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_EFFECT_CITY_SOURCE_RELIGION_TYPE</zType>
     <Translation>{0_source} Религия ({1_religion})</Translation>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_EFFECT_CITY_SOURCE_FAMILY</zType>
     <Translation>{0_source} Города</Translation>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_EFFECT_CITY_SOURCE_RELIGION</zType>
     <Translation>{0_source} Религия</Translation>
@@ -380,7 +380,7 @@
     <Translation>Специалист~Специалиста~Специалисту~Специалист~Специалистом~Специалисте</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_HELPTEXT_LINK_DISLOYALTY</zType>
+    <zType>TEXT_HELPTEXT_LINK_DISCONTENT_FAMILY</zType>
     <Translation>Неверность~Неверности</Translation>
   </Entry>
   <Entry>
@@ -421,7 +421,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_LEGITIMACY</zType>
-    <Translation>icon(YIELD_LEGITIMACY) {true_0::Legitimacy}</Translation>
+    <Translation>icon(YIELD_LEGITIMACY) {true_0::Легитимность}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_COURTIER</zType>
@@ -474,7 +474,7 @@
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_DISCONTENT</zType>
     <Translation>Уровень {0_discontentLevel}</Translation>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_AMBITIONS_MAX</zType>
     <Translation>{0}/int(MAX_AMBITIONS)</Translation>
@@ -615,7 +615,7 @@
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_NO</zType>
     <Translation>[Не требуется: {0}]</Translation>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_HIGHER_VPS</zType>
     <Translation>[Не требуется: {0}]</Translation>
@@ -935,8 +935,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_TURN_STATE_UNIT_CYCLE_KEY</zType>
-    <Translation><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK><true_0> или {0_presskey}<false><end> Пропустить и перейти к следующему отряду]]>
-    </Translation>
+    <Translation><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK><true_0> или {0_presskey}<false><end> Пропустить и перейти к следующему отряду]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_TURN_STATE_UNIT_CENTER_KEY</zType>
@@ -1013,6 +1012,10 @@
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_TURN_TIMER</zType>
     <Translation>Таймер хода:{true_0: {0_timer}}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_WIDGET_WONDERS_AVAILABLE</zType>
+    <Translation>Доступные Чудеса:</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_WONDERS_CANNOT_BUILD</zType>
@@ -1311,10 +1314,6 @@
     <Translation>Открывает экран законов</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_HELPTEXT_WIDGET_MAKE_DECISION_EVENT_STORY_RELIGION_SCREEN</zType>
-    <Translation>Открывает экран религии</Translation>
-  </Entry>
-  <Entry>
 	<zType>TEXT_HELPTEXT_WIDGET_MAKE_DECISION_EVENT_CHARACTER_TRAIT</zType>
 	<Translation>{0_character} становится {1_trait}</Translation>
   </Entry>
@@ -1470,7 +1469,7 @@
     <Translation>Та же семья: {LIST}</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_HELPTEXT_WIDGET_SKIP_SEAT_BONUS</zType>
+    <zType>TEXT_HELPTEXT_WIDGET_FAMILY_SEAT_BONUS</zType>
     <Translation>Упущено при основании link(CONCEPT_FAMILY_SEAT): {LIST}</Translation>
   </Entry>
   <Entry>
@@ -1884,8 +1883,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_HELP_ALLIANCE_TRIBE</zType>
-    <Translation>
-			<![CDATA[Можно перемещаться и атаковать с отрядами этого племени.<br>Можно основывать города рядом с их поселениями.<br>Союзное племя разделит ваши дипломатические отношения с другими племенами.<br>Союз возможен только с одним племенем.<br>Он продлится до конца правления действующего лидера.]]></Translation>
+    <Translation><![CDATA[Можно перемещаться и атаковать с отрядами этого племени.<br>Можно основывать города рядом с их поселениями.<br>Союзное племя разделит ваши дипломатические отношения с другими племенами.<br>Союз возможен только с одним племенем.<br>Он продлится до конца правления действующего лидера.]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_HELP_ALLIANCE_PLAYER</zType>
@@ -1945,8 +1943,12 @@
     <Translation>{0_yield}: Защита</Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_CITY_MISSING_FAMILY</zType>
+    <Translation>{0_yield}: Недостаточно link(CONCEPT_FAMILY_SEAT,1)</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_CITY_URBAN_TILE</zType>
-    <Translation>{0_yield}: Требуется больше {10_urbanLink} клеток для {2,7_citizens}</Translation>
+    <Translation>{0_yield}: Требуется больше {1_urbanLink} клеток для {2,2_citizens}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_CITY_EMPTY_IMPROVEMENT</zType>
@@ -2003,7 +2005,7 @@
   <Entry>
 	<zType>TEXT_HELPTEXT_LINK_HELP_CULTURE_EVENT</zType>
 	<Translation>link(YIELD_CULTURE) События происходят всякий раз, когда городская link(YIELD_CULTURE) заполняется.</Translation>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_CULTURE_LEVEL</zType>
     <Translation>link(YIELD_CULTURE)</Translation>
@@ -2053,7 +2055,7 @@
     <Translation>Вы можете атаковать друг друга.</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_HELPTEXT_LINK_HELP_DISLOYALTY</zType>
+    <zType>TEXT_HELPTEXT_LINK_HELP_DISCONTENT_FAMILY</zType>
     <Translation>Неверность — это ежегодное изменение мнения от уровня {0_discontentIcon}.</Translation>
   </Entry>
   <Entry>
@@ -2064,6 +2066,10 @@
     <zType>TEXT_HELPTEXT_LINK_HELP_FAMILY_SEAT</zType>
     <Translation>Первый город под правлением этой семьи.</Translation>
   </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_FAMILY</zType>
+    <Translation>семьи -это ведущие кланы вашей империи, с различными предрасположенностями и противоречивыми интересами. Им предоставляется контроль над вашими городами, для которых важно учитывать их особые бонусы. Их предпочтения определяют, какую link(CONCEPT_AMBITION,1) Вы можете преследовать, и их мнение о вас может привести к различным событиям.</Translation>
+   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_FROM_GENERAL</zType>
     <Translation>(От {0_character})</Translation>
@@ -2109,6 +2115,22 @@
     <Translation><![CDATA[Можно собрать ресурс для быстрого получения сырья.<br>Ресурсы нельзя собрать снова, пока они случайно не восполнятся.]]></Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_MARCH</zType>
+    <Translation><![CDATA[Марш позволяет подразделению продолжать движение в этом направление, когда нет ходов, за счет int(UNIT_MARCH_COST) Обучение, и вдвое больше за Приказы каждый дополнительный ход.]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_FATIGUE</zType>
+    <Translation><![CDATA[Юонит устает после использования всех своих ходов. Уставший юнит обновит свои силы на следующем ходу. После утомления, подразделение может снова двигаться только при помощи марша.]].]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_AMBITIONS</zType>
+    <Translation><![CDATA[Амбиции - это цели, которые вы должны преследовать, и их выполнение даст вам постоянный прирост link(CONCEPT_LEGITIMACY). Завершите десять амбиций, и вы выиграете игру!]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_HELP_TRIBE</zType>
+    <Translation><![CDATA[Племена могут участвовать в ограниченной дипломатии, но, как правило, не будут скоординированы так, как противоборствующие нации.]]></Translation>
+    </Entry>
+  <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_HEIGHT_BUILD</zType>
     <Translation>{0} Строительство {1_turnScale}</Translation>
   </Entry>
@@ -2136,6 +2158,14 @@
 (Требуется link(IMPROVEMENT_GARRISON_1).)</Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_COUNCILOR</zType>
+    <Translation>link(CONCEPT_COUNCILOR) может исполнять роль link(COUNCIL_CHANCELLOR), link(COUNCIL_AMBASSADOR), или link(COUNCIL_SPYMASTER)</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_SPECIALIST</zType>
+    <Translation>link(CONCEPT_SPECIALIST,0) может повысить эффективность link(CONCEPT_IMPROVEMENT,1) за счет link(YIELD_CIVICS).</Translation>
+    </Entry>
+  <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_IDLE</zType>
     <Translation>link(CONCEPT_IDLE) отряды можно перемещать до атаки, повышения, улучшения и т.д.</Translation>
   </Entry>
@@ -2155,6 +2185,14 @@
     <zType>TEXT_HELPTEXT_LINK_HELP_LEGITIMACY_OPINIONS</zType>
     <Translation>{0_value}: мнение семьи</Translation>
   </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_STATE_RELIGION</zType>
+    <Translation>Государственная религия дает бонусы культуры и счастье,а также позволяет вербовать link(CONCEPT_DISCIPLE, 1) в ваших городах этой религии. Однако города другой религии будут испытывать недовольство</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_COGNOMEN</zType>
+    <Translation>A Cognomen can increase the Legitimacyicon(YIELD_LEGITIMACY) of your Leader</Translation>
+    </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_LOCATION</zType>
     <Translation>Нажмите, чтобы посмотреть...</Translation>
@@ -2200,6 +2238,10 @@
     <Translation>Улучшить постройку (например, link(IMPROVEMENT_THEATER_1) до link(IMPROVEMENT_THEATER_2)).</Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_IMPROVEMENT</zType>
+    <Translation>link(UNIT_WORKER,2) можно построить link(CONCEPT_URBAN) и сельское link(CONCEPT_IMPROVEMENT,2) для ваших городов на доступных клетках.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_RANGE</zType>
     <Translation>Расстояние атаки link(UNITTRAIT_RANGED)</Translation>
   </Entry>
@@ -2207,6 +2249,14 @@
     <zType>TEXT_HELPTEXT_LINK_HELP_REBEL</zType>
     <Translation>Появится link(CONCEPT_REBEL) и начнет атаковать отряды и города.</Translation>
   </Entry>
+  <Entry>
+	<zType>TEXT_HELPTEXT_LINK_HELP_DESIRED_AMBITION</zType>
+	<Translation>Желаемые амбиции персонажа станут новой национальной link(CONCEPT_AMBITION), если он / она станет лидером..</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_HELPTEXT_LINK_HELP_DISCIPLE</zType>
+	<Translation>link(CONCEPT_DISCIPLE) может распространять вашу link(CONCEPT_STATE_RELIGION) и удалять другие религии из ваших городов.</Translation>
+ </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_RELIGION_CITIES_US</zType>
     <Translation><![CDATA[Наши города {0_religion}:<br>{LIST}]]></Translation>
@@ -2346,6 +2396,14 @@
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_URBAN_CITIZEN</zType>
     <Translation>link(CONCEPT_URBAN)  приносят {0_value} ед. {1_citizen}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_URBAN_ATTACK_MODIFIER</zType>
+    <Translation>{0_trait} Attacking: {1}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_URBAN_DEFENSE_MODIFIER</zType>
+    <Translation>{0_trait} Defending: {1}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_VEGETATION_DEFEND</zType>
@@ -3572,6 +3630,10 @@
     <Translation>[Все отряды] {LIST}</Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_TRAIT_UNITS_EFFECT</zType>
+    <Translation>[{0_trait} Отряды] {LIST}</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_HELPTEXT_EFFECT_PLAYER_HELP_START_BONUS</zType>
     <Translation>Бонус при старте: {0}</Translation>
   </Entry>
@@ -4193,20 +4255,28 @@
     <Translation>Захват трона {0_player}</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_HELPTEXT_BONUS_LEAVE_CITY</zType>
-    <Translation>Перестать быть губернатором г. {0_city}</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_HELPTEXT_BONUS_LEAVE_CITY_GENERIC</zType>
-    <Translation>Перестать быть губернатором</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_HELPTEXT_BONUS_LEAVE_UNIT</zType>
+    <zType>TEXT_HELPTEXT_BONUS_RELEASE_GENERAL</zType>
     <Translation>Покинуть {0_unit}</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_HELPTEXT_BONUS_LEAVE_UNIT_GENERIC</zType>
+    <zType>TEXT_HELPTEXT_BONUS_RELEASE_GENERAL_GENERIC</zType>
     <Translation>Покинуть отряд</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_BONUS_RELEASE_GOVERNOR</zType>
+    <Translation>Перестать быть губернатором г. {0_city}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_BONUS_RELEASE_GOVERNOR_GENERIC</zType>
+    <Translation>Перестать быть губернатором</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_BONUS_RELEASE_AGENT</zType>
+    <Translation>Покинуть место link(CONCEPT_AGENT) в {0_city}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_BONUS_RELEASE_AGENT_GENERIC</zType>
+    <Translation>Покинуть место link(CONCEPT_AGENT)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_BONUS_CHANGE_SUCCESSION_GENERIC</zType>
@@ -4614,6 +4684,10 @@
     <Translation>{0_opinion}: наши link(CONCEPT_LUXURY)</Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_HELPTEXT_OPINION_RELIGION</zType>
+    <Translation>{0_opinion}: Наша Религия ({1_religion})</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_HELPTEXT_OPINION_PEACE</zType>
     <Translation>{0_opinion}: длительный {1_peace}</Translation>
   </Entry>
@@ -4790,6 +4864,10 @@
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_OUR_LAWS</zType>
     <Translation>{0_value}: наши законы{true_LIST-COUNT: ({LIST})}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_FAMILY_STATE_RELIGION</zType>
+    <Translation>{0_value}: Наша Религия ({1_religionLink})</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_FAMILY_STATE_THEOLOGY</zType>
@@ -5752,11 +5830,11 @@
   <Entry>
     <zType>TEXT_HELPTEXT_DOWNLOAD_CLOUD_SAVE</zType>
     <Translation>Download the game save file from the cloud (host only).</Translation>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CLOUD_KICK</zType>
     <Translation>Active player surrenders and becomes controlled by the AI</Translation>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DISBAND_UNIT_PROMPT_TITLE</zType>
     <Translation>Распустить {0_unit}?</Translation>
@@ -6031,27 +6109,27 @@
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_TITLE</zType>
     <Translation>Повысить {0_character}</Translation>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_DESC</zType>
     <Translation>{0_character} is {1_list}.</Translation>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_COUNCIL</zType>
     <Translation>your {0_council}</Translation>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_GENERAL</zType>
     <Translation>the link(CONCEPT_GENERAL) of {0_unit}</Translation>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_GOVERNOR</zType>
     <Translation>the link(CONCEPT_GOVERNOR) of {0_city}</Translation>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_AGENT</zType>
     <Translation>link(CONCEPT_AGENT) in {0_city}</Translation>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_COURTIER</zType>
     <Translation>a {0_courtier}</Translation>
@@ -6059,11 +6137,11 @@
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_AMBITION_TITLE</zType>
     <Translation>Выбрать амбицию</Translation>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_AMBITION_DESC</zType>
 	<Translation>Пришло время выбрать будущее стремление {0_nation}?</Translation>
-	</Entry>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_CHOOSE_CITY_FAMILY_TITLE</zType>
     <Translation>Выбрать {0_city} семьи:</Translation>
@@ -6131,12 +6209,12 @@
     <Translation>По завершении: {0}</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_HELPTEXT_GOAL_HELP_THEOLOGY</zType>
-    <Translation>Государственная религия с теологией {0}</Translation>
-  </Entry>
-  <Entry>
     <zType>TEXT_HELPTEXT_GOAL_HELP_START_LAW</zType>
     <Translation>Принять закон {0}{true_1: (заменяет {1})}</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_GOAL_HELP_THEOLOGY</zType>
+    <Translation>Государственная религия с теологией {0}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_LEGITIMACY</zType>
