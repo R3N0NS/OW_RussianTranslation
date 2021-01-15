@@ -4467,7 +4467,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_MISSION_COUNCIL_ALREADY</zType>
-	<Translation>Is already the {0_council}</Translation>
+	<Translation>Уже назначен как {0_council}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_MISSION_NO_EFFECT</zType>
@@ -6112,7 +6112,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_DESC</zType>
-    <Translation>{0_character} is {1_list}.</Translation>
+    <Translation>{0_character} это {1_list}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_COUNCIL</zType>
@@ -6120,15 +6120,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_GENERAL</zType>
-    <Translation>the link(CONCEPT_GENERAL) of {0_unit}</Translation>
+    <Translation>link(CONCEPT_GENERAL) {0_unit}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_GOVERNOR</zType>
-    <Translation>the link(CONCEPT_GOVERNOR) of {0_city}</Translation>
+    <Translation>link(CONCEPT_GOVERNOR) в {0_city}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_AGENT</zType>
-    <Translation>link(CONCEPT_AGENT) in {0_city}</Translation>
+    <Translation>link(CONCEPT_AGENT) в {0_city}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_DECISION_UPGRADE_CHARACTER_COURTIER</zType>

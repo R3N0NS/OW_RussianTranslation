@@ -557,7 +557,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_ADD</zType>
-    <Translation>В {0_relationship} с {1_character}</Translation>
+    <Translation>В {0_relationship} {1_character}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_ADD_REMOVE</zType>
@@ -565,7 +565,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_RELATIONSHIP_REMOVE</zType>
-    <Translation>Больше не {0_relationship} с {1_character}</Translation>
+    <Translation>Больше не {0_relationship} {1_character}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DO_BONUS_XP</zType>

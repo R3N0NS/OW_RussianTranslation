@@ -586,15 +586,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_TRAIT_JUDGE_ARCHETYPE_ALL</zType>
-    <Translation>Лидер оратор</Translation>
+    <Translation>Мастер оратор</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_TRAIT_ORATOR_ARCHETYPE_ALL</zType>
-    <Translation>Лидер судья</Translation>
+    <Translation>Старший судья</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_TRAIT_BUILDER_ARCHETYPE_ALL</zType>
-    <Translation>Лидер строитель</Translation>
+    <Translation>Лидер строителей</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_TRAIT_COMMANDER_ARCHETYPE_ALL</zType>
@@ -686,7 +686,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_TRAIT_DRILLMASTER</zType>
-    <Translation>Лидер вояка</Translation>
+    <Translation>Лидер вояк</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_TRAIT_KEEN</zType>
@@ -694,35 +694,35 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_TRAIT_EQUESTRIAN</zType>
-    <Translation>Лидер всадник</Translation>
+    <Translation>Лидер всадников</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_TRAIT_CARPENTER</zType>
-    <Translation>Лидер плотник</Translation>
+    <Translation>Лидер плотников</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_TRAIT_ANGLER</zType>
-    <Translation>Лидер моряк</Translation>
+    <Translation>Лидер моряков</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_TRAIT_PLANTER</zType>
-    <Translation>Лидер фермер</Translation>
+    <Translation>Лидер фермеров</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_TRAIT_FORESTER</zType>
-    <Translation>Лидер лесник</Translation>
+    <Translation>Лидер лесников</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_TRAIT_DELVER</zType>
-    <Translation>Лидер поставщик</Translation>
+    <Translation>Лидер поставщиков</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_TRAIT_SMELTER</zType>
-    <Translation>Лидер плавильщик</Translation>
+    <Translation>Лидер плавильщиков</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_TRAIT_HERDER</zType>
-    <Translation>Лидер пастух</Translation>
+    <Translation>Лидер пастухов</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_TRAIT_ASCETIC</zType>

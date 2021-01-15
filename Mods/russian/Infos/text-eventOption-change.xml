@@ -2355,7 +2355,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ATTACKED_BY_A_BEAR_OPTION_2</zType>
-    <Translation>Обещают известить ближайшее поселение об их тяжелом положении.</Translation>
+    <Translation>Известить ближайшее поселение об их тяжелом положении.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ATTACKED_BY_A_BEAR_AID_OPTION_0</zType>
@@ -2899,7 +2899,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SECURING_PEACE_RETURNING_EMISSARY_MISUNDERSTANDING_DIPLOMAT</zType>
-    <Translation>... примите наши извинения и не обращайте внимания на нарушение ... пока</Translation>
+    <Translation>... примите наши извинения и не обращайте внимания на нарушение... пока</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SECURING_PEACE_RETURNING_EMISSARY_MISUNDERSTANDING_DIPLOMAT_HELP</zType>
@@ -3551,7 +3551,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CANCEL_TRADE_DEMAND_NO</zType>
-    <Translation>{PLAYER-0} не узнает, что делать.</Translation>
+    <Translation>{PLAYER-0} не знает, что делать.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DECLARE_WAR_DEMAND_YES</zType>
@@ -3571,7 +3571,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DECLARE_WAR_DEMAND_NO</zType>
-    <Translation>{PLAYER-0} не узнает, кого атаковать.</Translation>
+    <Translation>{PLAYER-0} не будет никого атаковать.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_WAR_OFFER_TRAIT_JUDGE_ARCHETYPE_CAUTIOUS_OPTION_0</zType>
@@ -5146,7 +5146,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_TRIBAL_CONFEDERATION_OPTION_0</zType>
-    <Translation>{PLAYER-1} избавит вас от этого один раз.</Translation>
+    <Translation>{PLAYER-1} избавит вас от этого однажды.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_TRIBAL_CONFEDERATION_OPTION_1</zType>
@@ -7170,7 +7170,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COURTIER_A1_SOLDIER</zType>
-    <Translation>Капитана пехота.</Translation>
+    <Translation>Капитана пехоты.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COURTIER_A1_MERCHANT</zType>
@@ -9378,11 +9378,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_YOUTHFUL_ZEAL_OPTION_0</zType>
-    <Translation>Поощряйте восстание. Это хорошо послужит {G0: его: ей}.</Translation>
+    <Translation>Поощряйте {G0:его:ее} бунтарство. Это хорошо послужит.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_YOUTHFUL_ZEAL_OPTION_1</zType>
-    <Translation>Напомните {G0:ему:ей} о {G0:его:ее} месте в качестве предупреждения.</Translation>
+    <Translation>Напомните {G0:ему:ей} где {G0:его:ее} место в качестве предупреждения.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_YOUTHFUL_ZEAL_OPTION_2</zType>
@@ -10126,7 +10126,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_MONKEYS_PAW_OPTION_2</zType>
-    <Translation>Может мне стоит взять ... на всякий случай.</Translation>
+    <Translation>Может мне стоит взять ее... на всякий случай.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NONSENSE_OR_IS_IT_OPTION_0</zType>
@@ -10178,7 +10178,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_FAMILY_AFFAIR_OPTION_1</zType>
-    <Translation>Я освобождаю {CHARACTER-SHORT-0} от обязательства {G0:его:ее}.</Translation>
+    <Translation>Я освобождаю {CHARACTER-SHORT-1} от обязательства {G0:его:ее}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_FAMILY_AFFAIR_OPTION_2</zType>
@@ -11550,7 +11550,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INHERITANCE_DEBAUCHED_OPTION_0</zType>
-    <Translation>Не впадайте в разврат и не ждите, что к утру все освоится.</Translation>
+    <Translation>Не впадайте в безнравственность и не ждите, что к утру все наладится.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INHERITANCE_SPOILED_OPTION_0</zType>
@@ -15930,7 +15930,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_THE_RANT_OPTION_0</zType>
-    <Translation>Я не хочу иметь ничего общего с этим {G0: madman: madwoman}.</Translation>
+    <Translation>Я не хочу иметь ничего общего с {G0:этим сумасшедшим:этой сумасшедшей}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_THE_RANT_OPTION_1</zType>

@@ -4527,295 +4527,295 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_INFLUENCE_OF_WINE_TITLE</zType>
-		<Translation>Influence of Wine</Translation>
+		<Translation>Влияние вина</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_INFLUENCE_OF_MONEY_TITLE</zType>
-		<Translation>Influence of Money</Translation>
+		<Translation>Влияние денег</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_INFLUENCE_OF_COUNCIL_AMBASSADOR_TITLE</zType>
-		<Translation>Influence of Council</Translation>
+		<Translation>Влияние Совета</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_INFLUENCE_OF_COUNCIL_SPYMASTER_TITLE</zType>
-		<Translation>Influence of Council</Translation>
+		<Translation>Влияние Совета</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_INFLUENCE_OF_COUNCIL_CHANCELLOR_TITLE</zType>
-		<Translation>Influence of Council</Translation>
+		<Translation>Влияние Совета</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_INFLUENCE_OF_GOVERNORS_TITLE</zType>
-		<Translation>Influence of Governors</Translation>
+		<Translation>Влияние губернаторов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_REJECTION_OF_INFLUENCE_TITLE</zType>
-		<Translation>Rejection of Influence</Translation>
+		<Translation>Отказ от влияния</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BARREN_SPOUSE_AND_SERVANT_TITLE</zType>
-		<Translation>{G2:Husband:Wife} and {G0:Manservant:Handmaiden}</Translation>
+		<Translation>{G2:Муж:Жена} и {G0:Слуга:Служанка}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DIVORCE_LOVER_AND_SPOUSE_TITLE</zType>
-		<Translation>Lover and {G2:Husband:Wife}</Translation>
+		<Translation>Любовник и {G2:Муж:Жена}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DIVORCE_RECOGNITION_OF_LOVER_TITLE</zType>
-		<Translation>Recognition of Lover</Translation>
+		<Translation>Признание любовника</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_ASSIGNMENT_FRIENDLY_TITLE</zType>
-		<Translation>An Assignment</Translation>
+		<Translation>Назначение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_ASSIGNMENT_PLEASED_TITLE</zType>
-		<Translation>An Assignment</Translation>
+		<Translation>Назначение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_ASSIGNMENT_CAUTIOUS_TITLE</zType>
-		<Translation>An Assignment</Translation>
+		<Translation>Назначение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_ASSIGNMENT_UPSET_TITLE</zType>
-		<Translation>An Assignment</Translation>
+		<Translation>Назначение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_ASSIGNMENT_ANGRY_TITLE</zType>
-		<Translation>An Assignment</Translation>
+		<Translation>Назначение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_ASSIGNMENT_FURIOUS_TITLE</zType>
-		<Translation>An Assignment</Translation>
+		<Translation>Назначение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EVENTSTORY_LEADER_LOVED_TITLE</zType>
-		<Translation>Poem</Translation>
+		<Translation>Поэма</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_LOVE_POEM_TITLE</zType>
-		<Translation>Love Poem</Translation>
+		<Translation>Поэма о любви</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_BAWDY_POEM_TITLE</zType>
-		<Translation>Bawdy  Poem</Translation>
+		<Translation>Похабные стихи</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_LOVE_LETTER_TITLE</zType>
-		<Translation>Love Letter</Translation>
+		<Translation>Любовное письмо</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_RIBALD_LETTER_TITLE</zType>
-		<Translation>Ribald Letter</Translation>
+		<Translation>Рибальд Летте</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_LOVE_GIFT_TITLE</zType>
-		<Translation>A Gift</Translation>
+		<Translation>Подарок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_LOVE_GIFT_SPOUSE_TITLE</zType>
-		<Translation>A Gift</Translation>
+		<Translation>Подарок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_PROPOSITION_TITLE</zType>
-		<Translation>Proposition</Translation>
+		<Translation>Предложение</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_FLIRT_ONE_TITLE</zType>
-		<Translation>Unexpected Flirt</Translation>
+		<Translation>Неожиданный флирт</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_FLIRT_TWO_TITLE</zType>
-		<Translation>Unexpected Flirt</Translation>
+		<Translation>Неожиданный флирт</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_LOVE_RIVAL_JEALOUS_TITLE</zType>
-		<Translation>Love Rival</Translation>
+		<Translation>Соперник в любови</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_LOVE_RIVAL_VENGEFUL_TITLE</zType>
-		<Translation>Love Rival</Translation>
+		<Translation>Соперник в любови</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_THRILLING_CONVERSATION_TITLE</zType>
-		<Translation>Thrilling Conversation</Translation>
+		<Translation>Захватывающий разговор</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_DREAMY_GAZE_TITLE</zType>
-		<Translation>Dreamy Gaze</Translation>
+		<Translation>Мечтательный взгляд</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_MARKSMAN_TITLE</zType>
-		<Translation>Another Bullseye</Translation>
+		<Translation>Другое яблочко</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_BRAVE_BOASTS_TITLE</zType>
-		<Translation>Brave Boasts</Translation>
+		<Translation>Смелое хвастовство</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_BOLD_BOASTS_TITLE</zType>
-		<Translation>Bold Boasts</Translation>
+		<Translation>Смелое хвастовство</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_FISHER_TITLE</zType>
-		<Translation>The one that got away</Translation>
+		<Translation>Тот, который ускользнул</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_ROBUST_TITLE</zType>
-		<Translation>Sheer Strength</Translation>
+		<Translation>Чистая сила</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_HORSING_AROUND_TITLE</zType>
-		<Translation>Horsing Around</Translation>
+		<Translation>Кататься на лошади</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_MOCKING_LAUGHTER_TITLE</zType>
-		<Translation>Mocking Laughter</Translation>
+		<Translation>Издевательский смех</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_NIGHT_TERRORS_TITLE</zType>
-		<Translation>Night Terrors</Translation>
+		<Translation>Ночные кошмары</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_NIGHT_TERRORS_SPOUSE_TITLE</zType>
-		<Translation>Night Terrors</Translation>
+		<Translation>Ночные кошмарыs</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_ENTIRELY_ABSORBED_TITLE</zType>
-		<Translation>Entirely Absorbed</Translation>
+		<Translation>Полностью впитывается</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_ENTIRELY_ABSORBED_SPOUSE_TITLE</zType>
-		<Translation>Entirely Absorbed</Translation>
+		<Translation>Полностью впитывается</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_EXTRAVAGANT_GIFT_TITLE</zType>
-		<Translation>Extravagant Gift</Translation>
+		<Translation>Экстравагантный подарок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_ROMANTIC_ENCOUNTER_TITLE</zType>
-		<Translation>Romantic Encounter</Translation>
+		<Translation>Романтическая встреча</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_ROMANTIC_ENCOUNTER_SPOUSE_TITLE</zType>
-		<Translation>Romantic Encounter</Translation>
+		<Translation>Романтическая встреча</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_ROMANTIC_ENCOUNTER_SPOUSE_TWO_TITLE</zType>
-		<Translation>Romantic Encounter</Translation>
+		<Translation>Романтическая встречаr</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEGITIMIZE_SPOUSES_HONORS_TITLE</zType>
-		<Translation>A Spouse's Honors</Translation>
+		<Translation>Почести супруга</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEGITIMIZE_BASTARDS_LOVE_TITLE</zType>
-		<Translation>A Bastard's Love</Translation>
+		<Translation>Ублюдочная любовь</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEGITIMIZE_BASTARDS_BODY_TITLE</zType>
-		<Translation>The Bastard's Body</Translation>
+		<Translation>Тело ублюдка</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEGITIMIZE_BASTARDS_BODY_LOVER_TITLE</zType>
-		<Translation>The Bastard's Body</Translation>
+		<Translation>Тело ублюдка</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEGITIMIZE_BASTARDS_BODY_RIVAL_TITLE</zType>
-		<Translation>The Bastard's Body</Translation>
+		<Translation>Тело ублюдка</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEGITIMIZE_BASTARDS_BODY_ACCIDENT_TITLE</zType>
-		<Translation>The Bastard's Body</Translation>
+		<Translation>Тело ублюдка</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEGITIMIZE_THREE_FAMILIES_CONCERN_TITLE</zType>
-		<Translation>Noble Concerns</Translation>
+		<Translation>Благородные заботы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_CLASSIC_TRAGEDY_TITLE</zType>
-		<Translation>A Classic Tragedy</Translation>
+		<Translation>Классическая трагедия</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_CLASSIC_TRAGEDY_INVESTIGATION_TITLE</zType>
-		<Translation>Investigation of a Tragedy</Translation>
+		<Translation>Расследование трагедии</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_AIRY_AND_MENDACIOUS_STYLE_TITLE</zType>
-		<Translation>Airy and Mendacious</Translation>
+		<Translation>Воздушный и лживый</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_OF_PROPHECY_TITLE</zType>
-		<Translation>Study of Prophecy</Translation>
+		<Translation>Изучение пророчества</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_AGAINST_THE_SOPHISTS_TITLE</zType>
-		<Translation>Against the Sophists</Translation>
+		<Translation>Против софистов</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_OPPOSING_VIEWS_TITLE</zType>
-		<Translation>Opposing Views</Translation>
+		<Translation>Противоположные взгляды</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_BOTH_CARPENTERS_TITLE</zType>
-		<Translation>Plane Speaking</Translation>
+		<Translation>Платон говорит</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_BOTH_ANGLERS_TITLE</zType>
-		<Translation>Hook, Line, and Sinker</Translation>
+		<Translation>Крючок, леска и грузило</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_BOTH_STRICT_TITLE</zType>
-		<Translation>Spartan Style</Translation>
+		<Translation>Спартанский стиль</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_BOTH_PROSPEROUS_TITLE</zType>
-		<Translation>Joint Venture</Translation>
+		<Translation>Совместное предприятие</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_BOTH_DEALMAKERS_TITLE</zType>
-		<Translation>Joint Venture</Translation>
+		<Translation>Совместное предприятие</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_BOTH_EDUCATED_TITLE</zType>
-		<Translation>The Right Angle</Translation>
+		<Translation>Правый угол</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_BOTH_ANGLERS_TITLE_COPY</zType>
-		<Translation>The Joy of War</Translation>
+		<Translation>Радость войны</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_BOTH_WANTON_TITLE</zType>
-		<Translation>Pillow Talk</Translation>
+		<Translation>Интимный разговор</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_BOTH_DEBAUCHED_TITLE</zType>
-		<Translation>Pillow Talk</Translation>
+		<Translation>Интимный разговор</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_LOVED_BOTH_FOOLISH_TITLE</zType>
-		<Translation>Missed Signs</Translation>
+		<Translation>Пропущенные знаки</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_DISASTER_AT_SEA_TITLE</zType>
-		<Translation>Disaster at Sea</Translation>
+		<Translation>Катастрофа в море</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_BOOKISH_DEMEANOR_TITLE</zType>
-		<Translation>Bookish Demeanor</Translation>
+		<Translation>Книжная манера поведения</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_DRUNKEN_MISCONDUCT_TITLE</zType>
-		<Translation>Drunken Misconduct</Translation>
+		<Translation>Пьяный проступок</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_MONEY_OR_FRIENDS_TITLE</zType>
-		<Translation>Money or Friends</Translation>
+		<Translation>Деньги или друзья</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_HEMP_ADDICTION_TITLE</zType>
-		<Translation>Hemp Addiction</Translation>
+		<Translation>Конопляная зависимость</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_INSPIRED_PYRAMIDS_TITLE</zType>

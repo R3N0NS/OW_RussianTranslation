@@ -18,7 +18,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_INPUT_MAX_CHARACTERS</zType>
-    <Translation> (Макс. персонажей: {0})</Translation>
+    <Translation> (Макс. символов: {0})</Translation>
   </Entry>
   <!--ClientUI-->
   <Entry>

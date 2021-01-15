@@ -1441,76 +1441,76 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_MIGHTY</zType>
-		<Translation>An emissary from the {TRIBE-0} has arrived to propose closer ties between our peoples.
+		<Translation>Эмиссар из {TRIBE-0} прибыл, чтобы предложить более тесные связи между нашими народами.
 
-“Mighty {CHARACTER-1}, long have our two peoples lived in peace and enjoyed a close relationship,” he announces. “We feel the time has come to sign a formal alliance. What say you?”
+"- Могущественный {CHARACTER-1}, уже давно наши нации живут в мире и поддерживают тесные отношения", заявляет он. "- Мы считаем, что пришло время подписать формальный союз. Что скажешь?"
 
-The {TRIBE-0} could be a powerful ally, but of course, we may be drawn into their wars at inopportune times.</Translation>
+{TRIBE-0} может быть могущественным союзником, но, конечно, мы можем вовлекаться в их войны в неподходящее время.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_ZEALOUS</zType>
-		<Translation>A holy messenger arrives from the {TRIBE-1}. She bears a message from the link(TRAIT_ZEALOT_ARCHETYPE,1) {CHARACTER-0}.
+		<Translation>Святой посланник прибывает из {TRIBE-1}. Она несет сообщение по link(TRAIT_ZEALOT_ARCHETYPE, 1) {CHARACTER-0}.
 
-“The gods have spoken. An alliance between the {TRIBE-1} and {PLAYER-2} is blessed in their eyes. Will you listen to their truth?”</Translation>
+"Боги сказали. Союз между {TRIBE-1} и {PLAYER-2} благословен в их глазах. Вы будете слушать их?"</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_SCHOLAR</zType>
-		<Translation>An aide to the erudite scholar {CHARACTER-0} brings us an offer of alliance. {CHARACTER-SHORT-0} wishes to usher in a new era of peace and learning, unmatched since the reign of Ur-Nammu.</Translation>
-	</Entry>
+		<Translation>Помощник ученого {CHARACTER-0} приносит нам предложение о союзе. {CHARACTER-SHORT-0} желает открыть новую эру мира и обучения, не имеющую аналогов со времен правления Ур-Намму. </Translation>
+    </Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_JUDGE</zType>
-		<Translation>A clerk from the office of the fair-minded link(TRAIT_JUDGE_ARCHETYPE) {CHARACTER-0} has arrived bearing an injunction requesting an alliance between us forthwith. This will remedy the lack of judicial enforcement in the immediate area and bring relief to many plaintiffs to whom our individual realms cannot render aid on their own.</Translation>
-	</Entry>
+		<Translation>Прибыл клерк из офиса link(TRAIT_JUDGE_ARCHETYPE) {CHARACTER-0} с предписанием, требующим немедленного союза между нами. Это устранит недостаток судебного принуждения в непосредственной близости и принесет облегчение многим истцам, которым наши отдельные государства не могут оказать помощь самостоятельно.</Translation>
+    </Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_BUILDER</zType>
-		<Translation>An emissary sent by {CHARACTER-0} has brought us an offer of alliance. {CHARACTER-SHORT-0}, a brilliant builder, now desires to build a powerful union between our realms. 
+		<Translation>Эмиссар, посланный {CHARACTER-0}, принес нам предложение о союзе. {CHARACTER-SHORT-0}, блестящий строитель, теперь хочет создать мощный союз между нашими царствами.
 
-“We must build an alliance which will stand the test of time” {G0:his:her} emissary quotes.</Translation>
+"- Мы должны построить союз, который выдержит испытание временем", цитирует {G0:его:ее} эмиссар.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_COMMANDER</zType>
-		<Translation>A captain bearing the seal of the famed commander {CHARACTER-0} tells us that {CHARACTER-SHORT-0} is ready to lead our armies to victory if we will ally with {G0:him:her}.</Translation>
-	</Entry>
+		<Translation>Капитан с печатью знаменитого полководца {CHARACTER-0} сообщает нам, что {CHARACTER-SHORT-0} готов вести наши армии к победе, если мы вступим с {G0:ним:ней} в союз.</Translation>
+    </Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_TACTICIAN</zType>
-		<Translation>An envoy from {CHARACTER-0} has arrived. He reveals that {CHARACTER-SHORT-0}, using {G0:his:her} great tactical skill, has determined that an alliance with us is the optimal move to make at this time.</Translation>
-	</Entry>
+		<Translation>Прибыл посланник от {CHARACTER-0}. Он сообщает, что {CHARACTER-SHORT-0}, используя {G0:его:ее} тактическое мастерство, в качестве нашего союзника, является оптимальным решением в настоящее время.</Translation>
+    </Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_HERO</zType>
-		<Translation>A champion of {CHARACTER-0} has arrived at the court. She brings word that {CHARACTER-SHORT-0} wishes to sign an alliance with us in order to lead both our peoples to glory.
+		<Translation>Чемпион {CHARACTER-0} прибыл в правительство. Она сообщает, что {CHARACTER-SHORT-0} желает подписать с нами союз, чтобы привести оба наших народа к славе.
 
- “Think of the battles we could win, with the {TRIBE-1} and {PLAYER-2} united!”, she excitedly adds.</Translation>
+ "- Подумайте о битвах, которые мы могли бы выиграть, объединив {TRIBE-1} и {PLAYER-2}!", взволнованно добавляет она.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_SCHEMER</zType>
-		<Translation>You awaken and notice, with some alarm, that there is a note pinned to the headboard of your bed by a dagger. After a brief yet frantic search of your bed chambers you return and read the note.
+		<Translation>Вы просыпаетесь и с некоторой тревогой замечаете, что к изголовью вашей кровати кинжалом прикреплена записка. После краткого, но отчаянного поиска в спальнях, вы возвращаетесь и читаете записку.
 
-It is an offer of alliance from {CHARACTER-0}. {G0:He:She} apologizes for any alarm caused by the method of delivery, but {G0:he:she} wished to make clear what kind of skills {G0:he:she} could bring to the table.</Translation>
-	</Entry>
+Это предложение союза от {CHARACTER-0}. {G0:Он:Она} приносит свои извинения за любую тревогу, вызванную способом доставки, но {G0:он:она} хотел прояснить, какие навыки {G0:он: она} мог бы предложить.</Translation>
+    </Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_DIPLOMAT</zType>
-		<Translation>{CHARACTER-0} has made it known to us that {G0:he:she} feels the time is right to bind our two nations with a historic alliance treaty, which {G0:he:she} is sure will secure “peace in our time.”</Translation>
-	</Entry>
+		<Translation>{CHARACTER-0} сообщил нам, что {G0:он:она} считает, настало время связать наши две страны историческим договором о союзе, который {G0:он уверен:она уверена}, обеспечит "мир в наше время". </Translation>
+    </Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_THEM_ORATOR</zType>
-		<Translation>A messenger has reached us from {CHARACTER-0}. He says that he is under strict instructions to deliver the message exactly as {CHARACTER-SHORT-0} delivered it to him. 
+		<Translation>AПосланник пришел к нам из {CHARACTER-0}. Он говорит, что получил строгие инструкции доставить сообщение в точности так, как ему доставил {CHARACTER-SHORT-0}.
 
-The messenger seems to focus for a moment, strikes a powerful pose with a hand outstretched, and begins, “Our TWO peoples must become ONE!” He clenches his outstretched hand into a fist. “Only TOGETHER can we grow STRONG, can we PROSPER, can we CONQUER!” he thunders. He lowers his hand, growing solemn, looking thoughtful. “Truly, this is a ONCE in a lifetime opportunity to ENTWINE our realms into a beautiful TAPESTRY.” Suddenly, he looks pained, worried. “To turn down such an offer would be DISASTROUS, only a FOOL would do so.”
+Посланник, кажется, на мгновение сосредотачивается, принимает мощную позу с протянутой рукой и начинает: "Наши ДВА народа должны стать ЕДИНЫМ!" Он сжимает протянутую руку в кулак. "Только ВМЕСТЕ мы можем стать СИЛЬНЫМИ, сможем ли мы ПРОЦВЕТАТЬ, сможем ли мы ПОБЕДИТЬ!". Он опускает руку, становится серьезным и задумчивым. "Поистине, это возможность ОДИН РАЗ в жизни ВОССТАНОВИТЬ наши миры в прекрасный ГОБЕЛЕН". Внезапно он выглядит обеспокоенным и встревоженным. "Отказаться от такого предложения было бы КАТАСТРОФОЙ, так поступил бы только ДУРАК".
 
-The messenger collapses to the ground, spent. One courtier begins to applaud politely, but quickly stops when no one else joins in.</Translation>
-	</Entry>
+Посланник падает на землю в изнеможении. Один придворный начинает вежливо аплодировать, но быстро прекращает, когда никто не присоединяется. </Translation>
+    </Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_TERROR</zType>
-		<Translation>A messenger from the {TRIBE-0} seeks an audience with you.
+		<Translation>Посланник из {TRIBE-0} ищет у вас аудиенции.
 
-“{CHARACTER-1}, we of the {TRIBE-0} seek your protection. The night is dark and full of terrors, but your empire is the shining light which can banish our fears. Sign an alliance with us and we shall surely enter a golden age!”</Translation>
-	</Entry>
+"{CHARACTER-1}, мы из {TRIBE-0} ищем вашей защиты. Ночь темна и полна ужасов, но ваша империя - сияющий свет, который может изгнать наши страхи. Заключите с нами союз, и мы обязательно войдем в золотой век!"</Translation>
+   </Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_ALLIANCE_STRANGE</zType>
-		<Translation>A {TRIBE-0,1} envoy stands before you today, proposing that {PLAYER-1} and the {TRIBE-0} sign a formal alliance to stand united against any who dare threaten your two realms.
+		<Translation>Посланник {TRIBE-0,1} стоит перед вами, предлагая, чтобы {PLAYER-1} и {TRIBE-0} подписали формальный союз, объединившись против любого, кто осмелится угрожать вашим двум царствам.
 
-A strange people, prone to {random_R0:passionate speeches:cannibalism:sudden rages:wild parties:creating catchy songs:beautiful crafting:berserk anger:practical jokes:stealing horses:vicious gossip:impromptu poetry slams:storing their wealth within easily breakable pottery:unrelenting neutrality:running into battle naked}, they have nonetheless been good friends to your people for some time now.</Translation>
-	</Entry>
+Странные люди, склонные к {random_R0:страстным речам: каннибализму:внезапным приступам ярости:диким вечеринкам: сочинению песен: прекрасному ремеслу:гневу:розыгрышам: кражам лошадей:злобным сплетням:импровизированным стихам:хранению своего богатства в легко разрушаемой посуде:непреклонному нейтралитету:битвам голышом}, тем не менее, они уже некоторое время являются хорошими друзьями вашего народа. </Translation>
+    </Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_PEACE_OFFER</zType>
 		<Translation>{TRIBE-0} представляет предложение, обещающее стабильный мир. Мы одобряем?</Translation>
@@ -1644,15 +1644,15 @@ A strange people, prone to {random_R0:passionate speeches:cannibalism:sudden rag
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SECURING_PEACE_RETURNING_EMISSARY_THANKS</zType>
-		<Translation>Эмиссар {TRIBE-0,1}] возвращается в правительство. {G0:Он:Она} благодарит вас за возвращение принца и наказание вашего своенравного подданного, {CHARACTER-1}.</Translation>
+		<Translation>Эмиссар {TRIBE-0,1} возвращается в правительство. {G0:Он:Она} благодарит вас за возвращение принца и наказание вашего своенравного подданного, {CHARACTER-1}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SECURING_PEACE_RETURNING_EMISSARY_MISUNDERSTANDING</zType>
-		<Translation>Эмиссар {TRIBE-0,1}] возвращается в правительство. {G0:Он:Она} сообщает вам, что {TRIBE-0} решил ...</Translation>
+		<Translation>Эмиссар {TRIBE-0,1} возвращается в правительство. {G0:Он:Она} сообщает вам, что {TRIBE-0} задумали...</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_PEACE</zType>
-		<Translation>Посланник из {PLAYER-0,0} прибывает в правительство. {G0:Он:Она} предлагает долгосрочный мир с {PLAYER-0}.
+		<Translation>Посланник из {PLAYER-0,0} прибывает в правительство. {G0:Он:Она} предлагает долгосрочный мир с {PLAYER-0,3}.
 
 Как мы ответим?</Translation>
 	</Entry>
@@ -2387,7 +2387,7 @@ A strange people, prone to {random_R0:passionate speeches:cannibalism:sudden rag
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_ASK_FAVOR_RESUPPLY</zType>
-		<Translation>Недавние войны {PLAYER-0,1} поставили {CHARACTER-2} с острой необходимостью перевооружить армию {G2: his: her} перед началом следующего сезона кампании. Приветствуются железо, дерево, еда или золото!</Translation>
+		<Translation>Недавние войны {PLAYER-0,1} поставили {CHARACTER-2} с острой необходимостью перевооружить армию {G2:его:ее} перед началом следующего сезона кампании. Приветствуются железо, дерево, еда или золото!</Translation>
     </Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DIPLO_OFFER_ASK_FAVOR_PLEA</zType>
@@ -2513,7 +2513,7 @@ A strange people, prone to {random_R0:passionate speeches:cannibalism:sudden rag
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_BETWEEN_US</zType>
-		<Translation>Во время недавнего визита {CHARACTER-SHORT-1} не упоминает ничего, кроме впечатляющих конских доспехов, которыми щеголяли наши высшие генералы. {G1:он:она} посылает посыльного, чтобы поговорить с вами наедине, спрашивая о защите собственной брони. Нам нужно будет поделиться нашим открытием link(TECH_BARDING).
+		<Translation>Во время недавнего визита {CHARACTER-SHORT-1} не упоминает ничего, кроме впечатляющих конских доспехов, которыми щеголяли наши высшие генералы. {G1:Он:Она} посылает посыльного, чтобы поговорить с вами наедине, спрашивая о защите собственной брони. Нам нужно будет поделиться нашим открытием link(TECH_BARDING).
 
 Хотим ли мы создать прецедент обмена национальными секретами в личных целях?</Translation>
 	</Entry>
@@ -2521,7 +2521,7 @@ A strange people, prone to {random_R0:passionate speeches:cannibalism:sudden rag
 		<zType>TEXT_EVENTSTORY_TOKEN_OF_GOODWILL</zType>
 		<Translation>Сундук с золотом прибывает на носилках, которые несут красивые слуги {PLAYER-0,1}. Это подарок от {CHARACTER-0}.
 
-"Считайте это знаком доброй воли", - говорится в свитке, сопровождающем сокровище. "Возможно, вы будете вынуждены поделиться своим собственным токеном. Возможно, вы знаете ссылку (TECH_SPOKED_WHEEL)?"</Translation>
+"Считайте это знаком доброй воли", говорится в свитке, сопровождающем сокровище. "Возможно, вы будете вынуждены поделиться своим собственным токеном. Возможно, вы знаете ссылку (TECH_SPOKED_WHEEL)?"</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_EXCHANGE_OF_IDEAS</zType>
@@ -2561,7 +2561,7 @@ A strange people, prone to {random_R0:passionate speeches:cannibalism:sudden rag
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MECHANICAL_WONDERS</zType>
-		<Translation>{CHARACTER-3}, наследник престола {PLAYER-0,1}, совершает неожиданный визит в столицул. {G3:он:она} проводит большую часть времени {G3: его:ее} в мастерской великого мыслителя {CHARACTER-SHORT-2}, изучая чудесные устройства, изобретенные нашими учеными.
+		<Translation>{CHARACTER-3}, наследник престола {PLAYER-0,1}, совершает неожиданный визит в столицул. {G3:Он:Она} проводит большую часть времени {G3: его:ее} в мастерской великого мыслителя {CHARACTER-SHORT-2}, изучая чудесные устройства, изобретенные нашими учеными.
 
 {CHARACTER-SHORT-3} очень хочет узнать больше о чудесах связи (TECH_MACHINERY), и {G3:он:она} готов платить за это.</Translation>
 	</Entry>
@@ -2585,7 +2585,7 @@ A strange people, prone to {random_R0:passionate speeches:cannibalism:sudden rag
 	</Entry>
   	<Entry>
     	<zType>TEXT_EVENTSTORY_PLAYERS_SAVE_MY_FAMILY</zType>
-    	<Translation>{CHARACTER-1} предстает перед судом с просьбой о поддержке своего родственника {G1:его:ее}, {TRIBE-2}. Племя в настоящее время ведет битву за свое выживание против могущественной армии {PLAYER-0,1}.
+    	<Translation>{CHARACTER-1} предстает перед судом с просьбой о поддержке {G1:его:ее} родственника, {TRIBE-2}. Племя в настоящее время ведет битву за свое выживание против могущественной армии {PLAYER-0,1}.
 
 Разве разумно оказаться в эпицентре иностранного спора?</Translation>
   	</Entry>
@@ -2766,7 +2766,7 @@ A strange people, prone to {random_R0:passionate speeches:cannibalism:sudden rag
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_DIPLOMAT</zType>
-		<Translation>Известная link(TRAIT_DIPLOMAT_ARCHETYPE) {CHARACTER-SHORT-0} из {PLAYER-0,0} больше не считает, что с нами стоит разговаривать. Вместо этого {G0:он:она} намеревается сформировать коалицию из других стран, чтобы "положить конец нашей угрозе раз и навсегда".
+		<Translation>link(TRAIT_DIPLOMAT_ARCHETYPE) {CHARACTER-SHORT-0} из {PLAYER-0,0} больше не считает, что с нами стоит разговаривать. Вместо этого {G0:он:она} намеревается сформировать коалицию из других стран, чтобы "положить конец нашей угрозе раз и навсегда".
 
 Это явно не идеально.
 
@@ -2774,7 +2774,7 @@ A strange people, prone to {random_R0:passionate speeches:cannibalism:sudden rag
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_DIPLOMAT_FURIOUS</zType>
-		<Translation>Знаменитая link(TRAIT_DIPLOMAT_ARCHETYPE) {CHARACTER-0} игрока {PLAYER-0,0}, движимая великим гневом {G0:его:ее}, больше не считает, что с нами стоит разговаривать. Вместо этого {G0:он:она} намеревается сформировать коалицию из других стран, чтобы "положить конец нашей угрозе раз и навсегда".
+		<Translation>link(TRAIT_DIPLOMAT_ARCHETYPE) {CHARACTER-0} игрока {PLAYER-0,0}, движимая великим гневом {G0:его:ее}, больше не считает, что с нами стоит разговаривать. Вместо этого {G0:он:она} намеревается сформировать коалицию из других стран, чтобы "положить конец нашей угрозе раз и навсегда".
 
 Это явно далеко не идеально.
 
@@ -2782,7 +2782,7 @@ A strange people, prone to {random_R0:passionate speeches:cannibalism:sudden rag
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_DIPLOMAT_MILD</zType>
-		<Translation>Известная link(TRAIT_DIPLOMAT_ARCHETYPE) {CHARACTER-SHORT-0} из {PLAYER-0,0} теряет веру в то, что нам стоит поговорить. Вместо этого {G0:он:она} размышляет о необходимости сформировать коалицию из других стран, чтобы заставить нас пойти на уступки.
+		<Translation>link(TRAIT_DIPLOMAT_ARCHETYPE) {CHARACTER-SHORT-0} из {PLAYER-0,0} теряет веру в то, что нам стоит поговорить. Вместо этого {G0:он:она} размышляет о необходимости сформировать коалицию из других стран, чтобы заставить нас пойти на уступки.
 
 Это явно далеко не идеально.
 
@@ -2970,9 +2970,9 @@ A strange people, prone to {random_R0:passionate speeches:cannibalism:sudden rag
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_TRIBAL_CONFEDERATION</zType>
-		<Translation>Пока наши подразделения преодолевают последних защитников {TRIBE-0,1}, прибывает посыльный с {TRIBE-2,3}. Судя по всему, {TRIBE-0,3} являются частью конфедерации кочевых племен. Это предупреждение: вести войну с одним - значит вести войну со всеми.
+		<Translation>Пока наши подразделения преодолевают последних защитников {TRIBE-0,1}, прибывает посыльный от {TRIBE-2,3}. Судя по всему, {TRIBE-0,3} являются частью конфедерации кочевых племен. Это предупреждение: вести войну с одним - значит вести войну со всеми.
 
-Какой ответ мы дадим мессенджеру?</Translation>
+Какой ответ мы дадим?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_RIVALS</zType>
@@ -2986,9 +2986,9 @@ A strange people, prone to {random_R0:passionate speeches:cannibalism:sudden rag
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_REBEL_GLADIATORS</zType>
-		<Translation>Ядро побежденной силы {TRIBE-0,1}s состоит из сбежавших гладиаторов, хорошо обученных рабов и бывших солдат.
+		<Translation>Ядро побежденной силы {TRIBE-0,1} состоит из сбежавших гладиаторов, хорошо обученных рабов и бывших солдат.
 
-{CHARACTER-2} - лидер гладиаторов, и хотя он вульгарен, {G2:он:она} знает силу, когда {G2:он:она} видит ее. {G2:он:она} кланяется трону. "Давайте сражаться за вас".</Translation>
+{CHARACTER-2} - лидер гладиаторов, и хотя он вульгарен, {G2:он:она} знает силу, когда {G2:он:она} видит ее. {G2:Он:Она} кланяется трону. "Давайте сражаться за вас".</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_HORSE_LORDS</zType>
@@ -2998,7 +2998,7 @@ A strange people, prone to {random_R0:passionate speeches:cannibalism:sudden rag
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HONOR_AND_FIDELITY</zType>
-		<Translation>Наш генерал, {CHARACTER-0}, храбро сражался, и его следует признать. Должны ли мы продвигать {G0: him: her} или проводить празднование для {CHARACTER-SHORT-0} в семейном доме {G0: его:ее} города {CITY-1}?</Translation>
+		<Translation>Наш генерал, {CHARACTER-0}, храбро сражался, и его следует признать. Должны ли мы продвигать {G0:его:ее} или проводить празднование для {CHARACTER-SHORT-0} в {G0:его:ее} семейном доме города {CITY-1}?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CITY_GLADIATOR_ARMY</zType>
@@ -3153,7 +3153,7 @@ link(CONCEPT_GENERAL) {CHARACTER-SHORT-0} среди тех, кто постра
 		<zType>TEXT_EVENTSTORY_SPOLIA_OPIMA_DEFEAT</zType>
 		<Translation>{CHARACTER-1} подходит к вам, неся тело {CHARACTER-0}, и ставит {G0:его:ее} перед вами. Боль наполняет вас при взгляде; воспоминания и раны борьбы свежи.
 
-"{G0:он:она} хорошо сражался и умер с честью", - говорит {CHARACTER-SHORT-1}, несмотря на боль от ран {G1:его:ее}. "Будете ли вы соблюдать наше соглашение?"</Translation>
+"{G0:Он:Она} хорошо {G0:сражался:сражалась} и {G0:умер:умерла} с честью", - говорит {CHARACTER-SHORT-1}, несмотря на боль от ран {G1:его:ее}. "Будете ли вы соблюдать наше соглашение?"</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SPOLIA_OPIMA_VICTORY</zType>
@@ -3575,7 +3575,7 @@ link(CONCEPT_GENERAL) {CHARACTER-SHORT-0} среди тех, кто постра
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_A_FAMILY_WARNING</zType>
-		<Translation>{CHARACTER-1}, член дома {FAMILY-2, 2}, прибывает с срочным советником. {G1:он:она} признается, что члены {G1:его:ее} семьи сомневаются в наших недавних решениях и подозревают необузданную коррупцию.
+		<Translation>{CHARACTER-1}, член дома {FAMILY-2, 2}, прибывает с срочным советником. {G1:Он:Она} признается, что члены {G1:его:ее} семьи сомневаются в наших недавних решениях и подозревают необузданную коррупцию.
 
 "Необходимо что-то сделать, чтобы подавить их предательские устремления", - советует {G1:он:она}.</Translation>
 	</Entry>
@@ -4326,19 +4326,19 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEATH_A_LONG_FALL</zType>
-		<Translation>Дворцовые слуги приносят ужасные новости! Ваш {G1:сын:дочь} {CHARACTER-1} взбиралась по фруктовым деревьям вдоль высокой стены, когда{G1:он:она} потеряла {G1:его:ее} равновесие и упала. {G1:он:она} была убита мгновенно.
+		<Translation>Дворцовые слуги приносят ужасные новости! Ваш {G1:сын:дочь} {CHARACTER-1} взбиралась по фруктовым деревьям вдоль высокой стены, когда{G1:он:она} потеряла {G1:его:ее} равновесие и упала. {G1:Он:Она} была убита мгновенно.
 
 Как вы будете праздновать жизнь драгоценного {CHARACTER-1}?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEATH_TRAMPLED</zType>
-		<Translation>Во время урока верховой езды ваш молодой {G1:сын:дочь} {CHARACTER-SHORT-1} выскальзывает из {G1:его:ее} седла и топчется под копытами лошади. Это происходит в считанные секунды. {G1:он:она} не страдает.
+		<Translation>Во время урока верховой езды ваш молодой {G1:сын:дочь} {CHARACTER-SHORT-1} выскальзывает из {G1:его:ее} седла и топчется под копытами лошади. Это происходит в считанные секунды. {G1:Он:Она} не страдает.
 
 В шоке правительство готовится почтить память своего павшего{G1:сына:дочери}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEATH_STRICKEN_DOWN</zType>
-		<Translation>В течение двадцати четырех часов ваш любимый{G1:сын:дочь} {CHARACTER-1} умирает от таинственной болезни. {G1:он:она} слабеет, становится лихорадочной, а затем и вовсе перестает дышать.
+		<Translation>В течение двадцати четырех часов ваш любимый{G1:сын:дочь} {CHARACTER-1} умирает от таинственной болезни. {G1:Он:Она} слабеет, становится лихорадочной, а затем и вовсе перестает дышать.
 
 Несмотря на свое горе, ты должен стать примером силы и дать людям утешение.</Translation>
 	</Entry>
@@ -4356,13 +4356,13 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEATH_DEADLY_DRINK</zType>
-		<Translation>Вы просыпаетесь посреди ночи с трагическими новостями. Тело вашего{G1:сына:дочери} {CHARACTER-SHORT-1} было найдено на улице перед популярным банкетным залом. Доктор считает, что {G1:он:она:}умерла от переизбытка алкоголя.
+		<Translation>Вы просыпаетесь посреди ночи с трагическими новостями. Тело вашего{G1:сына:дочери} {CHARACTER-SHORT-1} было найдено на улице перед популярным банкетным залом. Доктор считает, что {G1:он умерл:она умерла} от переизбытка алкоголя.
 
 {CHARACTER-SHORT-1} был очаровательной, приветливой личностью. Вы хотите заплатить{G1:ему:ее} дань.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEATH_BRAWL</zType>
-		<Translation>Ваш{G1:сын:дочь} {CHARACTER-SHORT-1} начинает драку с другим гулякой в одной из {G1:его:ее} любимых таверн. {G1:он:она} поражена разбитым сосудом и истекает кровью в объятиях друга.
+		<Translation>Ваш{G1:сын:дочь} {CHARACTER-SHORT-1} начинает драку с другим гулякой в одной из {G1:его:ее} любимых таверн. {G1:Он:Она} поражена разбитым сосудом и истекает кровью в объятиях друга.
 
 После нескольких недель траура вы возвращаетесь ко двору. Каков ваш первый акт?</Translation>
 	</Entry>
@@ -4411,7 +4411,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_THE_CALLING</zType>
-		<Translation>Всегда искатель, ваш{G1:сын:дочь} {CHARACTER-1} выражает интерес к верованиям {RELIGION-2}. {G1:он:она} принимала философов и святых людей во дворце, ища наставления в {G1:его:ее} вере.
+		<Translation>Всегда искатель, ваш{G1:сын:дочь} {CHARACTER-1} выражает интерес к верованиям {RELIGION-2}. {G1:Он:Она} принимала философов и святых людей во дворце, ища наставления в {G1:его:ее} вере.
 
 В частном порядке {CHARACTER-1} спрашивает, верите ли вы, что {G1:он:она} был "вызван"."</Translation>
 	</Entry>
@@ -4441,7 +4441,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHILD_BIG_QUESTIONS</zType>
-		<Translation>После посещения аскетического уединения ваш{G1:сын:дочь} {CHARACTER-1} возвращается во дворец, движимый {G1:его:ее} переживаниями. {G1:он:она} задается вопросом о роли человечества в Большом Космосе, не зная, должен ли человек сомневаться в своем месте или подчиниться высшему авторитету.
+		<Translation>После посещения аскетического уединения ваш{G1:сын:дочь} {CHARACTER-1} возвращается во дворец, движимый {G1:его:ее} переживаниями. {G1:Он:Она} задается вопросом о роли человечества в Большом Космосе, не зная, должен ли человек сомневаться в своем месте или подчиниться высшему авторитету.
 
 {G1:он:она} спрашивает о ваших взглядах на религию и философию.</Translation>
 	</Entry>
@@ -4459,7 +4459,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHILD_AFFAIRS_OF_THE_CITY</zType>
-		<Translation>После того, как юность провела, наблюдая за вами в правительстве, ваш{G1:сын:дочь} {CHARACTER-1} хочет участвовать в политике. {G1:он:она} считает, что годы учебы подготовили {G1:его:ее} к этой ответственности. -Я готов работать и служить." 
+		<Translation>После того, как юность провела, наблюдая за вами в правительстве, ваш{G1:сын:дочь} {CHARACTER-1} хочет участвовать в политике. {G1:Он:Она} считает, что годы учебы подготовили {G1:его:ее} к этой ответственности. -Я готов работать и служить." 
 
 Как вы ответите?</Translation>
 	</Entry>
@@ -4531,13 +4531,13 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_OPPORTUNISTS</zType>
-		<Translation>Ваша недавняя потеря придала смелости семье {FAMILY-1}, которая ждала подходящего момента, чтобы утвердить свое влияние. {CHARACTER-2} посещает правительство, требуя поддержки для {G2:его:ее} города. {G2:он:она} утверждает, что вы отвлекаетесь от горя, и что {G2:его:ее} благосостояние людей было проигнорировано.
+		<Translation>Ваша недавняя потеря придала смелости семье {FAMILY-1}, которая ждала подходящего момента, чтобы утвердить свое влияние. {CHARACTER-2} посещает правительство, требуя поддержки для {G2:его:ее} города. {G2:Он:Она} утверждает, что вы отвлекаетесь от горя, и что {G2:его:ее} благосостояние людей было проигнорировано.
 
 Как вы будете реагировать на требования {CHARACTER-2}?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_THE_RETURN</zType>
-		<Translation>В свете недавних трагедий, {CHARACTER-1} вернулся во дворец, ища примирения. {G1:он:она} хочет восстановить связь, которую вы когда-то разделяли.
+		<Translation>В свете недавних трагедий, {CHARACTER-1} вернулся во дворец, ища примирения. {G1:Он:Она} хочет восстановить связь, которую вы когда-то разделяли.
 
 Раны, нанесенные {CHARACTER-1}, все еще кровоточат, но, возможно, жизнь слишком коротка, чтобы держать обиду.</Translation>
 	</Entry>
@@ -4563,7 +4563,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_BLOODLESS_REBELLION</zType>
-		<Translation>После многих лет терпимого отношения к вашему правилу, {CHARACTER-1} считает, что вы пережили свою эффективность. {G1:он:она} выступает в правительстве, требуя, чтобы вы отошли в сторону на благо нации.  В словах {G1:его:ее} говорится: "вы слабы, дряхлы и не нравитесь населению."
+		<Translation>После многих лет терпимого отношения к вашему правилу, {CHARACTER-1} считает, что вы пережили свою эффективность. {G1:Он:Она} выступает в правительстве, требуя, чтобы вы отошли в сторону на благо нации.  В словах {G1:его:ее} говорится: "вы слабы, дряхлы и не нравитесь населению."
 
 Выбор за вами. Следуйте совету вашего соперника и передайте трон {CHARACTER-2}, или цепляйтесь за свою власть и гордость.</Translation>
 	</Entry>
@@ -4657,7 +4657,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GRADUATE_AIR_OF_CERTAINTY</zType>
-		<Translation>{CHARACTER-1}, стремясь показать, что {G1:он:она} изучает тактику, произносит речь, критикующую ваших военных советников, особенно {CHARACTER-2}, преданного члена правительства. {G1:он:она} просит, чтобы}{G2:он:она} была удалена, и чтобы}{G0:он:она} была единственным великим солдатом в вашем внутреннем кругу.
+		<Translation>{CHARACTER-1}, стремясь показать, что {G1:он:она} изучает тактику, произносит речь, критикующую ваших военных советников, особенно {CHARACTER-2}, преданного члена правительства. {G1:Он:Она} просит, чтобы}{G2:он:она} была удалена, и чтобы}{G0:он:она} была единственным великим солдатом в вашем внутреннем кругу.
 
 Что же нам делать?</Translation>
 	</Entry>
@@ -4793,7 +4793,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GOWNS_OF_SILK</zType>
-		<Translation>Ваш {G1:брат:слуга сестры} приходит с просьбой: {CHARACTER-SHORT-1} желает добыть золото из казны, чтобы купить шелк для новых нарядов. {G1:он:она} настаивает на том, что требуется для {G1:его:ее} королевского положения.</Translation>
+		<Translation>Ваш {G1:брат:слуга сестры} приходит с просьбой: {CHARACTER-SHORT-1} желает добыть золото из казны, чтобы купить шелк для новых нарядов. {G1:Он:Она} настаивает на том, что требуется для {G1:его:ее} королевского положения.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_FAMILY_FIRST</zType>
@@ -4803,25 +4803,25 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WORD_OF_A_COUP</zType>
-		<Translation>шпионы подозревают вашего недовольного {G0:брата:сестру}, {CHARACTER-SHORT-1}, в заговоре с целью занять ваше место на троне. Мы боялись, что это может случиться.
+		<Translation>Шпионы подозревают вашего недовольного {G0:брата:сестру}, {CHARACTER-SHORT-1}, в заговоре с целью занять ваше место на троне. Мы боялись, что это может случиться.
 
 Как мы будем реагировать?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WORD_OF_A_COUP_PLOTS_AND_BETRAYALS</zType>
-		<Translation>Ваш {G1:брат:сестра}, {CHARACTER-SHORT-1}, была разоблачена в заговоре о вашего падении. Придворный {CHARACTER-3}, по-видимому, тоже замешан в этом деле. Двое заговорщиков покинули территорию дворца.
+		<Translation>Ваш {G1:брат:сестра}, {CHARACTER-SHORT-1}, была разоблачена в заговоре о вашем падении. Придворный {CHARACTER-3}, по-видимому, тоже замешан в этом деле. Двое заговорщиков покинули территорию дворца.
 
 Что же нам делать?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WORD_OF_A_COUP_THE_COUP_SUCCEEDS</zType>
-		<Translation>В шокирующем повороте ваш {G1:брат:сестра}, {CHARACTER-SHORT-1}, преуспел в заговоре против вас. {G1:он:она} входит во двор с {CHARACTER-SHORT-3} и {G1:его:ее} другими сторонниками, готовыми занять трон.
+		<Translation>В шокирующем повороте ваш {G1:брат:сестра}, {CHARACTER-SHORT-1}, преуспел в заговоре против вас. {G1:Он:Она} входит во двор с {CHARACTER-SHORT-3} и {G1:его:ее} другими сторонниками, готовыми занять трон.
 
 Какова ваша последняя команда?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_UNHAPPY_SIBLING</zType>
-		<Translation>Тщательное расследование показывает, что {CHARACTER-SHORT-1} никогда не замышлял предать вас, а просто несчастен в вашей тени. {G1:он:она} считает, что {G1:его:ее}вклады часто остаются незамеченными. 
+		<Translation>Тщательное расследование показывает, что {CHARACTER-SHORT-1} никогда не замышлял предать вас, а просто несчастен в вашей тени. {G1:Он:Она} считает, что {G1:его:ее}вклады часто остаются незамеченными. 
 
 Возможно, есть что-то, что мы можем сделать для {CHARACTER-SHORT-1}.</Translation>
 	</Entry>
@@ -5085,7 +5085,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHARACTER_WARMONGERS</zType>
-		<Translation>{CHARACTER-1} осуждает наше недавнее разграбление варварских поселений как опасное и ненужное. {G1:он:она} обвиняет правительство в том, что он сеет агрессию по всей сельской местности, что служит только для того, чтобы поднять будущие угрозы против нас.
+		<Translation>{CHARACTER-1} осуждает наше недавнее разграбление варварских поселений как опасное и ненужное. {G1:Он:Она} обвиняет правительство в том, что он сеет агрессию по всей сельской местности, что служит только для того, чтобы поднять будущие угрозы против нас.
 
 Как мы будем реагировать на эти опасения?</Translation>
 	</Entry>
@@ -5097,7 +5097,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHARACTER_BIRTHRIGHT</zType>
-		<Translation>Годы горечи и зависти, наконец, приносят плоды, поскольку ваш {G1:брат:сестра} {CHARACTER-1} противостоит вам по правилам наследования. {G1:он:она} считает, что трон является {G1:его:ее} по праву рождения, и что ваши махинации по захвату его не останутся безнаказанными. 
+		<Translation>Годы горечи и зависти, наконец, приносят плоды, поскольку ваш {G1:брат:сестра} {CHARACTER-1} противостоит вам по правилам наследования. {G1:Он:Она} считает, что трон является {G1:его:ее} по праву рождения, и что ваши махинации по захвату его не останутся безнаказанными. 
 
 {CHARACTER-1} утверждает, что{G1:его:ее} последователи поднимутся, если вы не уйдете.</Translation>
 	</Entry>
@@ -5189,13 +5189,13 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_DEATH_BASIC_01</zType>
-		<Translation>звонят колокола. Скорбящие заполняют улицы. {CHARACTER-0} умер. Это конец эпохи, и все {PLAYER-1} делает паузу, чтобы почтить вклад нашего павшего правителя. 
+		<Translation>звонят колокола. Скорбящие заполняют улицы. {CHARACTER-0} {G0:умер:умерла} . Это конец эпохи, и все {PLAYER-1} делает паузу, чтобы почтить вклад нашего павшего правителя. 
 
 Началось царствование {CHARACTER-1}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_DEATH_BASIC_02</zType>
-		<Translation>{CHARACTER-0} умер. Мы встречаем {G0:его:ее}, проходящий с приглушенными голосами и тяжелым сердцем.
+		<Translation>{CHARACTER-0} {G0:умер:умерла}. Мы встречаем {G0:его:ее}, с приглушенными голосами и тяжелым сердцем.
 
 Подготовьте путь для {CHARACTER-1}, наследника престола {PLAYER-1}.</Translation>
 	</Entry>
@@ -5207,7 +5207,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_DEATH_ABDICATED</zType>
-		<Translation>[STUB: бывший король/королева {CHARACTER-0}, который отрекся от престола, умер.]</Translation>
+		<Translation>[STUB: бывший король/королева {CHARACTER-0}, который отрекся от престола, {G0:умер:умерла}.]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_DEATH_WAR_01</zType>
@@ -5219,11 +5219,11 @@ How shall we respond?</Translation>
 		<zType>TEXT_EVENTSTORY_LEADER_DEATH_WAR_02</zType>
 		<Translation>В это военное время потеря {CHARACTER-0} поражает сердце нации.
 
-Будем надеяться, что возвышение {CHARACTER-1}, Нового{G1:короля:королевы} {PLAYER-1} даст нашему народу маяк надежды в предстоящей борьбе.</Translation>
+Будем надеяться, что возвышение {CHARACTER-1}, Нового {G1:короля:королевы} {PLAYER-1}, даст нашему народу маяк надежды в предстоящей борьбе.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_LEADER_DEATH_EXPLORING</zType>
-		<Translation>{CHARACTER-0} умер, исследуя далекие земли для чести нашей нации. Несмотря на{G0:его:ее} недавнее отсутствие, мы будем праздновать {G0:его:ее} навсегда в истории и песне.
+		<Translation>{CHARACTER-0} {G0:умер:умерла}, исследуя далекие земли для нашей нации. Несмотря на {G0:его:ее} недавнее отсутствие, мы будем праздновать и запечатлим {G0:его:ее} как память, навсегда оставшись в истории и песнях.
 
 {CHARACTER-1} занимает трон как {G1:Король:Королева} {PLAYER-1}.</Translation>
 	</Entry>
@@ -5337,7 +5337,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTOR_THE_LION</zType>
-		<Translation>По счастливой случайности, {CHARACTER-SHORT-1} вступил во владение "Львом", редким экзотическим существом с юга. {G1:он:она} хочет использовать зверя на одном из уроков науки {CHARACTER-SHORT-0}, но {G0:мальчик:девочка} неохотно. Достаточно было одного взгляда на огромные зубы кота.
+		<Translation>По счастливой случайности, {CHARACTER-SHORT-1} вступил во владение "Львом", редким экзотическим существом с юга. {G1:Он:Она} хочет использовать зверя на одном из уроков науки {CHARACTER-SHORT-0}, но {G0:мальчик:девочка} неохотно. Достаточно было одного взгляда на огромные зубы кота.
 
 Будем ли мы настаивать на этом опыте из первых рук?</Translation>
 	</Entry>
@@ -5507,7 +5507,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_YOUTHFUL_ZEAL</zType>
-		<Translation>Во время неожиданного визита в Академию риторики вы и молодой {CHARACTER-SHORT-0} оказываетесь в удивительно жарких дебатах о политике правительства. К счастью, спор происходит в{G0:его:ее} личных покоях. В противном случае вы могли бы бросить {G0:его:ее} в подземелье, чтобы поддерживать видимость.
+		<Translation>Во время неожиданного визита в Академию риторики, вы и молодой {CHARACTER-SHORT-0} оказываетесь в удивительно жарких дебатах о политике правительства. К счастью, спор происходит в {G0:его:ее} личных покоях. В противном случае вы могли бросить {G0:его:ее} в темницу для соблюдения приличия.
 
 Молодые не уважают старших и тех, кто лучше их.</Translation>
 	</Entry>
@@ -5531,7 +5531,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_PHYSICAL_CONFRONTATION</zType>
-		<Translation>инцидент в Академии тактики требует вашего внимания. {CHARACTER-0} спровоцировал физическую конфронтацию с одним из своих бурильщиков, сломав ему нос и выбив несколько зубов.
+		<Translation>инцидент в вкадемии тактики требует вашего внимания. {CHARACTER-0} спровоцировал физическую конфронтацию с одним из своих бурильщиков, сломав ему нос и выбив несколько зубов.
 
 Преподаватели школы требуют возмещения ущерба за это оскорбление их чести. Мы должны заплатить за {CHARACTER-SHORT-0}, чтобы продолжить{G0:его:ее} обучение.</Translation>
 	</Entry>
@@ -5697,7 +5697,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_MEMORABLE_PERFORMANCE</zType>
-		<Translation>Вы даете незабываемое представление на конкурсе {TRIBE-2,1}, но оно не подходит для {CHARACTER-SHORT-1}, чья езда превосходит все, что вы когда-либо видели. {G1:он:она} смиренно принимает призы, входя в победный круг под аплодисменты {G1:его:ее} людей.
+		<Translation>Вы даете незабываемое представление на конкурсе {TRIBE-2,1}, но оно не подходит для {CHARACTER-SHORT-1}, чья езда превосходит все, что вы когда-либо видели. {G1:Он:Она} смиренно принимает призы, входя в победный круг под аплодисменты {G1:его:ее} людей.
 
 В знак уважения {G1:он:она} предлагает вам часть призовых выигрышей.</Translation>
 	</Entry>
@@ -5950,9 +5950,9 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_MONKEYS_PAW</zType>
-		<Translation>Во время праздника, посвященного недавнему солнцестоянию, {CHARACTER-0} показывает присутствующим сморщенную обезьянью лапу. Гротескный трофей был вручен {G0:его:ее} во время путешествия по экзотическим землям далеко за пределами {PLAYER-1}. 
+		<Translation>Во время праздника, посвященного недавнему солнцестоянию, {CHARACTER-0} показывает присутствующим сморщенную обезьянью лапу. Гротескный трофей был вручен {G0:ему:ей} во время путешествия по экзотическим землям далеко за пределами {PLAYER-1}. 
 
-Согласно {CHARACTER-SHORT-0}, лапа была проклята злым старым фокусником. Он исполнит желание своего владельца... но за это пришлось заплатить ужасную цену.</Translation>
+Согласно {CHARACTER-SHORT-0}, лапа была проклята злым старым чародеем. Он исполнит желание своего владельца... но за это нужно заплатить ужасную цену.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_NONSENSE_OR_IS_IT</zType>
@@ -6038,7 +6038,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_TRIBE_HUNT</zType>
-		<Translation>{CHARACTER-1}, правитель {TRIBE-0}, приглашает вас на охоту, где политика и сделки могут быть на повестке дня. {G1:он:она} хочет провести день с тобой наедине, но правительство беспокоится о твоей безопасности. 
+		<Translation>{CHARACTER-1}, правитель {TRIBE-0}, приглашает вас на охоту, где политика и сделки могут быть на повестке дня. {G1:Он:Она} хочет провести день с тобой наедине, но правительство беспокоится о твоей безопасности. 
 
 Правителю не подобает присутствовать на частных собраниях, когда так много поставлено на карту.</Translation>
 	</Entry>
@@ -6080,7 +6080,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_REASSURANCE</zType>
-		<Translation>После нескольких напряженных недель ожидания вы получаете сообщение от {CHARACTER-SHORT-1} из {TRIBE-0}. {G2:он:она} соглашается на ваши требования, не желая гневить могучие силы {PLAYER-3}. 
+		<Translation>После нескольких напряженных недель ожидания вы получаете сообщение от {CHARACTER-SHORT-1} из {TRIBE-0}. {G2:Он:Она} соглашается на ваши требования, не желая гневить могучие силы {PLAYER-3}. 
 
 Это обнадеживающее событие. Лучше иметь {TRIBE-0} союзниками, чем врагами.</Translation>
 	</Entry>
@@ -6250,19 +6250,19 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_THE_SHOEMAKER</zType>
-		<Translation>{CHARACTER-0} и {G0:его:ее}  друзьям Не разрешается быть на территории городских строений правительства, они проводят свои дни на окружающем рынке с эрудированным сапожником и его группой "купеческих философов", изучая навыки философии и дебатов.
+		<Translation>{CHARACTER-0} и {G0:его:ее} друзьям Не разрешается быть на территории городских строений правительства, они проводят свои дни на окружающем рынке с эрудированным сапожником и его группой "купеческих философов", изучая навыки философии и дебатов.
 
 Хотя многие ученые отказываются признавать такие учения, {CHARACTER-SHORT-0}, по-видимому, {G0:обогатился:обогатилась} этим опытом.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_IN_SEARCH_OF_TRUTH</zType>
-		<Translation>Не интересуясь придворными занятиями, {CHARACTER-1} оставляет {G1:его:ее} обучение и поселяется в соседнем городе {CITY-0}. {G1:он:она} использует свои знания, чтобы помочь справиться с домашними проблемами-разлученными братьями и сестрами, браками и случайными политическими спорами. В течение нескольких месяцев {G1:он:она} становится любимым народом.
+		<Translation>Не интересуясь придворными занятиями, {CHARACTER-1} оставляет {G1:его:ее} обучение и поселяется в соседнем городе {CITY-0}. {G1:Он:Она} использует свои знания, чтобы помочь справиться с домашними проблемами-разлученными братьями и сестрами, браками и случайными политическими спорами. В течение нескольких месяцев {G1:он:она} становится любимым народом.
 
 Вы много вложили в {CHARACTER-SHORT-1}, но философия поощряет каждого человека следовать истине, куда она ведет.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WASHTUB_PHILOSOPHER</zType>
-		<Translation>После многих лет интересного поведения {CHARACTER-1}, знаменитый аскет, отступает еще дальше в эксцентричность и изоляцию. {G1:он:она} поселяется в заброшенном корыте в центре {CITY-0}. 
+		<Translation>После многих лет интересного поведения {CHARACTER-1}, знаменитый аскет, отступает еще дальше в эксцентричность и изоляцию. {G1:Он:Она} поселяется в заброшенном корыте в центре {CITY-0}. 
 
 Многие в дворянстве кажутся раздраженными присутствием {CHARACTER-SHORT-1}, но {G1:он:она} довольно популярен среди бедных и неимущих.</Translation>
 	</Entry>
@@ -6322,7 +6322,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_RELATIONSHIP_LIFE_IS_SHORT</zType>
-		<Translation>Во время недавней дипломатической миссии {CHARACTER-2} был подстерегаем воинами {TRIBE-1,1} и захвачен в плен. {G2:он:она} теперь томится в сырой тюрьме, где {G2:его:ее} будущее остается под сомнением. Сообщение приходит от {CHARACTER-0}, с которым у вас очень слабые отношения. 
+		<Translation>Во время недавней дипломатической миссии {CHARACTER-2} был подстерегаем воинами {TRIBE-1,1} и захвачен в плен. {G2:Он:Она} теперь томится в сырой тюрьме, где {G2:его:ее} будущее остается под сомнением. Сообщение приходит от {CHARACTER-0}, с которым у вас очень слабые отношения. 
 
 "- Что мне делать с этим потерянным {G2:сыном:дочерью} {PLAYER-3}? Жизнь может быть такой короткой, такой хрупкой."</Translation>
 	</Entry>
@@ -6390,7 +6390,7 @@ How shall we respond?</Translation>
 		<zType>TEXT_EVENTSTORY_FOR_THE_KING</zType>
 		<Translation>Широко распространенный мятеж начинает ослабевать, когда верные солдаты поднимаются, чтобы защитить {PLAYER-2} от предателей. Когда бой приближается к дворцу, {CHARACTER-SHORT-0} внезапно вытаскивает {G0:его:ее} меч и атакует вас. {G0:он:она} стоит за всем этим делом.
 
-С храбрым криком link(COUNCIL_CHANCELLOR) {CHARACTER-SHORT-1} прыгает перед мечом, принимая на себя всю силу удара. {G1:он:она} падает на ступеньки корта, так как {CHARACTER-SHORT-0} сбит с ног вашими телохранителями.</Translation>
+С храбрым криком link(COUNCIL_CHANCELLOR) {CHARACTER-SHORT-1} прыгает перед мечом, принимая на себя всю силу удара. {G1:Он:Она} падает на ступеньки корта, так как {CHARACTER-SHORT-0} сбит с ног вашими телохранителями.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WRONG_TURN</zType>
@@ -6658,7 +6658,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_INCONSOLABLE</zType>
-		<Translation>Скандал разгорается в {CITY-1}! Несколько ночей назад пьяный, унылый {CHARACTER-0} вышел на улицы, затеяв драки и преследуя торговцев. После ареста {G0:его:ее} городская стража обнаружила тело {CHARACTER-SHORT-1}, {G0:его:ее} {G1:муж:жена}, в их доме. {G1:он:она} была задушена.
+		<Translation>Скандал разгорается в {CITY-1}! Несколько ночей назад пьяный, унылый {CHARACTER-0} вышел на улицы, затеяв драки и преследуя торговцев. После ареста {G0:его:ее} городская стража обнаружила тело {CHARACTER-SHORT-1}, {G0:его:ее} {G1:муж:жена}, в их доме. {G1:Он:Она} была задушена.
 
 Такие трагедии служат доказательством того, что не все, кто сталкивается с трудностями, могут их преодолеть.</Translation>
 	</Entry>
@@ -6736,7 +6736,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_PHILOSOPHY_AND_FISH</zType>
-		<Translation>Во время визита в Академию {CHARACTER-1} просит вас прийти посмотреть на {G1:его:ее} любимую обезьянку. {G1:он:она} недавно спас пушистое существо с местного рынка и влюбился в него. 
+		<Translation>Во время визита в Академию {CHARACTER-1} просит вас прийти посмотреть на {G1:его:ее} любимую обезьянку. {G1:Он:Она} недавно спас пушистое существо с местного рынка и влюбился в него. 
 
 Вы беспокоитесь, к чему может привести эта одержимость обезьяной {G1:его:ее}.</Translation>
 	</Entry>
@@ -6754,7 +6754,7 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_CINNABAR_TRAGEDIES</zType>
-		<Translation>Из академии приходит тревожное сообщение, касающееся {CHARACTER-1}. Во время нескольких недавних уроков алхимии {CHARACTER-1} подвергся воздействию большой дозы нагретой киновари. {G1:он:она} была поражена дрожью и душевным расстройством. Это, к сожалению, обычное явление в этой области, но страдать от такой неблагоприятной реакции, несомненно, признак слабого юмора.
+		<Translation>Из академии приходит тревожное сообщение, касающееся {CHARACTER-1}. Во время нескольких недавних уроков алхимии {CHARACTER-1} подвергся воздействию большой дозы нагретой киновари. {G1:Он:Она} была поражена дрожью и душевным расстройством. Это, к сожалению, обычное явление в этой области, но страдать от такой неблагоприятной реакции, несомненно, признак слабого юмора.
 
 Со временем чувства юмора {G1:его:ее} могут исправиться.</Translation>
 	</Entry>
@@ -7121,11 +7121,11 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_STUDY_ASSIGNMENT_FRIENDLY</zType>
-		<Translation>Письмо приходит курьером из {CHARACTER-0} академии.
+		<Translation>Письмо приносит гонец из академии {CHARACTER-0}.
 
 Дорогой {G1:Папа:Мама},
 
-Я очень надеюсь, что вы здоровы. Мои учителя проинструктировали мой класс отправлять письма домой. Мое время в академии прошло великолепно!  Я только что выучил это слово. Разве это не великолепно? 
+Я очень надеюсь, что вы здоровы. Мои учителя проинструктировали мой класс отправлять письма домой. Мое время в академии прошло великолепно!  Я только что {G0:выучил:выучила} это слово. Разве это не великолепно? 
 
 Передай всем мою любовь, {CHARACTER-SHORT-0}!</Translation>
 	</Entry>
@@ -7975,7 +7975,7 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEDICATION_OF_NINURTA</zType>
-		<Translation>Орда воинов почтительно входит во двор, возглавляемая {CHARACTER-2}. {G2:он:она} ударяет рукой в грудь {G2:его:ее}. 
+		<Translation>Орда воинов почтительно входит во двор, возглавляемая {CHARACTER-2}. {G2:Он:Она} ударяет рукой в грудь {G2:его:ее}. 
 
 "Милорд, {CITY-0} завершил link(IMPROVEMENT_SHRINE_NINURTA). Мы были бы польщены, если бы вы присутствовали на посвящении. {RELIGION-1} была бы великолепна."</Translation>
 	</Entry>
@@ -7993,7 +7993,7 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEDICATION_OF_MARS</zType>
-        <Translation>Орда воинов почтительно входит во двор, возглавляемая {CHARACTER-2}. {G2:он:она} ударяет рукой в грудь {G2:его:ее}. 
+        <Translation>Орда воинов почтительно входит во двор, возглавляемая {CHARACTER-2}. {G2:Он:Она} ударяет рукой в грудь {G2:его:ее}. 
 
 "Милорд, {CITY-0} завершил link(IMPROVEMENT_SHRINE_MARS). Мы были бы польщены, если бы вы присутствовали на посвящении. {RELIGION-1} была бы великолепна."</Translation>
 	</Entry>
@@ -8597,7 +8597,7 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TYRANNY_CONSTITUTION</zType>
-		<Translation>Время пришло. Мы можем либо захватить контроль над правительством и принять link(LAW_TYRANNY), либо мы разрешить создание национальной link(LAW_CONSTITUTION).
+		<Translation>Время пришло. Мы можем либо захватить контроль над правительством и принять link(LAW_TYRANNY), либо мы разрешим создание национальной link(LAW_CONSTITUTION).
 
 Народ ждет нашего ответа...</Translation>
 	</Entry>
@@ -10478,7 +10478,7 @@ Dear {CHARACTER-SHORT-1},
 		<zType>TEXT_EVENTSTORY_SPOUSE_REVIVAL</zType>
 		<Translation>Удивительно, и священники, и врачи, ваша {G0:муж:жена} начала выздоравливать после болезни, что доказывает ошибочность прогнозов.
 
-К сожалению, придворный ученый {CHARACTER-SHORT-1}, который посещал {G0:king: queen}, тоже не преуспел. {G1:он:она} умирает поздно вечером от боли и гнойничков.</Translation>
+К сожалению, придворный ученый {CHARACTER-SHORT-1}, который посещал {G0:king: queen}, тоже не преуспел. {G1:Он:Она} умирает поздно вечером от боли и гнойничков.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GRATITUDE</zType>
@@ -10590,13 +10590,13 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DIVORCE_UNVIABLE</zType>
-		<Translation>Проверив календари за последний год, ваши королевские врачи обнаружили, что вы не можете быть {G0:отец:мать} ребенка {CHARACTER-SHORT-1}. {G1:он:она} лжет, чтобы удержать {G1:его:ее} власть над придворным влиянием.
+		<Translation>Проверив календари за последний год, ваши королевские врачи обнаружили, что вы не можете быть {G0:отец:мать} ребенка {CHARACTER-SHORT-1}. {G1:Он:Она} лжет, чтобы удержать {G1:его:ее} власть над придворным влиянием.
 
 Но теперь правда вышла наружу.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DIVORCE_A_SURPRISE</zType>
-		<Translation>Проверив календари за прошлый год, ваши королевские врачи обнаружили, что вы действительно являетесь {G0:отец:мать} ребенка {CHARACTER-SHORT-1}. {G1:он:она} никогда не размахивал злыми намерениями.
+		<Translation>Проверив календари за прошлый год, ваши королевские врачи обнаружили, что вы действительно являетесь {G0:отец:мать} ребенка {CHARACTER-SHORT-1}. {G1:Он:Она} никогда не размахивал злыми намерениями.
 
 Поздравляем!</Translation>
 	</Entry>
@@ -10656,7 +10656,7 @@ Dear {CHARACTER-SHORT-1},
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_VISION_FROM_BEYOND</zType>
-		<Translation>На следующий вечер вы лежите в ожидании, ожидая прибытия фантома {CHARACTER-SHORT-1}. {G1:он:она} кажется довольным, что вы избавились от своего страха. "Я не хочу причинять тебе вреда", - глухим шепотом говорит {G1:он:она}. "Я пришел показать вам видение извне".
+		<Translation>На следующий вечер вы лежите в ожидании, ожидая прибытия фантома {CHARACTER-SHORT-1}. {G1:Он:Она} кажется довольным, что вы избавились от своего страха. "Я не хочу причинять тебе вреда", - глухим шепотом говорит {G1:он:она}. "Я пришел показать вам видение извне".
 
 {CHARACTER-SHORT-1} переходит к описанию {PLAYER-1}, которого {G1:он:она} может видеть на горизонте, нации великой мудрости и процветания, которая будет стоять вечно. Чтобы добиться этого, {G1:он:она} советует вам преследовать одну из следующих целей.</Translation>
 	</Entry>
@@ -10846,7 +10846,7 @@ Dear {CHARACTER-SHORT-1},
 		<zType>TEXT_EVENTSTORY_MIGHT_OF_NATIONS</zType>
 		<Translation>Во время множества путешествий и походов {G0:его:ее} {CHARACTER-0} воочию стал свидетелем могущества других племен и народов. Теперь {G0:он:она} попросил, чтобы мы расширили набор наших военнослужащих, включив в него иностранных граждан, проживающих в {PLAYER-2}.
 
-Конечно, {CHARACTER-1} не хочет иметь ничего общего с теми, кто родился за пределами наших границ, считая их в лучшем случае неряхами и трусами, в худшем - шпионами. {G1:он:она} возмущается предложением {CHARACTER-SHORT-0}.</Translation>
+Конечно, {CHARACTER-1} не хочет иметь ничего общего с теми, кто родился за пределами наших границ, считая их в лучшем случае неряхами и трусами, в худшем - шпионами. {G1:Он:Она} возмущается предложением {CHARACTER-SHORT-0}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TENTACLES_OF_CORRUPTION</zType>
@@ -10864,7 +10864,7 @@ Dear {CHARACTER-SHORT-1},
 		<zType>TEXT_EVENTSTORY_FEAR_OF_THE_OTHER</zType>
 		<Translation>Еще раз, {CHARACTER-0} подвергся нападению на улицах {CITY-3}, последнее из серии нападений на {TRIBE-5,3} в {CITY-3}. Горечь против {TRIBE-5,1} нарастает.
 
-Известный соперник, {CHARACTER-2}, обращается к суду. "Людям {PLAYER-4,1} надоела эта угроза {TRIBE-5,1}. Мы должны устранить инвазию". {G2:он:она} знает, что у вас проблемы с этим вопросом, так как ваш {G1:муж:жена} - {TRIBE-5,1}.</Translation>
+Известный соперник, {CHARACTER-2}, обращается к суду. "Людям {PLAYER-4,1} надоела эта угроза {TRIBE-5,1}. Мы должны устранить инвазию". {G2:Он:Она} знает, что у вас проблемы с этим вопросом, так как ваш {G1:муж:жена} - {TRIBE-5,1}.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_SECRET_RITUALS</zType>
@@ -11744,7 +11744,7 @@ link(CONCEPT_IMPROVEMENT,2) может быть расширенно link(CONCEP
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLOT_BY_HERETICS</zType>
-		<Translation>Ваш {G1:муж:жена} {CHARACTER-1} подходит к вам, держа в руках кусок пергамента. {G1:он:она} говорит, что вы не были собой с тех пор, как сосредоточились на Атоне, и что вы ставите собственные религиозные реформы выше своей семьи и своих людей.
+		<Translation>Ваш {G1:муж:жена} {CHARACTER-1} подходит к вам, держа в руках кусок пергамента. {G1:Он:Она} говорит, что вы не были собой с тех пор, как сосредоточились на Атоне, и что вы ставите собственные религиозные реформы выше своей семьи и своих людей.
 
 {CHARACTER-SHORT-1} и {G1:его:ее} {FAMILY-2} союзники подготовили указ об отказе от атенизма и восстановлении свободы священников поклоняться так, как они считают нужным. Вам нужно только поставить печать на указ, чего недвусмысленно требует {CHARACTER-SHORT-1}.</Translation>
 	</Entry>
@@ -11820,7 +11820,7 @@ link(CONCEPT_IMPROVEMENT,2) может быть расширенно link(CONCEP
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_DARING_ESCAPE</zType>
-		<Translation>В {CITY-0} прибывает молодая женщина, ее внешний вид не оставляет сомнений в том, что ее путешествие было трудным. Она была захвачена {TRIBE-1} и томилась в качестве заложницы в их лагере, пока ей не удалось собрать целую группу других заложников и сбежать вместе с ними. Они провели несколько дней в бегах, пока девушка не добралась до {CITY-0}, даже переплыла реку в пути.
+		<Translation>В {CITY-0} прибывает молодая женщина, ее внешний вид не оставляет сомнений в том, что ее путешествие было трудным. Она была захвачена {TRIBE-1} и томилась в качестве заложницы в их лагере, пока ей не удалось собрать целую группу других заложников и сбежать вместе с ними. Они провели несколько дней в бегах, пока девушка не добралась до {CITY-0}, переплыв реку в пути.
 
 Среди ваших солдат ходят слухи, что даже {CHARACTER-2} был впечатлен дерзостью этого побега.</Translation>
 	</Entry>
@@ -11896,7 +11896,7 @@ link(CONCEPT_IMPROVEMENT,2) может быть расширенно link(CONCEP
 		<zType>TEXT_EVENTSTORY_ONE_STORY_TOO_FAR</zType>
 		<Translation>Наш посол {CHARACTER-1} известен своими хвастливыми историями, которые некоторые в правительстве сочли утомительными, но не более того.
 
-Во время недавнего государственного ужина с представителями {PLAYER-0} склонность {CHARACTER-SHORT-1} к рассказыванию историй превратилась в дипломатический инцидент. {G1:он:она} говорил о работе в высшем правительстве с лучшими советниками и членами королевской семьи, что {PLAYER-0,3} сочли за скрытое оскорбление своего собственного двора.
+Во время недавнего государственного ужина с представителями {PLAYER-0} склонность {CHARACTER-SHORT-1} к рассказыванию историй превратилась в дипломатический инцидент. {G1:Он:Она} говорил о работе в высшем правительстве с лучшими советниками и членами королевской семьи, что {PLAYER-0,3} сочли за скрытое оскорбление своего собственного двора.
 
 Если вы не предпримете немедленных действий, отношение {CHARACTER-SHORT-1} может навредить нашим отношениям с {PLAYER-0}.</Translation>
 	</Entry>

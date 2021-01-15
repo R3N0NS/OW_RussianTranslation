@@ -203,11 +203,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_THE_YOUNGER</zType>
-    <Translation>Младший(ая)</Translation>
+    <Translation>Младш.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_THE_ELDER</zType>
-    <Translation>Старший(ая)</Translation>
+    <Translation>Старш.</Translation>
 	</Entry>				   	 
   <!--Game Text-->
   <Entry>

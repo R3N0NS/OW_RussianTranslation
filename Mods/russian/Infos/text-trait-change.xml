@@ -56,7 +56,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_WARLIKE</zType>
-    <Translation>Строгий~Строгого~Строгому~Строгий~Строгим~Строгом</Translation>
+    <Translation>Воинственный~Воинственного~Воинственному~Воинственный~Воинственным~Воинственном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_INSPIRING</zType>
@@ -64,7 +64,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_INTELLIGENT</zType>
-    <Translation>Умный~Умного~Умному~Умный~Умным~Умном</Translation>
+    <Translation>Мудрый~Мудрого~Мудрому~Мудрый~Мудрым~Мудром</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_PROSPEROUS</zType>
@@ -92,7 +92,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_CORRUPT</zType>
-    <Translation>Продажный~Продажного~Продажному~Продажный~Продажным~Продажном</Translation>
+    <Translation>Коррупированный~Коррупированного~Коррупированному~Коррупированный~Коррупированным~Коррупированном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_UNCOUTH</zType>
@@ -304,7 +304,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_HUMBLE</zType>
-    <Translation>Робкий~Робкого~Робкому~Робкий~Робким~Робком</Translation>
+    <Translation>Скромный~Скромного~Скромному~Скромный~Скромным~Скромном</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_PROUD</zType>
