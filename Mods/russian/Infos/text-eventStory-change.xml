@@ -1932,7 +1932,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_OFFER_ENEMY_TRAIT_COMMANDER</zType>
-		<Translation>По слухам, известная link(TRAIT_COMMANDER_ARCHETYPE), {CHARACTER-0} планирует кампанию против нас! Во главе армий {PLAYER-0,1} {G0:он:она} будет грозным противником. Наш единственный шанс избежать войны - упредить ее, предложив дань.
+		<Translation>По слухам, известная link(TRAIT_COMMANDER_ARCHETYPE), {CHARACTER-0} планирует кампанию против нас! Во главе армий {PLAYER-0,1} {G0:он:она} будет грозным противником. Наш единственный шанс избежать войны - упредить {G0:его:ее}, предложив дань.
 
 {TEXT_EVENTSTORY_WAR_OFFER_CLOSING}</Translation>
 	</Entry>
@@ -1960,11 +1960,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRADE_MISSION</zType>
-		<Translation>{G2:Наш:Наша} link(COUNCIL_AMBASSADOR), {CHARACTER-SHORT-2}, {G2:завершил:завершила} свою миссиюпо созданию торговой сети с {PLAYER-0}. {PLAYER-0,2} открыты только для обмена данью.</Translation>
+		<Translation>{G2:Наш:Наша} link(COUNCIL_AMBASSADOR), {CHARACTER-SHORT-2}, {G2:завершил:завершила} свою миссиюпо созданию торговой сети с {PLAYER-0}. {PLAYER-0,3} открыты только для обмена данью.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRADE_MISSION_FAIL</zType>
-		<Translation>{G2:Наш:Наша} link(COUNCIL_AMBASSADOR), {CHARACTER-SHORT-2}, не {G2:смог:смогла} выполнить миссию по созданию торговой сети с {PLAYER-0}). {PLAYER-0,2} недовольны нами и вместо этого примут от нас только подарок.</Translation>
+		<Translation>{G2:Наш:Наша} link(COUNCIL_AMBASSADOR), {CHARACTER-SHORT-2}, не {G2:смог:смогла} выполнить миссию по созданию торговой сети с {PLAYER-0}. {PLAYER-0,3} недовольны нами и вместо этого примут от нас только подарок.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRADE_OFFER</zType>
@@ -2162,7 +2162,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PLAYER_WAR_DECLARE_RELIGION</zType>
-		<Translation>"Наши споры больше, чем армии и границы", - объясняется сообщение от {PLAYER-0}, нации {RELIGION-2,2}: "Наши фундаментальные убеждения не могут сосуществовать. Следовательно, один из нас должен погибнуть".
+		<Translation>"Наши споры больше, чем армии и границы", объясняется сообщение от {PLAYER-0}, нации {RELIGION-2,2} - "Наши фундаментальные убеждения не могут сосуществовать. Следовательно, один из нас должен погибнуть".
 
 {PLAYER-0,2} решили объявить нам войну из-за нашей веры в {RELIGION-3}. Их страсть должна быть погашена.</Translation>
 	</Entry>
