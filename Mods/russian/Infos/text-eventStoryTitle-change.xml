@@ -575,7 +575,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_SEEDY_MESSENGER_TITLE</zType>
-		<Translation>Seedy Messenger</Translation>
+		<Translation>Захудалый посланник</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRIBE_CONTACT_GIFT_EXCHANGE_TITLE</zType>
@@ -695,7 +695,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CONTACT_PIEFACES_LESSONS_TITLE</zType>
-		<Translation>Уроки Pieface</Translation>
+		<Translation>Уроки Тупицы</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CONTACT_MOMENTOUS_MEETING_TITLE</zType>
@@ -2923,7 +2923,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_DEAR_PARENT_TITLE</zType>
-		<Translation>Дорогой {G1: Отец: Мать}</Translation>
+		<Translation>Дорогой {G1:Отец:Мать}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_CHANGE_STUDIES_TITLE</zType>
@@ -3015,7 +3015,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_GRADUATE_THE_RETURN_OF_CHARACTER_TITLE</zType>
-		<Translation>Возвращение символа {CHARACTER-0}</Translation>
+		<Translation>Возвращение {CHARACTER-0}</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_A_SCOUNDREL_TITLE</zType>

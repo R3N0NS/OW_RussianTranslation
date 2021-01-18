@@ -53,7 +53,7 @@
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_BUILDING</zType>
-		<zName>Building</zName>
+		<zName>Строение</zName>
 		<zIconName>COOLDOWN_BUILD</zIconName>
 	</Entry>
 	<Entry>
@@ -73,7 +73,7 @@
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_BUY_TILE</zType>
-		<zName>Buy Tile</zName>
+		<zName>Купить клетку</zName>
 		<zIconName>COOLDOWN_BUY_TILE</zIconName>
 	</Entry>
 	<Entry>
@@ -83,47 +83,47 @@
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_RECRUITED</zType>
-		<zName>Recruited</zName>
+		<zName>Завербован</zName>
 		<zIconName>COOLDOWN_RECRUITED</zIconName>
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_HIRED</zType>
-		<zName>Hired</zName>
+		<zName>Нанятый</zName>
 		<zIconName>COOLDOWN_HIRED</zIconName>
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_GIFTED</zType>
-		<zName>Gifted</zName>
+		<zName>Подаренный</zName>
 		<zIconName>COOLDOWN_GIFT</zIconName>
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_HEALED</zType>
-		<zName>Healed</zName>
+		<zName>Исцеление</zName>
 		<zIconName>COOLDOWN_HEAL</zIconName>
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_PILLAGED</zType>
-		<zName>Pillaged</zName>
+		<zName>Разграбили</zName>
 		<zIconName>COOLDOWN_PILLAGE</zIconName>
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_PROMOTED</zType>
-		<zName>Promoted</zName>
+		<zName>Повышение</zName>
 		<zIconName>COOLDOWN_PROMOTE</zIconName>
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_TESTUDO</zType>
-		<zName>Testudo</zName>
+		<zName>Черепаха</zName>
 		<zIconName>SPRITE_TESTUDO</zIconName>
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_REPAIRED</zType>
-		<zName>Repaired</zName>
+		<zName>Отремонтированный</zName>
 		<zIconName>COOLDOWN_BUILD</zIconName>
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_UPGRADED</zType>
-		<zName>Upgraded</zName>
+		<zName>Модернизированный</zName>
 		<zIconName>COOLDOWN_UPGRADE</zIconName>
 	</Entry>
 	<Entry>
@@ -143,7 +143,7 @@
 	</Entry>
 	<Entry>
 		<zType>COOLDOWN_TRADE</zType>
-		<zName>Trade</zName>
+		<zName>Торговля</zName>
 		<zIconName>STATUS_PASS</zIconName>
 	</Entry>
 </Root>

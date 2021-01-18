@@ -60,7 +60,7 @@
   <!-- Relation -->
   <Entry comment="TEXT_CHARACTER_RELATION_XXX texts have the leader (i.e. 'You') as variable index 1 for gender">
     <zType>TEXT_CHARACTER_RELATION_YOU</zType>
-    <Translation>Вы!</Translation>
+    <Translation>Вы</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_RELATION_SPOUSE</zType>

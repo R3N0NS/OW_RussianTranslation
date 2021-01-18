@@ -425,7 +425,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_COURTIER</zType>
-    <Translation>Придворный</Translation>
+    <Translation>Придворный~Придворные</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_GOVERNOR</zType>

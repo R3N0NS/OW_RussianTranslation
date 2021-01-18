@@ -975,7 +975,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUINS_ANCIENT_BARBARIANS_OPTION_0</zType>
-    <Translation>Я не хочу оскорблять {TRIBE-1}.</Translation>
+    <Translation>Я не хочу оскорблять {TRIBE-2,0}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUINS_ANCIENT_BARBARIANS_OPTION_1</zType>
@@ -1455,7 +1455,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUINS_STRANGE_ART_SELL</zType>
-    <Translation>Возможно, кто-то еще оценит это больше.</Translation>
+    <Translation>Возможно, кто-то оценит это больше.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUINS_STRANGE_SCROLL_STUDY</zType>
@@ -1587,11 +1587,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_CONTACT_GRINNING_EMISSARY_TRUCE_STONE</zType>
-    <Translation>Примите это и пейте в их честь.</Translation>
+    <Translation>Примем дар, а затем выпьем в их честь.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_CONTACT_GRINNING_EMISSARY_TRUCE_IRON</zType>
-    <Translation>Возьмите подарок и предложите свой собственный.</Translation>
+    <Translation>Возьмите подарок и в ответ предложите наш.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_CONTACT_GRINNING_EMISSARY_WAR</zType>
@@ -2255,7 +2255,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HOSTILE_NEIGHBORS_FIRST_TRIBUTE_OPTION_1</zType>
-    <Translation>Плати железом.</Translation>
+    <Translation>Отдать дань железом.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HOSTILE_NEIGHBORS_FIRST_TRIBUTE_OPTION_2</zType>
@@ -2415,7 +2415,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONTACT_PIEFACES_LESSONS_OPTION_1</zType>
-    <Translation>Скажите королевской гвардии отказать ему.</Translation>
+    <Translation>Скажите королевской гвардии увести его.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CONTACT_PIEFACES_LESSONS_OPTION_2</zType>
@@ -2991,7 +2991,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BOASTFUL_HEIR_OPTION_0</zType>
-    <Translation>Юность {CHARACTER-SHORT-1} свидетельствует о большом {G1:его:ее} невежестве.</Translation>
+    <Translation>Юность {CHARACTER-SHORT-1} свидетельствует о {G1:его:ее} невежестве.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BOASTFUL_HEIR_OPTION_1</zType>
@@ -7186,7 +7186,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COURTIER_B1_SCIENTIST</zType>
-    <Translation>Красноречивого филосоафа.</Translation>
+    <Translation>Красноречивого философа.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COURTIER_B1_MINISTER</zType>
@@ -8070,7 +8070,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DEAR_PARENT_TACTICS_NO</zType>
-    <Translation>Приходите домой - ваша семья скучает по вам!</Translation>
+    <Translation>Возвращайся домой - семья скучает по тебе!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DEAR_PARENT_TACTICS_YES</zType>
@@ -8294,11 +8294,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GRADUATE_THE_RETURN_OF_CHARACTER_OPTION_0</zType>
-    <Translation>Местные лидеры могут использовать понимание {G0:его:ее}.</Translation>
+    <Translation>Местные лидеры могут использовать {G0:его:ее} проницательность.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GRADUATE_THE_RETURN_OF_CHARACTER_OPTION_1</zType>
-    <Translation>Пусть {G0:ему:ей} изучит наши текущие правила.</Translation>
+    <Translation>Пусть {G0:он:она} изучит наши текущие законы.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_SCOUNDREL_EXILE</zType>
@@ -8338,7 +8338,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_FRUSTRATING_OUTCOME_FRUSTRATED</zType>
-    <Translation>Меня все больше раздражает {G0:ему:ей}.</Translation>
+    <Translation>{G0:Он:Она} меня все больше раздражает.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DISMISSAL_VASSALAGE</zType>
@@ -9302,7 +9302,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_DARK_ARTS_YES</zType>
-    <Translation>На мой взгляд, я разрешаю это</Translation>
+    <Translation>Вопреки здравому смыслу, я позволю это.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_DARK_ARTS_NO</zType>
@@ -9426,7 +9426,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_PHYSICAL_CONFRONTATION_OPTION_0</zType>
-    <Translation>Это лучшее место для {G0:ему:ей}.</Translation>
+    <Translation>Это лучшее место для {G0:него:нее}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_PHYSICAL_CONFRONTATION_OPTION_1</zType>
@@ -9438,7 +9438,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTOR_ANCIENT_LESSONS_OPTION_1</zType>
-    <Translation>Очевидно, эти древние народы были ниже нас.</Translation>
+    <Translation>Очевидно, эти древние народы уступали нам.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTOR_ANCIENT_LESSONS_OPTION_2</zType>
@@ -11706,7 +11706,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_DISPOSITION_HIGH_WISDOM_OPTION_0</zType>
-    <Translation>Продолжайте, хорошая работу.</Translation>
+    <Translation>Продолжайте, хорошая работа.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_DISPOSITION_LOW_CHARISMA_OPTION_0</zType>
@@ -11862,7 +11862,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_ASSIGNMENT_CAUTIOUS_OPTION_0</zType>
-    <Translation>Спасибо, вернитесь к своим обязанностям курьером.</Translation>
+    <Translation>Спасибо.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_ASSIGNMENT_UPSET_OPTION_0</zType>
@@ -12334,11 +12334,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_BOOKISH_DEMEANOR_OPTION_1</zType>
-    <Translation>Не забудьте получить все нужные тексты для {G0:его:ее}!</Translation>
+    <Translation>Получить все нужные тексты для {G0:него:нее}!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_BOOKISH_DEMEANOR_OPTION_2</zType>
-    <Translation>Экономию надо брать. У нас нет денег на эти расходы.</Translation>
+    <Translation>У нас нет денег на эти расходы.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_DRUNKEN_MISCONDUCT_OPTION_0</zType>
@@ -14318,11 +14318,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DINOSAUR_BONES_EXPLORATION_VERSION_OPTION_1</zType>
-    <Translation>Отправьте мудрецов для расследования.</Translation>
+    <Translation>Отправьте мудрецов для исследования.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DINOSAUR_BONES_EXPLORATION_VERSION_OPTION_2</zType>
-    <Translation>Отправить солдат для защиты сайта от драконов.</Translation>
+    <Translation>Отправить солдат для защиты местонахождение от драконов.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DINOSAUR_BONES_LITERATURE_VERSION_OPTION_0</zType>
@@ -18158,11 +18158,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LIVE_AND_LET_DYE_OPTION_0</zType>
-    <Translation>Звучит чепухой, пошли {G0:его:ее} на {G0:him:her}.</Translation>
+    <Translation>Звучит как чепуха, пошли {G0:его:ее}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LIVE_AND_LET_DYE_OPTION_1</zType>
-    <Translation>Нас убедили, и мы предоставим королевскую хартию на продажу краски для волос {G0:ним:ней}.</Translation>
+    <Translation>Это убедительно, мы предоставим королевскую хартию на продажу {G0:его:ее} краски для волос.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_TIME_TO_DYE_OPTION_0</zType>
