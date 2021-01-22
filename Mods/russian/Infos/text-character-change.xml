@@ -220,7 +220,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_HAS_DIED</zType>
-    <Translation>{0_character} скончался</Translation>
+    <Translation>{0_character} скончался!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_LEADER_NEW_COGNOMEN</zType>

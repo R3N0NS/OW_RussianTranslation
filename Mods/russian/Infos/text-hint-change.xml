@@ -143,7 +143,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HINT_35</zType>
-    <Translation>Отряды link(UNIT_MILITIA) и link(UNIT_LEVY) не могут быть повышены, зато для их производства нужен link(YIELD_GROWTH) icon(YIELD_GROWTH) вместо link(YIELD_TRAINING) icon(YIELD_TRAINING). Города с высоким уровнем link(YIELD_GROWTH) icon(YIELD_GROWTH) могут создавать эти отряды гораздо быстрее.</Translation>
+    <Translation>Отряды link(UNIT_MILITIA) и link(UNIT_CONSCRIPT) не могут быть повышены, зато для их производства нужен link(YIELD_GROWTH) icon(YIELD_GROWTH) вместо link(YIELD_TRAINING) icon(YIELD_TRAINING). Города с высоким уровнем link(YIELD_GROWTH) icon(YIELD_GROWTH) могут создавать эти отряды гораздо быстрее.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_36</zType>

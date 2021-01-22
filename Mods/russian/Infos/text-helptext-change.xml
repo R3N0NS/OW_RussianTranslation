@@ -617,7 +617,7 @@
     <Translation>[Не требуется: {0}]</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_HELPTEXT_EVENT_HIGHER_VPS</zType>
+    <zType>TEXT_HELPTEXT_EVENT_REQUIRES_NO_ONE</zType>
     <Translation>[Не требуется: {0}]</Translation>
   </Entry>
   <Entry>
@@ -649,7 +649,7 @@
     <Translation><![CDATA[[Требуется {0}: <= {1} {2}]]]></Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_HELPTEXT_EVENT_REQUIRES_NOT</zType>
+    <zType>TEXT_HELPTEXT_EVENT_REQUIRES_NOT_X</zType>
     <Translation><![CDATA[[Требуется {0}: Не {1}]]]></Translation>
   </Entry>
   <Entry>
@@ -1837,6 +1837,14 @@
     <Translation>Отменить последнее действие</Translation>
   </Entry>
   <Entry>
+	<zType>TEXT_HELPTEXT_LINK_HELP_UPGRADE</zType>
+	<Translation>Модернизация превращают боевую единицу в другой тип за счет некоторого обучения и других ресурсов, специфичных для отряда.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_HELPTEXT_LINK_HELP_XP</zType>
+	<Translation>Отряды и персонажи могут зарабатывать ОП(очки опыта), которые могут быть использованы для link(CONCEPT_PROMOTION) или для улучшения характеристик персонажа.{br}Отряды зарабатывают ОП во время боя, или будучи link(CONCEPT_IDLE) на link(CONCEPT_IMPROVEMENT). link(UNITTRAIT_MELEE) отряды в link(IMPROVEMENT_BARRACKS) и link(UNITTRAIT_RANGED) отряды в link(IMPROVEMENT_RANGE).{br}Персонажи зарабатывают ОП, выполняя миссии, занимая такие роли, как link(CONCEPT_GENERAL), link(CONCEPT_GOVERNOR) или link(CONCEPT_COUNCILOR), через события или другие действия персонажей.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_TURN_REPLAY_MOVE_REDO</zType>
     <Translation>Повторить отмененное действие</Translation>
   </Entry>
@@ -1890,10 +1898,6 @@
     <Translation><![CDATA[Можно быть в союзе только с одним игроком.<br>Автоматически объявляется link(DIPLOMACY_WAR) игроку, начавшему link(DIPLOMACY_WAR) с вашим союзником.]]></Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_HELPTEXT_LINK_HELP_AMBITION</zType>
-    <Translation>Амбиции — это мнение от числа населения ({0_value} за единицу).</Translation>
-  </Entry>
-  <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_BUY_TILE</zType>
     <Translation>Отряды могут link(CONCEPT_BUY_TILE) клетки рядом с вашей территорией.</Translation>
   </Entry>
@@ -1912,6 +1916,10 @@
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TRIBE_INVADE</zType>
     <Translation>Племя будет отправлять отряды, чтобы грабить ваши города.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_HELPTEXT_HELP_UNDO</zType>
+	<Translation>вы можете отменить столько решений, сколько захотите, используя hotkey(HOTKEY_UNDO).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_CITY_CAPTURE</zType>
@@ -1996,7 +2004,8 @@
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_LINK_HELP_CONNECTED_FOREIGN</zType>
-    <Translation>Зарубежные города, связанные с вашим {0_capital}.</Translation>
+    <Translation>Зарубежные города, связанные с вашим {0_capital}:
+(Более крупные и далекие города производят больше)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_CRITICAL_HIT</zType>
@@ -2123,7 +2132,7 @@
     <Translation><![CDATA[Юонит устает после использования всех своих ходов. Уставший юнит обновит свои силы на следующем ходу. После утомления, подразделение может снова двигаться только при помощи марша.]].]]></Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_HELPTEXT_LINK_HELP_AMBITIONS</zType>
+    <zType>TEXT_HELPTEXT_LINK_HELP_AMBITION</zType>
     <Translation><![CDATA[Амбиции - это цели, которые вы должны преследовать, и их выполнение даст вам постоянный прирост link(CONCEPT_LEGITIMACY). Завершите десять амбиций, и вы выиграете игру!]]></Translation>
   </Entry>
   <Entry>
@@ -2163,8 +2172,12 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_SPECIALIST</zType>
-    <Translation>link(CONCEPT_SPECIALIST,0) может повысить эффективность link(CONCEPT_IMPROVEMENT,1) за счет link(YIELD_CIVICS).</Translation>
-    </Entry>
+    <Translation>link(CONCEPT_SPECIALIST,0) может повысить эффективность link(CONCEPT_IMPROVEMENT) за счет link(YIELD_CIVICS).</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_HELPTEXT_LINK_HELP_SHRINE</zType>
+	<Translation>Святыни дают различные преимущества и могут способствовать распространению язычества.</Translation>
+  </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_IDLE</zType>
     <Translation>link(CONCEPT_IDLE) отряды можно перемещать до атаки, повышения, улучшения и т.д.</Translation>
@@ -2233,6 +2246,10 @@
     <zType>TEXT_HELPTEXT_LINK_HELP_PROJECT_INFO</zType>
     <Translation>Проект существует только в городе.</Translation>
   </Entry>
+  <Entry>
+	<zType>TEXT_HELPTEXT_LINK_HELP_PROMOTION</zType>
+	<Translation>Продвижение по службе дает различные боевые баффы за счет некоторой подготовки.</Translation>
+	 </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_RAISE_IMPROVEMENTS</zType>
     <Translation>Улучшить постройку (например, link(IMPROVEMENT_THEATER_1) до link(IMPROVEMENT_THEATER_2)).</Translation>
@@ -2320,6 +2337,10 @@
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_SUBJECT_TRAIT_ANY</zType>
     <Translation>Должен быть {0_list}</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_HELPTEXT_LINK_HELP_SUBJECT_TRAIT_NONE</zType>
+	<Translation>Должен не быть {0_list}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_TEAM_LIST</zType>
@@ -2440,6 +2461,10 @@
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_HELP_ZOC</zType>
     <Translation><![CDATA[Зона контроля охватывает соседние клетки отряда (кроме другого берега {0_riverLink}).<br> и мешает вражеским отрядам двигаться от одной клетки link(CONCEPT_ZOC) к другой.<br>Удерживайте [{1_key}], чтобы увидеть ЗК.]]></Translation>
+ </Entry>
+  <Entry>
+    <zType>TEXT_HELPTEXT_LINK_HELP_HOTKEY_NONE</zType>
+    <Translation>Для этой горячей клавиши не задана привязка.</Translation>
   </Entry>
   <!--Tile Tooltip-->
   <Entry>
@@ -2742,7 +2767,8 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_IMPROVEMENT_TOOLTIP_BUY_HINT</zType>
-    <Translation><![CDATA[Удерживайте <TEXT_HOTKEY_ALT>, чтобы купить: {0}]]></Translation>
+    <Translation><![CDATA[Удерживайте <TEXT_HOTKEY_ALT>, чтобы купить: {0}]]>
+    </Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_YIELD_PER_YEAR</zType>
@@ -3048,7 +3074,7 @@
   <!--Resource Harvest Help Variable-->
   <Entry>
     <zType>TEXT_HELPTEXT_RESOURCE_HARVEST_HELP_VARIABLE</zType>
-    <Translation>{0} (в {1,5_city}, {2_value}/{3_total} {4_icon})</Translation>
+    <Translation>{0} (в {1_city}, {2_value}/{3_total} {4_icon})</Translation>
   </Entry>
   <!--Effect Unit Help-->
   <Entry>
@@ -4515,6 +4541,10 @@
     <Translation>link(CONCEPT_GENERAL) (если правитель): {0}</Translation>
   </Entry>
   <Entry>
+	<zType>TEXT_HELPTEXT_TRAIT_NO_EVENTS</zType>
+	<Translation>Менее вероятно участие в событиях</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_HELPTEXT_TRAIT_NO_MARRY</zType>
     <Translation>Не может заключить брак</Translation>
   </Entry>
@@ -5721,7 +5751,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_SUBMIT_BUG_BUTTON</zType>
-    <Translation>Сообщить о проблеме</Translation>
+    <Translation>Сообщить о 	</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_RESTART_GAME_BUTTON</zType>
+	<Translation>Перезапустить игру</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_QUICK_SAVE_BUTTON</zType>

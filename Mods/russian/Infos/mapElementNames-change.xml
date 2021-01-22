@@ -210,8 +210,6 @@
 			<zValue>Белое море</zValue>
 			<zValue>Лаккадивское море</zValue>
 			<zValue>Андаманское море</zValue>
-			<zValue>Яванское море</zValue>
-			<zValue>Море Селебес</zValue>
 			<zValue>Банда Си</zValue>
 			<zValue>Филиппинское море</zValue>
 			<zValue>Тиморское море</zValue>
@@ -226,7 +224,6 @@
 			<zValue>Огаста Бэй</zValue>
 			<zValue>Залив Алкионидов</zValue>
 			<zValue>Залив Мирабелло</zValue>
-			<zValue>Залив Тимниас</zValue>
 			<zValue>Залив Сувла</zValue>
 			<zValue>Залив Швейни</zValue>
 		</azBayNames>
@@ -673,31 +670,39 @@
 			<zValue>Чиомадул</zValue>
 			<zValue>Адатепе</zValue>
 			<zValue>Милош</zValue>
-			<zValue>Санторини</zValue>
 		</azVolcanoNames>
 		<azMountainRangeNames>
 			<zValue>Пинд</zValue>
 			<zValue>Тайгет</zValue>
 			<zValue>Лефка Ори</zValue>
 			<zValue>Родопские горы</zValue>
+			<zValue>Пиренейские горы</zValue>
 		</azMountainRangeNames>
 		<azPeakNames>
 			<zValue>Пентеликус</zValue>
 			<zValue>Парнон</zValue>
 			<zValue>Олимп</zValue>
-			<zValue>Крепление Helicon</zValue>
-			<zValue>Томарос</zValue>
-			<zValue>Пайко</zValue>
-			<zValue>Фалакро</zValue>
+			<zValue>Геликон</zValue>
+			<zValue>Ароания</zValue>
+			<zValue>Силлен</zValue>
+			<zValue>Варнус</zValue>
+			<zValue>Эримантос</zValue>
+			<zValue>Отрис</zValue>
+			<zValue>Ида</zValue>
+			<zValue>Афон</zValue>
 		</azPeakNames>
 		<azRiverNames>
 			<zValue>Халиакмон</zValue>
 			<zValue>Эврос</zValue>
 			<zValue>Струма</zValue>
-			<zValue>Вардар</zValue>
-			<zValue>Ахелос</zValue>
+			<zValue>Аксиос</zValue>
+			<zValue>Ахелой</zValue>
 			<zValue>Пинеос</zValue>
-			<zValue>Гедиз</zValue>
+			<zValue>Гермо</zValue>
+			<zValue>Вьоса</zValue>
+			<zValue>Нестос</zValue>
+			<zValue>Тиамис</zValue>
+			<zValue>Кефисс</zValue>
 		</azRiverNames>
 		<azForestNames>
 			<zValue>Лес Дадиа</zValue>
@@ -717,6 +722,8 @@
 			<zValue>Равнина Ханьи</zValue>
 			<zValue>Лелантин Плейн</zValue>
 			<zValue>Фессалийская равнина</zValue>
+			<zValue>Беотийская равнина</zValue>
+			<zValue>Пелагония</zValue>
 		</azPlainNames>
 		<azDesertNames>
 			<zValue>Пески Делиблато</zValue>
@@ -732,14 +739,17 @@
 			<zValue>Долина Амари</zValue>
 			<zValue>Долина Дрино</zValue>
 		</azValleyNames>
-		<azOceanNames>
-			<zValue>Атлантический океан</zValue>
-		</azOceanNames>
 		<azSeaNames>
 			<zValue>Эгейское море</zValue>
 			<zValue>Миртоанское море</zValue>
 			<zValue>Критское море</zValue>
 			<zValue>Ионическое море</zValue>
+			<zValue>Фракийское море</zValue>
+			<zValue>Ионическое море</zValue>
+			<zValue>Черное море</zValue>
+			<zValue>Мраморное море</zValue>
+			<zValue>Ливийское море</zValue>
+			<zValue>Карпатское море</zValue>
 		</azSeaNames>
 		<azBayNames>
 			<zValue>Коринфский залив</zValue>
@@ -752,26 +762,46 @@
 			<zValue>Северный Эвбейский залив</zValue>
 			<zValue>Пагасетический залив</zValue>
 			<zValue>Амбракийский залив</zValue>
+			<zValue>Малийский залив</zValue>
+			<zValue>Алкионида залив</zValue>
 		</azBayNames>
 		<azLakeNames>
-			<zValue>Лимни Илики</zValue>
-			<zValue>Лимни Паралимни</zValue>
-			<zValue>Лимни Трихонида</zValue>
+			<zValue>Озеро Илики</zValue>
+			<zValue>Озеро Паралимни</zValue>
+			<zValue>Озеро Трихонида</zValue>
 			<zValue>Озеро Преспа</zValue>
-			<zValue>Лимни Волви</zValue>
-			<zValue>Лимни Керкини</zValue>
-			<zValue>Лимни Памвотида</zValue>
+			<zValue>Озеро Волви</zValue>
+			<zValue>Озеро Керкини</zValue>
+			<zValue>Озеро Памвотида</zValue>
+			<zValue>Озеро Стимфалия</zValue>
 		</azLakeNames>
 		<azIslandNames>
 			<zValue>Крит</zValue>
 			<zValue>Родос</zValue>
-			<zValue>Остров Андрос</zValue>
-			<zValue>Остров Сифнос</zValue>
-			<zValue>Остров Эвбея</zValue>
-			<zValue>Остров Наксос</zValue>
-			<zValue>Остров Скирос</zValue>
-			<zValue>Остров Кифнос</zValue>
-			<zValue>Остров Милос</zValue>
+			<zValue>Кипр</zValue>
+			<zValue>Делос</zValue>
+			<zValue>Эгина </zValue>
+			<zValue>Наксос</zValue>
+			<zValue>Самос</zValue>
+			<zValue>Лесбос</zValue>
+			<zValue>Лемнос</zValue>
+			<zValue>Кос</zValue>
+			<zValue>Андрос</zValue>
+			<zValue>Сифнос</zValue>
+			<zValue>Серифос</zValue>
+			<zValue>Эвбея</zValue>
+			<zValue>Скирос</zValue>
+			<zValue>Скиатос</zValue>
+			<zValue>Скопелос</zValue>
+			<zValue>Кифнос</zValue>
+			<zValue>Мелос</zValue>
+			<zValue>Кеа</zValue>
+			<zValue>Иос</zValue>
+			<zValue>Икария</zValue>
+			<zValue>Саламин</zValue>
+			<zValue>Итаки</zValue>
+			<zValue>Закинф</zValue>
+			<zValue>Тасос</zValue>
 		</azIslandNames>
 	</Entry>
 	<Entry>

@@ -53,6 +53,7 @@
 		<GovernorEffectCity/>
 		<GeneralEffectUnit/>
 		<LeaderEffectUnit/>
+		<MemoryCharacter/>
 		<aiRating/>
 		<aiTraitOpinion/>
 		<aiTraitProb/>
@@ -1636,8 +1637,8 @@
 		</aiRating>
 	</Entry>
 	<Entry>
-		<zType>TRAIT_STUDY_TACTICS</zType>
-		<Name>TEXT_TRAIT_STUDY_TACTICS</Name>
+		<zType>TRAIT_STUDY_PHILOSOPHY</zType>
+		<Name>TEXT_TRAIT_STUDY_PHILOSOPHY</Name>
 		<bNoJob>1</bNoJob>
 	</Entry>
 	<Entry>
@@ -1646,13 +1647,13 @@
 		<bNoJob>1</bNoJob>
 	</Entry>
 	<Entry>
-		<zType>TRAIT_STUDY_COMMERCE</zType>
-		<Name>TEXT_TRAIT_STUDY_COMMERCE</Name>
+		<zType>TRAIT_STUDY_TACTICS</zType>
+		<Name>TEXT_TRAIT_STUDY_TACTICS</Name>
 		<bNoJob>1</bNoJob>
 	</Entry>
 	<Entry>
-		<zType>TRAIT_STUDY_PHILOSOPHY</zType>
-		<Name>TEXT_TRAIT_STUDY_PHILOSOPHY</Name>
+		<zType>TRAIT_STUDY_COMMERCE</zType>
+		<Name>TEXT_TRAIT_STUDY_COMMERCE</Name>
 		<bNoJob>1</bNoJob>
 	</Entry>
 	<Entry>
@@ -1873,6 +1874,7 @@
 		<bNoHeir>1</bNoHeir>
 		<bNoJob>1</bNoJob>
 		<bNoCourtier>1</bNoCourtier>
+		<MemoryCharacter>MEMORYCHARACTER_IMPRISONED_RECENTLY</MemoryCharacter>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_FUGITIVE</zType>

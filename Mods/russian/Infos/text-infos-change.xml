@@ -92,6 +92,10 @@
     <Translation>Советник~Советники</Translation>
   </Entry>
   <Entry>
+	<zType>TEXT_CONCEPT_SHRINE</zType>
+	<Translation>Святыня~Святыни</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_CONCEPT_SPECIALIST</zType>
     <Translation>Специалист~a Специалист~Специалисты</Translation>
   </Entry>
@@ -148,6 +152,10 @@
     <Translation>Проект~Проекта~Проекту~Проект~Проектом~Проекте~Проекты</Translation>
   </Entry>
   <Entry>
+	<zType>TEXT_CONCEPT_PROMOTION</zType>
+	<Translation>Повышение~Повышения~Повышению~Повышение~Повышением~Повышении</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_CONCEPT_RAISE_IMPROVEMENTS</zType>
     <Translation>Возвести сооружение</Translation>
   </Entry>
@@ -188,16 +196,25 @@
     <Translation>Вторжение племен</Translation>
   </Entry>
   <Entry>
+	<zType>TEXT_CONCEPT_UNDO</zType>
+	<Translation>Отменить</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_CONCEPT_UPGRADE</zType>
+	<Translation>Модернизация~Модернизации~Модернизации~Модернизацию~Модернизацией~Модернизации</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_CONCEPT_URBAN</zType>
     <Translation><![CDATA[Городские клетки~Города~Городского~Городскому~Городской~Городским~Городском~Городское~Городского~Городскому~Городское~Городским~Городском~Городская~Городской~Городской~Городскую~Городской~Городской~Городские~Городских~Городским~Городские~Городскими~Городских~Города]]></Translation>
   </Entry>
-	<!--<Entry>
-    <zType>TEXT_CONCEPT_RURAL</zType>
-    <Translation>Сельский</Translation>
-  </Entry>-->
+
   <Entry>
     <zType>TEXT_CONCEPT_ZOC</zType>
     <Translation>ЗК</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_CONCEPT_XP</zType>
+	<Translation>ОП~Опыт</Translation>
   </Entry>
   <!--InfoFamilyClass-->
   <Entry>
@@ -430,22 +447,6 @@
     <Translation>Контролировать 9 городов, связанных со столицей</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_GOAL_TEN_POPULATION</zType>
-    <Translation>Контролировать 10 ед. населения</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_30_POPULATION</zType>
-    <Translation>Контролировать 30 ед. населения</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_100_POPULATION</zType>
-    <Translation>Контролировать 100 ед. населения</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_HIGHEST_POPULATION</zType>
-    <Translation>Наивысшее число населения</Translation>
-  </Entry>
-  <Entry>
     <zType>TEXT_GOAL_GAULS_5</zType>
     <Translation>Убить 5 link(TRIBE_GAULS)</Translation>
   </Entry>
@@ -578,112 +579,8 @@
     <Translation>Контролировать 4 амбара</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_GOAL_TWO_TRIBAL_LUXURIES</zType>
-    <Translation>Отправить племенам 2 редких ресурса</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_PLAYER_LUXURIES</zType>
-    <Translation>Отправить соперникам 4 редких ресурса</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_SIX_FAMILY_LUXURIES</zType>
-    <Translation>Отправить семьям 6 редких ресурсов</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_EIGHT_LUXURIES</zType>
-    <Translation>Контролировать 8 редких ресурсов</Translation>
-  </Entry>
-  <Entry>
     <zType>TEXT_GOAL_SIX_BARRACKS_RANGES</zType>
     <Translation>Контролировать 6 казарм или стрельбищ</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_BATHS_1</zType>
-    <Translation>Контролировать 4 холодные купальни</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_BATHS_2</zType>
-    <Translation>Контролировать 4 теплые купальни</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_BATHS_3</zType>
-    <Translation>Контролировать 4 горячие купальни</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_THEATER_1</zType>
-    <Translation>Контролировать 4 одеона</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_THEATER_2</zType>
-    <Translation>Контролировать 4 амфитеатра</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_THEATER_3</zType>
-    <Translation>Контролировать 4 колизея</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_MARKET_1</zType>
-    <Translation>Контролировать 4 рынка</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_MARKET_2</zType>
-    <Translation>Контролировать 4 бакалеи</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_MARKET_3</zType>
-    <Translation>Контролировать 4 ярмарки</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_LIBRARY_1</zType>
-    <Translation>Контролировать 4 библиотеки</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_LIBRARY_2</zType>
-    <Translation>Контролировать  4 академии</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_LIBRARY_3</zType>
-    <Translation>Контролировать 4 университета</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_COURTHOUSE_1</zType>
-    <Translation>Контролировать  4 здания суда</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_COURTHOUSE_2</zType>
-    <Translation>Контролировать 4 министерства</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_COURTHOUSE_3</zType>
-    <Translation>Контролировать 4 дворца</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_GARRISON_1</zType>
-    <Translation>Контролировать 4 гарнизона</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_GARRISON_2</zType>
-    <Translation>Контролировать 4 крепости</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_GARRISON_3</zType>
-    <Translation>Контролировать 4 цитадели</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_EIGHT_SHRINES</zType>
-    <Translation>Контролировать 6 святилищ</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_MONASTERY</zType>
-    <Translation>Контролировать 4 монастыря</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_FOUR_TEMPLE</zType>
-    <Translation>Контролировать 5 храма</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_THREE_CATHEDRAL</zType>
-    <Translation>Контролировать 3 собора</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GOAL_EIGHT_TOWNS</zType>
@@ -704,10 +601,6 @@
   <Entry>
     <zType>TEXT_GOAL_EIGHT_REPAIRED</zType>
     <Translation>Починить 8 построек</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_LEGENDARY_IMPROVEMENTS</zType>
-    <Translation>Построить колизей, ярмарку, университет и дворец</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GOAL_PYRAMIDS</zType>
@@ -932,26 +825,6 @@
   <Entry>
     <zType>TEXT_GOAL_THREE_PEACE</zType>
     <Translation>Мир с тремя племенами или империями</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_ONE_RECAPTURE_CITY</zType>
-    <Translation>Вновь захватить 1 город</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_TWO_RECAPTURE_CITY</zType>
-    <Translation>Вновь захватить 2 города</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_THREE_CAPTURE_CITIES</zType>
-    <Translation>Захватить 3 чужеземных города</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_ONE_CAPITAL</zType>
-    <Translation>Захватить чужеземную столицу</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_GOAL_SIX_CAPTURE_CITIES</zType>
-    <Translation>Захватить 6 чужеземных городов</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GOAL_STATE_RELIGION</zType>
@@ -1184,6 +1057,154 @@
   <Entry>
     <zType>TEXT_GOAL_SIX_CARAVANS</zType>
     <Translation>Задачи шести караванов</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_TWO_TRIBAL_LUXURIES</zType>
+	<Translation>Отправить племенам 2 link(CONCEPT_LUXURY)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_PLAYER_LUXURIES</zType>
+	<Translation>Отправить соперникам 4 link(CONCEPT_LUXURY)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_SIX_FAMILY_LUXURIES</zType>
+	<Translation>Отправить семьям шесть link(CONCEPT_LUXURY)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_EIGHT_LUXURIES</zType>
+	<Translation>Контролировать 8 link(CONCEPT_LUXURY)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_ONE_RECAPTURE_CITY</zType>
+    <Translation>Вновь захватить 1 город</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GOAL_TWO_RECAPTURE_CITY</zType>
+    <Translation>Вновь захватить 2 города</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GOAL_THREE_CAPTURE_CITIES</zType>
+    <Translation>Захватить 3 чужеземных города</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GOAL_ONE_CAPITAL</zType>
+    <Translation>Захватить чужеземную столицу</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GOAL_SIX_CAPTURE_CITIES</zType>
+    <Translation>Захватить 6 чужеземных городов</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GOAL_TEN_POPULATION</zType>
+    <Translation>Контролировать 10 ед. населения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GOAL_30_POPULATION</zType>
+    <Translation>Контролировать 30 ед. населения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GOAL_100_POPULATION</zType>
+    <Translation>Контролировать 100 ед. населения</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_GOAL_HIGHEST_POPULATION</zType>
+    <Translation>Наивысшее число населения</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_BATHS_1</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_BATHS_1)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_BATHS_2</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_BATHS_2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_BATHS_3</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_BATHS_3)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_THEATER_1</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_THEATER_1)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_THEATER_2</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_THEATER_2,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_THEATER_3</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_THEATER_3,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_MARKET_1</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_MARKET_1,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_MARKET_2</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_MARKET_2,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_MARKET_3</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_MARKET_3,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_LIBRARY_1</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_LIBRARY_1,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_LIBRARY_2</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_LIBRARY_2,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_LIBRARY_3</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_LIBRARY_3,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_COURTHOUSE_1</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_COURTHOUSE_1,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_COURTHOUSE_2</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_COURTHOUSE_2,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_COURTHOUSE_3</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_COURTHOUSE_3,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_GARRISON_1</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_GARRISON_1,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_GARRISON_2</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_GARRISON_2,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_GARRISON_3</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENT_GARRISON_3,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_LEGENDARY_IMPROVEMENTS_1</zType>
+	<Translation>Построить link(IMPROVEMENT_THEATER_3), link(IMPROVEMENT_BATHS_3), и link(IMPROVEMENT_MARKET_3)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_LEGENDARY_IMPROVEMENTS_2</zType>
+	<Translation>Построить link(IMPROVEMENT_LIBRARY_3), link(IMPROVEMENT_COURTHOUSE_3), и link(IMPROVEMENT_GARRISON_3)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_EIGHT_SHRINES</zType>
+	<Translation>Контролировать 8 link(IMPROVEMENTCLASS_SHRINE,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_MONASTERY</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENTCLASS_MONASTERY,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_FOUR_TEMPLE</zType>
+	<Translation>Контролировать 4 link(IMPROVEMENTCLASS_TEMPLE,2)</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GOAL_THREE_CATHEDRAL</zType>
+	<Translation>Контролировать 3 link(IMPROVEMENTCLASS_CATHEDRAL,2)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GOAL_THREE_CITIES_FOREIGN</zType>

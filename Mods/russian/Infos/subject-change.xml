@@ -36,6 +36,7 @@
 		<CouncilPrereq comment="Council Member that this Character Subject must be."/>
 		<CouncilInvalid comment="Council Member that this Character Subject is not."/>
 		<CourtierPrereq comment="Courtier that this Character Subject must be."/>
+		<TraitNone comment="Player Subject has no Characters with this Trait."/>
 		<TraitPrereq comment="Trait required for this Character Subject."/>
 		<TraitInvalid comment="Trait that this Character Subject must not have."/>
 		<CognomenPrereq comment="Has this Cognomen."/>
@@ -69,6 +70,7 @@
 		<bIsUs comment="The player Subject must be the same as the player getting the event."/>
 		<bIsNotUs comment="The player Subject must be different from the player getting the event."/>
 		<bIsUsOrThem comment="The player Subject must be different from the player getting the event."/>
+		<bIsSameTeam comment="The player Subject must be different from the player getting the event but on the same team."/>
 		<bContactBoth comment="This player Subject has contacted us and vice-versa."/>
 		<bHuman comment="This player Subject must be human.
 (This value is only tested if either bIsUs, bIsNotUs, or bIsUsOrThem is true.)"/>
@@ -151,6 +153,7 @@ They must be an adult (at least 18) and no older than
 		<aiMinRating comment="List of minimum ratings (Leadership, etc.) required for this Subject."/>
 		<aiMaxRating comment="List of maximum ratings (Leadership, etc.) required for this Subject."/>
 		<aeTraitAny comment="The Character has at least one of these Traits."/>
+		<aeTraitNone comment="The Character has none of these Traits."/>
 		<aeYieldNegative comment="The Player has a negative rate of this Yield."/>
 	</Entry>
 	<!-- Divider -->
@@ -187,6 +190,7 @@ They must be an adult (at least 18) and no older than
 		<CouncilPrereq/>
 		<CouncilInvalid/>
 		<CourtierPrereq/>
+		<TraitNone/>
 		<TraitPrereq/>
 		<TraitInvalid/>
 		<CognomenPrereq/>
@@ -220,6 +224,7 @@ They must be an adult (at least 18) and no older than
 		<bIsUs/>
 		<bIsNotUs/>
 		<bIsUsOrThem/>
+		<bIsSameTeam/>
 		<bContactBoth/>
 		<bHuman/>
 		<bHasPlayer/>
@@ -298,6 +303,7 @@ They must be an adult (at least 18) and no older than
 		<aiMinRating/>
 		<aiMaxRating/>
 		<aeTraitAny/>
+		<aeTraitNone/>
 		<aeYieldNegative/>
 	</Entry>
 	<Entry comment="The human user's nation">
@@ -314,6 +320,12 @@ They must be an adult (at least 18) and no older than
 		<zType>SUBJECT_PLAYER_US_OR_THEM</zType>
 		<Class>SUBJECTCLASS_PLAYER</Class>
 		<bIsUsOrThem>1</bIsUsOrThem>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_SAME_TEAM</zType>
+		<Class>SUBJECTCLASS_PLAYER</Class>
+		<bIsNotUs>1</bIsNotUs>
+		<bIsSameTeam>1</bIsSameTeam>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_PLAYER_HUMAN_DIPLOMACY_NOT_FOUND</zType>
@@ -711,6 +723,12 @@ They must be an adult (at least 18) and no older than
 		<bIsNotUs>1</bIsNotUs>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_PLAYER_NO_ADOPTED_RELIGION</zType>
+		<zName>Did not Adopt Religion recently</zName>
+		<Class>SUBJECTCLASS_PLAYER</Class>
+		<MemoryPlayerInvalid>MEMORYPLAYER_ADOPTED_RELIGION</MemoryPlayerInvalid>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_PLAYER_BROKE_PEACE</zType>
 		<Class>SUBJECTCLASS_PLAYER</Class>
 		<MemoryPlayerPrereq>MEMORYPLAYER_BROKE_PEACE</MemoryPlayerPrereq>
@@ -774,6 +792,7 @@ They must be an adult (at least 18) and no older than
 	</Entry>
 	<Entry comment="Nation only if Heirs exist">
 		<zType>SUBJECT_PLAYER_HAS_HEIRS</zType>
+		<zName>Имеет наследника(ов)</zName>
 		<Class>SUBJECTCLASS_PLAYER</Class>
 		<bHasHeirs>1</bHasHeirs>
 	</Entry>
@@ -844,6 +863,26 @@ They must be an adult (at least 18) and no older than
 		<Class>SUBJECTCLASS_PLAYER</Class>
 		<bIsNotUs>1</bIsNotUs>
 		<bTrading>1</bTrading>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_NONE_STUDY_PHILOSOPHY</zType>
+		<Class>SUBJECTCLASS_PLAYER</Class>
+		<TraitNone>TRAIT_STUDY_PHILOSOPHY</TraitNone>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_NONE_STUDY_RHETORIC</zType>
+		<Class>SUBJECTCLASS_PLAYER</Class>
+		<TraitNone>TRAIT_STUDY_RHETORIC</TraitNone>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_NONE_STUDY_TACTICS</zType>
+		<Class>SUBJECTCLASS_PLAYER</Class>
+		<TraitNone>TRAIT_STUDY_TACTICS</TraitNone>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_PLAYER_NONE_STUDY_COMMERCE</zType>
+		<Class>SUBJECTCLASS_PLAYER</Class>
+		<TraitNone>TRAIT_STUDY_COMMERCE</TraitNone>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_PLAYER_TACTICIAN</zType>
@@ -2405,6 +2444,11 @@ They must be an adult (at least 18) and no older than
 		<RelationLeader>SUBJECTRELATION_ENDEARED_TO</RelationLeader>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_TERRIFIED_OF_LEADER</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<RelationLeader>SUBJECTRELATION_TERRIFIED_OF</RelationLeader>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_OBLIGED_TO_LEADER</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<RelationLeader>SUBJECTRELATION_OBLIGED_TO</RelationLeader>
@@ -3463,6 +3507,16 @@ They must be an adult (at least 18) and no older than
 		</aeTraitAny>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_CHARACTER_NOT_RELIGIOUS</zType>
+		<zName>Не религиозный</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<aeTraitNone>
+			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
+			<zValue>TRAIT_SUPERSTITIOUS</zValue>
+			<zValue>TRAIT_PIOUS</zValue>
+		</aeTraitNone>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_CHARACTER_GOOD</zType>
 		<zName>Хороший</zName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
@@ -3471,6 +3525,16 @@ They must be an adult (at least 18) and no older than
 			<zValue>TRAIT_HUMBLE</zValue>
 			<zValue>TRAIT_GRACIOUS</zValue>
 		</aeTraitAny>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_NOT_GOOD</zType>
+		<zName>Не хороший</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<aeTraitNone>
+			<zValue>TRAIT_HONEST</zValue>
+			<zValue>TRAIT_HUMBLE</zValue>
+			<zValue>TRAIT_GRACIOUS</zValue>
+		</aeTraitNone>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_CHARACTER_BAD</zType>
@@ -3484,8 +3548,19 @@ They must be an adult (at least 18) and no older than
 		</aeTraitAny>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_CHARACTER_NOT_BAD</zType>
+		<zName>Неплохо</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<aeTraitNone>
+			<zValue>TRAIT_BLOODTHIRSTY</zValue>
+			<zValue>TRAIT_DISHONEST</zValue>
+			<zValue>TRAIT_PROUD</zValue>
+			<zValue>TRAIT_GREEDY</zValue>
+		</aeTraitNone>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_CHARACTER_STRONG</zType>
-		<zName>Strong</zName>
+		<zName>Сильный</zName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<aeTraitAny>
 			<zValue>TRAIT_BOLD</zValue>
@@ -3493,6 +3568,17 @@ They must be an adult (at least 18) and no older than
 			<zValue>TRAIT_ROBUST</zValue>
 			<zValue>TRAIT_FIERCE</zValue>
 		</aeTraitAny>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_NOT_STRONG</zType>
+		<zName>Not Strong</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<aeTraitNone>
+			<zValue>TRAIT_BOLD</zValue>
+			<zValue>TRAIT_TOUGH</zValue>
+			<zValue>TRAIT_ROBUST</zValue>
+			<zValue>TRAIT_FIERCE</zValue>
+		</aeTraitNone>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_CHARACTER_WEAK</zType>
@@ -3506,6 +3592,17 @@ They must be an adult (at least 18) and no older than
 		</aeTraitAny>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_CHARACTER_NOT_WEAK</zType>
+		<zName>Not Weak</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<aeTraitNone>
+			<zValue>TRAIT_COWARDLY</zValue>
+			<zValue>TRAIT_SPOILED</zValue>
+			<zValue>TRAIT_INSANE</zValue>
+			<zValue>TRAIT_FOOLISH</zValue>
+		</aeTraitNone>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_CHARACTER_TRADITIONAL</zType>
 		<zName>Традиционный</zName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
@@ -3514,6 +3611,16 @@ They must be an adult (at least 18) and no older than
 			<zValue>TRAIT_FRUGAL</zValue>
 			<zValue>TRAIT_INTOLERANT</zValue>
 		</aeTraitAny>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_NOT_TRADITIONAL</zType>
+		<zName>Not Traditional</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<aeTraitNone>
+			<zValue>TRAIT_STRICT</zValue>
+			<zValue>TRAIT_FRUGAL</zValue>
+			<zValue>TRAIT_INTOLERANT</zValue>
+		</aeTraitNone>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_CHARACTER_CARNAL</zType>
@@ -3525,6 +3632,43 @@ They must be an adult (at least 18) and no older than
 			<zValue>TRAIT_DRUNK</zValue>
 			<zValue>TRAIT_EXTRAVAGANT</zValue>
 		</aeTraitAny>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_NOT_CARNAL</zType>
+		<zName>Not Carnal</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<aeTraitNone>
+			<zValue>TRAIT_WANTON</zValue>
+			<zValue>TRAIT_DEBAUCHED</zValue>
+			<zValue>TRAIT_DRUNK</zValue>
+			<zValue>TRAIT_EXTRAVAGANT</zValue>
+		</aeTraitNone>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_TERRIFYING</zType>
+		<zName>Terrifying</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<aeTraitAny>
+			<zValue>TRAIT_CRUEL</zValue>
+			<zValue>TRAIT_BLOODTHIRSTY</zValue>
+			<zValue>TRAIT_FIERCE</zValue>
+			<zValue>TRAIT_RUTHLESS</zValue>
+			<zValue>TRAIT_INSANE</zValue>
+			<zValue>TRAIT_SUPERSTITIOUS</zValue>
+		</aeTraitAny>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_NOT_TERRIFYING</zType>
+		<zName>Not Terrifying</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<aeTraitNone>
+			<zValue>TRAIT_CRUEL</zValue>
+			<zValue>TRAIT_BLOODTHIRSTY</zValue>
+			<zValue>TRAIT_FIERCE</zValue>
+			<zValue>TRAIT_RUTHLESS</zValue>
+			<zValue>TRAIT_INSANE</zValue>
+			<zValue>TRAIT_SUPERSTITIOUS</zValue>
+		</aeTraitNone>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_CHARACTER_SEVEN_SINS</zType>
@@ -3565,6 +3709,16 @@ They must be an adult (at least 18) and no older than
 		</aeTraitAny>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_CHARACTER_ARCHETYPE_NOT_INQUISITIVE</zType>
+		<zName>Not Inquisitive</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<aeTraitNone>
+			<zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
+			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
+			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
+		</aeTraitNone>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_CHARACTER_ARCHETYPE_MARTIAL</zType>
 		<zName>Воинственный</zName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
@@ -3575,6 +3729,16 @@ They must be an adult (at least 18) and no older than
 		</aeTraitAny>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_CHARACTER_ARCHETYPE_NOT_MARTIAL</zType>
+		<zName>Not Martial</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<aeTraitNone>
+			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
+			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
+			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
+		</aeTraitNone>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_CHARACTER_ARCHETYPE_PARANOID</zType>
 		<zName>Параноидальный</zName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
@@ -3582,6 +3746,46 @@ They must be an adult (at least 18) and no older than
 			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
 			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
 			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
+		</aeTraitAny>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_ARCHETYPE_NOT_PARANOID</zType>
+		<zName>Not Paranoid</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<aeTraitNone>
+			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
+			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
+			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
+		</aeTraitNone>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_AMBASSADOR_CANDIDATE</zType>
+		<zName>Ambassador Candidate</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<aeTraitAny>
+			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
+			<zValue>TRAIT_DIPLOMAT_ARCHETYPE</zValue>
+			<zValue>TRAIT_ORATOR_ARCHETYPE</zValue>
+		</aeTraitAny>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_CHANCELLOR_CANDIDATE</zType>
+		<zName>Chancellor Candidate</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<aeTraitAny>
+			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
+			<zValue>TRAIT_JUDGE_ARCHETYPE</zValue>
+			<zValue>TRAIT_BUILDER_ARCHETYPE</zValue>
+		</aeTraitAny>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_SPYMASTER_CANDIDATE</zType>
+		<zName>Spymaster Candidate</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<aeTraitAny>
+			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
+			<zValue>TRAIT_SCHEMER_ARCHETYPE</zValue>
+			<zValue>TRAIT_SCHOLAR_ARCHETYPE</zValue>
 		</aeTraitAny>
 	</Entry>
 	<Entry>
@@ -3894,6 +4098,18 @@ They must be an adult (at least 18) and no older than
 		<zType>SUBJECT_SAVIOR_OF_THE_THRONE</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_SAVIOR_OF_THE_THRONE</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_NO_IMPRISONED_RECENTLY</zType>
+		<zName>Not link(TRAIT_IMPRISONED) recently</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<MemoryCharacterInvalid>MEMORYCHARACTER_IMPRISONED_RECENTLY</MemoryCharacterInvalid>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CHARACTER_NO_INFLUENCE</zType>
+		<zName>Not Influenced</zName>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<MemoryCharacterInvalid>MEMORYCHARACTER_INFLUENCE</MemoryCharacterInvalid>
 	</Entry>
 	<Entry comment="If a leader demanded money ransom">
 		<zType>SUBJECT_CHARACTER_DEMANDED_MONEY</zType>

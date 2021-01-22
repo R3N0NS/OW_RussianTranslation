@@ -261,6 +261,26 @@
 		<zType>TEXT_EVENTSTORY_SUPPORTING_THE_FAITH_TITLE</zType>
 		<Translation>Демонстрация веры</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGIOUS_MOB_TITLE</zType>
+		<Translation>Толпа {RELIGION-0,1}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGIOUS_TITHES_TITLE</zType>
+		<Translation>Религиозная десятина</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGIOUS_GOVERNOR_TITLE</zType>
+		<Translation>Ведет за собой паству</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGIOUS_PRAISE_TITLE</zType>
+		<Translation>Похвала</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_SCHOLAR_DENOUNCED_TITLE</zType>
+		<Translation>Осужденный ученый</Translation>
+	</Entry>
 	<Entry beginGroup="Exploration">
 		<zType>TEXT_EVENTSTORY_RUINS_SURVIVORS_TITLE</zType>
 		<Translation>Выжившие</Translation>
@@ -1917,6 +1937,10 @@
 		<zType>TEXT_EVENTSTORY_TRIBE_ELIMINATED_COMMEMORATION_TITLE</zType>
 		<Translation>Поминовение</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ELIMINATED_POST_WAR_TITLE</zType>
+		<Translation>После войны</Translation>
+	</Entry>
 	<Entry beginGroup="Family">
 		<zType>TEXT_EVENTSTORY_FAMILY_GIFT_TITLE</zType>
 		<Translation>Добрый жест</Translation>
@@ -2498,7 +2522,11 @@
 		<Translation>Игры семьи</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTSTORY_START_LAW_TITLE</zType>
+		<zType>TEXT_EVENTSTORY_FAMILY_LAW_TITLE</zType>
+		<Translation>Изменение закона</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THEOLOGY_LAW_TITLE</zType>
 		<Translation>Изменение закона</Translation>
 	</Entry>
 	<Entry>
@@ -4881,6 +4909,18 @@
 		<zType>TEXT_EVENTSTORY_STUDY_INSPIRED_VIA_RECTA_SOUK_TITLE</zType>
 		<Translation>Вдохновленный link(IMPROVEMENT_VIA_RECTA_SOUK) в {CITY-1}</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_INFLUENCE_OF_TERROR_TITLE</zType>
+		<Translation>Влияние террора</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_REIGN_OF_TERROR_TITLE</zType>
+		<Translation>Террор</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BREAKING_THEIR_FEAR_TITLE</zType>
+		<Translation>Разрушая их страх</Translation>
+	</Entry>
 	<Entry beginGroup="City">
 		<zType>TEXT_EVENTSTORY_HAPPINESS_IMMIGRANTS_TITLE</zType>
 		<Translation>Иммигранты</Translation>
@@ -5660,6 +5700,22 @@
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARSH_RULE_TITLE</zType>
 		<Translation>Жесткое правило</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOLY_SITE_ZOROASTRIANISM_TITLE</zType>
+		<Translation>link(IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOLY_SITE_JUDAISM_TITLE</zType>
+		<Translation>link(IMPROVEMENT_HOLY_SITE_JUDAISM)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOLY_SITE_CHRISTIANITY_TITLE</zType>
+		<Translation>link(IMPROVEMENT_HOLY_SITE_CHRISTIANITY)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOLY_SITE_MANICHAEISM_TITLE</zType>
+		<Translation>link(IMPROVEMENT_HOLY_SITE_MANICHAEISM)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_PYRAMIDS_TITLE</zType>
@@ -7163,6 +7219,10 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_INTRO_TITLE</zType>
+		<Translation>{NATION-0} в Old World</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_INTRO_NO_NATION_TITLE</zType>
 		<Translation>Добро пожаловать в Old World</Translation>
 	</Entry>
 	<Entry>
@@ -7178,6 +7238,10 @@
 		<Translation>Обучение: Второй город</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_PAGAN_SHRINE_TITLE</zType>
+		<Translation>Обучение: Язычество</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_WORKER_SELECTED_TITLE</zType>
 		<Translation>Обучение: link(UNIT_WORKER)</Translation>
 	</Entry>
@@ -7188,6 +7252,10 @@
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_WARRIOR_SELECTED_TITLE</zType>
 		<Translation>Обучение: link(UNIT_WARRIOR)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_UPGRADES_TITLE</zType>
+		<Translation>Обучение: Улучшение юнита</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_TRIBE_CAMP_CLEARED_TITLE</zType>
@@ -7218,6 +7286,10 @@
 		<Translation>Обучение: Уставший юнит</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_UNDO_TITLE</zType>
+		<Translation>Обучение: Отмена</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_OUT_OF_ORDERS_TITLE</zType>
 		<Translation>Обучение: Out Of link(YIELD_ORDERS)</Translation>
 	</Entry>
@@ -7246,6 +7318,10 @@
 		<Translation>Обучение: Специалисты</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_GOVERNOR_TITLE</zType>
+		<Translation>Обучение: Губернатор</Translation>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_SUCCESSION_TITLE</zType>
 		<Translation>Обучение: Престолонаследие</Translation>
 	</Entry>
@@ -7268,6 +7344,22 @@
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_ONAGER_SELECTED_TITLE</zType>
 		<Translation>Обучение: link(UNIT_ONAGER)</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_FAMILY_ANGRY_TITLE</zType>
+		<Translation>Обучение: Семейное мнение</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_APPOINT_AMBASSADOR_TITLE</zType>
+		<Translation>Обучение: Посол</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_APPOINT_CHANCELLOR_TITLE</zType>
+		<Translation>Обучение: Визирь</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_APPOINT_SPYMASTER_TITLE</zType>
+		<Translation>Обучение: Лазутчик</Translation>
 	</Entry>
 	<Entry beginGroup="Community">
 		<zType>TEXT_EVENTSTORY_GOT_YOUR_NOSE_TITLE</zType>

@@ -10,6 +10,7 @@
 		<iRow/>
 		<iCost/>
 		<iSpreadChange/>
+		<Achievement/>
 		<aiLawOpinion/>
 		<abPrereqTheology/>
 	</Entry>
@@ -21,6 +22,7 @@
 		<iColumn>0</iColumn>
 		<iRow>0</iRow>
 		<iSpreadChange>5</iSpreadChange>
+		<Achievement>ACHIEVEMENT_THEOLOGY_MYTHOLOGY</Achievement>
 		<aiLawOpinion>
 			<Pair>
 				<zIndex>LAW_EPICS</zIndex>
@@ -36,6 +38,7 @@
 		<iColumn>2</iColumn>
 		<iRow>0</iRow>
 		<iSpreadChange>5</iSpreadChange>
+		<Achievement>ACHIEVEMENT_THEOLOGY_VENERATION</Achievement>
 		<aiLawOpinion>
 			<Pair>
 				<zIndex>LAW_SENIORITY</zIndex>
@@ -51,6 +54,7 @@
 		<iColumn>4</iColumn>
 		<iRow>0</iRow>
 		<iSpreadChange>5</iSpreadChange>
+		<Achievement>ACHIEVEMENT_THEOLOGY_LEGALISM</Achievement>
 		<aiLawOpinion>
 			<Pair>
 				<zIndex>LAW_CONSTITUTION</zIndex>
@@ -66,6 +70,7 @@
 		<iColumn>1</iColumn>
 		<iRow>1</iRow>
 		<iSpreadChange>5</iSpreadChange>
+		<Achievement>ACHIEVEMENT_THEOLOGY_REVELATION</Achievement>
 		<aiLawOpinion>
 			<Pair>
 				<zIndex>LAW_ICONOGRAPHY</zIndex>
@@ -81,6 +86,7 @@
 		<iColumn>3</iColumn>
 		<iRow>1</iRow>
 		<iSpreadChange>5</iSpreadChange>
+		<Achievement>ACHIEVEMENT_THEOLOGY_GNOSTICISM</Achievement>
 		<aiLawOpinion>
 			<Pair>
 				<zIndex>LAW_ELITES</zIndex>
@@ -96,6 +102,7 @@
 		<iColumn>0</iColumn>
 		<iRow>2</iRow>
 		<iSpreadChange>5</iSpreadChange>
+		<Achievement>ACHIEVEMENT_THEOLOGY_REDEMPTION</Achievement>
 		<aiLawOpinion>
 			<Pair>
 				<zIndex>LAW_PILGRIMAGE</zIndex>
@@ -111,6 +118,7 @@
 		<iColumn>2</iColumn>
 		<iRow>2</iRow>
 		<iSpreadChange>5</iSpreadChange>
+		<Achievement>ACHIEVEMENT_THEOLOGY_DUALISM</Achievement>
 		<aiLawOpinion>
 			<Pair>
 				<zIndex>LAW_DIVINE_RULE</zIndex>
@@ -126,6 +134,7 @@
 		<iColumn>4</iColumn>
 		<iRow>2</iRow>
 		<iSpreadChange>5</iSpreadChange>
+		<Achievement>ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT</Achievement>
 		<aiLawOpinion>
 			<Pair>
 				<zIndex>LAW_PHILOSOPHY</zIndex>

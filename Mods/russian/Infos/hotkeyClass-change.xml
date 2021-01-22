@@ -8,54 +8,54 @@
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_GAMEPLAY</zType>
-		<zName>Gameplay</zName>
+		<zName>Игровой процесс</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_CAMERA</zType>
-		<zName>Camera</zName>
+		<zName>Камера</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_NAVIGATION</zType>
-		<zName>Navigation</zName>
+		<zName>Навигация</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_OVERLAYS</zType>
-		<zName>Overlays</zName>
+		<zName>Наложения</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_SCREENS</zType>
-		<zName>Screens</zName>
+		<zName>Экраны</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_POPUPS</zType>
-		<zName>Popups</zName>
+		<zName>Всплывающие окна</zName>
 		<bPopupValid>1</bPopupValid>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_TOOLTIPS</zType>
-		<zName>Tooltips</zName>
+		<zName>Всплывающие подсказки</zName>
 		<bPopupValid>1</bPopupValid>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_SAVES</zType>
-		<zName>Saves</zName>
+		<zName>Сохранение</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_COMMUNICATION</zType>
-		<zName>Communication</zName>
+		<zName>Коммуникация</zName>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_MAP_EDITOR</zType>
-		<zName>Map Editor</zName>
+		<zName>Редактор карт</zName>
 		<bMapEditor>1</bMapEditor>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_EVENT_BROWSER</zType>
-		<zName>Event Browser</zName>
+		<zName>Обозреватель событий</zName>
 		<bMapEditor>1</bMapEditor>
 	</Entry>
 	<Entry>
 		<zType>HOTKEYCLASS_DEBUG</zType>
-		<zName>Debug</zName>
+		<zName>Отладка</zName>
 	</Entry>
 </Root>

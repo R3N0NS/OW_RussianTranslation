@@ -51,12 +51,12 @@
 	</Entry>
 	<Entry>
 		<zType>MEMORYFAMILY_PURSUED_AMBITION</zType>
-		<zText>Pursued our Ambition</zText>
+		<zText>Pursued our link(CONCEPT_AMBITION)</zText>
 		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_NORMAL</MemoryLevel>
 	</Entry>
 	<Entry>
 		<zType>MEMORYFAMILY_OUR_AMBITION</zType>
-		<zText>Completed our Ambition</zText>
+		<zText>Completed our link(CONCEPT_AMBITION)</zText>
 		<MemoryLevel>MEMORYLEVEL_POS_HIGH_NORMAL</MemoryLevel>
 	</Entry>
 	<Entry>
@@ -83,6 +83,11 @@
 		<zType>MEMORYFAMILY_MARRIAGE_DECLINE</zType>
 		<zText>Declined Marriage</zText>
 		<MemoryLevel>MEMORYLEVEL_NEG_LOW_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_MARRIAGE_OTHER</zType>
+		<zText>Married other Family</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_SHORT</MemoryLevel>
 	</Entry>
 	<Entry>
 		<zType>MEMORYFAMILY_ASSASSINATION_EXPOSED</zType>
@@ -1371,16 +1376,6 @@
 		<MemoryLevel>MEMORYLEVEL_NEG_LOW_SHORT</MemoryLevel>
 	</Entry>
 	<Entry>
-		<zType>MEMORYFAMILY_REFUSED_TO_CHANGE_LAW</zType>
-		<zText>Refused to change law</zText>
-		<MemoryLevel>MEMORYLEVEL_NEG_LOW_SHORT</MemoryLevel>
-	</Entry>
-	<Entry>
-		<zType>MEMORYFAMILY_REFUSED_TO_CHANGE_LAW_SMALL</zType>
-		<zText>Refused to change law</zText>
-		<MemoryLevel>MEMORYLEVEL_NEG_LOW_SHORT</MemoryLevel>
-	</Entry>
-	<Entry>
 		<zType>MEMORYFAMILY_REFUSED_RUMORS</zType>
 		<zText>Refused to heed rumors</zText>
 		<MemoryLevel>MEMORYLEVEL_NEG_LOW_SHORT</MemoryLevel>
@@ -1389,6 +1384,11 @@
 		<zType>MEMORYFAMILY_ACCUSED_OF_MURDER</zType>
 		<zText>Accused us of plotting murder</zText>
 		<MemoryLevel>MEMORYLEVEL_NEG_LOW_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_THE_LUTE_PLAYER</zType>
+		<zText>Sent your condolences</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_LOW_SHORT</MemoryLevel>
 	</Entry>
 	<Entry>
 		<zType>MEMORYFAMILY_IMPRISONED_SPYMASTER</zType>
@@ -1439,6 +1439,11 @@
 		<zType>MEMORYFAMILY_IMPRISONED_MEMBER</zType>
 		<zText>Imprisoned family member</zText>
 		<MemoryLevel>MEMORYLEVEL_NEG_MEDIUM_SHORT</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYFAMILY_IMPRESSED_IN_COURT</zType>
+		<zText>Impressed us in court</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_LOW_SHORT</MemoryLevel>
 	</Entry>
 	<Entry beginGroup="Community">
 		<zType>MEMORYFAMILY_WATCHED_BABY_LEADER_CRY</zType>

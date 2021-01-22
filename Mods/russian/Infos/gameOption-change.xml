@@ -69,6 +69,11 @@
 		<zHelp>Рандомизируйте класс каждой семьи (мудрец, ремесленник, чемпион и т. д.).</zHelp>
 	</Entry>
 	<Entry>
+		<zType>GAMEOPTION_ROLE_PLAYING</zType>
+		<zName>Role Playing</zName>
+		<zHelp>Нет всплывающих окон во время событий</zHelp>
+	</Entry>
+	<Entry>
 		<zType>GAMEOPTION_ONE_CITY_CHALLENGE</zType>
 		<zName>Один город</zName>
 		<zHelp>Игрокам не разрешается контролировать более одного города.</zHelp>

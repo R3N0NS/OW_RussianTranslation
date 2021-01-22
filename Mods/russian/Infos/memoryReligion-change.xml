@@ -10,6 +10,11 @@
 		<bName comment="Show the name for event options."/>
 	</Entry>
 	<Entry>
+		<zType>MEMORYRELIGION_PURGE_RELIGION</zType>
+		<zText>Purge us from your Cities</zText>
+		<MemoryLevel>MEMORYLEVEL_NEG_LOW_LONG</MemoryLevel>
+	</Entry>
+	<Entry>
 		<zType>MEMORYRELIGION_MADE_OFFERINGS</zType>
 		<zText>Святые приношения</zText>
 		<MemoryLevel>MEMORYLEVEL_POS_LOW_LONG</MemoryLevel>
@@ -371,12 +376,27 @@
 	</Entry>
     <Entry>
         <zType>MEMORYRELIGION_SUPPORTED_FAITH</zType>
-        <zText>Rose to support the faith</zText>
+        <zText>Gave support</zText>
         <MemoryLevel>MEMORYLEVEL_POS_LOW_NORMAL</MemoryLevel>
     </Entry>
     <Entry>
         <zType>MEMORYRELIGION_REFUSED_SUPPORT</zType>
-        <zText>Refused to support the faith</zText>
+        <zText>Refused support</zText>
         <MemoryLevel>MEMORYLEVEL_NEG_LOW_NORMAL</MemoryLevel>
     </Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ACCEPTED_GOVERNOR</zType>
+		<zText>Accepted proposed governor</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_LOW_NORMAL</MemoryLevel>
+	</Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_REFUSED_GOVERNOR</zType>
+		<zText>Refused proposed governor</zText>
+        <MemoryLevel>MEMORYLEVEL_NEG_LOW_NORMAL</MemoryLevel>
+    </Entry>
+	<Entry>
+		<zType>MEMORYRELIGION_ALLOWED_SPONSORS</zType>
+		<zText>Allowed other family to sponsor worship</zText>
+		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_NORMAL</MemoryLevel>
+	</Entry>
 </Root>

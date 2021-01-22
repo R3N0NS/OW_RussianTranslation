@@ -337,6 +337,36 @@
 
 Он предполагает, что, возможно, демонстрация поддержки {RELIGION-0} поможет вам обоим.]]></Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGIOUS_MOB</zType>
+		<Translation>Толпа разъяренных {RELIGION-0,3} собралась на улицах вокруг дворца, возмущенная пламенными речами {CHARACTER-1} и вашими недавними действиями против веры. Ваши советники предупреждают, что толпа на грани насилия.
+
+Как вы вмешаетесь?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGIOUS_TITHES</zType>
+		<Translation>Даже самые благочестивые нуждаются в материальных ресурсах для поддержания своих мест поклонения, настаивает заявитель от {RELIGION-0}. Она утверждает, что корона должна десятину за пользование религиозной землей.
+
+Как мы ответим на это требование?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGIOUS_GOVERNOR</zType>
+		<Translation><![CDATA[<p.is_sub.S1=SUBJECT_ZOROASTRIANISM>Колдуны<p=SUBJECT_CHRISTIANITY>Епископы<p=SUBJECT_JUDAISM>Коэн<p=SUBJECT_MANICHAEISM>Избранники<else>Жрецы<end> из {CITY-0} прибывают в правительство, чтобы предстать перед вами. Они говорит о том, что город нуждается в руководстве со стороны лидера, который поддержит усилия веры. Они смело заявляют, что {CHARACTER-2} имеет поддержку {RELIGION-1,1}.
+
+Должен ли {CHARACTER-2} быть новым link(CONCEPT_GOVERNOR) {CITY-0}? ]]></Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RELIGIOUS_PRAISE</zType>
+		<Translation>{CHARACTER-0} подходит к вам однажды утром, прося вашего благословения на спонсорство предстоящего религиозного фестиваля {RELIGION-1,1}.
+
+Это понравится верующим, но позволить другим семьям спонсировать такие религиозные мероприятия могло бы разрушить отношения между короной и верой.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_SCHOLAR_DENOUNCED</zType>
+		<Translation><![CDATA["Меня беспокоит," хорошо одетый <p.is_sub.S2=SUBJECT_ZOROASTRIANISM>Колдун<p=SUBJECT_CHRISTIANITY>Епископ<p=SUBJECT_JUDAISM>Коэн<p=SUBJECT_MANICHAEISM>Избранник<else>Жрец<end> зачитывает сообщение от {CHARACTER-0}, "Благодаря влиянию, которое {CHARACTER-1} имеет при вашем дворе.  {G1:Он:Она}может создать угрозу для распространения {RELIGION-2}. Осудите {G1:его:ее} выводы , остальные члены суда должны последовать этому примеру."."
+
+The <p.is_sub.S2=SUBJECT_ZOROASTRIANISM>Колдун<p=SUBJECT_CHRISTIANITY>Епископ<p=SUBJECT_JUDAISM>Коэн<p=SUBJECT_MANICHAEISM>Избранник<else>Жрец<end> смотрит выжидательно. Как вы отреагируете?]]></Translation>
+	</Entry>
 	<Entry beginGroup="Exploration">
 		<zType>TEXT_EVENTSTORY_RUINS_SURVIVORS</zType>
 		<Translation>Эта деревня недавно подверглась нападению. Мы обнаружили группу выживших, затаившихся в ее руинах. Похоже, они готовы отказаться от обломков старой жизни и присоединиться к нашей империи, но наша культура им совсем не знакома. 
@@ -3200,6 +3230,14 @@ link(CONCEPT_GENERAL) {CHARACTER-SHORT-0} среди тех, кто постра
 
 "Мощь нашей нации растет с каждым днем, {G4:мой лорд:моя леди}. Лучшие художники и поэты из {CITY-3} хотят отметить нашу недавнюю победу над {TRIBE-0}. Отметим это событие грандиозным праздником!"</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRIBE_ELIMINATED_POST_WAR</zType>
+		<Translation>Когда война {PLAYER-4} с {TRIBE-0} подходит к концу после полного поражения последнего, среди некоторых дворян возникает волнение. Из {CITY-3} приходит известие, что {FAMILY-1} хочет оспорить законность войны.
+
+{CHARACTER-2}, в частности, {G2:зашел:зашла} так далеко, что {G2:назвал:назвала} вас поджигателем войны. {G2:Он непреклонен:Она непреклонна} в том, что необходимые шаги консультации были пропущены в вашей предполагаемой спешке, чтобы “добавить еще один трофей в вашу комнату”.
+
+Как вы ответите на обвинения?</Translation>
+	</Entry>
 	<Entry beginGroup="Marriage">
 		<zType>TEXT_EVENTSTORY_MARRIAGE_OFFER</zType>
 		<Translation>Поступило новое предложение руки и сердца: {CHARACTER-0} и {CHARACTER-1}.
@@ -4095,10 +4133,14 @@ How shall we respond?</Translation>
 Как мы ответим?</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTSTORY_START_LAW</zType>
+		<zType>TEXT_EVENTSTORY_FAMILY_LAW</zType>
 		<Translation>Представители семьи {FAMILY-0} обращаются ко двору с просьбой. Они желают, чтобы правительство {PLAYER-0,1} ввело новый закон, {LAW-1}, отвечающий их интересам.
 
 Как мы ответим?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THEOLOGY_LAW</zType>
+		<Translation>[STUB: СВЯЩЕННИКИ ИЗ {RELIGION-2} ТРЕБУЮТ, ЧТОБЫ МЫ ИЗМЕНИЛИ ЗАКОНЫ НА {LAW-1} ИЗ-ЗА ИХ {THEOLOGY-0} БОГОСЛОВИЯ]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_ESTABLISH_THEOLOGY</zType>
@@ -7561,6 +7603,20 @@ How shall we respond?</Translation>
 		<zType>TEXT_EVENTSTORY_STUDY_INSPIRED_VIA_RECTA_SOUK</zType>
 		<Translation>{CHARACTER-0} был вдохновлен {G0:его:ее} недавним визитом в link(IMPROVEMENT_VIA_RECTA_SOUK) в {CITY-1}. {G0:он:она} приходит к вам переполненный энтузиазмом. Какое наставление мы должны дать?</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_INFLUENCE_OF_TERROR</zType>
+		<Translation>Вы загоняете {CHARACTER-1} в угол коридора дворца поздно ночью. {G1:Он оказался :Она оказалась} очень {G1:скрытным мужчиной:скрытной  женщиной}. Когда вы обсуждаете вопросы и пытаетесь найти союзника, на {G1:его:ее} лице вспыхивает упорство.
+
+Дела идут плохо. Может быть, ты мог бы использовать {G1:его:ее} страх в своих интересах?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_REIGN_OF_TERROR</zType>
+		<Translation>Придворные в страхе бегут от вас за стены дворца, шепча о вашей ужасающей репутации. Возможно, мы могли бы использовать это в наших интересах. Армия поддерживает тебя, {G0:мой король:моя королева}. Давайте захватим заложников в каждой из семей и позаботимся о том, чтобы они никогда не восстали против вас, чтобы мы не убили тех, кого они любят, и всех, кто выступает против вашего правления. Слава нашему тирану {CHARACTER-0}! </Translation>
+    </Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BREAKING_THEIR_FEAR</zType>
+		<Translation>Поступили сообщения относительно {CHARACTER-0}. Кажется, {G0:он:она} больше не боится тебя. Как мы должны поступить?</Translation>
+		</Entry>
 	<Entry beginGroup="City">
 		<zType>TEXT_EVENTSTORY_HAPPINESS_IMMIGRANTS</zType>
 		<Translation> толпа варваров-беженцев поселилась за воротами {CITY-0}. Они просят у нас помощи и убежища.
@@ -8709,9 +8765,25 @@ How shall we respond?</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HARSH_RULE</zType>
-		<Translation>В то время как наше деспотическое правление подавило беспорядки, некоторые граждане ропщут. Мы должны сохранять бдительность.
+		<Translation>В то время как наше деспотическое правление подавило беспорядки, некоторые граждане ворчат. Мы должны сохранять бдительность.
 
 Как мы будем решать их проблемы?</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOLY_SITE_ZOROASTRIANISM</zType>
+		<Translation>[STUB: link(IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM) ГОТОВО.]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOLY_SITE_JUDAISM</zType>
+		<Translation>[STUB: link(IMPROVEMENT_HOLY_SITE_JUDAISM) ГОТОВО.]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOLY_SITE_CHRISTIANITY</zType>
+		<Translation>[STUB: link(IMPROVEMENT_HOLY_SITE_CHRISTIANITY) ГОТОВО.]</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HOLY_SITE_MANICHAEISM</zType>
+		<Translation>[STUB: link(IMPROVEMENT_HOLY_SITE_MANICHAEISM) ГОТОВО.]</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_WONDER_PYRAMIDS</zType>
@@ -10997,6 +11069,12 @@ link(IMPROVEMENT_VIA_RECTA_SOUK) будет служить завещанием 
 Выберите link(UNIT_SETTLER) и заложите фундамент своей столицы. Вам предстоит решить, какая семья будет править великим городом, и правильно распорядиться ее благами.</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_INTRO_NO_NATION</zType>
+		<Translation>Вы - лидер молодой нации в Old World -  полном авторитетных сил, которые не слышали о вас ... пока.
+
+Выберите link(UNIT_SETTLER) и найдите место для своей столицы. Вы выберете свою нацию и решите, какая семья будет управлять вашим первым городом, немедленно получив их преимущества. </Translation>
+    </Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_SCOUT_SELECTED</zType>
 		<Translation>link(UNIT_SCOUT,6) превосходно подходят для исследования мира. Их способность прятаться в лесу помогает заранее предупредить о вражеской угрозе.
 
@@ -11014,6 +11092,12 @@ link(IMPROVEMENT_VIA_RECTA_SOUK) будет служить завещанием 
 
 При основании города вам предстоит выбрать, какая семья будет им владеть. В зависимости от управляющей семьи империя получит различные бонусы, поэтому тщательно обдумайте свой выбор.</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_PAGAN_SHRINE</zType>
+		<Translation>Языческие религии основаны на создании вашей первой link(CONCEPT_SHRINE), и они распространяются путем создания дополнительных link(CONCEPT_SHRINE, 1). У них нет link(CONCEPT_DISCIPLE, 1), link(CONCEPT_THEOLOGY, 1) или доступа к специальной религиозной link(CONCEPT_IMPROVEMENT, 1), но они обеспечивают культуру и счастье религии.
+
+Язычество можно будет принять как link(CONCEPT_STATE_RELIGION) позже.</Translation>
+		</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_WORKER_SELECTED</zType>
 		<Translation>link(UNIT_WORKER,2) создают постройки, развивая территорию города. Сельские постройки, например link(IMPROVEMENT_FARM,2) и link(IMPROVEMENT_MINE,2), обеспечивают империю ресурсами. Улучшения на link(CONCEPT_URBAN) клетках, такие как link(IMPROVEMENT_BARRACKS,2) или link(IMPROVEMENTCLASS_SHRINE,2), приносят link(YIELD_TRAINING) или link(YIELD_CULTURE).
@@ -11033,8 +11117,14 @@ link(CONCEPT_IMPROVEMENT,2) может быть расширенно link(CONCEP
 		<Translation>link(UNIT_WARRIOR) - это первый отряд link(UNITTRAIT_MELEE), который доступен вашей империи. link(UNITTRAIT_MELEE) составляют основу вашей армии, защищая от вражеских племен и народов.</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_UPGRADES</zType>
+<Translation>Боевые отряды могут получать как link(CONCEPT_UPGRADE,1), так и link(CONCEPT_PROMOTION,1). link(CONCEPT_UPGRADE,1) преобразует боевую единицу в другой тип. Например, link(UNIT_WARRIOR) может быть link(CONCEPT_UPGRADE,2) в link(UNIT_AXEMAN). link(CONCEPT_PROMOTION,1) предоставляет различные боевые навыки. И link(CONCEPT_PROMOTION,1), и link(CONCEPT_UPGRADE,1) требуют обучения. link(CONCEPT_UPGRADE,1) может стоить некоторых других ресурсов, в то время как link(CONCEPT_PROMOTION,1) дешевле для единиц с большим количеством link(CONCEPT_XP,1). link(CONCEPT_UPGRADE, 1) может выполняться только внутри дружественной территории, а link(CONCEPT_PROMOTION, 1) может выполняться где угодно.
+
+link(CONCEPT_PROMOTION,1) и link(CONCEPT_UPGRADE,1) можно выбрать на панели в левой части экрана, когда выбран элемент. На панели «Юнит» также есть кнопки для различных действий юнита, таких как «Пропустить», «Сон», «Укрепление» и специфических способностей юнита, таких как Testudo, если они доступны.</Translation>
+    </Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_TRIBE_CAMP_CLEARED</zType>
-		<Translation>Вы прогнали местных {TRIBE-0,3}! Теперь вы можете претендовать на эти земли, разместив в центре свой отряд. Это предотвратит возвращение {TRIBE-0,1}, а также не позволит другим нациям основать здесь свой город.
+		<Translation>Вы прогнали местных {TRIBE-0,3}! Теперь вы можете претендовать на эти земли, разместив в центре свой отряд. Это предотвратит возвращение {TRIBE-0,3}, а также не позволит другим нациям основать здесь свой город.
 
 Местные жители оставили много link(YIELD_FOOD). Начните строить нового link(UNIT_SETTLER), чтобы занять это место!</Translation>
 	</Entry>
@@ -11050,7 +11140,8 @@ link(CONCEPT_IMPROVEMENT,2) может быть расширенно link(CONCEP
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_TRIBE_CONTACT</zType>
-		<Translation>Вы встретили племя {TRIBE-0}! Племена участвуют в ограниченной дипломатии, но в отличие от наций не действуют сообща. Если вы найдете слабое племя и заявите права на их земли, то сделаете важный шаг на пути к росту вашей империи.</Translation>
+		<Translation>Вы встретили племя {TRIBE-0}! Племена участвуют в ограниченной дипломатии, но в отличие от наций не действуют сообща. Если вы найдете слабое племя и заявите права на их земли, то сделаете важный шаг на пути к росту вашей империи.
+Обнаружение слабого link(CONCEPT_TRIBE) и утверждение их link(IMPROVEMENT_CITY_SITE, 2) для себя, станет важным шагом на пути к развитию вашей нации.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_HARVEST_RESOURCE</zType>
@@ -11068,8 +11159,13 @@ link(CONCEPT_IMPROVEMENT,2) может быть расширенно link(CONCEP
 		<Translation>Отряд {UNIT-0} использовал все свои действия и устал. Его можно отправить на марш, но маршируя он потребляет link(YIELD_ORDERS) в двойном размере. Ваш отряд восстановится на следующий ход.</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_UNDO</zType>
+		<Translation>Вы можете link(CONCEPT_UNDO) столько решений, сколько захотите, включая движения, боевые действия, строительство link(CONCEPT_IMPROVEMENT,1) и выбор событий за последние пять лет.</Translation>
+    </Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_OUT_OF_ORDERS</zType>
 		<Translation>У вас закончились link(YIELD_ORDERS)! Для командования {UNIT-0} нужно дождаться следующего года.
+
 Наиболее важным источником link(YIELD_ORDERS) является link(CONCEPT_LEGITIMACY).</Translation>
 	</Entry>
 	<Entry>
@@ -11093,7 +11189,16 @@ link(CONCEPT_IMPROVEMENT,2) может быть расширенно link(CONCEP
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_SPECIALIST</zType>
-		<Translation>Your link(UNIT_WORKER,2) have completed link(IMPROVEMENT_FARM,1), enabling you to build link(SPECIALIST_FARMER,1) link(CONCEPT_SPECIALIST). link(CONCEPT_SPECIALIST,2) can be recruited from the City Screen by clicking the green plus button next to an link(CONCEPT_IMPROVEMENT). A link(CONCEPT_SPECIALIST,0) can boost the yield of link(CONCEPT_IMPROVEMENT,1) at the cost of some link(YIELD_CIVICS).</Translation>
+		<Translation>link(CONCEPT_SPECIALIST) можно нанять с экрана города, нажав зеленую кнопку с плюсом на link(CONCEPT_IMPROVEMENT). link(CONCEPT_SPECIALIST) может повысить доходность link(CONCEPT_IMPROVEMENT) за счет некоторых link(YIELD_CIVICS).
+
+Городской link(CONCEPT_SPECIALIST,1) может быть обучен на более высоких уровнях.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_GOVERNOR</zType>
+		<Translation>Городского link(CONCEPT_GOVERNOR) можно получить, щелкнув значок в виде венка под баннером города или на экране города, нажав кнопку со знаком вопроса в левом нижнем углу. link(CONCEPT_GOVERNOR) может повысить урожайность города в зависимости от его уникальных черт.
+
+Городом может управлять только член его правящего link(CONCEPT_FAMILY) или лидер.
+    </Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_AMBITION</zType>
@@ -11131,7 +11236,30 @@ link(CONCEPT_IMPROVEMENT,2) может быть расширенно link(CONCEP
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_ONAGER_SELECTED</zType>
 		<Translation>Вы обучили свой первый link(UNIT_ONAGER). У этого юнита дальнего боя есть урон по области, поэтому он нанесет урон всем врагам, находящимся рядом с целью.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_FAMILY_ANGRY</zType>
+		<Translation>Одна из ваших link(CONCEPT_FAMILY, 1) злится на вас! На мнение link(CONCEPT_FAMILY) влияет link(YIELD_DISCONTENT)icon(YIELD_DISCONTENT) в их городах, а также выбор игрока во время событий.
+
+Города со временем получают link(YIELD_DISCONTENT)icon(YIELD_DISCONTENT). Вы можете уменьшить link(YIELD_DISCONTENT)icon(YIELD_DISCONTENT), соединив свои города link(CONCEPT_ROAD,1), приняв link(CONCEPT_STATE_RELIGION), построив link(CONCEPT_SHRINE,1) и других религиозных link(CONCEPT_IMPROVEMENT,1) получая link(CONCEPT_LUXURY,1), нанимая link(SPECIALISTCLASS_PRIEST,1), построив link(IMPROVEMENTCLASS_BATHS,2) и принятие определенных законов, таких как link(LAW_TOLERANCE), link(LAW_LEGAL_CODE) и link(LAW_MONETARY_REFORM).
+
+Если семья злится на вас, повстанческие отряды могут начать появляться в их городах!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_APPOINT_AMBASSADOR</zType>
+		<Translation>Если вы исследовали link(TECH_ARISTOCRACY), и у вас есть доступный кандидат в вашем правительстве с link(TRAIT_ORATOR_ARCHETYPE), link(TRAIT_DIPLOMAT_ARCHETYPE) или link(TRAIT_COMMANDER_ARCHETYPE), вы можете назначить link(COUNCIL_AMBASSADOR) с помощью светящегося значка в правом верхнем углу экрана.
+        Существуют аналогичные требования и для назначения link(CONCEPT_COUNCILOR, 1). </Translation>
     </Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_APPOINT_SPYMASTER</zType>
+		<Translation>Если вы исследовали link(TECH_RAMPARTS), и у вас есть доступный кандидат в вашем правительстве с link(TRAIT_TACTICIAN_ARCHETYPE), link(TRAIT_SCHEMER_ARCHETYPE), или link(TRAIT_SCHOLAR_ARCHETYPE), вы можете назначить link(COUNCIL_SPYMASTER) с помощью светящегося значка в правом верхнем углу экрана.
+		There are similar technology and trait requirements for appointing other link(CONCEPT_COUNCILOR,1).</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_APPOINT_CHANCELLOR</zType>
+		<Translation>Если вы исследовали link(TECH_SPOKED_WHEEL), и у вас есть доступный кандидат в вашем правительстве с link(TRAIT_ZEALOT_ARCHETYPE), link(TRAIT_JUDGE_ARCHETYPE), или link(TRAIT_BUILDER_ARCHETYPE), вы можете назначить link(COUNCIL_CHANCELLOR) с помощью светящегося значка в правом верхнем углу экрана.
+		There are similar technology and trait requirements for appointing other link(CONCEPT_COUNCILOR,1).</Translation>
+	    </Entry>
 <Entry beginGroup = "Community">
 		<zType>TEXT_EVENTSTORY_GOT_YOUR_NOSE</zType>
 		<Translation>Пытаясь развлечь вас, {CHARACTER-1} украл ваш нос и отказывается вернуть его!</Translation>

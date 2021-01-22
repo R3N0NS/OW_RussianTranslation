@@ -19,12 +19,6 @@
 		<zDesc>Поддержка повтора требует большего объема доступной системной памяти</zDesc>
 	</Entry>
 	<Entry>
-		<zType>PLAYEROPTION_ROLE_PLAYING</zType>
-		<zName>RolePlaying</zName>
-		<zDesc>Нет всплывающих окон во время событий</zDesc>
-		<bGameplay>1</bGameplay>
-	</Entry>
-	<Entry>
 		<zType>PLAYEROPTION_ALL_CANDIDATES</zType>
 		<zName>Все кандидаты на работу</zName>
 		<zDesc>Кандидаты в Совет, губернатора и генерала, у которых уже есть работа</zDesc>

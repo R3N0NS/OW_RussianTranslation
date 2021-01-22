@@ -78,6 +78,190 @@
     <Translation><![CDATA[Открыть город<br>({0_city})]]></Translation>
   </Entry>
   <Entry>
+	<zType>TEXT_UI_EVENT_LOG_TURN_SUMMARY</zType>
+	<Translation>ХОДОВ В ОБЩЕМ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_POPUP_MESSAGE</zType>
+	<Translation>ВСПЛЫВАЮЩЕЕ СООБЩЕНИЕ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_DO_BONUS</zType>
+	<Translation>ДОПОЛНИТЕЛЬНЫЕ ЭФФЕКТЫ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_GOAL_STARTED</zType>
+	<Translation>ЦЕЛЬ ЗАТЕЯННОГО</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_GOAL_FINISHED</zType>
+	<Translation>ЦЕЛЬ ЗАКОНЧЕНА</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_GOAL_FAILED</zType>
+	<Translation>ЦЕЛЬ ПРОВАЛЕНА</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_COURTIER</zType>
+	<Translation>НОВЫЙ ПРИДВОРНЫЙ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_RELIGION_FOUNDED</zType>
+	<Translation>РЕЛИГИЯ ОСНОВАНА</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_THEOLOGY_ESTABLISHED</zType>
+	<Translation>БОГОСЛОВИЕ ПРИНЯТО</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_RELIGION_SPREAD</zType>
+	<Translation>РАСПРОСТРАНЕНИЕ РЕЛИГИИ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_TRIBE_CONTACT</zType>
+	<Translation>КОНТАКТ С ПЛЕМЕНЕМ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_TRIBE_DIPLOMACY</zType>
+	<Translation>ДИПЛОМАТИЯ МЕЖДУ ПЛЕМЕНАМИ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_TEAM_CONTACT</zType>
+	<Translation>НАЦИОНАЛЬНЫЙ КОНТАКТ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_TEAM_DIPLOMACY</zType>
+	<Translation>НАЦИОНАЛЬНая ДИПЛОМАТИЯ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_TECH_DISCOVERED</zType>
+	<Translation>ОТКРЫТЫЕ ТЕХНОЛОГИИ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_RESOURCE_SHORTFALL</zType>
+	<Translation>НЕХВАТКА РЕСУРСОВ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_COVER_DEBT</zType>
+	<Translation>ПОКРЫТИЕ ДОЛГА</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_GIFT_ORDERS</zType>
+	<Translation>ПОДАРОЧНЫЕ ПРИКАЗЫ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_MAX_ORDERS</zType>
+	<Translation>МАКС. ПРИКАЗОВ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_MAX_CIVICS</zType>
+	<Translation>МАКС. ГРАЖДАНСКОЕ ПРАВО</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_MAX_TRAINING</zType>
+	<Translation>МАКС. ОБУЧЕНИЕ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_GENERAL_INJURY</zType>
+	<Translation>ОБЩИЕ ТРАВМЫ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_UNIT_ATTACKED</zType>
+	<Translation>ОТРЯД АТАКОВАН</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_UNIT_KILLED</zType>
+	<Translation>ОТРЯД УБИТ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_UNIT_REBELLED</zType>
+	<Translation>ОТРЯД ВОССТАЛ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_UNIT_SEEN</zType>
+	<Translation>ОТРЯД ЗАМЕЧЕН</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_CITY_ATTACKED</zType>
+	<Translation>CITY АТАКОВАН</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_CITY_CAPTURED</zType>
+	<Translation>ГОРОД ЗАХВАЧЕН</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_CITY_FOUNDED</zType>
+	<Translation>ГОРОД ОСНОВАН</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_CITY_EVENT</zType>
+	<Translation>ГОРОД. СОБЫТИЕ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_CITY_BUILT</zType>
+	<Translation>ГОРОД ПОСТРОИЛ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_CITY_CANCELLED</zType>
+	<Translation>ГОРОД ОТМЕНЕН</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_CITY_WARNING</zType>
+	<Translation>ГОРОД. ПРЕДУПРЕЖДЕНИЕ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_CAMP_DESTROYED</zType>
+	<Translation>ЛАГЕРЬ УНИЧТОЖЕН</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_IMPROVEMENT_FINISHED</zType>
+	<Translation>УЛУЧШЕНИЕ ЗАВЕРШЕНО</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_IMPROVEMENT_PILLAGED</zType>
+	<Translation>УЛУЧШЕНИЕ РАЗГРАБЛЕНО</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_WONDER_ACTIVITY</zType>
+	<Translation>ЧУДО ВОЗДЕЙСТВИЕ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_CARAVAN_MISSION</zType>
+	<Translation>КАРАВАН ЗАДАНИЕ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_LAUNCH_OFFENSIVE</zType>
+	<Translation>НАЧАЛО НАСТУПЛЕНИЯ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_GIFT_GOOD</zType>
+	<Translation>ПОДАРОК ХОРОШИЙ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_MISSION_CANCELLED</zType>
+	<Translation>ЗАДАНИЕ ОТМЕНЕНО</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_CHARACTER_ADULT</zType>
+	<Translation>ПЕРСОНАЖ ПОВЗРОСЛЕЛ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_CHARACTER_BIRTH</zType>
+	<Translation>ПЕРСОНАЖ РОДИЛСЯ</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_CHARACTER_DEATH</zType>
+	<Translation>ПЕРСОНАЖ УМЕР</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_PING</zType>
+	<Translation>МЕТКА</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_EVENT_LOG_EVENT_STORY</zType>
+	<Translation>НОВОЕ СОБЫТИЕ</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_UI_EVENT_LOG_DISMISS_TOOLTIP</zType>
     <Translation>Правый клик — пропустить</Translation>
   </Entry>
@@ -186,7 +370,7 @@
     <Translation>Смертельный удар</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FORTIFY_ENEMY</zType>
+    <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_FORTIFY</zType>
     <Translation>:Укрепить</Translation>
   </Entry>
   <Entry>
@@ -543,6 +727,10 @@
     <Translation>[{0} {1} в {2}]</Translation>
   </Entry>
   <Entry>
+	<zType>TEXT_UI_EVENT_STORY_DISCONTENT_EVENT</zType>
+	<Translation>[{0} в {1}]</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_UI_EVENT_STORY_X_FINISHED</zType>
     <Translation>[Завершено: {0}]</Translation>
   </Entry>
@@ -682,6 +870,10 @@
   <Entry>
     <zType>TEXT_UI_EXIT_DIALOG</zType>
     <Translation>Выйти из игры? Весь несохраненный прогресс будет утерян.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_UI_RESTART_DIALOG</zType>
+	<Translation>Перезапустить игру? Весь несохраненный прогресс будет утерян.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_SURRENDER_CONFIRM</zType>
@@ -963,10 +1155,10 @@
   </Entry>
   <!--servers-->
   <Entry>
-		<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SERVERPASSWORD</zType>
+	<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SERVERPASSWORD</zType>
 		<Translation>Пароль</Translation>
   </Entry>
-	<Entry>
+  <Entry>
     <zType>TEXT_MP_SETUP_OPTIONS_LABEL_SERVERS</zType>
     <Translation>Серверы</Translation>
   </Entry>
@@ -1197,7 +1389,7 @@
     <Translation>Управление</Translation>
   </Entry>
   <!--<Entry>
-		<zType>TEXT_OPTIONS_MENU_TITLEBAR_COLORS</zType>
+	<zType>TEXT_OPTIONS_MENU_TITLEBAR_COLORS</zType>
 		<Translation>Цвета</Translation>
   </Entry>-->
   <!--controls-->
@@ -1793,6 +1985,10 @@
   <Entry>
     <zType>TEXT_CITY_FAMILY_DECISION</zType>
     <Translation>{0_family} ({1_class}, {2_opinion}, {singular_3:1 City:{3} Cities})</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_CITY_CAPITAL_FAMILY_DECISION</zType>
+	<Translation>{0_family} ({1_class})</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_UPGRADE_DECISION_RATING</zType>

@@ -162,7 +162,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_MISCOPTION_MUSIC_VOLUME_DESC</zType>
-    <Translation></Translation>
+    <Translation/>
   </Entry>
   <Entry>
     <zType>TEXT_MISCOPTION_SFX_VOLUME_NAME</zType>

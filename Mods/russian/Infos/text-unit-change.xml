@@ -29,7 +29,7 @@
     <Translation>Ополченцы~Ополченцев~Ополченцам~Ополченцев~Ополченцами~Ополченцах</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_UNIT_LEVY</zType>
+    <zType>TEXT_UNIT_CONSCRIPT</zType>
     <Translation>Рекруты~Рекрутов~Рекрутам~Рекрутов~Рекрутами~Рекрутах</Translation>
   </Entry>
   <Entry>

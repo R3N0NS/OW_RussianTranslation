@@ -6,6 +6,7 @@
 		<zName/>
 		<iLegitimacy/>
 		<iMinValue/>
+		<Achievement/>
 		<aiStatValue/>
 	</Entry>
 	<Entry>
@@ -17,6 +18,7 @@
 		<zName>Воин</zName>
 		<iLegitimacy>10</iLegitimacy>
 		<iMinValue>1000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_WARRIOR</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_UNIT_KILLED</zIndex>
@@ -37,6 +39,7 @@
 		<zName>Бурильщик</zName>
 		<iLegitimacy>20</iLegitimacy>
 		<iMinValue>2000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_BRAVE</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_UNIT_KILLED</zIndex>
@@ -57,6 +60,7 @@
 		<zName>Доблестн.</zName>
 		<iLegitimacy>30</iLegitimacy>
 		<iMinValue>3000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_VALIANT</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_UNIT_KILLED</zIndex>
@@ -77,6 +81,7 @@
 		<zName>Могуч.</zName>
 		<iLegitimacy>40</iLegitimacy>
 		<iMinValue>4000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_MIGHTY</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_UNIT_KILLED</zIndex>
@@ -97,6 +102,7 @@
 		<zName>Победоносн.</zName>
 		<iLegitimacy>50</iLegitimacy>
 		<iMinValue>5000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_VICTORIOUS</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_UNIT_KILLED</zIndex>
@@ -117,6 +123,7 @@
 		<zName>Лев</zName>
 		<iLegitimacy>60</iLegitimacy>
 		<iMinValue>6000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_LION</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_UNIT_KILLED</zIndex>
@@ -137,6 +144,7 @@
 		<zName>Непобедим.</zName>
 		<iLegitimacy>70</iLegitimacy>
 		<iMinValue>7000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_INVINCIBLE</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_UNIT_KILLED</zIndex>
@@ -157,6 +165,7 @@
 		<zName>Способн.</zName>
 		<iLegitimacy>20</iLegitimacy>
 		<iMinValue>2000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_CAPABLE</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_UNIT_TRAINED</zIndex>
@@ -173,6 +182,7 @@
 		<zName>Подготовленн.</zName>
 		<iLegitimacy>30</iLegitimacy>
 		<iMinValue>3000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_READY</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_UNIT_TRAINED</zIndex>
@@ -189,6 +199,7 @@
 		<zName>Разрушитель</zName>
 		<iLegitimacy>20</iLegitimacy>
 		<iMinValue>2000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_DESTROYER</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_TRIBE_CLEARED</zIndex>
@@ -201,6 +212,7 @@
 		<zName>Мститель</zName>
 		<iLegitimacy>40</iLegitimacy>
 		<iMinValue>4000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_AVENGER</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_TRIBE_CLEARED</zIndex>
@@ -213,6 +225,7 @@
 		<zName>Белая Смерть</zName>
 		<iLegitimacy>60</iLegitimacy>
 		<iMinValue>6000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_WHITE_DEATH</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_TRIBE_CLEARED</zIndex>
@@ -225,6 +238,7 @@
 		<zName>Заступник</zName>
 		<iLegitimacy>30</iLegitimacy>
 		<iMinValue>3000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_INTERCESSOR</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_TRIBE_PEACE</zIndex>
@@ -245,6 +259,7 @@
 		<zName>Миротворец</zName>
 		<iLegitimacy>50</iLegitimacy>
 		<iMinValue>5000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_PEACEMAKER</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_TRIBE_PEACE</zIndex>
@@ -265,6 +280,7 @@
 		<zName>Завоеватель</zName>
 		<iLegitimacy>40</iLegitimacy>
 		<iMinValue>4000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_CONQUEROR</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_CAPITAL_CAPTURED</zIndex>
@@ -281,6 +297,7 @@
 		<zName>Покоритель</zName>
 		<iLegitimacy>60</iLegitimacy>
 		<iMinValue>6000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_SUBJUGATOR</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_CAPITAL_CAPTURED</zIndex>
@@ -297,6 +314,7 @@
 		<zName>Реставратор</zName>
 		<iLegitimacy>30</iLegitimacy>
 		<iMinValue>3000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_RESTORER</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_CITY_RECAPTURED</zIndex>
@@ -309,6 +327,7 @@
 		<zName>Освободитель</zName>
 		<iLegitimacy>50</iLegitimacy>
 		<iMinValue>5000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_LIBERATOR</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_CITY_RECAPTURED</zIndex>
@@ -321,6 +340,7 @@
 		<zName>Поселенец</zName>
 		<iLegitimacy>20</iLegitimacy>
 		<iMinValue>2000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_SETTLER</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_CITY_FOUNDED</zIndex>
@@ -333,6 +353,7 @@
 		<zName>Новатор</zName>
 		<iLegitimacy>40</iLegitimacy>
 		<iMinValue>4000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_PIONEER</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_CITY_FOUNDED</zIndex>
@@ -345,13 +366,14 @@
 		<zName>Амбициозн.</zName>
 		<iLegitimacy>20</iLegitimacy>
 		<iMinValue>4000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_AMBITIOUS</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_COURTIER_ADDED</zIndex>
 				<iValue>1000</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>STAT_SPECIALIST_TRAINED</zIndex>
+				<zIndex>STAT_SPECIALIST_PRODUCED</zIndex>
 				<iValue>100</iValue>
 			</Pair>
 		</aiStatValue>
@@ -361,13 +383,14 @@
 		<zName>Выдающийся</zName>
 		<iLegitimacy>40</iLegitimacy>
 		<iMinValue>4000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_BRILLIANT</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_COURTIER_ADDED</zIndex>
 				<iValue>1000</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>STAT_SPECIALIST_TRAINED</zIndex>
+				<zIndex>STAT_SPECIALIST_PRODUCED</zIndex>
 				<iValue>100</iValue>
 			</Pair>
 		</aiStatValue>
@@ -377,13 +400,14 @@
 		<zName>Ненаглядн.</zName>
 		<iLegitimacy>60</iLegitimacy>
 		<iMinValue>6000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_BELOVED</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_COURTIER_ADDED</zIndex>
 				<iValue>1000</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>STAT_SPECIALIST_TRAINED</zIndex>
+				<zIndex>STAT_SPECIALIST_PRODUCED</zIndex>
 				<iValue>100</iValue>
 			</Pair>
 		</aiStatValue>
@@ -393,6 +417,7 @@
 		<zName>Перестройщик</zName>
 		<iLegitimacy>20</iLegitimacy>
 		<iMinValue>2000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_REBUILDER</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_IMPROVEMENT_REPAIRED</zIndex>
@@ -405,6 +430,7 @@
 		<zName>Геодезист</zName>
 		<iLegitimacy>10</iLegitimacy>
 		<iMinValue>1000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_SURVEYOR</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_IMPROVEMENT_FINISHED</zIndex>
@@ -421,6 +447,7 @@
 		<zName>Каменщик</zName>
 		<iLegitimacy>20</iLegitimacy>
 		<iMinValue>2000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_MASON</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_IMPROVEMENT_FINISHED</zIndex>
@@ -437,6 +464,7 @@
 		<zName>Архитектор</zName>
 		<iLegitimacy>40</iLegitimacy>
 		<iMinValue>4000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_ARCHITECT</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_IMPROVEMENT_FINISHED</zIndex>
@@ -453,6 +481,7 @@
 		<zName>Опора</zName>
 		<iLegitimacy>60</iLegitimacy>
 		<iMinValue>6000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_KEYSTONE</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_IMPROVEMENT_FINISHED</zIndex>
@@ -469,6 +498,7 @@
 		<zName>Основатель</zName>
 		<iLegitimacy>20</iLegitimacy>
 		<iMinValue>2000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_FOUNDER</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_NATION_FOUNDED</zIndex>
@@ -481,6 +511,7 @@
 		<zName>Благочестив.</zName>
 		<iLegitimacy>20</iLegitimacy>
 		<iMinValue>2000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_DEVOUT</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_TRIBE_CONVERSION</zIndex>
@@ -505,6 +536,7 @@
 		<zName>Свят.</zName>
 		<iLegitimacy>40</iLegitimacy>
 		<iMinValue>4000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_HOLY</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_TRIBE_CONVERSION</zIndex>
@@ -529,6 +561,7 @@
 		<zName>Исследователь</zName>
 		<iLegitimacy>30</iLegitimacy>
 		<iMinValue>3000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_EXPLORER</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_TRIBE_CONTACTED</zIndex>
@@ -565,6 +598,7 @@
 		<zName>Бесстрашн.</zName>
 		<iLegitimacy>50</iLegitimacy>
 		<iMinValue>5000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_INTREPID</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_TRIBE_CONTACTED</zIndex>
@@ -601,6 +635,7 @@
 		<zName>Образованн.</zName>
 		<iLegitimacy>20</iLegitimacy>
 		<iMinValue>2000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_LEARNED</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_TECH_DISCOVERED</zIndex>
@@ -613,6 +648,7 @@
 		<zName>Просвещенн.</zName>
 		<iLegitimacy>40</iLegitimacy>
 		<iMinValue>4000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_ENLIGHTENED</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_TECH_DISCOVERED</zIndex>
@@ -625,6 +661,7 @@
 		<zName>Мудр.</zName>
 		<iLegitimacy>60</iLegitimacy>
 		<iMinValue>6000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_WISE</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_TECH_DISCOVERED</zIndex>
@@ -637,6 +674,7 @@
 		<zName>Пожил.</zName>
 		<iLegitimacy>40</iLegitimacy>
 		<iMinValue>4000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_OLD</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_YEARS_REIGNED</zIndex>
@@ -649,6 +687,7 @@
 		<zName>Древн.</zName>
 		<iLegitimacy>50</iLegitimacy>
 		<iMinValue>5000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_ANCIENT</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_YEARS_REIGNED</zIndex>
@@ -661,6 +700,7 @@
 		<zName>Способн.</zName>
 		<iLegitimacy>30</iLegitimacy>
 		<iMinValue>15000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_ABLE</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_AMBITION_ACHIEVED</zIndex>
@@ -759,7 +799,7 @@
 				<iValue>2000</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>STAT_SPECIALIST_TRAINED</zIndex>
+				<zIndex>STAT_SPECIALIST_PRODUCED</zIndex>
 				<iValue>100</iValue>
 			</Pair>
 			<Pair>
@@ -809,6 +849,7 @@
 		<zName>Справедлив.</zName>
 		<iLegitimacy>40</iLegitimacy>
 		<iMinValue>20000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_JUST</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_AMBITION_ACHIEVED</zIndex>
@@ -907,7 +948,7 @@
 				<iValue>2000</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>STAT_SPECIALIST_TRAINED</zIndex>
+				<zIndex>STAT_SPECIALIST_PRODUCED</zIndex>
 				<iValue>100</iValue>
 			</Pair>
 			<Pair>
@@ -957,6 +998,7 @@
 		<zName>Добр.</zName>
 		<iLegitimacy>50</iLegitimacy>
 		<iMinValue>25000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_GOOD</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_AMBITION_ACHIEVED</zIndex>
@@ -1055,7 +1097,7 @@
 				<iValue>2000</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>STAT_SPECIALIST_TRAINED</zIndex>
+				<zIndex>STAT_SPECIALIST_PRODUCED</zIndex>
 				<iValue>100</iValue>
 			</Pair>
 			<Pair>
@@ -1105,6 +1147,7 @@
 		<zName>Сильн.</zName>
 		<iLegitimacy>60</iLegitimacy>
 		<iMinValue>30000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_STRONG</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_AMBITION_ACHIEVED</zIndex>
@@ -1203,7 +1246,7 @@
 				<iValue>2000</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>STAT_SPECIALIST_TRAINED</zIndex>
+				<zIndex>STAT_SPECIALIST_PRODUCED</zIndex>
 				<iValue>100</iValue>
 			</Pair>
 			<Pair>
@@ -1253,6 +1296,7 @@
 		<zName>Благородн.</zName>
 		<iLegitimacy>70</iLegitimacy>
 		<iMinValue>35000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_NOBLE</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_AMBITION_ACHIEVED</zIndex>
@@ -1351,7 +1395,7 @@
 				<iValue>2000</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>STAT_SPECIALIST_TRAINED</zIndex>
+				<zIndex>STAT_SPECIALIST_PRODUCED</zIndex>
 				<iValue>100</iValue>
 			</Pair>
 			<Pair>
@@ -1401,6 +1445,7 @@
 		<zName>Славн.</zName>
 		<iLegitimacy>80</iLegitimacy>
 		<iMinValue>40000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_GLORIOUS</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_AMBITION_ACHIEVED</zIndex>
@@ -1499,7 +1544,7 @@
 				<iValue>2000</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>STAT_SPECIALIST_TRAINED</zIndex>
+				<zIndex>STAT_SPECIALIST_PRODUCED</zIndex>
 				<iValue>100</iValue>
 			</Pair>
 			<Pair>
@@ -1549,6 +1594,7 @@
 		<zName>Великолепн.</zName>
 		<iLegitimacy>90</iLegitimacy>
 		<iMinValue>45000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_MAGNIFICENT</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_AMBITION_ACHIEVED</zIndex>
@@ -1647,7 +1693,7 @@
 				<iValue>2000</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>STAT_SPECIALIST_TRAINED</zIndex>
+				<zIndex>STAT_SPECIALIST_PRODUCED</zIndex>
 				<iValue>100</iValue>
 			</Pair>
 			<Pair>
@@ -1697,6 +1743,7 @@
 		<zName>Велик.</zName>
 		<iLegitimacy>100</iLegitimacy>
 		<iMinValue>50000</iMinValue>
+		<Achievement>ACHIEVEMENT_COGNOMEN_GREAT</Achievement>
 		<aiStatValue>
 			<Pair>
 				<zIndex>STAT_AMBITION_ACHIEVED</zIndex>
@@ -1795,7 +1842,7 @@
 				<iValue>2000</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>STAT_SPECIALIST_TRAINED</zIndex>
+				<zIndex>STAT_SPECIALIST_PRODUCED</zIndex>
 				<iValue>100</iValue>
 			</Pair>
 			<Pair>

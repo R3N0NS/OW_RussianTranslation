@@ -374,6 +374,10 @@
     <Translation>Может привести к link(TRAIT_COMMANDER_ARCHETYPE),link(TRAIT_SCHEMER_ARCHETYPE),link(TRAIT_ORATOR_ARCHETYPE),link(TRAIT_BUILDER_ARCHETYPE), или link(TRAIT_DIPLOMAT_ARCHETYPE)</Translation>
   </Entry>
   <Entry>
+	<zType>TEXT_EVENTOPTION_STUDY_NONE</zType>
+	<Translation>{CHARACTER-SHORT-0} узнают в мире.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_COURTIER_NONE</zType>
     <Translation>Мы не можем этого себе позволить.</Translation>
   </Entry>
@@ -388,6 +392,14 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_FAMILY_LAW_NO</zType>
     <Translation>Наш ответ - Нет.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_THEOLOGY_LAW_YES</zType>
+	<Translation>Сделайте изменение.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_THEOLOGY_LAW_NO</zType>
+	<Translation>Наш ответ - нет.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FAMILY_THEOLOGY_YES</zType>
@@ -783,7 +795,19 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_UNLIKELY_ALLIES_OPTION_3</zType>
-    <Translation>Мы не потерпим ультиматумов. {PLAYER-2} должен узнать свое место.</Translation>
+    <Translation>Мы не потерпим ультиматумов. {PLAYER-2} должен знать свое место.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTSTORY_A_SCHOLAR_DENOUNCED_DENOUNCE</zType>
+	<Translation>Да, {G1:его:ее} идеи слишком опасны.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTSTORY_A_SCHOLAR_DENOUNCED_REFUSE</zType>
+	<Translation>Это не вам решать.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTSTORY_A_SCHOLAR_DENOUNCED_ARGUE</zType>
+	<Translation>Объясните, как полученные данные на самом деле дополняют {RELIGION-2}.</Translation>
   </Entry>
 	<Entry beginGroup="Exploration">
     <zType>TEXT_EVENTOPTION_RUINS_SURVIVORS_INVITE</zType>
@@ -5564,6 +5588,22 @@
     <zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_COMMEMORATION_OPTION_GLADIATORS</zType>
     <Translation>Вы слишком абстрактно думаете. Отметим наш триумф мечом и копьем!</Translation>
   </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_POST_WAR_OPTION_THREATEN</zType>
+	<Translation>Пригрозите {CHARACTER-SHORT-2} ответными обвинениями.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_POST_WAR_OPTION_TYRANNY</zType>
+	<Translation>У меня нет на это времени. Мое слово станет законом.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_POST_WAR_OPTION_IMPRISON</zType>
+	<Translation>Срежьте эту назойливую ежевику.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_POST_WAR_OPTION_COURT</zType>
+	<Translation>Доказать законность войны.</Translation>
+  </Entry>
 	<Entry beginGroup="Marriage">
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_YES</zType>
     <Translation>Да, звоните в колокола.</Translation>
@@ -7089,50 +7129,46 @@
     <Translation>Наймите профессионального оратора для выступления от нашего имени.</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_EVENTOPTION_CONTEST_OF_RHETORIC_ANYONE</zType>
-    <Translation>Отправьте любого, кто располагает свободным временем.</Translation>
-  </Entry>
-  <Entry>
     <zType>TEXT_EVENTOPTION_CONTEST_OF_RHETORIC_REFUSE</zType>
     <Translation>Откажитесь обсуждать на дебатах наши законы.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EAGER_EXPLORERS_OK</zType>
-        <Translation>Я рад, что они видят светлое будущее.</Translation>
-    </Entry>
-    <Entry>
+    <Translation>Я рад, что они видят светлое будущее.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_EAGER_EXPLORERS_NEW</zType>
-        <Translation>Мы все должны разделить бремя открытий.</Translation>
-    </Entry>
-    <Entry>
+    <Translation>Мы все должны разделить бремя открытий.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_IMPROPER_VASSAL_REMIND</zType>
-        <Translation>Осторожно, напомните {FAMILY-0} приличия.</Translation>
-    </Entry>
-    <Entry>
+    <Translation>Осторожно, напомните {FAMILY-0} приличия.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_IMPROPER_VASSAL_REMIND_HELP</zType>
-        <Translation>Это можно исправить без оскорбления.</Translation>
-    </Entry>
-    <Entry>
+    <Translation>Это можно исправить без оскорбления.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_IMPROPER_VASSAL_REPRIMAND</zType>
-        <Translation>Сделайте выговор {FAMILY-0,1} за нарушение правил поведения.</Translation>
-    </Entry>
-    <Entry>
+    <Translation>Сделайте выговор {FAMILY-0,1} за нарушение правил поведения.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_IMPROPER_VASSAL_LET_GO</zType>
-        <Translation>Оставить это издевательство безнаказанным.</Translation>
-    </Entry>
-    <Entry>
+    <Translation>Оставить это издевательство безнаказанным.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_HEATED_RIVALRY_REFUSE</zType>
-        <Translation>Отказаться от поддержки {CHARACTER-SHORT-1}.</Translation>
-    </Entry>
-    <Entry>
+    <Translation>Отказаться от поддержки {CHARACTER-SHORT-1}.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_HEATED_RIVALRY_ACQUIESCE</zType>
-        <Translation>Согласиться и бросить {CHARACTER-SHORT-1} в ячейку.</Translation>
-    </Entry>
-    <Entry>
+    <Translation>Согласиться и бросить {CHARACTER-SHORT-1} в ячейку.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_FAVORED_VASSAL_OK</zType>
-        <Translation>Да, но только если это не дорого.</Translation>
-    </Entry>
-    <Entry>
+    <Translation>Да, но только если это не дорого.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_FAVORED_VASSAL_NO</zType>
     <Translation>Нет, это не наша ответственность.</Translation>
   </Entry>
@@ -8862,7 +8898,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXPLORING_ENDS_MONEY</zType>
-    <Translation>Задача {G0:ему:ей} монетизировать {G0:его:ее} ее открытия.</Translation>
+    <Translation>Поручите {G0:ему:ей} монетизировать {G0:его:ее} открытия.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXPLORING_ENDS_SCIENCE</zType>
@@ -12491,6 +12527,38 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_WONDER_INSPIRATION_DIPLOMAT</zType>
     <Translation>Никогда не забывайте, мир и торговля - это пути к процветанию.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_INFLUENCE_OF_TERROR_OPTION_0</zType>
+	<Translation>Да, {CHARACTER-1} должен меня бояться.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_INFLUENCE_OF_TERROR_OPTION_1</zType>
+	<Translation>Нет, это не так.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_INFLUENCE_OF_TERROR_OPTION_2</zType>
+	<Translation>Этот разговор еще можно спасти!</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_REIGN_OF_TERROR_OPTION_0</zType>
+	<Translation>Пусть будет так. Все будут бояться меня!</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_REIGN_OF_TERROR_OPTION_1</zType>
+	<Translation>Нет. Я не могу с этим мириться.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_BREAKING_THEIR_FEAR_OPTION_0</zType>
+	<Translation>Заключите в тюрьму кого-нибудь из их семьи. Они познают настоящий ужас.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_BREAKING_THEIR_FEAR_OPTION_1</zType>
+	<Translation>Вместо этого я буду отдавать предпочтение другому члену их семьи.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_BREAKING_THEIR_FEAR_OPTION_2</zType>
+	<Translation>Мы устраним наши разногласия.</Translation>
     </Entry>
 	<Entry beginGroup="City">
     <zType>TEXT_EVENTOPTION_HAPPINESS_IMMIGRANTS_YES</zType>
@@ -13051,6 +13119,22 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_SUPPORTING_THE_FAITH_OPTION_PRAYER</zType>
     <Translation>Я буду вести службу в столице.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_RELIGIOUS_MOB_OPTION_MILITARY</zType>
+	<Translation>Военные их разгонят.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_RELIGIOUS_MOB_OPTION_SPEECH</zType>
+	<Translation>Я поговорю с их жрецами.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_RELIGIOUS_MOB_OPTION_IGNORE</zType>
+	<Translation>Они сами себя утомят. Оставь их в покое.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_RELIGIOUS_MOB_OPTION_TARGET_LEADER</zType>
+	<Translation>{CHARACTER-1} стоит за этим. Арестуйте {G1:его:ее}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BLESSINGS_OF_OUR_ANCESTORS_OPTION_0</zType>
@@ -13876,6 +13960,34 @@
     <zType>TEXT_EVENTOPTION_SHRINE_BLESSING_PARANOID</zType>
     <Translation>Не хотите ли освежиться?</Translation>
   </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_RELIGIOUS_TITHES_PAID</zType>
+	<Translation>Дайте им то, что они просят.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_RELIGIOUS_TITHES_PAID_EXTRA</zType>
+	<Translation>Поблагодарите за поддержку.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_RELIGIOUS_TITHES_REFUSED</zType>
+	<Translation>Отказываюсь платить.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_RELIGIOUS_GOVERNOR_YES</zType>
+	<Translation>{G2:Он:Она} хорошо поведет тебя.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_RELIGIOUS_GOVERNOR_NO</zType>
+	<Translation>Помни свое место, я решаю, кто правит этой землей.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_RELIGIOUS_PRAISE_YES</zType>
+	<Translation>Я благословляю тебя.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_RELIGIOUS_PRAISE_NO</zType>
+	<Translation>Я буду одним из спонсоров фестиваля.</Translation>
+  </Entry>
 	<Entry beginGroup="Law">
     <zType>TEXT_EVENTOPTION_THREAT_OF_MUTINY_OPTION_0</zType>
     <Translation>{PLAYER-1} обретет свободу.</Translation>
@@ -14091,6 +14203,10 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_HARSH_RULE_CONVINCE</zType>
     <Translation>Убедите их, что это для их же блага.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_HOLY_SITE_FINISHED</zType>
+    <Translation>[OK]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WONDER_FINISHED</zType>
@@ -14691,6 +14807,10 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_ASCETIC_MOVEMENT_ALLOW</zType>
     <Translation>Оставьте их, это может иметь значение.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_ASCETIC_MOVEMENT_ASCETIC</zType>
+	<Translation>Присоединяйтесь к ним на улицах.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WAYWARD_SUBJECT_FORGIVE</zType>
@@ -17673,8 +17793,16 @@
     <Translation>Я тщательно обдумаю выбор семьи!</Translation>
   </Entry>
   <Entry>
+	<zType>TEXT_EVENTOPTION_TUTORIAL_PAGAN_SHRINE_OK</zType>
+	<Translation>Я построю больше link(CONCEPT_SHRINE,1),  если захочу распространять язычество!</Translation>
+	  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_SPECIALIST_OPTION_0</zType>
-    <Translation>Я найму link(CONCEPT_SPECIALIST,2), чтобы увеличить свое производство!</Translation>
+    <Translation>Я найму link(CONCEPT_SPECIALIST,1), чтобы увеличить свое производство!</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_TUTORIAL_GOVERNOR_OPTION_0</zType>
+	<Translation>Я назначу link(CONCEPT_GOVERNOR,1), чтобы помочь моим городам!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_WORKER_SELECTED_OPTION_0</zType>
@@ -17687,6 +17815,10 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_WARRIOR_SELECTED_OKAY</zType>
     <Translation>Я отправлю воинов в бой!</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_TUTORIAL_UNIT_UPGRADES_OKAY</zType>
+	<Translation>Я link(CONCEPT_PROMOTION,2) и link(CONCEPT_UPGRADE) свои подразделения, чтобы подготовить их к бою!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_CHARIOT_SELECTED_OKAY</zType>
@@ -17715,6 +17847,10 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_UNIT_FATIGUED_OKAY</zType>
     <Translation>Я начну марш, если потребуется двигаться дальше!</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_TUTORIAL_UNDO_OKAY</zType>
+	<Translation>Я link(CONCEPT_UNDO) некоторые действия, если мне нужно!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_OUT_OF_ORDERS_OKAY</zType>
@@ -17879,6 +18015,22 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_ONAGER_SELECTED_OKAY</zType>
     <Translation>Я могу поразить до семи врагов одновременно!</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_TUTORIAL_FAMILY_ANGRY_OKAY</zType>
+	<Translation>Я постараюсь сделать мою link(CONCEPT_FAMILY, 1) счастливой, чтобы они не взбунтовались!</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_TUTORIAL_APPOINT_AMBASSADOR_OKAY</zType>
+	<Translation>Я назначу link(COUNCIL_AMBASSADOR), чтобы я мог вести дипломатию!</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_TUTORIAL_APPOINT_CHANCELLOR_OKAY</zType>
+	<Translation>Я назначу link(COUNCIL_CHANCELLOR), чтобы помочь управлять моей областью!</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_TUTORIAL_APPOINT_SPYMASTER_OKAY</zType>
+	<Translation>Если я захочу заняться каким-то мошенничеством, то обязательно назначу link(COUNCIL_SPYMASTER)!</Translation>
   </Entry>
   <Entry beginGroup="Community">
     <zType>TEXT_EVENTOPTION_GOT_YOUR_NOSE_0</zType>
