@@ -18,7 +18,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_INPUT_MAX_CHARACTERS</zType>
-    <Translation> (Макс. символов: {0})</Translation>
+    <Translation> (Макс. персонажей: {0})</Translation>
   </Entry>
   <!--ClientUI-->
   <Entry>
@@ -31,7 +31,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_TRIBAL_TURN</zType>
-    <Translation>Ход варваров</Translation>
+    <Translation>Ход племени</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_YOUR_TURN</zType>
@@ -183,7 +183,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_UI_EVENT_LOG_CITY_ATTACKED</zType>
-	<Translation>CITY АТАКОВАН</Translation>
+	<Translation>ГОРОД АТАКОВАН</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_UI_EVENT_LOG_CITY_CAPTURED</zType>
@@ -387,11 +387,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_UNIT_ATTACK_PREVIEW_IMMUNE</zType>
-    <Translation>Имунитет</Translation>
+    <Translation>Неуязвимость</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_UI_CITY_ATTACK_PREVIEW_POPULATION</zType>
-	<Translation>Население</Translation>
+    <Translation>Население~Населения</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_UNIT_COOLDOWN_FATIGUED</zType>
@@ -531,7 +531,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_SPOUSE_LABEL</zType>
-    <Translation>Супгруг(а)</Translation>
+    <Translation>Супруг(а)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_CHARACTER_ACTIONS_RELATIVE_CHILD_LABEL</zType>
@@ -607,7 +607,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_TURN_TEXT_SCALE</zType>
-    <Translation><![CDATA[{0}, Год {1}<true_2> ({2} Turns)<false><end><true_3> ({3_time})<false><end>]]></Translation>
+    <Translation><![CDATA[{0}, Год {1}<true_2> ({2} Ходов)<false><end><true_3> ({3_time})<false><end>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_TURN_TEXT_TURN_MAX</zType>
@@ -622,7 +622,7 @@
     <Translation>ПОБЕДА!!!</Translation>
   </Entry>
   <Entry>
-    <zType></zType>
+    <zType />
     <Translation>ПОБЕДА АЛЬЯНСА!!!</Translation>
   </Entry>
   <Entry>
@@ -970,7 +970,7 @@
   <!--multiplayer menu-->
   <Entry>
     <zType>TEXT_MP_KICK_ACTIVE_PLAYER</zType>
-    <Translation>Кикнуть текущего игрока?</Translation>
+    <Translation>Исключить этого игрока?</Translation>
   </Entry>
   <Entry>    
     <zType>TEXT_MP_DELETE_CLOUD_SAVE</zType>
@@ -1022,7 +1022,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_MP_WIZARD_SCREEN_SERVER_MODE</zType>
-    <Translation>Хостить игры, не участвуя в них</Translation>
+    <Translation>Хост на удаленном сервере</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MP_WIZARD_SCREEN_NETWORK_MODE_BUTTON</zType>
@@ -1156,7 +1156,7 @@
   <!--servers-->
   <Entry>
 	<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_SERVERPASSWORD</zType>
-		<Translation>Пароль</Translation>
+	<Translation>Пароль</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MP_SETUP_OPTIONS_LABEL_SERVERS</zType>
@@ -1190,7 +1190,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_HOSTPASSWORD</zType>
-	<Translation>Host Password</Translation>
+    <Translation>Пароль хоста</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MP_SETUP_GAMEOPTIONS_LABEL_PLAYERS</zType>
@@ -1984,7 +1984,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_CITY_FAMILY_DECISION</zType>
-    <Translation>{0_family} ({1_class}, {2_opinion}, {singular_3:1 City:{3} Cities})</Translation>
+    <Translation>{0_family} ({1_class}, {2_opinion}, {singular_3:1 город:{3} города: {3} городов})</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_CITY_CAPITAL_FAMILY_DECISION</zType>
@@ -2117,7 +2117,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_MODS_UPLOAD_TAB</zType>
-    <Translation>Выгрузка</Translation>
+    <Translation>Загрузка</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_MODS_FILTER_ALL</zType>

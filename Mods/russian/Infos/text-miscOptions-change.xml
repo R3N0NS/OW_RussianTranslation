@@ -42,7 +42,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_MISCOPTION_MONITOR_DESC</zType>
-    <Translation>Requires game restart</Translation>
+    <Translation>Требуется перезапуск игры</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISCOPTION_FRAME_LIMIT_NAME</zType>

@@ -12,7 +12,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_BUILD_SPECIALIST</zType>
-    <Translation>Специалист~Специалиста~Специалисту~Специалист~Специалистом~Специалисте</Translation>
+    <Translation>Специалист~Специалиста~Специалисту~Специалиста~Специалистом~Специалисте~Специалисты~Специалистов~Специалистам~Специалистов~Специалистами~Специалистах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_BUILD_UNIT</zType>
@@ -29,7 +29,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_TRIBE</zType>
-    <Translation>Племя~Племена</Translation>
+    <Translation>Племя~Племени~Племени~Племя~Племенем~Племени~Племена~Племен~Племенам~Племена~Племенами~Племенах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_ALLIANCE_PLAYER</zType>
@@ -109,19 +109,19 @@
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_FATIGUE</zType>
-    <Translation>Усталость</Translation>
+    <Translation>Усталость~Отряд устал</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_AMBITION</zType>
-    <Translation>Амбиция~Амбиции</Translation>
+    <Translation>Амбиция~Амбиции~Амбиции~Амбицию~Амбицией~Амбиции~Амбиции~Амбиций~Амбициям~Амбиции~Амбициями~Амбициях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_STATE_RELIGION</zType>
-    <Translation>Государственная религия~Государственная религии</Translation>
+    <Translation>Государственная религия~Государственной религии~Государственной религии~Государственную религию~Государственной религией~Государственной религии~Государственные религии~Государственных религий~Государственным религиям~Государственные религии~Государственными религиями~Государственных религиях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_COGNOMEN</zType>
-    <Translation>Cognomen~Cognomens</Translation>
+    <Translation>Статус~Статуса~Статусу~Статус~Статусом~Статусе~Статусы~Статусов~Статусам~Статусы~Статусами~Статусах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_HIDDEN</zType>
@@ -161,7 +161,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_IMPROVEMENT</zType>
-    <Translation>Улучшение~an Улучшение~Улучшения</Translation>
+    <Translation>Улучшение~Улучшения</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_REBEL</zType>
@@ -173,7 +173,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_ROAD</zType>
-    <Translation>Дорога~Дороги~Дороге~Дорогу~Дорогой~Дороге</Translation>
+    <Translation>Дорога~Дороги~Дороге~Дорогу~Дорогой~Дороге~Дороги~Дорог~Дорогам~Дороги~Дорогами~Дорогах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_ROUT</zType>
@@ -185,7 +185,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_THEOLOGY</zType>
-    <Translation>Теология</Translation>
+    <Translation>Теология~Теологии~Теологии~Теологию~Теологией~Теологии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_TRADE_NETWORK</zType>
@@ -1342,11 +1342,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONTRIBE_ANGRY</zType>
-    <Translation>Злость</Translation>
+    <Translation>Гнев</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONTRIBE_UPSET</zType>
-    <Translation>Огорчение</Translation>
+    <Translation>Возмущение</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONTRIBE_CAUTIOUS</zType>
@@ -1367,11 +1367,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONCHARACTER_ANGRY</zType>
-    <Translation>Злость</Translation>
+    <Translation>Гнев</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONCHARACTER_UPSET</zType>
-    <Translation>Огорчение</Translation>
+    <Translation>Возмущение</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONCHARACTER_CAUTIOUS</zType>
@@ -1392,11 +1392,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONPLAYER_ANGRY</zType>
-    <Translation>Злость</Translation>
+    <Translation>Гнев</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONPLAYER_UPSET</zType>
-    <Translation>Огорчение</Translation>
+    <Translation>Возмущение</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_OPINIONPLAYER_CAUTIOUS</zType>
@@ -1413,19 +1413,19 @@
   <!--InfoSpecialist-->
   <Entry>
     <zType>TEXT_SPECIALIST_FARMER</zType>
-    <Translation>Фермер~Фермера~Фермеру~Фермера~Фермером~Фермере</Translation>
+    <Translation>Фермер~Фермера~Фермеру~Фермера~Фермером~Фермере~Фермеры~Фермеров</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_WOODCUTTER</zType>
-    <Translation>Лесоруб~Лесоруба~Лесорубу~Лесоруба~Лесорубом~Лесорубе</Translation>
+    <Translation>Лесоруб~Лесоруба~Лесорубу~Лесоруба~Лесорубом~Лесорубе~Лесорубы~Лесорубов</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_STONECUTTER</zType>
-    <Translation>Камнерез~Камнереза~Камнерезу~Камнереза~Камнерезом~Камнерезе</Translation>
+    <Translation>Камнерез~Камнереза~Камнерезу~Камнереза~Камнерезом~Камнерезе~Камнерезы~Камнерезов</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_MINER</zType>
-    <Translation>Рудокоп~Рудокопа~Рудокопу~Рудокопа~Рудокопом~Рудокопе</Translation>
+    <Translation>Рудокоп~Рудокопа~Рудокопу~Рудокопа~Рудокопом~Рудокопе~Рудокопы~Рудокопов</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALIST_RANCHER</zType>
@@ -1586,7 +1586,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_TECH_ADMINISTRATION</zType>
-    <Translation>Администрация~Администрации~Администрации~Администрацию~Администрацией~Администрации</Translation>
+    <Translation>Управление~Управления~Управлению~Управление~Управлением~Управлении</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_LABOR_FORCE</zType>
@@ -1614,11 +1614,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_TECH_MILITARY_DRILL</zType>
-    <Translation>Муштра~Муштры~Муштре~Муштру~Муштрой~Муштре</Translation>
+    <Translation>Военная подготовка~Военной подготовки~Военной подготовке~Военную подготовку~Военной подготовкой~Военной подготовке</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_ARISTOCRACY</zType>
-    <Translation>Аристрократия~Аристократии~Аристократии~Аристократию~Аристократией~Аристократии</Translation>
+    <Translation>Аристократия~Аристократии~Аристократии~Аристократию~Аристократией~Аристократии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_ARISTOCRACY_BONUS_BORDERS</zType>
@@ -1626,7 +1626,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_TECH_SOVEREIGNTY</zType>
-    <Translation>Суверенитет~Суверенитета~Суверенитету~Суверенитет~Суверенитетом~Суверенитете</Translation>
+    <Translation>Верховная власть~Верховной власти~Верховной власти~Верховную власть~Верховной властью~Верховной власти</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_RHETORIC</zType>
@@ -1698,7 +1698,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_TECH_LAND_CONSOLIDATION</zType>
-    <Translation>Объединение земель~Объеденения земель~Объеденению земель~Объеденение земель~Объеденением земель~Объеденении земель</Translation>
+    <Translation>Объединение земель~Объединения земель~Объединению земель~Объединение земель~Объединением земель~Объединении земель</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_LAND_CONSOLIDATION_BONUS_WAR_ELEPHANT</zType>
@@ -1762,7 +1762,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_TECH_MANOR</zType>
-    <Translation>Феодальное поместье~Феодального поместья~Феодальному поместью~Феодальное поместье~Феодальным поместьем~Феодальном поместье</Translation>
+    <Translation>Поместье~Поместья~Поместью~Поместье~Поместьем~Поместье</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_MANOR_BONUS_GOODS</zType>

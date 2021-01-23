@@ -283,7 +283,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LAW_ORTHODOXY</zType>
-    <Translation>[Один истинный путь ведет к благочестию.</Translation>
+    <Translation>Один истинный путь ведет к благочестию.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LAW_PHILOSOPHY</zType>
@@ -299,19 +299,19 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LAW_CALLIGRAPHY</zType>
-    <Translation>Wrапись дает силу тем, кто ею владеет.</Translation>
+    <Translation>Письменность дает силу тем, кто ею владеет.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LAW_PILGRIMAGE</zType>
-    <Translation>Весь мир должен видеть наши святые места</Translation>
+    <Translation>Весь мир должен увидеть наши святые места</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LAW_HOLY_WAR</zType>
-    <Translation> Мы должны страстно защищать верующих.</Translation>
+    <Translation>Мы должны всеми силами защищать верующих.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LAW_GUILDS</zType>
-    <Translation>Труд и заслуги ведут к великим делам.</Translation>
+    <Translation>Труд и добродетель ведут к великим делам.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LAW_ELITES</zType>
@@ -387,7 +387,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FAMILY_LAW_YES</zType>
-    <Translation>Сделайте изменение.</Translation>
+    <Translation>Внесите изменения.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FAMILY_LAW_NO</zType>
@@ -395,7 +395,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_EVENTOPTION_THEOLOGY_LAW_YES</zType>
-	<Translation>Сделайте изменение.</Translation>
+    <Translation>Внесите изменения.</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EVENTOPTION_THEOLOGY_LAW_NO</zType>
@@ -403,7 +403,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FAMILY_THEOLOGY_YES</zType>
-    <Translation>Сделать изменения.</Translation>
+    <Translation>Внесите изменения.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FAMILY_THEOLOGY_NO</zType>
@@ -411,11 +411,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TOO_EXPENSIVE</zType>
-    <Translation>Слишком дорогой</Translation>
+    <Translation>Слишком дорого</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ORACLE_ME</zType>
-    <Translation>Только я заслужил эту привилегию</Translation>
+    <Translation>Только я заслужил эту привилегию.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ORACLE_WEALTHY</zType>
@@ -431,7 +431,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ORACLE_CONFUSED</zType>
-    <Translation>Это расплывчато. Мы должны действовать осторожно..</Translation>
+    <Translation>Это очень расплывчато. Мы должны действовать осторожно..</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ORACLE_PLEASED</zType>
@@ -455,11 +455,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_CODES_OF_JUSTICE_OPTION_0</zType>
-    <Translation>Зуб за зуб, глаз за глаз.</Translation>
+    <Translation>Око за око, зуб за зуб.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_CODES_OF_JUSTICE_OPTION_1</zType>
-    <Translation>Если ударили по одной щеке, подставь  другую.</Translation>
+    <Translation>Если ударили по одной щеке, подставь другую.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_SAGE_COUNSEL_OPTION_0</zType>
@@ -487,7 +487,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_MOUTHPIECE_OF_THE_GODS_OPTION_1</zType>
-    <Translation>Мы не может позволить себе такие траты.</Translation>
+    <Translation>Мы не можем позволить себе такие траты.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_DIVINE_MANDATE_OPTION_0</zType>
@@ -1767,7 +1767,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEIGHBORS_HUMBLE_OPTION_1</zType>
-    <Translation>Смотрите их, когда вам будет удобно.</Translation>
+    <Translation>Встретимся с ними, когда это будет удобно.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEIGHBORS_HUMBLE_OPTION_0</zType>

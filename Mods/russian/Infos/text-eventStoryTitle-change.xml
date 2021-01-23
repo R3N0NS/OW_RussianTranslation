@@ -7291,7 +7291,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_OUT_OF_ORDERS_TITLE</zType>
-		<Translation>Обучение: Out Of link(YIELD_ORDERS)</Translation>
+		<Translation>Обучение: link(YIELD_ORDERS)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_RELIGION_TITLE</zType>

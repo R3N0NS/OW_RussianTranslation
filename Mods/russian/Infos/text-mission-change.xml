@@ -44,11 +44,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_MISSION_PLAYER_PEACE_OFFER_TRIBUTE</zType>
-    <Translation>Предложить перемирие в обмен на мир</Translation>
+    <Translation>Предложить дань в обмен на мир</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_MISSION_PLAYER_PEACE_OFFER_TRIBUTE_TARGET</zType>
-    <Translation>Предложить перемирие в обмен на мир с</Translation>
+    <Translation>Предложить дань в обмен на мир с</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSION_PLAYER_PEACE_NO_TRIBUTE</zType>
@@ -60,11 +60,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_MISSION_PLAYER_PEACE_DEMAND_TRIBUTE</zType>
-    <Translation>Потребовать перемирия в обмен на мир</Translation>
+    <Translation>Потребовать дань в обмен на мир</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSION_PLAYER_PEACE_DEMAND_TRIBUTE_TARGET</zType>
-    <Translation>Потребовать перемирия в обмен на мир с</Translation>
+    <Translation>Потребовать дань в обмен на мир с</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSION_PLAYER_PEACE_HUMAN</zType>
@@ -84,27 +84,27 @@
   </Entry>
   <Entry>
     <zType>TEXT_MISSION_PLAYER_TRUCE_OFFER_TRIBUTE</zType>
-    <Translation>Предложить перемирие в обмен на мир</Translation>
+    <Translation>Предложить дань в обмен на перемирие</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSION_PLAYER_TRUCE_OFFER_TRIBUTE_TARGET</zType>
-    <Translation>Предложить перемирие в обмен на мир с</Translation>
+    <Translation>Предложить дань в обмен на перемирие с</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSION_PLAYER_TRUCE_NO_TRIBUTE</zType>
-    <Translation>Попросить заключить мир</Translation>
+    <Translation>Попросить заключить перемирие</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSION_PLAYER_TRUCE_NO_TRIBUTE_TARGET</zType>
-    <Translation>Попросить заключить мир с</Translation>
+    <Translation>Попросить заключить перемирие с</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSION_PLAYER_TRUCE_DEMAND_TRIBUTE</zType>
-    <Translation>Потребовать перемирие в обмен на мир</Translation>
+    <Translation>Потребовать дань в обмен на перемирие</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSION_PLAYER_TRUCE_DEMAND_TRIBUTE_TARGET</zType>
-    <Translation>Потребовать перемирие в обмен на мир с</Translation>
+    <Translation>Потребовать дань в обмен на перемирие с</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSION_PLAYER_TRUCE_HUMAN</zType>
@@ -200,7 +200,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_MISSION_FAMILY_MARRIAGE</zType>
-    <Translation>Заключение брака с семьей</Translation>
+    <Translation>Заключение брака с членом семьи</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSION_MARRY_COURTIER</zType>

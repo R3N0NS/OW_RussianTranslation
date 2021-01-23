@@ -5751,7 +5751,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_SUBMIT_BUG_BUTTON</zType>
-    <Translation>Сообщить о 	</Translation>
+    <Translation>Сообщить о ошибке</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_RESTART_GAME_BUTTON</zType>
@@ -6312,7 +6312,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_MILITARY_UNITS</zType>
-    <Translation>Требуется {0} Military {singular_0:Unit:Units}</Translation>
+    <Translation>Требуется {0} {singular_0:военный отряд:военных отряда:военных отрядов}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_GOAL_HELP_REQUIRES_MAX_LEVEL_UNITS</zType>
@@ -6420,7 +6420,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_GOAL_HELP_MAX_YEARS</zType>
-    <Translation>Макс. лет: {0}</Translation>
+    <Translation>Макс. ходов: {0}</Translation>
   </Entry>
   <!--Law Help-->
   <Entry>

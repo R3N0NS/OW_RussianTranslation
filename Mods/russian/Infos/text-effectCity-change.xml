@@ -13,7 +13,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_EFFECTCITY_CAPITAL_SOURCE</zType>
-	<Translation>Столица</Translation>
+    <Translation>Столица~Столицы~Столице~Столицу~Столицей~Столице</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EFFECTCITY_STATE_RELIGION_SOURCE</zType>
@@ -26,7 +26,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_CAPITAL</zType>
-    <Translation>Столица</Translation>
+    <Translation>Столица~Столицы~Столице~Столицу~Столицей~Столице</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_FAMILY_SEAT</zType>
@@ -58,7 +58,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_LANDOWNERS_HONEY</zType>
-	<Translation>Помещичий Мtд</Translation>
+    <Translation>Мед землевладельцев</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_CHAMPIONS_WINE	</zType>
@@ -66,19 +66,19 @@
   </Entry>
   <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_STATESMEN_PEARL</zType>
-	<Translation>Жемчужины Деятелей</Translation>
+	<Translation>Жемчужины деятелей</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_PATRONS_GEM</zType>
-	<Translation>Драгоценные Камни</Translation>
+	<Translation>Драгоценные камни</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_CLERICS_INCENSE</zType>
-	<Translation>Благовония Священнослужителей</Translation>
+	<Translation>Благовония священнослужителей</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_SAGES_LAVENDER</zType>
-	<Translation>Лаванда Мудрецов</Translation>
+	<Translation>Лаванда мудрецов</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EFFECTCITY_LUXURY_TRADERS_OLIVE</zType>
@@ -126,7 +126,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_CULTURE_LEGENDARY</zType>
-    <Translation>Легендарный~Легендарных~Легендарное~Легендарные~Легендарной</Translation>
+    <Translation>Легендарный город~Легендарных городов~Легендарные~Легендарные города~Легендарной</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_DIFFICULTY_ABLE</zType>
@@ -238,19 +238,19 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_SLAVERY</zType>
-    <Translation>Рабство~Рабстве</Translation>
+    <Translation>Рабство~Рабства~Рабству~Рабство~Рабством~Рабстве</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_FREEDOM</zType>
-    <Translation>Свобода~Свободе</Translation>
+    <Translation>Свобода~Свободы~Свободе~Свободу~Свободой~Свободе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_TYRANNY</zType>
-    <Translation>Тирания~Тирании</Translation>
+    <Translation>Тирания~Тирании~Тирании~Тиранию~Тиранией~Тирании</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_CENTRALIZATION</zType>
-    <Translation>Централизация~Централизации</Translation>
+    <Translation>Централизация~Централизации~Централизации~Централизацию~Централизацией~Централизации</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_SERFDOM</zType>
@@ -314,19 +314,19 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_ELITES</zType>
-    <Translation>Элита~Элиты</Translation>
+    <Translation>Знать~Знати~Знати~Знать~Знатью~Знати</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_ISOLATIONISM</zType>
-    <Translation>Изоляционализм~Интернационализме</Translation>
+    <Translation>Изоляционизм~Изоляционизма~Изоляционизму~Изоляционизм~Изоляционизмом~Изоляционизме</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_COIN_DEBASEMENT</zType>
-    <Translation>Порча монет~Порче монет</Translation>
+    <Translation>Порча монет~Порчи монет~Порче монет~Порчу монет~Порчей монет~Порче монет</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_MONETARY_REFORM</zType>
-    <Translation>Денежная реформа~Денежную реформу</Translation>
+    <Translation>Денежная реформа~Денежной реформы~Денежной реформе~Денежную реформу~Денежной реформой~Денежной реформе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_NATION_ASSYRIA</zType>
@@ -362,11 +362,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_OPINIONFAMILY_ANGRY</zType>
-    <Translation>Злость семьи</Translation>
+    <Translation>Гнев семьи</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_OPINIONFAMILY_UPSET</zType>
-    <Translation>Огорчение семьи</Translation>
+    <Translation>Возмущение семьи</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_OPINIONFAMILY_PLEASED</zType>
@@ -382,11 +382,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_OPINIONRELIGION_ANGRY</zType>
-    <Translation>Злость представителей религии</Translation>
+    <Translation>Гнев представителей религии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_OPINIONRELIGION_UPSET</zType>
-    <Translation>Огорчение представителей религии</Translation>
+    <Translation>Возмущение представителей религии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_OPINIONRELIGION_PLEASED</zType>
@@ -494,7 +494,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_RESOURCE_CITRUS</zType>
-    <Translation>Цитрусы</Translation>
+    <Translation>Цитрусовые</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_RESOURCE_HONEY</zType>
