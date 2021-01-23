@@ -575,7 +575,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_ENABLERS_OPTION_1</zType>
-    <Translation>Вина, вина, налейте ещё вина!</Translation>
+    <Translation>Вина, вина, налейте еще вина!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_ENABLERS_OPTION_2</zType>
@@ -3399,7 +3399,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_MONEY_ORDERS</zType>
-    <Translation>Мы могли бы использовать Деньги. Вы можете использовать заказы ..</Translation>
+    <Translation>Мы могли бы обменять золото на возможность давать поручения.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_MONEY_CIVICS</zType>
@@ -3411,7 +3411,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_MONEY_SCIENCE</zType>
-    <Translation>Мы поделимся с вами нашей наукой по link(YIELD_MONEY).</Translation>
+    <Translation>Мы поделимся с вами нашей наукой - link(YIELD_MONEY).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_FOOD_ORDERS</zType>
@@ -3479,7 +3479,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_ORDERS_MONEY</zType>
-    <Translation>Мы будем платить деньги за заказы.</Translation>
+    <Translation>Мы будем платить золотом в обмен на заказы.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRADE_MISSION_YES_CIVICS_MONEY</zType>
@@ -4295,7 +4295,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_OOPS_OPTION_1</zType>
-    <Translation>Вам нужно оружие дальнего боя, а нам нужна link(UNIT_CHARIOT, 2).</Translation>
+    <Translation>Вам нужно оружие дальнего боя, а нам нужна link(UNIT_CHARIOT,2).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_OOPS_OPTION_2</zType>
@@ -6082,7 +6082,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_LOST_RELATIVE_OPTION_1</zType>
-    <Translation>Приказать мастуре тайных дел разузнать всё о {CHARACTER-SHORT-2}.</Translation>
+    <Translation>Приказать мастуре тайных дел разузнать все о {CHARACTER-SHORT-2}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_LOST_RELATIVE_OPTION_2</zType>
@@ -8130,11 +8130,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DEAR_PARENT_PHILOSOPHY_NO</zType>
-    <Translation>Нет необходимости в дальнейшем изучении</Translation>
+    <Translation>Нет необходимости в дальнейшем обучении.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DEAR_PARENT_PHILOSOPHY_YES</zType>
-    <Translation>Вы станете великим ученым.</Translation>
+    <Translation>Ты станешь великим ученым.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TACTICS_TO_PHILOSOPHY_NO</zType>
@@ -9750,7 +9750,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_RIDING_CONTEST_OPTION_2</zType>
-    <Translation>{G0:короля:королеву} из {PLAYER-0} в варварском состязании? Никогда.</Translation>
+    <Translation>{G0:Короля:Королеву} из {PLAYER-0} в варварском состязании? Никогда.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_AMNESTY_OPTION_0</zType>
@@ -10066,7 +10066,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BIRTH_RENEWED_HOPE_OPTION_2</zType>
-    <Translation>Мы будем окружать {G0:его:её} братьями и сестерами.</Translation>
+    <Translation>Мы будем окружать {G0:его:ее} братьями и сестерами.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BIRTH_A_NEW_HEIR_OPTION_0</zType>
@@ -14154,7 +14154,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_START_SLAVERY_YES</zType>
-    <Translation>Активировать link(LAW_SLAVERY) как учреждение.</Translation>
+    <Translation>Принять  link(LAW_SLAVERY).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_START_SLAVERY_NO</zType>
@@ -15110,7 +15110,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LOCAL_BRIGANDS_ENDING_C_OPTION_0</zType>
-    <Translation>Выделите всё необходимое и отправьте больше солдат.</Translation>
+    <Translation>Выделите все необходимое и отправьте больше солдат.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LOCAL_BRIGANDS_ENDING_C_OPTION_1</zType>
@@ -18722,7 +18722,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AN_UNUSUAL_CHANCELLOR_PROCLAIM</zType>
-    <Translation>Я правитель, и я канцлер, и я аристократия. Я весь из {PLAYER-0}.</Translation>
+    <Translation>Я правитель, я канцлер, я аристократия. Я из {PLAYER-0}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HERETIC_SPOUSE_REBUKE</zType>

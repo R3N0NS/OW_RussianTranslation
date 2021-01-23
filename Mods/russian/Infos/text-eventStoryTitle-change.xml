@@ -2135,7 +2135,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_SIMPLE_GIFTS_TITLE</zType>
-		<Translation>Лёгкие деньги</Translation>
+		<Translation>Легкие деньги</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TRAIT_TAX_HIKE_TITLE</zType>
@@ -5859,35 +5859,35 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCENARY_AXEMAN_TITLE</zType>
-		<Translation>link(CONCEPT_MERCENARY) link(UNIT_AXEMAN, 2)</Translation>
+		<Translation>link(CONCEPT_MERCENARY) link(UNIT_AXEMAN,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCENARY_SPEARMAN_TITLE</zType>
-		<Translation>link(CONCEPT_MERCENARY) link(UNIT_SPEARMAN, 2)</Translation>
+		<Translation>link(CONCEPT_MERCENARY) link(UNIT_SPEARMAN,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCENARY_MACEMAN_TITLE</zType>
-		<Translation>link(CONCEPT_MERCENARY) link(UNIT_MACEMAN, 2)</Translation>
+		<Translation>link(CONCEPT_MERCENARY) link(UNIT_MACEMAN,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCENARY_SWORDSMAN_TITLE</zType>
-		<Translation>link(CONCEPT_MERCENARY) link(UNIT_SWORDSMAN, 2)</Translation>
+		<Translation>link(CONCEPT_MERCENARY) link(UNIT_SWORDSMAN,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCENARY_PIKEMAN_TITLE</zType>
-		<Translation>link(CONCEPT_MERCENARY) link(UNIT_PIKEMAN, 2)</Translation>
+		<Translation>link(CONCEPT_MERCENARY) link(UNIT_PIKEMAN,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCENARY_ARCHER_TITLE</zType>
-		<Translation>link(CONCEPT_MERCENARY) link(UNIT_ARCHER, 2)</Translation>
+		<Translation>link(CONCEPT_MERCENARY) link(UNIT_ARCHER,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCENARY_LONGBOWMAN_TITLE</zType>
-		<Translation>link(CONCEPT_MERCENARY) link(UNIT_LONGBOWMAN, 2)</Translation>
+		<Translation>link(CONCEPT_MERCENARY) link(UNIT_LONGBOWMAN,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCENARY_CROSSBOWMAN_TITLE</zType>
-		<Translation>link(CONCEPT_MERCENARY) link(UNIT_CROSSBOWMAN, 2)</Translation>
+		<Translation>link(CONCEPT_MERCENARY) link(UNIT_CROSSBOWMAN,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCENARY_POLYBOLOS_TITLE</zType>
@@ -5895,27 +5895,27 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCENARY_CHARIOT_TITLE</zType>
-		<Translation>link(CONCEPT_MERCENARY) link(UNIT_CHARIOT, 2)</Translation>
+		<Translation>link(CONCEPT_MERCENARY) link(UNIT_CHARIOT,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCENARY_HORSEMAN_TITLE</zType>
-		<Translation>link(CONCEPT_MERCENARY) link(UNIT_HORSEMAN, 2)</Translation>
+		<Translation>link(CONCEPT_MERCENARY) link(UNIT_HORSEMAN,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCENARY_HORSE_ARCHER_TITLE</zType>
-		<Translation>link(CONCEPT_MERCENARY) link(UNIT_HORSE_ARCHER, 2)</Translation>
+		<Translation>link(CONCEPT_MERCENARY) link(UNIT_HORSE_ARCHER,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCENARY_CAMEL_ARCHER_TITLE</zType>
-		<Translation>link(CONCEPT_MERCENARY) link(UNIT_CAMEL_ARCHER, 2)</Translation>
+		<Translation>link(CONCEPT_MERCENARY) link(UNIT_CAMEL_ARCHER,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCENARY_WAR_ELEPHANT_TITLE</zType>
-		<Translation>link(CONCEPT_MERCENARY) link(UNIT_WAR_ELEPHANT, 2)</Translation>
+		<Translation>link(CONCEPT_MERCENARY) link(UNIT_WAR_ELEPHANT,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_MERCENARY_CATAPHRACT_TITLE</zType>
-		<Translation>link(CONCEPT_MERCENARY) link(UNIT_CATAPHRACT, 2)</Translation>
+		<Translation>link(CONCEPT_MERCENARY) link(UNIT_CATAPHRACT,2)</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_PILLAGING_TRIBE_TITLE</zType>
