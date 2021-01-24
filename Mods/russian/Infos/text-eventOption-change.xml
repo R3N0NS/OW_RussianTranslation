@@ -6346,7 +6346,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_BURNED_LIBRARY_OPTION_2</zType>
-    <Translation>Пусть {CHARACTER-2} перестроит то, что хочет {G2:он:она}.</Translation>
+    <Translation>Пусть {CHARACTER-2} перестроит то, что хочет.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_SAFE_PASSAGE_OPTION_0</zType>
@@ -6398,7 +6398,7 @@
    </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_MONASTIC_LIVING_NO</zType>
-     <Translation>Отпустите {G0:ему:ей}, но откажитесь делать пожертвования.</Translation>
+     <Translation>Отпустите {G0:его:ее}, но откажитесь делать пожертвования.</Translation>
    </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPOUSE_DEEPER_MEANING_OK</zType>
@@ -6794,7 +6794,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SUCCESSION_NEW_LEAF_MONUMENT</zType>
-    <Translation>Воздвигну монумент в честь основателя их семьи.</Translation>
+    <Translation>Воздвигнуть монумент в честь основателя.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SUCCESSION_NEW_LEAF_BRIBE</zType>
@@ -6830,7 +6830,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SUCCESSION_SNAKE_SIGNS_CONTEST</zType>
-    <Translation>Проведите соревнование оружейников в г. {CITY-3} семьи {FAMILY-3}.</Translation>
+    <Translation>Проведите соревнование оружейников в г. {CITY-3} семьи {FAMILY-3,2}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SUCCESSION_SNAKE_SIGNS_NO</zType>
@@ -6898,7 +6898,7 @@
   </Entry> 
   <Entry>
 	<zType>TEXT_EVENTOPTION_MASTER_OF_WHISPERS_ASSASSINATE</zType>
-    <Translation>Так или иначе положить конец моей интрижке с {G0: мужем: женой}</Translation>
+    <Translation>Так или иначе положить конец моей интрижке с {G0:мужем:женой}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPYMASTER_MASTER_OF_POISONS_OPTION_0</zType>
@@ -7846,7 +7846,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEADER_BLOODLESS_REBELLION_OPTION_2</zType>
-    <Translation>Игнорируйте {CHARACTER-1} ... но заставьте {G1:его:ее} страдать.</Translation>
+    <Translation>Игнорируйте {CHARACTER-1}... но заставьте {G1:его:ее} страдать.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEADER_LEGACY_OF_GOLD_OPTION_0</zType>
@@ -8206,7 +8206,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FAMILY_FIRST_YES</zType>
-    <Translation>Мы сделаем {G1:ему:ей} link(COUNCIL_CHANCELLOR).</Translation>
+    <Translation>Мы сделаем {G1:его:ее} link(COUNCIL_CHANCELLOR).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FAMILY_FIRST_NO</zType>
@@ -9014,7 +9014,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_INSIDER_OPTION_1</zType>
-    <Translation>Возьмите {CHARACTER-SHORT-2} под стражу и доставьте {G2:ему:ей} {PLAYER-0}.</Translation>
+    <Translation>Возьмите {CHARACTER-SHORT-2} под стражу и доставьте {G2:его:ее} в {PLAYER-0}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_INSIDER_OPTION_2</zType>
@@ -9306,7 +9306,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MOTHER_IN_EXILE_RETURN</zType>
-    <Translation>Верните {G1:ему:ей} обратно, и, возможно, будет мир.</Translation>
+    <Translation>Верните {G1:его:ее} обратно, и, возможно, будет мир.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_RETURN_HOME_DATES</zType>
@@ -9406,7 +9406,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_LOVESICK_OPTION_1</zType>
-    <Translation>Поздравьте {G0:ему:ей} с навыками {G0:его:ее}.</Translation>
+    <Translation>Поздравьте {G0:его:ее} с навыками {G0:его:ее}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_LOVESICK_OPTION_2</zType>
@@ -9422,7 +9422,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_YOUTHFUL_ZEAL_OPTION_2</zType>
-    <Translation>В любом случае бросьте {G0:ему:ей} в темницу.</Translation>
+    <Translation>В любом случае бросьте {G0:его:ее} в темницу.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_EAGER_FOR_COMBAT_OPTION_0</zType>
@@ -9450,15 +9450,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_RETURNING_SOLDIER_OPTION_0</zType>
-    <Translation>Окружите {G0:ему:ей} семьей и друзьями.</Translation>
+    <Translation>Окружите {G0:его:ее} семьей и друзьями.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_RETURNING_SOLDIER_OPTION_1</zType>
-    <Translation>Парад {G0:ему:ей} через столицу с войсками {G0:его:ее}.</Translation>
+    <Translation>Сопровождайте {G0:его:ее} через столицу с {G0:его:ее} войсками.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_RETURNING_SOLDIER_OPTION_2</zType>
-    <Translation>Продвигайте {G0:ему:ей} в правительство.</Translation>
+    <Translation>Продвигайте {G0:его:ее} в правительство.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_PHYSICAL_CONFRONTATION_OPTION_0</zType>
@@ -9498,7 +9498,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTOR_UNHEALTHY_INTERESTS_OPTION_1</zType>
-    <Translation>Поручите {CHARACTER-SHORT-1} следить за {G0:ему:ей}.</Translation>
+    <Translation>Поручите {CHARACTER-SHORT-1} следить за {G0:ним:ней}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTOR_UNHEALTHY_INTERESTS_OPTION_2</zType>
@@ -9634,7 +9634,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_DISTURBING_THE_PEACE_OPTION_0</zType>
-    <Translation>Отправить {G2:ему:ей} обратно {PLAYER-1} с предупреждением.</Translation>
+    <Translation>Отправить {G2:его:ее} обратно {PLAYER-1} с предупреждением.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_DISTURBING_THE_PEACE_OPTION_1</zType>
@@ -9702,7 +9702,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_PERSONAL_INFLUENCE_OPTION_1</zType>
-    <Translation>{CHARACTER-SHORT-1} должен управлять этими запросами {G1: сам: себя}.</Translation>
+    <Translation>{CHARACTER-SHORT-1} {G1:должен:должна} управлять этими запросами {G1:сам:сама}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_PERSONAL_INFLUENCE_OPTION_2</zType>
@@ -10062,7 +10062,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BIRTH_RENEWED_HOPE_OPTION_1</zType>
-    <Translation>Близость и преданность питомца - принесут{G0:ему:ей} радость.</Translation>
+    <Translation>Близость и преданность питомца - принесут {G0:ему:ей} радость.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BIRTH_RENEWED_HOPE_OPTION_2</zType>
@@ -10418,7 +10418,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SURPRISE_BIRTH_OPTION_0</zType>
-    <Translation>Ничего не изменилось. Оставьте {G1:ему:ей} гнить.</Translation>
+    <Translation>Ничего не изменилось. Оставьте {G1:его:ее} гнить.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SURPRISE_BIRTH_OPTION_1</zType>
@@ -10498,7 +10498,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_A_CHILLY_RECEPTION_OPTION_1</zType>
-    <Translation>Развлекайте {G0:ему:ей} с различными наставниками и развлечениями.</Translation>
+    <Translation>Развлекайте {G0:его:ее}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_A_CHILLY_RECEPTION_OPTION_2</zType>
@@ -10586,7 +10586,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_YOUNG_MASTER_OPTION_0</zType>
-    <Translation>Поощряйте {G0:ему:ей} распространять эти учения среди людей.</Translation>
+    <Translation>Поощряйте {G0:его:ее} распространять эти учения среди людей.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_YOUNG_MASTER_OPTION_1</zType>
@@ -10594,7 +10594,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STREET_DEBATE_OPTION_0</zType>
-    <Translation>Мы вознаградим {G0:ему:ей} предметами роскоши и имуществом.</Translation>
+    <Translation>Мы вознаградим {G0:его:ее} предметами роскоши и имуществом.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STREET_DEBATE_OPTION_1</zType>
@@ -10622,7 +10622,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_MEDIATOR_OPTION_1</zType>
-    <Translation>Организуйте, чтобы {G0:ему:ей} преподавал собственный класс {G0:его:ее}.</Translation>
+    <Translation>Организуйте, чтобы {G0:он преподавал:она преподавала} в собственном классе.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_STUDENT_EMPORIUM_OPTION_0</zType>
@@ -10654,7 +10654,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_IN_SEARCH_OF_TRUTH_OPTION_0</zType>
-    <Translation>Сейчас не время для игр. Немедленно верните {G1:ему:ей} в суд.</Translation>
+    <Translation>Сейчас не время для игр. Немедленно верните {G1:его:ее} в суд.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_IN_SEARCH_OF_TRUTH_OPTION_1</zType>
@@ -10662,7 +10662,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WASHTUB_PHILOSOPHER_OPTION_0</zType>
-    <Translation>Делегация доставит {G1:ему:ей} обратно в столицу.</Translation>
+    <Translation>Делегация доставит {G1:его:ее} обратно в столицу.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WASHTUB_PHILOSOPHER_OPTION_1</zType>
@@ -10698,7 +10698,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RESIDENT_ARTIST_OPTION_1</zType>
-    <Translation>Назначьте {G0:ему:ей} ответственным за благоустройство королевской семьи.</Translation>
+    <Translation>Назначьте {G0:его:ее} ответственным за благоустройство королевской семьи.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PIRACY_POWERS_OPTION_0</zType>
@@ -10710,7 +10710,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_POWER_BROKER_OPTION_0</zType>
-    <Translation>{CHARACTER-SHORT-0} - хороший союзник, и я доверяю {G0:ему:ей}.</Translation>
+    <Translation>{CHARACTER-SHORT-0} - хороший союзник, и я {G0:ему:ей} доверяю.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_POWER_BROKER_OPTION_1</zType>
@@ -10718,7 +10718,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_POWER_BROKER_OPTION_2</zType>
-    <Translation>Спасибо {G0:ему:ей}, но мы сами разберемся с {TRIBE-2}.</Translation>
+    <Translation>Спасибо, но мы сами разберемся с {TRIBE-2}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_OLD_ENEMIES_OPTION_0</zType>
@@ -10790,7 +10790,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_AMBITIOUS_OPTION_1</zType>
-    <Translation>Не обращай внимания на дикого негодяя. {G0:он:она} здесь не господствует.</Translation>
+    <Translation>Не обращай внимания на дикого негодяя. {G0:Он:Она} здесь не господствует.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_AMBITIOUS_OPTION_2</zType>
@@ -10826,7 +10826,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_OVERBOARD_FAILURE_OPTION_0</zType>
-    <Translation>Я должен был заподозрить {G0:ему:ей} с самого начала.</Translation>
+    <Translation>Я должен был заподозрить {G0:его:ее} с самого начала.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_VOYAGE_RUSE_OPTION_0</zType>
@@ -10834,7 +10834,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_VOYAGE_RUSE_OPTION_1</zType>
-    <Translation>Дайте {G0:ему:ей} время подумать о предательстве {G0:его:ее}.</Translation>
+    <Translation>Дайте {G0:ему:ей} время подумать о {G0:его:ее} предательстве.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_VOYAGE_RUSE_OPTION_2</zType>
@@ -10958,7 +10958,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_UNEXPECTED_GUEST_OPTION_1</zType>
-    <Translation>Отругайте {CHARACTER-SHORT-0} и отправьте {G0:ему:ей} прочь.</Translation>
+    <Translation>Отругайте {CHARACTER-SHORT-0} и отправьте {G0:его:ее} прочь.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_UNEXPECTED_GUEST_OPTION_2</zType>
@@ -11138,7 +11138,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TENSE_MEETING_OPTION_0</zType>
-    <Translation>Убедите {G0:ему:ей} в том, что вы можете работать вместе.</Translation>
+    <Translation>Убедите {G0:его:ее} в том, что вы можете работать вместе.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TENSE_MEETING_OPTION_1</zType>
@@ -11218,7 +11218,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_DEFACED_OPTION_0</zType>
-    <Translation>Освободите {G0:ему:ей} со строгим предупреждением.</Translation>
+    <Translation>Освободите {G0:его:ее} со строгим предупреждением.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_DEFACED_OPTION_1</zType>
@@ -11382,11 +11382,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPITE_AMONG_SIBLINGS_OPTION_0</zType>
-    <Translation>Охранники, найдите {CHARACTER-SHORT-1} и тихо убейте {G1:ему:ей}.</Translation>
+    <Translation>Охранники, найдите {CHARACTER-SHORT-1} и тихо убейте {G1:его:ее}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SPITE_AMONG_SIBLINGS_OPTION_1</zType>
-    <Translation>{CHARACTER-SHORT-1} не достоин быстрой смерти. Пусть {G1:ему:ей} гниет еще несколько лет.</Translation>
+    <Translation>{CHARACTER-SHORT-1} не достоин быстрой смерти. Пусть {G1:он:она} гниет еще несколько лет.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_A_BROKEN_SOUL_OPTION_0</zType>
@@ -11398,7 +11398,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_A_BROKEN_SOUL_OPTION_2</zType>
-    <Translation>Пытки изгонят демонов, поражающих {G0:ему:ей}.</Translation>
+    <Translation>Пытки изгонят демонов, поражающих {G0:его:ее}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_BELOVED_MENTOR_OPTION_0</zType>
@@ -11430,7 +11430,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_TRIBE_BRIDE_OPTION_0</zType>
-    <Translation>Мы встретим {G0:ему:ей} во дворе праздничной церемонией.</Translation>
+    <Translation>Мы встретим {G0:его:ее} во дворе праздничной церемонией.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAIT_TRIBE_BRIDE_OPTION_1</zType>
@@ -12290,7 +12290,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEADER_LOVED_BOTH_STRICT_DECLINE</zType>
-    <Translation>Ты в ужасе смотришь на {G1:ему:ей}.</Translation>
+    <Translation>Ты в ужасе смотришь на {G1:него:нее}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEADER_LOVED_BOTH_PROSPEROUS_ACCEPT</zType>
@@ -12398,11 +12398,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_HEMP_ADDICTION_OPTION_0</zType>
-    <Translation>Если {CHARACTER-0} выздоравливает, доктор должен научить {G0:ему:ей} этому ремеслу.</Translation>
+    <Translation>Если {CHARACTER-0} выздоравливает, доктор должен научить {G0:его:ее} этому ремеслу.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_HEMP_ADDICTION_OPTION_1</zType>
-    <Translation>Приведи {G0:ему:ей} домой, и я надеюсь, что это понравится семьям.</Translation>
+    <Translation>Приведи {G0:его:ее} домой, и я надеюсь, что это понравится семьям.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_STUDY_HEMP_ADDICTION_OPTION_2</zType>
@@ -15506,11 +15506,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_PERSECUTION_IN_CITY_OPTION_2</zType>
-    <Translation>Преобразуйте {G0:ему:ей} в {RELIGION-2}.</Translation>
+    <Translation>Обратите {G0:его:ее} в {RELIGION-2}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SEDITIOUS_MEETINGS_OPTION_0</zType>
-    <Translation>Арест {CHARACTER-0} по обвинению в государственной измене против {PLAYER-1}.</Translation>
+    <Translation>Арестуйте {CHARACTER-0} по обвинению в государственной измене против {PLAYER-1}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SEDITIOUS_MEETINGS_OPTION_1</zType>
@@ -15694,7 +15694,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_FALSE_GOSSIP_OPTION_1</zType>
-    <Translation>Увести {G0:ему:ей} в заблуждение ложной информацией.</Translation>
+    <Translation>Увести {G0:его:ее} в заблуждение ложной информацией.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_FALSE_GOSSIP_OPTION_2</zType>
@@ -16042,11 +16042,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_PARANOID_OPTION_2</zType>
-    <Translation>Поругайте {G0:ему:ей} за нелепые обвинения.</Translation>
+    <Translation>Поругайте {G0:его:ее} за нелепые обвинения.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_PARANOID_OPTION_3</zType>
-    <Translation>Подарите {G0:ему:ей} разнорабочим ... больным.</Translation>
+    <Translation>Подарите {G0:ему:ей} разнорабочих... больных.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RELATIONSHIP_THE_RANT_OPTION_0</zType>
@@ -16406,7 +16406,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HEIR_INTENT_OPTION_2</zType>
-    <Translation>Я полью {G1:ему:ей} прекрасным вином.</Translation>
+    <Translation>Я полью {G1:его:ее} прекрасным вином.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SUPPLY_CHAIN_WOES_OPTION_0</zType>
@@ -16550,7 +16550,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FROM_ON_HIGH_OPTION_2</zType>
-    <Translation>Я научу {G1:ему:ей} править свыше.</Translation>
+    <Translation>Я научу {G1:его:ее} как править.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEADERS_OR_LUNATICS_OPTION_0</zType>
@@ -16646,7 +16646,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LAST_KISS_OPTION_1</zType>
-    <Translation>{PLAYER-2} лучше без {G1:ему:ей}.</Translation>
+    <Translation>{PLAYER-2} лучше без {G1:него:нее}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LAST_KISS_OPTION_2</zType>
@@ -16662,7 +16662,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SUSPICIONS_CONFIRMED_OPTION_0</zType>
-    <Translation>Добро пожаловать {G0:ему:ей} в суд с речью.</Translation>
+    <Translation>Поприветствуйте {G0:его:ее} в правительстве с речью.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SUSPICIONS_CONFIRMED_OPTION_1</zType>
@@ -16722,7 +16722,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BEWARE_OPTION_2</zType>
-    <Translation>Отправьте мою link(COUNCIL_SPYMASTER), чтобы разобраться с {G0:ему:ей}.</Translation>
+    <Translation>Отправьте мою link(COUNCIL_SPYMASTER), чтобы разобраться с {G0:ним:ней}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BEWARE_OPTION_3</zType>
@@ -16730,7 +16730,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_DISHEARTENING_NEWS_OPTION_0</zType>
-    <Translation>Мы будем молиться за {G0:ему:ей} и приносить жертвы.</Translation>
+    <Translation>Мы будем молиться за {G0:него:нее} и приносить жертвы.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WOOD_SHORTAGES_OPTION_0</zType>
@@ -16994,7 +16994,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PACIFY_IN_THE_BALANCE_OPTION_0</zType>
-    <Translation>Убрать Губернатора. {G2:ему:ей} будет заменен.</Translation>
+    <Translation>Убрать Губернатора. {G2:Он:Она} будет {G2:заменен:заменена}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PACIFY_IN_THE_BALANCE_OPTION_1</zType>
@@ -18822,7 +18822,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXPERIENCED_INSTRUCTOR_INSTRUCTOR</zType>
-    <Translation>Хотя {CHARACTER-0} хочет быть на передовой, {G0: ему:ей} должен помочь обучить больше войск.</Translation>
+    <Translation>Хотя {CHARACTER-0} хочет быть на передовой, {G0:он должен:она должна} помочь обучить больше войск.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INFILTRATION_UNWELCOME_MEETING_PAY</zType>
@@ -19130,7 +19130,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_VICTORY_FOR_THE_LEADER_SELF</zType>
-    <Translation>Войска хорошо служат {CHARACTER-1}, так же как {G1:ему:ей} служит мне.</Translation>
+    <Translation>Войска хорошо служат {CHARACTER-1}, так же как {G1:он:она} служит мне.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_VICTORY_FOR_THE_LEADER_PROFESSIONAL_ARMY_MONEY</zType>
@@ -19226,11 +19226,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BLESSINGS_FOR_THE_HEIR_INSPIRE</zType>
-    <Translation>{G0:ему:ей} должна научиться вдохновлять людей,как священники {RELIGION-2,1} вдохновляют своих последователей.</Translation>
+    <Translation>{G0:Он:Она} должна научиться вдохновлять людей,как священники {RELIGION-2,1} вдохновляют своих последователей.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COMING_OF_AGE_TORAH</zType>
-    <Translation>{CHARACTER-1} должен изучить Тору, чтобы понять обязанности, с которыми столкнется {G1:ему:ей}.</Translation>
+    <Translation>{CHARACTER-1} должен изучить Тору, чтобы понять обязанности, с которыми {G1:он:она} столкнется.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_COMING_OF_AGE_CELEBRATE</zType>
@@ -19274,7 +19274,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_UNEXPECTED_REUNION_REINSTATE</zType>
-    <Translation>Если {CHARACTER-SHORT-0} приносит клятву верности на всю жизнь, {G0:ему:ей} может быть прощен.</Translation>
+    <Translation>Если {CHARACTER-SHORT-0} приносит клятву верности на всю жизнь, {G0:он:она} может быть прощен.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_UNEXPECTED_REUNION_IMPRISON</zType>
@@ -19426,7 +19426,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_KEEPING_UP_APPEARANCES_ASSASSINATE</zType>
-    <Translation>Это разочаровало бы {CHARACTER-SHORT-1}. Но только не, если {G1:ему:ей} мертв.</Translation>
+    <Translation>Это разочаровало бы {CHARACTER-SHORT-1}. Но нет, если {G1:он будет мертв:она будет мертва}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ONE_STORY_TOO_FAR_APOLOGIZE</zType>
