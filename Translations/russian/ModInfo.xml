@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <displayName>Russian translation ®</displayName>
+  <displayName>Russian(Full) translation®</displayName>
   <description>Позволяет активировать русификатор интерфейса</description>
   <modpicture>1200px-Flag_of_Russia.svg.png</modpicture>
   <author>Rus. community</author>
@@ -9,6 +9,8 @@
   <modversion>0.1.46333</modversion>
   <singlePlayer>true</singlePlayer>
   <multiplayer>true</multiplayer>
-  <modDependencies />
+  <modDependencies>
+    <string>Russian(Full) translation [DATA]</string>
+  </modDependencies>
   <modIncompatibilities />
 </ModInfo>

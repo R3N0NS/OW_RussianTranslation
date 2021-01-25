@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<!-- edited with XMLSpy v2014 rel. 2 (x64) (http://www.altova.com) by Soren Johnson (private) -->
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>STAT_AMBITION_ACHIEVED</zType>
+		<zName>Амбиция достигнута</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_LEGACY_ACHIEVED</zType>
+		<zName>Наследие достигнуто</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TRIBE_CONTACTED</zType>
+		<zName>Контакт с племенем</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TRIBE_CLEARED</zType>
+		<zName>Племя зачищено</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TRIBE_PEACE</zType>
+		<zName>Мир с племенем</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TRIBE_ALLIANCE</zType>
+		<zName>Союз с племенем</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TRIBE_CONVERSION</zType>
+		<zName>Племенное преобразование</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TEAM_CONTACTED</zType>
+		<zName>Контакт с игроком</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TEAM_ALLIANCE</zType>
+		<zName>Союз с игроком</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_CARAVAN_ARRIVED</zType>
+		<zName>Караван прибыл</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_CAPITAL_CAPTURED</zType>
+		<zName>Захваченные столицы</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_CITY_FOUNDED</zType>
+		<zName>Основанные города</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_CITY_CAPTURED</zType>
+		<zName>Захваченные города</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_CITY_RECAPTURED</zType>
+		<zName>Отвоеванные города</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_CITY_LOST</zType>
+		<zName>Потерянные города</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_COURTIER_ADDED</zType>
+		<zName>Придворный добавлен</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_IMPROVEMENT_FINISHED</zType>
+		<zName>Законченные улучшения</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_IMPROVEMENT_REPAIRED</zType>
+		<zName>Отремонтированные улучшения</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_LANDMARK_DISCOVERED</zType>
+		<zName>Найденные достопримечательности</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_LANDMARK_NAMED</zType>
+		<zName>Названные достопримечательности</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_NATION_FOUNDED</zType>
+		<zName>Основана нация</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_WORLD_RELIGION_FOUNDED</zType>
+		<zName>Основана Мировая религия</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_RELIGION_SPREAD</zType>
+		<zName>Распространение религии</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_RUINS_EXPLORED</zType>
+		<zName>Руины исследованы</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_SPECIALIST_PRODUCED</zType>
+		<zName>Обучен специалист</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TECH_DISCOVERED</zType>
+		<zName>Открытие технологии</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_THEOLOGY_ESTABLISHED</zType>
+		<zName>Теология учреждена</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_TILES_REVEALED</zType>
+		<zName>Открытые клетки</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_UNIT_TRAINED</zType>
+		<zName>Обученые отряды</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_UNIT_PROMOTED</zType>
+		<zName>Повышенные отряды</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_UNIT_KILLED</zType>
+		<zName>Убито отрядов</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_UNIT_KILLED_GENERAL</zType>
+		<zName>Убито отрядов(Генералом)</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_UNIT_LOST</zType>
+		<zName>Потеряно отрядов</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_VEGETATION_REMOVED</zType>
+		<zName>Растительность удалена</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_WONDER_FINISHED</zType>
+		<zName>Чудо закончено</zName>
+	</Entry>
+	<Entry>
+		<zType>STAT_YEARS_REIGNED</zType>
+		<zName>Годы правления</zName>
+	</Entry>
+</Root>

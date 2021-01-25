@@ -136,7 +136,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTUNIT_COLD</zType>
-    <Translation>Хлад</Translation>
+    <Translation>Хладнокровный</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTUNIT_HIGHLANDER</zType>
@@ -204,7 +204,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTUNIT_ASSAULT</zType>
-    <Translation>Атака</Translation>
+    <Translation>Штурм</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTUNIT_FORMATION</zType>
@@ -244,7 +244,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTUNIT_OPINIONFAMILY_ANGRY</zType>
-    <Translation>Злость семьи</Translation>
+    <Translation>Гнев семьи</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTUNIT_OPINIONFAMILY_UPSET</zType>

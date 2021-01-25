@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Root>
+	<Entry>
+		<zType/>
+		<zName/>
+	</Entry>
+	<Entry>
+		<zType>SUBJECTRELATION_MIN_CONFLICT_TURNS</zType>
+		<zName>Короче, чем int(MIN_TREATY_TURNS) лет с момента последней link(DIPLOMACY_WAR)</zName>
+	</Entry>
+</Root>

@@ -151,7 +151,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_GAME_FAIL_AMBITION</zType>
-	<Translation>Вы потервели неудачу {true_1:Наследство:Амбиции}: {0}</Translation>
+    <Translation>Вы не выполнили {true_1:наследие:амбицию}: {0}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_FAIL_QUEST</zType>

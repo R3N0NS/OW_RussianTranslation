@@ -122,7 +122,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_CULTURE_STRONG</zType>
-    <Translation>Сильный~Сильных~Сильное~Сильные~Сильной</Translation>
+    <Translation>Влиятельный город~Влиятельных городов~Влиятельные~Влиятельные города~Влиятельной</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_CULTURE_LEGENDARY</zType>
@@ -278,7 +278,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_EFFECTCITY_LAW_PROFESSIONAL_ARMY</zType>
-	<Translation>Профессиональная армия</Translation>
+    <Translation>Профессиональная армия~Профессиональной армии~Профессиональную армию~Профессиональную армию~Профессиональной армией~Профессиональной армии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_VOLUNTEERS</zType>
@@ -286,31 +286,31 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_PHILOSOPHY</zType>
-    <Translation>Философия~Философии</Translation>
+    <Translation>Философия~Философии~Философии~Философию~Философией~Философии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_ENGINEERING</zType>
-    <Translation>Инженерное дело~Инженерном деле</Translation>
+    <Translation>Инженерное дело~Инженерного дела~Инженерному делу~Инженерное дело~Инженерном делом~Инженерном деле</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_ICONOGRAPHY</zType>
-    <Translation>Иконография~Иконографии</Translation>
+    <Translation>Иконография~Иконографии~Иконографии~Иконографию~Иконографией~Иконографии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_CALLIGRAPHY</zType>
-    <Translation>Каллиграфия~Каллиграфии</Translation>
+    <Translation>Каллиграфия~Каллиграфии~Каллиграфии~Каллиграфию~Каллиграфией~Каллиграфии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_PILGRIMAGE</zType>
-    <Translation>Паломничество~Паломничестве</Translation>
+    <Translation>Паломничество~Паломничества~Паломничеству~Паломничество~Паломничеством~Паломничестве</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_HOLY_WAR</zType>
-    <Translation>Священная война~Священной войне</Translation>
+    <Translation>Священная война~Священной войны~Священной войне~Священную войну~Священной войной~Священной войне</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EFFECTCITY_LAW_GUILDS</zType>
-    <Translation>Гильдии</Translation>
+    <Translation>Гильдии~Гильдий~Гильдиям~Гильдии~Гильдиями~Гильдиях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_ELITES</zType>

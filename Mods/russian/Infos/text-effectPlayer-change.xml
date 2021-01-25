@@ -60,15 +60,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_EXPLORATION</zType>
-    <Translation>Дальняя разведка~Дальней разведке</Translation>
+    <Translation>Дальняя разведка~Дальней разведки~Дальней разведке~Дальнюю разведку~Дальней разведкой~Дальней разведке</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_SLAVERY</zType>
-    <Translation>Рабство~Рабстве</Translation>
+    <Translation>Рабство~Рабства~Рабству~Рабство~Рабством~Рабстве</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_FREEDOM</zType>
-    <Translation>Свобода~Свободе</Translation>
+    <Translation>Свобода~Свободы~Свободе~Свободу~Свободой~Свободе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_TYRANNY</zType>
@@ -124,43 +124,43 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_PROFESSIONAL_ARMY</zType>
-    <Translation>Профессиональная армия~Профессиональной армии</Translation>
+    <Translation>Профессиональная армия~Профессиональной армии~Профессиональную армию~Профессиональную армию~Профессиональной армией~Профессиональной армии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_VOLUNTEERS</zType>
-    <Translation>Добровольная служба~Добровольной службе</Translation>
+    <Translation>Добровольная служба~Добровольной службы~Добровольной службе~Добровольную службу~Добровольной службой~Добровольной службе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_PHILOSOPHY</zType>
-    <Translation>Философия~Философии</Translation>
+    <Translation>Философия~Философии~Философии~Философию~Философией~Философии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_ENGINEERING</zType>
-    <Translation>Инженерное дело~Инженерном деле</Translation>
+    <Translation>Инженерное дело~Инженерного дела~Инженерному делу~Инженерное дело~Инженерном делом~Инженерном деле</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_ICONOGRAPHY</zType>
-    <Translation>Иконография~Иконографии</Translation>
+    <Translation>Иконография~Иконографии~Иконографии~Иконографию~Иконографией~Иконографии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_CALLIGRAPHY</zType>
-    <Translation>Каллиграфия~Каллиграфии</Translation>
+    <Translation>Каллиграфия~Каллиграфии~Каллиграфии~Каллиграфию~Каллиграфией~Каллиграфии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_PILGRIMAGE</zType>
-    <Translation>Паломничество~Паломничестве</Translation>
+    <Translation>Паломничество~Паломничества~Паломничеству~Паломничество~Паломничеством~Паломничестве</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_HOLY_WAR</zType>
-    <Translation>Священная война~Священной войне</Translation>
+    <Translation>Священная война~Священной войны~Священной войне~Священную войну~Священной войной~Священной войне</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_GUILDS</zType>
-    <Translation>Гильдии~Гильдиях</Translation>
+    <Translation>Гильдии~Гильдий~Гильдиям~Гильдии~Гильдиями~Гильдиях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_ELITES</zType>
-    <Translation>Знать~Знати</Translation>
+    <Translation>Знать~Знати~Знати~Знать~Знатью~Знати</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_ISOLATIONISM</zType>
@@ -168,19 +168,19 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_TRADE_LEAGUE</zType>
-    <Translation>Торговые союзы~Торговых союзах</Translation>
+    <Translation>Торговые союзы~Торговых союзов~Торговым союзам~Торговые союзы~Торговыми союзами~Торговых союзах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_TRADE_LEAGUE_CONVOY</zType>
-    <Translation>Караван~Караванах</Translation>
+    <Translation>Караван~Каравана~Каравану~Караван~Караваном~Караване</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_COIN_DEBASEMENT</zType>
-    <Translation>Порча монет~Порче монет</Translation>
+    <Translation>Порча монет~Порчи монет~Порче монет~Порчу монет~Порчей монет~Порче монет</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_MONETARY_REFORM</zType>
-    <Translation>Денежная реформа~Денежную реформу</Translation>
+    <Translation>Денежная реформа~Денежной реформы~Денежной реформе~Денежную реформу~Денежной реформой~Денежной реформе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_TECH_LABOR_FORCE</zType>

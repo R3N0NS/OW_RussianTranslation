@@ -39,7 +39,7 @@
 	</Entry>
 	<Entry>
 		<zType>CULTURE_STRONG</zType>
-		<zName>Сильная</zName>
+		<zName>Влиятельная</zName>
 		<zIconName>CULTURE_STRONG</zIconName>
 		<iThreshold>2000</iThreshold>
 		<iVP>3</iVP>

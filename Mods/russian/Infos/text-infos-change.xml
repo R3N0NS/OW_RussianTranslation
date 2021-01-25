@@ -45,7 +45,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_CARAVAN_MISSION</zType>
-    <Translation>Культурное событие~Культурного события</Translation>
+    <Translation>Торговый караван</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_CLEAR</zType>
@@ -57,7 +57,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_CONCEPT_CULTURE_EVENT</zType>
-	<Translation>Культурное событие</Translation>
+    <Translation>Культурное событие~Культурного события</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_DESIRED_AMBITION</zType>
@@ -97,7 +97,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_SPECIALIST</zType>
-    <Translation>Специалист~a Специалист~Специалисты</Translation>
+    <Translation>Специалист~Специалиста~Специалисту~Специалиста~Специалистом~Специалисте~Специалисты~Специалистов~Специалистам~Специалистов~Специалистами~Специалистах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_HARVEST_RESOURCE</zType>
@@ -141,7 +141,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_LUXURY</zType>
-    <Translation>Редкие ресурсы~Редких ресурса~Редких ресурсов~Редкий ресурс</Translation>
+    <Translation>Редкие ресурсы~Редких ресурсов~Редкому ресурсу~Редкие ресурсы~Редкими ресурсами~Редких ресурсах~Редкий ресурс~Редких ресурса</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_MERCENARY</zType>
@@ -153,7 +153,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_CONCEPT_PROMOTION</zType>
-	<Translation>Повышение~Повышения~Повышению~Повышение~Повышением~Повышении</Translation>
+    <Translation>Повышение~Повышения~Повышению~Повышение~Повышением~Повышении~Повышены~Повысить</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_RAISE_IMPROVEMENTS</zType>
@@ -1943,7 +1943,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_TERRAIN_URBAN</zType>
-    <Translation>Город</Translation>
+    <Translation>Город~Города~Городу~Город~Городом~Городе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TERRAIN_LUSH</zType>
@@ -2013,7 +2013,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_CULTURE_HELP</zType>
-    <Translation>Когда шкала link(YIELD_CULTURE) {YIELD_CULTURE} полностью заполняется, происходит хорошее событие. Уровень городской link(YIELD_CULTURE) {YIELD_CULTURE} влияет на то, какие постройки и чудеса можно возвести. Получайте больше link(YIELD_CULTURE) {YIELD_CULTURE}, строя link(IMPROVEMENTCLASS_SHRINE,2) и link(IMPROVEMENTCLASS_THEATER,2).</Translation>
+    <Translation>Когда шкала link(YIELD_CULTURE) {YIELD_CULTURE} полностью заполняется, происходит благоприятное событие. Уровень городской link(YIELD_CULTURE) {YIELD_CULTURE} влияет на то, какие постройки и чудеса можно возвести. Получайте больше link(YIELD_CULTURE) {YIELD_CULTURE}, строя link(IMPROVEMENTCLASS_SHRINE,2) и link(IMPROVEMENTCLASS_THEATER,2).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_DISCONTENT_HELP</zType>

@@ -381,7 +381,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_DISCONTENT_FAMILY</zType>
-    <Translation>Неверность~Неверности</Translation>
+    <Translation>Недовольство~Недовольства~Недовольству~Недовольство~Недовольством~Недовольстве</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_LARGEST_POPULATION</zType>
@@ -569,7 +569,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_ROLE_SPOUSE</zType>
-    <Translation>Супгруг(а)</Translation>
+    <Translation>Супруг(а)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_ROLE_HEIR</zType>
@@ -875,7 +875,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_TOGGLE_GAME_LOG</zType>
-    <Translation><![CDATA[Показать журнал извещений{true_0:<br>{0_presskey}]]></Translation>
+    <Translation><![CDATA[Показать журнал извещений{true_0:<br>{0_presskey}}]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_TOGGLE_DANGER_OVERLAY</zType>
@@ -5526,7 +5526,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_CHARACTER_HELP_PLAYER_OPINION_OF_YOU</zType>
-	<Translation>{0,1_player} Мнение о тебе: {1} ({2})</Translation>
+    <Translation>{0,1_player} мнение о вас: {1} ({2})</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CHARACTER_NATION_ETHNICITY</zType>
@@ -5650,7 +5650,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CHARACTER_MARRIES_JOINS_NATION</zType>
-    <Translation>{0} присоединит нацию {1}</Translation>
+    <Translation>{0} присоединится к {1}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CHARACTER_MARRIES_DOWRY_COST</zType>
@@ -5751,7 +5751,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_SUBMIT_BUG_BUTTON</zType>
-    <Translation>Сообщить о ошибке</Translation>
+    <Translation>Сообщить об ошибке</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_HELPTEXT_POPUP_MAIN_MENU_RESTART_GAME_BUTTON</zType>
