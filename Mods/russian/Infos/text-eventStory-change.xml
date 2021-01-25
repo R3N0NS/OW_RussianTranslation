@@ -10046,7 +10046,7 @@ link(IMPROVEMENT_VIA_RECTA_SOUK) будет служить завещанием 
 		<zType>TEXT_EVENTSTORY_THE_RUNAWAY_PRINCE</zType>
 		<Translation>Поздним вечером в вашу дверь раздается стук. Снаружи стоит {G1:наследник:наследница} престола {PLAYER-0,1} - {G1:принц:принцесса} {CHARACTER-SHORT-1}. Покинув дворец в надежде избежать своих обязанностей, {G1:он:она} хочет спрятаться в от людей {G2:отца:матери} и начать здесь новую жизнь.
 
-Рано или поздно {PLAYER-0,1} солдаты прибудут к нашим воротам.</Translation>
+Рано или поздно солдаты {PLAYER-0,1} прибудут к нашим воротам.</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_HEIR_TO_HEIR</zType>
