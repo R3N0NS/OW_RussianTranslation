@@ -457,11 +457,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_TECH_PROGRESS</zType>
-    <Translation>({0}/{1} icon(YIELD_SCIENCE))</Translation>
+    <Translation>({0}/{1}  icon(YIELD_SCIENCE))</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_TECH_PROGRESS_APPEND</zType>
-    <Translation>{0} ({1}/{2} icon(YIELD_SCIENCE))</Translation>
+    <Translation>{0} ({1}/{2}  icon(YIELD_SCIENCE))</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_LINK_BUILD_QUEUE_PROJECT</zType>
@@ -871,7 +871,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_TOGGLE_CITY_LIST_ENTRY</zType>
-    <Translation>{0_city}: {1_culture}, {2_discontent} icon(YIELD_DISCONTENT)</Translation>
+    <Translation>{0_city}: {1_culture}, {2_discontent}  icon(YIELD_DISCONTENT)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_TOGGLE_GAME_LOG</zType>
@@ -2542,7 +2542,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_YIELD_NET_RESEARCHING</zType>
-    <Translation>Исследование: {0_tech}{1_progress}</Translation>
+    <Translation>Исследование: {0_tech} {1_progress}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_YIELD_NET_CITY_SUBTRACT_LIST_ITEM</zType>

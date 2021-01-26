@@ -16170,7 +16170,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_RUNAWAY_PRINCE_OPTION_0</zType>
-    <Translation>Вернуть {CHARACTER-SHORT-1} в {PLAYER-0}. Это их семейное дело, а не наше.</Translation>
+    <Translation>Вернуть {CHARACTER-SHORT-1} в {PLAYER-0,3}. Это их семейное дело, а не наше.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_THE_RUNAWAY_PRINCE_OPTION_1</zType>

@@ -16,7 +16,7 @@
 	</Entry>
 	<Entry>
 		<zType>CULTURE_WEAK</zType>
-		<zName>Слабая</zName>
+		<zName>Слабая </zName>
 		<zIconName>CULTURE_WEAK</zIconName>
 		<iThreshold>100</iThreshold>
 		<iVP>1</iVP>
@@ -26,7 +26,7 @@
 	</Entry>
 	<Entry>
 		<zType>CULTURE_DEVELOPING</zType>
-		<zName>Развивающиюся</zName>
+		<zName>Развивающиюся </zName>
 		<zIconName>CULTURE_DEVELOPING</zIconName>
 		<iThreshold>500</iThreshold>
 		<iVP>2</iVP>
@@ -39,7 +39,7 @@
 	</Entry>
 	<Entry>
 		<zType>CULTURE_STRONG</zType>
-		<zName>Влиятельная</zName>
+		<zName>Влиятельная </zName>
 		<zIconName>CULTURE_STRONG</zIconName>
 		<iThreshold>2000</iThreshold>
 		<iVP>3</iVP>
@@ -52,7 +52,7 @@
 	</Entry>
 	<Entry>
 		<zType>CULTURE_LEGENDARY</zType>
-		<zName>Легедарная</zName>
+		<zName>Легедарная </zName>
 		<zIconName>CULTURE_LEGENDARY</zIconName>
 		<iThreshold>5000</iThreshold>
 		<iVP>4</iVP>

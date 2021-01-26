@@ -9,11 +9,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_REPAIR</zType>
-    <Translation>Ремонт~Ремонта~Ремонту~Ремонт~Ремонтом~Ремонте</Translation>
+    <Translation>Ремонт~Ремонта~Ремонту~Ремонт~Ремонтом~Ремонте~Ремонте</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_MONARCH</zType>
-    <Translation>Монарх~Монарха~Монарху~Монарха~Монархом~Монархе</Translation>
+    <Translation>Монарх~Монарха~Монарху~Монарха~Монархом~Монархе~Монархи~Монархов~Монархам~Монархов~Монархами~Монархах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_GOVERNOR</zType>
@@ -21,194 +21,194 @@
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_WALLS</zType>
-    <Translation>Стены~Стен~Стенам~Стены~Стенами~Стенах</Translation>
+    <Translation>Стены~Стен~Стенам~Стены~Стенами~Стенах~Стенах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_MOAT</zType>
-    <Translation>Рвы~Рвов~Рвам~Рвы~Рвами~Рвах</Translation>
+    <Translation>Рвы~Рвов~Рвам~Рвы~Рвами~Рвах~Рвах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_TOWERS</zType>
-    <Translation>Башни~Башен~Башням~Башни~Башнями~Башнях</Translation>
+    <Translation>Башни~Башен~Башням~Башни~Башнями~Башнях~Башнях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_TREASURY_1</zType>
-    <Translation>Казначейство I~Казначейства I~Казначейству I~Казначейство I~Казначейством I~Казначействе I</Translation>
+    <Translation>Казначейство I~Казначейства I~Казначейству I~Казначейство I~Казначейством I~Казначействе I~Казначействе I~Казначейства I~Казначейств I~Казначействам I~Казначейства I~Казначействами I~Казначействах I</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_TREASURY_2</zType>
-    <Translation>Казначейство II~Казначейства II~Казначейству II~Казначейство II~Казначейством II~Казначействе II</Translation>
+    <Translation>Казначейство II~Казначейства II~Казначейству II~Казначейство II~Казначейством II~Казначействе II~Казначействе II~Казначейства II~Казначейств II~Казначействам II~Казначейства II~Казначействами II~Казначействах II</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_TREASURY_3</zType>
-    <Translation>Казначейство III~Казначейства III~Казначейству III~Казначейство III~Казначейством III~Казначействе III</Translation>
+    <Translation>Казначейство III~Казначейства III~Казначейству III~Казначейство III~Казначейством III~Казначействе III~Казначействе III~Казначейства III~Казначейств III~Казначействам III~Казначейства III~Казначействами III~Казначействах III</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_TREASURY_4</zType>
-    <Translation>Казначейство IV~Казначейства IV~Казначейству IV~Казначейство IV~Казначейством IV~Казначействе IV</Translation>
+    <Translation>Казначейство IV~Казначейства IV~Казначейству IV~Казначейство IV~Казначейством IV~Казначействе IV~Казначействе IV~Казначейства IV~Казначейств IV~Казначействам IV~Казначейства IV~Казначействами IV~Казначействах IV</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_FORUM_1</zType>
-    <Translation>Форум I~Форума I~Форуму I~Форум I~Форумом I~Форуме I~Форумы I~Форумов I~Форумам I~Форумы I~Форумами I~Форумах I</Translation>
+    <Translation>Форум I~Форума I~Форуму I~Форум I~Форумом I~Форуме I~Форуме I~Форумы I~Форумов I~Форумам I~Форумы I~Форумами I~Форумах I</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_FORUM_2</zType>
-    <Translation>Форум II~Форума II~Форуму II~Форум II~Форумом II~Форуме II</Translation>
+    <Translation>Форум II~Форума II~Форуму II~Форум II~Форумом II~Форуме II~Форуме II~Форумы II~Форумов II~Форумам II~Форумы II~Форумами II~Форумах II</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_FORUM_3</zType>
-    <Translation>Форум III~Форума III~Форуму III~Форум III~Форумом III~Форуме III</Translation>
+    <Translation>Форум III~Форума III~Форуму III~Форум III~Форумом III~Форуме III~Форуме III~Форумы III~Форумов III~Форумам III~Форумы III~Форумами III~Форумах III</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_FORUM_4</zType>
-    <Translation>Форум IV~Форума IV~Форуму IV~Форум IV~Форумом IV~Форуме IV</Translation>
+    <Translation>Форум IV~Форума IV~Форуму IV~Форум IV~Форумом IV~Форуме IV~Форуме IV~Форумы IV~Форумов IV~Форумам IV~Форумы IV~Форумами IV~Форумах IV</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_ARCHIVE_1</zType>
-    <Translation>Архив I~Архива I~Архиву I~Архив I~Архивом I~Архиве I~Архивы I~Архивов I~Архивам I~Архивы I~Архивами I~Архивах I</Translation>
+    <Translation>Архив I~Архива I~Архиву I~Архив I~Архивом I~Архиве I~Архиве I~Архивы I~Архивов I~Архивам I~Архивы I~Архивами I~Архивах I</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_ARCHIVE_2</zType>
-    <Translation>Архив II~Архива II~Архиву II~Архив II~Архивом II~Архиве II</Translation>
+    <Translation>Архив II~Архива II~Архиву II~Архив II~Архивом II~Архиве II~Архиве II~Архивы II~Архивов II~Архивам II~Архивы II~Архивами II~Архивах II</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_ARCHIVE_3</zType>
-    <Translation>Архив III~Архива III~Архиву III~Архив III~Архивом III~Архиве III</Translation>
+    <Translation>Архив III~Архива III~Архиву III~Архив III~Архивом III~Архиве III~Архиве III~Архивы III~Архивов III~Архивам III~Архивы III~Архивами III~Архивах III</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_ARCHIVE_4</zType>
-    <Translation>Архив IV~Архива IV~Архиву IV~Архив IV~Архивом IV~Архиве IV</Translation>
+    <Translation>Архив IV~Архива IV~Архиву IV~Архив IV~Архивом IV~Архиве IV~Архиве IV~Архивы IV~Архивов IV~Архивам IV~Архивы IV~Архивами IV~Архивах IV</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_DECREE_1</zType>
-    <Translation>Указ I~Указа I~Указу I~Указ I~Указом I~Указе I</Translation>
+    <Translation>Указ I~Указа I~Указу I~Указ I~Указом I~Указе I~Указе I~Указы~Указов I~Указам I~Указы I~Указами I~Указах I</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_DECREE_2</zType>
-    <Translation>Указ II~Указа II~Указу II~Указ II~Указом II~Указе II</Translation>
+    <Translation>Указ II~Указа II~Указу II~Указ II~Указом II~Указе II~Указе II~Указы~Указов II~Указам II~Указы II~Указами II~Указах II</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_DECREE_3</zType>
-    <Translation>Указ III~Указа III~Указу III~Указ III~Указом III~Указе III</Translation>
+    <Translation>Указ III~Указа III~Указу III~Указ III~Указом III~Указе III~Указе III~Указы~Указов III~Указам III~Указы III~Указами III~Указах III</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_DECREE_4</zType>
-    <Translation>Указ IV~Указа IV~Указу IV~Указ IV~Указом IV~Указе IV</Translation>
+    <Translation>Указ IV~Указа IV~Указу IV~Указ IV~Указом IV~Указе IV~Указе IV~Указы~Указов IV~Указам IV~Указы IV~Указами IV~Указах IV</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_FESTIVAL</zType>
-    <Translation>Фестиваль~Фестиваля~Фестивалю~Фестиваль~Фестивалем~Фестивале~Фестивали~Фестивалей~Фестивалям~Фестивали~Фестивалями~Фестивалях</Translation>
+    <Translation>Фестиваль~Фестиваля~Фестивалю~Фестиваль~Фестивалем~Фестивале~Фестивале~Фестивали~Фестивалей~Фестивалям~Фестивали~Фестивалями~Фестивалях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_FESTIVAL_1</zType>
-    <Translation>Фестиваль I~Фестиваля I~Фестивалю I~Фестиваль I~Фестивалем I~Фестивале I</Translation>
+    <Translation>Фестиваль I~Фестиваля I~Фестивалю I~Фестиваль I~Фестивалем I~Фестивале I~Фестивале I~Фестивали I~Фестивалей I~Фестивалям I~Фестивали I~Фестивалями I~Фестивалях I</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_FESTIVAL_2</zType>
-    <Translation>Фестиваль II~Фестиваля II~Фестивалю II~Фестиваль II~Фестивалем II~Фестивале II</Translation>
+    <Translation>Фестиваль II~Фестиваля II~Фестивалю II~Фестиваль II~Фестивалем II~Фестивале II~Фестивале II~Фестивали II~Фестивалей II~Фестивалям II~Фестивали II~Фестивалями II~Фестивалях II</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_FESTIVAL_3</zType>
-    <Translation>Фестиваль III~Фестиваля III~Фестивалю III~Фестиваль III~Фестивалем III~Фестивале III</Translation>
+    <Translation>Фестиваль III~Фестиваля III~Фестивалю III~Фестиваль III~Фестивалем III~Фестивале III~Фестивале III~Фестивали III~Фестивалей III~Фестивалям III~Фестивали III~Фестивалями III~Фестивалях III</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_FESTIVAL_4</zType>
-    <Translation>Фестиваль IV~Фестиваля IV~Фестивалю IV~Фестиваль IV~Фестивалем IV~Фестивале IV</Translation>
+    <Translation>Фестиваль IV~Фестиваля IV~Фестивалю IV~Фестиваль IV~Фестивалем IV~Фестивале IV~Фестивале IV~Фестивали IV~Фестивалей IV~Фестивалям IV~Фестивали IV~Фестивалями IV~Фестивалях IV</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_INQUIRY</zType>
-    <Translation>Научное изыскание~Научного изыскания~Научному изысканию~Научное изыскание~Научным изысканием~Научном изыскании~Научные изыскания~Научных изыскания</Translation>
+    <Translation>Научное изыскание~Научного изыскания~Научному изысканию~Научное изыскание~Научным изысканием~Научном изыскании~Научном изыскании~Научные изыскания~Научных изысканий~Научным изысканиям~Научные изыскания~Научными изысканиями~Научных изысканиях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_INQUIRY_1</zType>
-    <Translation>Научное изыскание I~Научного изыскания I~Научному изысканию I~Научное изыскание I~Научным изысканием I~Научном изыскании I</Translation>
+    <Translation>Научное изыскание I~Научного изыскания I~Научному изысканию I~Научное изыскание I~Научным изысканием I~Научном изыскании I~Научном изыскании I~Научные изыскания I~Научных изысканий I~Научным изысканиям I~Научные изыскания I~Научными изысканиями I~Научных изысканиях I</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_INQUIRY_2</zType>
-    <Translation>Научное изыскание II~Научного изыскания II~Научному изысканию II~Научное изыскание II~Научным изысканием II~Научном изыскании II</Translation>
+    <Translation>Научное изыскание II~Научного изыскания II~Научному изысканию II~Научное изыскание II~Научным изысканием II~Научном изыскании II~Научном изыскании II~Научные изыскания II~Научных изысканий II~Научным изысканиям II~Научные изыскания II~Научными изысканиями II~Научных изысканиях II</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_INQUIRY_3</zType>
-    <Translation>Научное изыскание III~Научного изыскания III~Научному изысканию III~Научное изыскание III~Научным изысканием III~Научном изыскании III</Translation>
+    <Translation>Научное изыскание III~Научного изыскания III~Научному изысканию III~Научное изыскание III~Научным изысканием III~Научном изыскании III~Научном изыскании III~Научные изыскания III~Научных изысканий III~Научным изысканиям III~Научные изыскания III~Научными изысканиями III~Научных изысканиях III</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_INQUIRY_4</zType>
-    <Translation>Научное изыскание IV~Научного изыскания IV~Научному изысканию IV~Научное изыскание IV~Научным изысканием IV~Научном изыскании IV</Translation>
+    <Translation>Научное изыскание IV~Научного изыскания IV~Научному изысканию IV~Научное изыскание IV~Научным изысканием IV~Научном изыскании IV~Научном изыскании IV~Научные изыскания IV~Научных изысканий IV~Научным изысканиям IV~Научные изыскания IV~Научными изысканиями IV~Научных изысканиях IV</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_HUNT</zType>
-    <Translation>Охота~Охоты~Охоте~Охоту~Охотой~Охоте</Translation>
+    <Translation>Охота~Охоты~Охоте~Охоту~Охотой~Охоте~Охоте~Охот~Охотам~Охоты~Охотами~Охотах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_HUNT_1</zType>
-    <Translation>Охота I~Охоты I~Охоте I~Охоту I~Охотой I~Охоте I</Translation>
+    <Translation>Охота I~Охоты I~Охоте I~Охоту I~Охотой I~Охоте I~Охоте I~Охот I~Охотам I~Охоты I~Охотами I~Охотах I</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_HUNT_2</zType>
-    <Translation>Охота II~Охоты II~Охоте II~Охоту II~Охотой II~Охоте II</Translation>
+    <Translation>Охота II~Охоты II~Охоте II~Охоту II~Охотой II~Охоте II~Охоте II~Охот II~Охотам II~Охоты II~Охотами II~Охотах II</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_HUNT_3</zType>
-    <Translation>Охота III~Охоты III~Охоте III~Охоту III~Охотой III~Охоте III</Translation>
+    <Translation>Охота III~Охоты III~Охоте III~Охоту III~Охотой III~Охоте III~Охоте III~Охот III~Охотам III~Охоты III~Охотами III~Охотах III</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_HUNT_4</zType>
-    <Translation>Охота IV~Охоты IV~Охоте IV~Охоту IV~Охотой IV~Охоте IV</Translation>
+    <Translation>Охота IV~Охоты IV~Охоте IV~Охоту IV~Охотой IV~Охоте IV~Охоте IV~Охот IV~Охотам IV~Охоты IV~Охотами IV~Охотах IV</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_OLYMPICS</zType>
-    <Translation>Олимпиада~Олимпиады~Олимпиаде~Олимпиаду~Олимпиадой~Олимпиаде</Translation>
+    <Translation>Олимпиада~Олимпиады~Олимпиаде~Олимпиаду~Олимпиадой~Олимпиаде~Олимпиаде</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_OLYMPICS_1</zType>
-    <Translation>Олимпиада I~Олимпиады I~Олимпиаде I~Олимпиаду I~Олимпиадой I~Олимпиаде I</Translation>
+    <Translation>Олимпиада I~Олимпиады I~Олимпиаде I~Олимпиаду I~Олимпиадой I~Олимпиаде I~Олимпиаде I</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_OLYMPICS_2</zType>
-    <Translation>Олимпиада II~Олимпиады II~Олимпиаде II~Олимпиаду II~Олимпиадой II~Олимпиаде II</Translation>
+    <Translation>Олимпиада II~Олимпиады II~Олимпиаде II~Олимпиаду II~Олимпиадой II~Олимпиаде II~Олимпиаде II</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_OLYMPICS_3</zType>
-    <Translation>Олимпиада III~Олимпиады III~Олимпиаде III~Олимпиаду III~Олимпиадой III~Олимпиаде III</Translation>
+    <Translation>Олимпиада III~Олимпиады III~Олимпиаде III~Олимпиаду III~Олимпиадой III~Олимпиаде III~Олимпиаде III</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_OLYMPICS_4</zType>
-    <Translation>Олимпиада IV~Олимпиады IV~Олимпиаде IV~Олимпиаду IV~Олимпиадой IV~Олимпиаде IV</Translation>
+    <Translation>Олимпиада IV~Олимпиады IV~Олимпиаде IV~Олимпиаду IV~Олимпиадой IV~Олимпиаде IV~Олимпиаде IV</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_CONVOY</zType>
-    <Translation>Караван~Каравана~Каравану~Караван~Караваном~Караване~Караваны~Караванов</Translation>
+    <Translation>Караван~Каравана~Каравану~Караван~Караваном~Караване~Караване~Караваны~Караванов~Караванам~Караваны~Караванами~Караванах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_CONVOY_1</zType>
-    <Translation>Караван I~Каравана I~Каравану I~Караван I~Караваном I~Караване I</Translation>
+    <Translation>Караван I~Каравана I~Каравану I~Караван I~Караваном I~Караване I~Караване I~Караваны I~Караванов I~Караванам I~Караваны I~Караванами I~Караванах I</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_CONVOY_2</zType>
-    <Translation>Караван II~Каравана II~Каравану II~Караван II~Караваном II~Караване II</Translation>
+    <Translation>Караван II~Каравана II~Каравану II~Караван II~Караваном II~Караване II~Караване II~Караваны II~Караванов II~Караванам II~Караваны II~Караванами II~Караванах II</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_CONVOY_3</zType>
-    <Translation>Караван III~Каравана III~Каравану II~Караван III~Караваном III~Караване III</Translation>
+    <Translation>Караван III~Каравана III~Каравану III~Караван III~Караваном III~Караване III~Караване III~Караваны III~Караванов III~Караванам III~Караваны III~Караванами III~Караванах III</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_CONVOY_4</zType>
-    <Translation>Караван IV~Каравана IV~Каравану IV~Караван IV~Караваном IV~Караване IV</Translation>
+    <Translation>Караван IV~Каравана IV~Каравану IV~Караван IV~Караваном IV~Караване IV~Караване IV~Караваны IV~Караванов IV~Караванам IV~Караваны IV~Караванами IV~Караванах IV</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_COUNCIL_1</zType>
-    <Translation>Городской совет I~Городского совета I~Городскому совету I~Городской совет I~Городским советом I~Городском совете I</Translation>
+    <Translation>Городской совет I~Городского совета I~Городскому совету I~Городской совет I~Городским советом I~Городском совете I~Городском совете I~Городские советы I~Городских советов I~Городским советам I~Городские советы I~Городскими советами I~Городских советах I</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_COUNCIL_2</zType>
-    <Translation>Городской совет II~Городского совета II~Городскому совету II~Городской совет II~Городским советом II~Городском совете II</Translation>
+    <Translation>Городской совет II~Городского совета II~Городскому совету II~Городской совет II~Городским советом II~Городском совете II~Городском совете II~Городские советы II~Городских советов II~Городским советам II~Городские советы II~Городскими советами II~Городских советах II</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_COUNCIL_3</zType>
-    <Translation>Городской совет III~Городского совета III~Городскому совету III~Городской совет III~Городским советом III~Городском совете III</Translation>
+    <Translation>Городской совет III~Городского совета III~Городскому совету III~Городской совет III~Городским советом III~Городском совете III~Городском совете III~Городские советы III~Городских советов III~Городским советам III~Городские советы III~Городскими советами III~Городских советах III</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PROJECT_COUNCIL_4</zType>
-    <Translation>Городской совет IV~Городского совета IV~Городскому совету IV~Городской совет IV~Городским советом IV~Городском совете IV</Translation>
+    <Translation>Городской совет IV~Городского совета IV~Городскому совету IV~Городской совет IV~Городским советом IV~Городском совете IV~Городском совете IV~Городские советы IV~Городских советов IV~Городским советам IV~Городские советы IV~Городскими советами IV~Городских советах IV</Translation>
   </Entry>
 </Root>

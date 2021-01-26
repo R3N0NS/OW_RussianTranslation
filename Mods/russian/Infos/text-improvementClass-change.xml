@@ -9,91 +9,91 @@
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_FORT</zType>
-    <Translation>Форт~a Форт~Форты</Translation>
+    <Translation>Форт~Форта~Форту~Форт~Форты~Фортов~Фортам~Форты</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_FARM</zType>
-    <Translation>Ферма~a Ферма~Фермы</Translation>
+    <Translation>Ферма~Фермы~Ферме~Ферму~Фермой~Ферме~Фермы~Ферм</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_MINE</zType>
-    <Translation>Рудник~a Рудник~Рудники</Translation>
+    <Translation>Рудник~Рудника~Руднику~Рудник~Рудники~Рудников~Рудникам~Рудники~Рудниками~Рудниках</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_LUMBERMILL</zType>
-    <Translation>Лесопилка~a Лесопилка~Лесопилки</Translation>
+    <Translation>Лесопилка~Лесопилки~Лесопилке~Лесопилку~Лесопилкой~Лесопилке~Лесопилке~Лесопилки~Лесопилок~Лесопилкам~Лесопилки~Лесопилками~Лесопилках</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_QUARRY</zType>
-    <Translation>Каменоломня~a Каменоломня~Каменоломни</Translation>
+    <Translation>Каменоломня~Каменоломни~Каменоломне~Каменоломню~Каменоломней~Каменоломне~Каменоломне~Каменоломни~Каменоломен~Каменоломням~Каменоломни~Каменоломнями~Каменоломнях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_PASTURE</zType>
-    <Translation>Пастбище~a Пастбище~Пастбища</Translation>
+    <Translation>Пастбище~Пастбища~Пастбищу~Пастбище~Пастбищем~Пастбище~Пастбище~Пастбища~Пастбищ~Пастбищам~Пастбища~Пастбищами~Пастбищах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_CAMP</zType>
-    <Translation>Лагерь~a Лагерь~Лагеря</Translation>
+    <Translation>Лагерь~Лагеря~Лагерю~Лагерь~Лагерем~Лагере~Лагере~Лагеря~Лагерей~Лагерям~Лагеря~Лагерями~Лагерях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_GROVE</zType>
-    <Translation>Плантация~a Плантация~Плантации</Translation>
+    <Translation>Плантация~Плантации~Плантации~Плантацию~Плантацией~Плантации~Плантации~Плантации~Плантаций~Плантациям~Плантации~Плантациями~Плантациях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_NETS</zType>
-    <Translation>Рыболовные Сети~a Рыболовные Сети~Рыболовных Сетей</Translation>
+    <Translation>Рыболовные Сети~Рыболовных Сетей~Рыболовным Сетям~Рыболовные Сети~Рыболовными Сетями~Рыболовных Сетях~Рыболовных Сетях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_HARBOR</zType>
-    <Translation>Гавань~a Гавань~Гавани</Translation>
+    <Translation>Гавань~Гавани~Гавани~Гавань~Гаванью~Гавани~Гавани~Гавани~Гаваней~Гаваням~Гавани~Гаванями~Гаванях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_GRANARY</zType>
-    <Translation>Амбар~a Амбар~Амбары</Translation>
+    <Translation>Амбар~Амбара~Амбару~Амбар~Амбаром~Амбаре~Амбаре~Амбары~Амбаров~Амбарам~Амбары~Амбарами~Амбарах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_MILL</zType>
-    <Translation>Мельница~a Мельница~Мельницы</Translation>
+    <Translation>Мельница~Мельницы~Мельнице~Мельницу~Мельницей~Мельнице~Мельнице~Мельницы~Мельниц~Мельницам~Мельницы~Мельницами~Мельницах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_HAMLET</zType>
-    <Translation>Деревня~a Деревня~Деревни</Translation>
+    <Translation>Деревня~Деревни~Деревне~Деревню~Деревней~Деревне~Деревне~Деревни~Деревень~Деревням~Деревни~Деревнями~Деревнях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_BARRACKS</zType>
-    <Translation>Казарма~a Казарма~Казармы</Translation>
+    <Translation>Казарма~Казармы~Казарме~Казарму~Казармой~Казарме~Казарме~Казармы~Казарм~Казармам~Казармы~Казармами~Казармах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_RANGE</zType>
-    <Translation>Стрельбище~a Стрельбище~Стрельбища</Translation>
+    <Translation>Стрельбище~Стрельбища~Стрельбищу~Стрельбище~Стрельбищем~Стрельбище~Стрельбище~Стрельбища~Стрельбищ~Стрельбищам~Стрельбища~Стрельбищами~Стрельбищах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_ODEON</zType>
-    <Translation>Театр~a Театр~Театры</Translation>
+    <Translation>Театр~Театра~Театру~Театр~Театром~Театре~Театре~Театры~Театров~Театрам~Театры~Театрами~Театрах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_BATHS</zType>
-    <Translation>Купальня~a Купальня~Купальни</Translation>
+    <Translation>Купальня~Купальни~Купальне~КупальнюКупальню~Купальне~Купальне~Купальни~Купален~Купальням~Купальни~Купальнями~Купальнях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_MARKET</zType>
-    <Translation>Рынок~a Рынок~Рынки</Translation>
+    <Translation>Рынок~Рынка~Рынку~Рынок~Рынком~Рынке~Рынке~Рынки~Рынков~Рынкам~Рынки~Рынками~Рынках</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_LIBRARY</zType>
-    <Translation>Библиотека~a Библиотека~Библиотеки</Translation>
+    <Translation>Библиотека~Библиотеки~Библиотеке~Библиотеку~Библиотекой~Библиотеке~Библиотеке~Библиотеки~Библиотек~Библиотекам~Библиотеки~Библиотеками~Библиотеках</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_COURTHOUSE</zType>
-    <Translation>Суд~a Суд~Суды</Translation>
+    <Translation>Здание Суда~Здания Суда~Зданию Суда~дание Суда~Зданием Суда~Здании Суда~Здании Суда~Здания Суда~Зданий Суда~Зданиям Суда~Здания Суда~Зданиями Суда~Зданиях Суда</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_GARRISON</zType>
-    <Translation>Гарнизон~a Гарнизон~Гарнизоных</Translation>
+    <Translation>Гарнизон~Гарнизона~Гарнизону~Гарнизон~Гарнизоном~Гарнизоне~Гарнизоне~Гарнизоны~Гарнизонов~Гарнизонам~Гарнизоны~Гарнизонами~Гарнизонах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_SHRINE</zType>
-    <Translation>Святилище~a Святилище~Святилища</Translation>
+    <Translation>Святилище~Святилища~Святилищу~Святилище~Святилищем~Святилище~Святилище~Святилища~Святилищ~Святилищам~Святилища~Святилищами~Святилищах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_MONASTERY</zType>
@@ -101,14 +101,14 @@
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_TEMPLE</zType>
-    <Translation>Храм~a Храм~Храмы</Translation>
+    <Translation>Храм~Храма~Храму~Храм~Храмом~Храме~Храме~Храмы~Храмов~Храмам~Храмы~Храмами~Храмах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_CATHEDRAL</zType>
-    <Translation>Собор~a Собор~Соборы</Translation>
+    <Translation>Собор~Собора~Собору~Собор~Собором~Соборе~Соборе~Соборы~Соборов~Соборам~Соборы~Соборами~Соборах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENTCLASS_HOLY_SITE</zType>
-    <Translation>Святыня~a Святыня~Святыни</Translation>
+    <Translation>Святыня~Святыни~Святыне~Святыню~Святыней~Святыне~Святыне~Святыни~Святынь~Святыням~Святыни~Святынями~Святынях</Translation>
   </Entry>
 </Root>

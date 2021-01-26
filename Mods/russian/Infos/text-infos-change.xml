@@ -516,23 +516,23 @@
   </Entry>
   <Entry>
     <zType>TEXT_GOAL_CIVICS_2000</zType>
-    <Translation>Накопить 2000 icon(YIELD_CIVICS)</Translation>
+    <Translation>Накопить 2000  icon(YIELD_CIVICS)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GOAL_TRAINING_2000</zType>
-    <Translation>Накопить 2000 icon(YIELD_TRAINING)</Translation>
+    <Translation>Накопить 2000  icon(YIELD_TRAINING)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GOAL_MONEY_2000</zType>
-    <Translation>Накопить 2,000 icon(YIELD_MONEY)</Translation>
+    <Translation>Накопить 2,000  icon(YIELD_MONEY)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GOAL_MONEY_5000</zType>
-    <Translation>Накопить 5,000 icon(YIELD_MONEY)</Translation>
+    <Translation>Накопить 5,000  icon(YIELD_MONEY)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GOAL_MONEY_10000</zType>
-    <Translation>Накопить 10,000 icon(YIELD_MONEY)</Translation>
+    <Translation>Накопить 10,000  icon(YIELD_MONEY)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GOAL_FIVE_WORKERS</zType>
@@ -2005,7 +2005,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_CIVICS_HELP</zType>
-    <Translation>Используется для обучения специалистов и завершения проектов. Неиспользованные очки link(YIELD_CIVICS) {YIELD_CIVICS} добавляются в национальный запас и расходуются на принятие законов и теологий. Получайте больше очков link(YIELD_CIVICS) {YIELD_CIVICS} строя link(IMPROVEMENTCLASS_COURTHOUSE,2) и link(PROJECT_FORUM_1,2).</Translation>
+    <Translation>Используется для обучения специалистов и завершения проектов. Неиспользованные очки link(YIELD_CIVICS,1) {YIELD_CIVICS} добавляются в национальный запас и расходуются на принятие законов и теологий. Получайте больше очков link(YIELD_CIVICS,1) {YIELD_CIVICS} строя link(IMPROVEMENTCLASS_COURTHOUSE,1) и link(PROJECT_FORUM_1,7).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_TRAINING_HELP</zType>
@@ -2021,15 +2021,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_SCIENCE_HELP</zType>
-    <Translation>Используется для исследования технологий. Получайте больше link(YIELD_SCIENCE){YIELD_SCIENCE}, строя link(PROJECT_ARCHIVE_1,2) и link(IMPROVEMENTCLASS_LIBRARY,2).</Translation>
+    <Translation>Используется для исследования технологий. Получайте больше link(YIELD_SCIENCE,1) {YIELD_SCIENCE}, строя link(PROJECT_ARCHIVE_1,7) и link(IMPROVEMENTCLASS_LIBRARY,7).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_MONEY_HELP</zType>
-    <Translation>Используются для покупки других ресурсов. Получайте больше link(YIELD_MONEY) {YIELD_MONEY}, строя link(IMPROVEMENT_HAMLET,2) и link(IMPROVEMENTCLASS_MARKET,2).</Translation>
+    <Translation>Используются для покупки других ресурсов. Получайте больше link(YIELD_MONEY,1) {YIELD_MONEY}, строя link(IMPROVEMENT_HAMLET,1) и link(IMPROVEMENTCLASS_MARKET,7).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_MAINTENANCE_HELP</zType>
-    <Translation>Уменьшает количество link(YIELD_MONEY) {YIELD_MONEY}, поступающих из городов. link(YIELD_MAINTENANCE) {YIELD_MAINTENANCE} может быть уменьшено посредством соединения ваших городов со столицей.</Translation>
+    <Translation>Уменьшает количество link(YIELD_MONEY,1) {YIELD_MONEY}, поступающих из городов. link(YIELD_MAINTENANCE) {YIELD_MAINTENANCE} может быть уменьшено посредством соединения ваших городов со столицей.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_ORDERS_HELP</zType>

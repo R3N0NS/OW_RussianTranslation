@@ -7,54 +7,54 @@
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_GROWTH</zType>
-    <Translation>Рост~Роста~Росту~Рост~Ростом~Росте</Translation>
+    <Translation>Рост~Роста~Росту~Рост~Ростом~Росте~Росте</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_CIVICS</zType>
-    <Translation>Право~Права~Праву~Право~Правом~Праве</Translation>
+    <Translation>Право~Права~Праву~Право~Правом~Праве~Праве</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_TRAINING</zType>
-    <Translation>Военная подготовка~Военной подготовки~Военной подготовке~Военной подготовки~Военной подготовкой~Военной подготовке</Translation>
+    <Translation>Военная подготовка~Военной подготовки~Военной подготовке~Военной подготовки~Военной подготовкой~Военной подготовке~Военной подготовке~~Военные подготовки~Военных подготовок~Военным подготовкам~Военные подготовки~Военными подготовками~Военных подготовках</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_CULTURE</zType>
-    <Translation>Культура~Культуры~Культуре~Культуру~Культурой~Культуре~Культурные</Translation>
+    <Translation>Культура~Культуры~Культуре~Культуру~Культурой~Культуре~Культуре~Культурные~Культур~Культурам~Культуры~Культурами~Культурах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_DISCONTENT</zType>
-    <Translation>Недовольство~Недовольства~Недовольству~Недовольство~Недовольством~Недовольстве</Translation>
+    <Translation>Недовольство~Недовольства~Недовольству~Недовольство~Недовольством~Недовольстве~Недовольстве~Недовольства~Недовольств~Недовольствам~Недовольства~Недовольствами~Недовольствах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_SCIENCE</zType>
-    <Translation>Наука~Науки~Науке~Науку~Наукой~Науке</Translation>
+    <Translation>Наука~Науки~Науке~Науку~Наукой~Науке~Науке~Науки~Наук~Наукам~Науки~Науками~Науках</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_MONEY</zType>
-    <Translation>Деньги~Денег~Деньгам~Деньги~Деньгами~Деньгах</Translation>
+    <Translation>Деньги~Денег~Деньгам~Деньги~Деньгами~Деньгах~Деньгах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_MAINTENANCE</zType>
-    <Translation>Содержание~Содержания~Содержанию~Содержание~Содержанием~Содержании</Translation>
+    <Translation>Содержание~Содержания~Содержанию~Содержание~Содержанием~Содержании~Содержании~Содержания~Содержаний~Содержаниям~Содержания~Содержаниями~Содержаниях</Translation>
   </Entry>
   <Entry comment="Note, since this is the only countable noun (non-mass) using a different scheme for the alternate forms">
     <zType>TEXT_YIELD_ORDERS</zType>
-    <Translation>Приказ~Приказа~Приказу~Приказ~Приказом~Приказе~Приказы~Приказов</Translation>
+    <Translation>Приказ~Приказа~Приказу~Приказ~Приказом~Приказе~Приказе~Приказы~Приказов~Приказам~ПриказыПриказами~~Приказах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_FOOD</zType>
-    <Translation>Еда~Еды~Еде~Еду~Едой~Еде</Translation>
+    <Translation>Еда~Еды~Еде~Еду~Едой~Еде~Еде</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_IRON</zType>
-    <Translation>Железо~Железа~Железу~Железо~Железом~Железе</Translation>
+    <Translation>Железо~Железа~Железу~Железо~Железом~Железе~Железе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_WOOD</zType>
-    <Translation>Дерево~Дерева~Дереву~Дерево~Деревом~Дереве</Translation>
+    <Translation>Дерево~Дерева~Дереву~Дерево~Деревом~Дереве~Дереве</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_STONE</zType>
-    <Translation>Камень~Камня~Камню~Камень~Камнем~Камне</Translation>
+    <Translation>Камень~Камня~Камню~Камень~Камнем~Камне~Камне</Translation>
   </Entry>
 </Root>
