@@ -2004,15 +2004,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_CIVICS_HELP</zType>
-    <Translation>Используется для обучения специалистов и завершения проектов. Неиспользованные очки link(YIELD_CIVICS,1) {YIELD_CIVICS} добавляются в национальный запас и расходуются на принятие законов и теологий. Получайте больше очков link(YIELD_CIVICS,1) {YIELD_CIVICS} строя link(IMPROVEMENTCLASS_COURTHOUSE,9) и link(PROJECT_FORUM_1,12).</Translation>
+    <Translation>Используется для обучения специалистов и завершения проектов. Неиспользованные очки link(YIELD_CIVICS,1) {YIELD_CIVICS} добавляются в национальный запас и расходуются на принятие законов и теологий. Получайте больше очков link(YIELD_CIVICS,1) {YIELD_CIVICS} строя больше link(IMPROVEMENTCLASS_COURTHOUSE,8) и link(PROJECT_FORUM_1,8).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_TRAINING_HELP</zType>
-    <Translation>Используются для обучения военных отрядов. Неиспользованные очки link(YIELD_TRAINING,1) {YIELD_TRAINING} добавляются в национальный запас и расходуются на повышение и модернизацию военных отрядов. Получайте больше очков link(YIELD_TRAINING,1) {YIELD_TRAINING} строя link(IMPROVEMENTCLASS_BARRACKS,9) и link(IMPROVEMENTCLASS_RANGE,9).</Translation>
+    <Translation>Используются для обучения военных отрядов. Неиспользованные очки link(YIELD_TRAINING,1) {YIELD_TRAINING} добавляются в национальный запас и расходуются на повышение и модернизацию военных отрядов. Получайте больше очков link(YIELD_TRAINING,1) {YIELD_TRAINING} строя link(IMPROVEMENTCLASS_BARRACKS,7) и link(IMPROVEMENTCLASS_RANGE,7).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_CULTURE_HELP</zType>
-    <Translation>Когда шкала link(YIELD_CULTURE,1) {YIELD_CULTURE} полностью заполняется, происходит благоприятное событие. Уровень городской link(YIELD_CULTURE,1) {YIELD_CULTURE} влияет на то, какие сооружения и Чудеса можно возвести. Получайте больше link(YIELD_CULTURE,1) {YIELD_CULTURE}, строя link(IMPROVEMENTCLASS_SHRINE,9) и link(IMPROVEMENTCLASS_ODEON,9).</Translation>
+    <Translation>Когда шкала link(YIELD_CULTURE,1) {YIELD_CULTURE} полностью заполняется, происходит благоприятное событие. Уровень городской link(YIELD_CULTURE,1) {YIELD_CULTURE} влияет на то, какие сооружения и Чудеса можно возвести. Получайте больше link(YIELD_CULTURE,1) {YIELD_CULTURE}, строя link(IMPROVEMENTCLASS_SHRINE,8) и link(IMPROVEMENTCLASS_ODEON,8).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_DISCONTENT_HELP</zType>
@@ -2020,11 +2020,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_SCIENCE_HELP</zType>
-    <Translation>Используется для исследования технологий. Получайте больше link(YIELD_SCIENCE,1){YIELD_SCIENCE}, строя link(PROJECT_ARCHIVE_1,9) и link(IMPROVEMENTCLASS_LIBRARY,9).</Translation>
+    <Translation>Используется для исследования технологий. Получайте больше link(YIELD_SCIENCE,1) {YIELD_SCIENCE}, строя link(PROJECT_ARCHIVE_1,7) и link(IMPROVEMENTCLASS_LIBRARY,7).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_MONEY_HELP</zType>
-    <Translation>Используются для покупки других ресурсов. Получайте больше link(YIELD_MONEY,1) {YIELD_MONEY}, строя link(IMPROVEMENTCLASS_HAMLET,9) и link(IMPROVEMENTCLASS_MARKET,9).</Translation>
+    <Translation>Используются для покупки других ресурсов. Получайте больше link(YIELD_MONEY,1) {YIELD_MONEY}, строя link(IMPROVEMENTCLASS_HAMLET,1) и link(IMPROVEMENTCLASS_MARKET,7).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_MAINTENANCE_HELP</zType>
@@ -2032,6 +2032,6 @@
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_ORDERS_HELP</zType>
-    <Translation>link(YIELD_ORDERS,6) {YIELD_ORDERS} можно потратить на различные действия, такие, как: движение, атака и создание построек. Неиспользованные link(YIELD_ORDERS,6) {YIELD_ORDERS} продаются за link(YIELD_MONEY,3) {YIELD_MONEY} в конце года.</Translation>
+    <Translation>link(YIELD_ORDERS,7) {YIELD_ORDERS} можно потратить на различные действия, такие, как: движение, атака и создание построек. Неиспользованные link(YIELD_ORDERS,7) {YIELD_ORDERS} продаются за link(YIELD_MONEY,3) {YIELD_MONEY} в конце года.</Translation>
   </Entry>
 </Root>
