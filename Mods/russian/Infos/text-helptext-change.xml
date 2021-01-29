@@ -2804,7 +2804,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_YIELD_PER_YEAR</zType>
-    <Translation>{0} в ход</Translation>
+    <Translation>{0} / ход</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_YIELD_FROM</zType>
