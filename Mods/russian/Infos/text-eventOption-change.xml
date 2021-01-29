@@ -6013,10 +6013,10 @@
     <Translation>Я буду присутствовать один.</Translation>
   </Entry>
   <Entry beginGroup="Character">
-		<zType>TEXT_EVENTOPTION_NEW_COURTIER</zType>
-		<English>Welcome, {CHARACTER-0}.</English>
-	</Entry>
-	<Entry>
+	<zType>TEXT_EVENTOPTION_NEW_COURTIER</zType>
+	<Translation>Приветствую, {CHARACTER-0}.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EVENTOPTION_DELICIOUS_DRINKS_BOTTOMS_UP</zType>
     <Translation>Поддержать тост.</Translation>
   </Entry>
@@ -12559,19 +12559,19 @@
   <Entry>
 	<zType>TEXT_EVENTOPTION_BREAKING_THEIR_FEAR_OPTION_2</zType>
 	<Translation>Мы устраним наши разногласия.</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CURED_OF_THEIR_DEMONS_OPTION_1</zType>
-		<English>Begon you wreches! I will not accept any more so called help!</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CURED_OF_THEIR_DEMONS_OPTION_1_HELP</zType>
-		<English>Those let free are never quite the same as before. </English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_CURED_OF_THEIR_DEMONS_OPTION_2</zType>
-		<English>Perhaps we might reach another agreement?</English>
-    </Entry>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_CURED_OF_THEIR_DEMONS_OPTION_1</zType>
+	<Translation>Прочь! Я больше не приму так называемой помощи!</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_CURED_OF_THEIR_DEMONS_OPTION_1_HELP</zType>
+	<Translation>Те, кого отпускают на свободу, уже никогда не будут такими, как раньше.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_CURED_OF_THEIR_DEMONS_OPTION_2</zType>
+	<Translation>Может быть, мы могли бы прийти к другому соглашению?</Translation>
+  </Entry>
 	<Entry beginGroup="City">
     <zType>TEXT_EVENTOPTION_HAPPINESS_IMMIGRANTS_YES</zType>
     <Translation>Пусть поселятся в {CITY-0}.</Translation>
@@ -17875,10 +17875,10 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_WORKER_SELECTED_OPTION_0</zType>
     <Translation>Давайте приступим к работе!</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_TUTORIAL_CARAVAN_SELECTED_OPTION_0</zType>
-		<English>I'll send my link(UNIT_CARAVAN) on a link(CONCEPT_CARAVAN_MISSION)!</English>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_TUTORIAL_CARAVAN_SELECTED_OPTION_0</zType>
+	<Translation>я сделаю своего link(UNIT_CARAVAN,2) в link(CONCEPT_CARAVAN_MISSION)!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_SLINGER_SELECTED_OKAY</zType>
@@ -18090,31 +18090,31 @@
   </Entry>
   <Entry>
 	<zType>TEXT_EVENTOPTION_TUTORIAL_FAMILY_ANGRY_OKAY</zType>
-	<Translation>Я постараюсь сделать мою link(CONCEPT_FAMILY, 1) счастливой, чтобы они не взбунтовались!</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_TUTORIAL_USE_AMBASSADOR_OKAY</zType>
-		<English>I will use my link(COUNCIL_AMBASSADOR) for diplomatic missions!</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_TUTORIAL_USE_CHANCELLOR_OKAY</zType>
-		<English>I will send my link(COUNCIL_CHANCELLOR) on important missions!</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_EVENTOPTION_TUTORIAL_USE_SPYMASTER_OKAY</zType>
-		<English>I will use my link(COUNCIL_SPYMASTER) for secret missions!</English>
+	<Translation>Я постараюсь сделать мою link(CONCEPT_FAMILY,1) счастливой, чтобы они не взбунтовались!</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_TUTORIAL_USE_AMBASSADOR_OKAY</zType>
+	<Translation>Я использую link(COUNCIL_AMBASSADOR,1) для дипломатических заданий!</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_TUTORIAL_USE_CHANCELLOR_OKAY</zType>
+	<Translation>I will send my link(COUNCIL_CHANCELLOR,1) для важных заданий!</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_TUTORIAL_USE_SPYMASTER_OKAY</zType>
+	<Translation>I will use my link(COUNCIL_SPYMASTER,1) для секретных операций!</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EVENTOPTION_TUTORIAL_APPOINT_AMBASSADOR_OKAY</zType>
-	<Translation>Я назначу link(COUNCIL_AMBASSADOR), чтобы я мог вести дипломатию!</Translation>
+	<Translation>Я назначу link(COUNCIL_AMBASSADOR,1), чтобы я мог вести дипломатию!</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EVENTOPTION_TUTORIAL_APPOINT_CHANCELLOR_OKAY</zType>
-	<Translation>Я назначу link(COUNCIL_CHANCELLOR), чтобы помочь управлять моей областью!</Translation>
+	<Translation>Я назначу link(COUNCIL_CHANCELLOR,1), чтобы помочь управлять моей областью!</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EVENTOPTION_TUTORIAL_APPOINT_SPYMASTER_OKAY</zType>
-	<Translation>Если я захочу заняться каким-то мошенничеством, то обязательно назначу link(COUNCIL_SPYMASTER)!</Translation>
+	<Translation>Если я захочу заняться каким-то мошенничеством, то обязательно назначу link(COUNCIL_SPYMASTER,1)!</Translation>
   </Entry>
   <Entry beginGroup="Community">
     <zType>TEXT_EVENTOPTION_GOT_YOUR_NOSE_0</zType>

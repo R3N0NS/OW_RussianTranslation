@@ -953,15 +953,15 @@
   <Entry>
     <zType>TEXT_GIFT_YIELD</zType>
     <Translation>Отправить товары</Translation>
-	</Entry>
-	<Entry>
-		<zType>TEXT_AGENT_MISSIONS</zType>
-		<English>Agent Missions</English>
-	</Entry>
-	<Entry>
-		<zType>TEXT_AGENT_MISSION_NAME</zType>
-		<English><![CDATA[{0_missionLink} <color=#e3c08c>({1_cityLink})</color>]]></English>
-	  </Entry>
+  </Entry>
+  <Entry>
+	<zType>TEXT_AGENT_MISSIONS</zType>
+	<Translation>Секретные операции</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_AGENT_MISSION_NAME</zType>
+	<Translation><![CDATA[{0_missionLink} <color=#e3c08c>({1_cityLink})</color>]]></Translation>
+  </Entry>
   <!--single player menu-->
   <Entry>
     <zType>TEXT_SP_MENU_SCREEN_NEWGAME_BUTTON</zType>
