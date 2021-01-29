@@ -75,6 +75,10 @@
     <Translation>Фанатик~Фанатика~Фанатику~Фанатика~Фанатиком~Фанатике</Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_EFFECTUNIT_ZEALOT_LEADER</zType>
+    <Translation>Фанатик (правитель)</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_EFFECTUNIT_TRACKER</zType>
     <Translation>Охотник</Translation>
   </Entry>
@@ -148,7 +152,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTUNIT_BRAVE</zType>
-    <Translation>Храбрец</Translation>
+    <Translation>Храбрый</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTUNIT_SHIELDBEARER</zType>

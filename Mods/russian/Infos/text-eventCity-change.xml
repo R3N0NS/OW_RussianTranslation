@@ -51,23 +51,23 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTCITY_CIVICS_BOOM_NAME</zType>
-    <Translation>Расцвет link(YIELD_CIVICS)</Translation>
+    <Translation>Расцвет link(YIELD_CIVICS,1)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTCITY_TRAINING_BOOM_NAME</zType>
-    <Translation>Рост link(YIELD_TRAINING)</Translation>
+    <Translation>Рост link(YIELD_TRAINING,1)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTCITY_SCIENCE_BOOM_NAME</zType>
-    <Translation>Расцвет link(YIELD_SCIENCE)</Translation>
+    <Translation>Расцвет link(YIELD_SCIENCE,1)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTCITY_MONEY_BOOM_NAME</zType>
-    <Translation>Приток link(YIELD_MONEY)</Translation>
+    <Translation>Приток link(YIELD_MONEY,1)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTCITY_ORDERS_BOOM_NAME</zType>
-    <Translation>Рост издания link(YIELD_ORDERS)</Translation>
+    <Translation>Рост издания link(YIELD_ORDERS,8)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTCITY_GREAT_SOLDIER_NAME</zType>

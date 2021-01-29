@@ -8,6 +8,7 @@
 		<Keys/>
 		<bKeyboardMap/>
 		<bHold/>
+		<bOnDown/>
 		<fRepeatDelay/>
 		<bIgnoreMouse/>
 		<IgnoreHotkeys/>
@@ -367,40 +368,34 @@
 		<Keys>F3</Keys>
 	</Entry>
 	<Entry>
-		<zType>HOTKEY_RELIGION_SCREEN</zType>
-		<zName>Show Religion Screen</zName>
-		<HotkeyClass>HOTKEYCLASS_SCREENS</HotkeyClass>
-		<Keys>F4</Keys>
-	</Entry>
-	<Entry>
 		<zType>HOTKEY_LOG_SCREEN</zType>
 		<zName>Show VICTORY Screen</zName>
 		<HotkeyClass>HOTKEYCLASS_SCREENS</HotkeyClass>
-		<Keys>F5</Keys>
+		<Keys>F4</Keys>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_TECH_SCREEN</zType>
 		<zName>Show Tech Screen</zName>
 		<HotkeyClass>HOTKEYCLASS_SCREENS</HotkeyClass>
-		<Keys>F6</Keys>
+		<Keys>F5</Keys>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_CITY_LIST</zType>
 		<zName>Show City List</zName>
 		<HotkeyClass>HOTKEYCLASS_SCREENS</HotkeyClass>
-		<Keys>F7</Keys>
+		<Keys>F6</Keys>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_MAP_SCREEN</zType>
 		<zName>Show Map Screen</zName>
 		<HotkeyClass>HOTKEYCLASS_SCREENS</HotkeyClass>
-		<Keys>F8</Keys>
+		<Keys>F7</Keys>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_HELP_SCREEN</zType>
 		<zName>Show Help Screen</zName>
 		<HotkeyClass>HOTKEYCLASS_SCREENS</HotkeyClass>
-		<Keys>F9</Keys>
+		<Keys>F8</Keys>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_GAME_EDITOR</zType>
@@ -649,12 +644,14 @@
 		<zName>Go to next input</zName>
 		<HotkeyClass>HOTKEYCLASS_EVENT_BROWSER</HotkeyClass>
 		<Keys>Tab</Keys>
+		<bOnDown>1</bOnDown>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_EVENT_BROWSER_PREVIOUS_INPUT</zType>
 		<zName>Go to previous input</zName>
 		<HotkeyClass>HOTKEYCLASS_EVENT_BROWSER</HotkeyClass>
 		<Keys>LeftShift+Tab</Keys>
+		<bOnDown>1</bOnDown>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_CYCLE_PLAYER_1</zType>

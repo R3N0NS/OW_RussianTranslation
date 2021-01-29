@@ -32,7 +32,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ASHURBANIPAL</zType>
-		<zName>Ашурбанипал</zName>
+		<zName>Ашшурбанапал</zName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_ASHURBANIPAL</PreferredPortrait>
 	</Entry>
 	<Entry>
@@ -93,7 +93,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_TIGLATH_PILESER</zType>
-		<zName>Тиглатпилесар</zName>
+		<zName>Тиглатпаласар</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_TUKULTI_WAR</zType>
@@ -1426,7 +1426,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_BARSINE</zType>
-		<zName>Барсин</zName>
+		<zName>Барсина</zName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_SCYTHIAN_FEMALE_01</PreferredPortrait>
 	</Entry>
 	<Entry>
@@ -1487,7 +1487,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_STATEIRA</zType>
-		<zName>Стейра</zName>
+		<zName>Статира</zName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_THRACIAN_FEMALE_01</PreferredPortrait>
 	</Entry>
 	<Entry>
@@ -1666,7 +1666,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_DRYPETIS</zType>
-		<zName>Драйпетис</zName>
+		<zName>Дрипетида</zName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_SCYTHIAN_FEMALE_02</PreferredPortrait>
 	</Entry>
 	<Entry>

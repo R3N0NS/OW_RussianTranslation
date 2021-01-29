@@ -2082,6 +2082,10 @@
 		<Translation>Возьмете {G3:другого Мужа:другую Жену}?</Translation>
 	</Entry>
 	<Entry beginGroup="Character">
+		<zType>TEXT_EVENTSTORY_NEW_COURTIER_TITLE</zType>
+		<English>{CHARACTER-SHORT-0} Joins The Court</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_DELICIOUS_DRINKS_TITLE</zType>
 		<Translation>Изысканный напиток</Translation>
 	</Entry>
@@ -5609,6 +5613,30 @@
 		<zType>TEXT_EVENTSTORY_LAW_UNPAID_DEBTS_TITLE</zType>
 		<Translation>Невыплаченные долги</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AGE_OF_HEROES_TITLE</zType>
+		<English>Age of Heroes</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ERA_OF_EXPLORATION_TITLE</zType>
+		<English>Era of Exploration</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_REIGN_BY_WHIPS_AND_CHAINS_TITLE</zType>
+		<English>Reign by Whips and Chains</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_REIGN_OF_CARNALITY_TITLE</zType>
+		<English>Reign of Carnality</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RULE_OF_LAW_TITLE</zType>
+		<English>Rule of Law</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_REIGN_OF_TERROR_TITLE</zType>
+		<English>Reign of Terror</English>
+	</Entry>
 	<Entry beginGroup="Miscellaneous">
 		<zType>TEXT_EVENTSTORY_ADOPT_RELIGION_TITLE</zType>
 		<Translation>Государственная религия?</Translation>
@@ -7246,6 +7274,10 @@
 		<Translation>Обучение: link(UNIT_WORKER)</Translation>
 	</Entry>
 	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_CARAVAN_SELECTED_TITLE</zType>
+		<English>Tutorial: The link(UNIT_CARAVAN)</English>
+	</Entry>
+	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_SLINGER_SELECTED_TITLE</zType>
 		<Translation>Обучение: link(UNIT_SLINGER)</Translation>
 	</Entry>
@@ -7348,6 +7380,18 @@
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_FAMILY_ANGRY_TITLE</zType>
 		<Translation>Обучение: Семейное мнение</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_USE_AMBASSADOR_TITLE</zType>
+		<English>Tutorial: Ambassador Missions</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_USE_CHANCELLOR_TITLE</zType>
+		<English>Tutorial: Chancellor Missions</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_USE_SPYMASTER_TITLE</zType>
+		<English>Tutorial: Spymaster Missions</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_APPOINT_AMBASSADOR_TITLE</zType>

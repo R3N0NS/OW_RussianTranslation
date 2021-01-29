@@ -23,7 +23,7 @@
 	</Entry>
 	<Entry>
 	<zType>TEXT_MISSIONRESULT_RALLY_TROOPS_EVENT_DESCRIPTION</zType>
-    <Translation>Попытка {CHARACTER-SUBJECT} сплотить войска привела к событию...</Translation>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} сплотить войска привела к событию...</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSIONRESULT_INFLUENCE_DESCRIPTION</zType>
@@ -31,7 +31,7 @@
  </Entry>
   <Entry>
 	<zType>TEXT_MISSIONRESULT_INFLUENCE_EVENT_DESCRIPTION</zType>
-    <Translation>Попытка {CHARACTER-SUBJECT} распространить ваше влияние привела к событию...</Translation>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} распространить ваше влияние привела к событию...</Translation>
 	  </Entry>
   <Entry>
     <zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL_DESCRIPTION</zType>
@@ -43,7 +43,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_MISSIONRESULT_INFILTRATE_EVENT_DESCRIPTION</zType>
-    <Translation>Скрытное проникновение {CHARACTER-SUBJECT} привело к событию...</Translation>
+    <Translation>Скрытное проникновение {CHARACTER-SUBJECT,1} привело к событию...</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSIONRESULT_SLANDER_SUCCESS_DESCRIPTION</zType>
@@ -55,7 +55,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_MISSIONRESULT_SLANDER_EVENT_DESCRIPTION</zType>
-    <Translation>Попытка {CHARACTER-SUBJECT} опорочить честь соперника привела к событию...</Translation>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} опорочить честь соперника привела к событию...</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSIONRESULT_STEAL_RESEARCH_SUCCESS_DESCRIPTION</zType>
@@ -67,7 +67,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_MISSIONRESULT_STEAL_RESEARCH_EVENT_DESCRIPTION</zType>
-    <Translation>Попытка {CHARACTER-SUBJECT} украсть исследование привела к событию...</Translation>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} украсть исследование привела к событию...</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSIONRESULT_ASSASSINATE_KILL_DESCRIPTION</zType>
@@ -83,7 +83,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_MISSIONRESULT_ASSASSINATE_EVENT_DESCRIPTION</zType>
-	<Translation>Попытка убить {CHARACTER-SUBJECT} привело к событию...</Translation>
+	<Translation>Попытка убить {CHARACTER-SUBJECT,1} привело к событию...</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSIONRESULT_TREACHERY_SUCCESS_DESCRIPTION</zType>
@@ -95,7 +95,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_MISSIONRESULT_TREACHERY_EVENT_DESCRIPTION</zType>
-    <Translation>Попытка {CHARACTER-SUBJECT} ослабить защиту города привела к событию...</Translation>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} ослабить защиту города привела к событию...</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSIONRESULT_INSURRECTION_SUCCESS_DESCRIPTION</zType>
@@ -107,7 +107,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_MISSIONRESULT_INSURRECTION_EVENT_DESCRIPTION</zType>
-    <Translation>Попытка {CHARACTER-SUBJECT} начать восстание привела к событию...</Translation>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} начать восстание привела к событию...</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSIONRESULT_FAMILY_GIFT_SUCCESS_DESCRIPTION</zType>
@@ -119,7 +119,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_MISSIONRESULT_FAMILY_GIFT_EVENT_DESCRIPTION</zType>
-    <Translation>Попытка {CHARACTER-SUBJECT} преподнести семье подарки привела к событию...</Translation>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} преподнести семье подарки привела к событию...</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSIONRESULT_PACIFY_CITY_SUCCESS_DESCRIPTION</zType>
@@ -131,7 +131,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_MISSIONRESULT_PACIFY_CITY_EVENT_DESCRIPTION</zType>
-    <Translation>Попытка {CHARACTER-SUBJECT} умиротворить жителей привела к событию...</Translation>
+    <Translation>Попытка {CHARACTER-SUBJECT,1} умиротворить жителей привела к событию...</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSIONRESULT_IMPRISON_JUST_DESCRIPTION</zType>
@@ -147,7 +147,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_MISSIONRESULT_IMPRISON_EVENT_DESCRIPTION</zType>
-    <Translation>Попытка заключить в тюрьму {CHARACTER-SUBJECT} привела к событию...</Translation>
+    <Translation>Попытка заключить в тюрьму {CHARACTER-SUBJECT,1} привела к событию...</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSIONRESULT_RELEASE_GRATEFUL_DESCRIPTION</zType>
@@ -187,7 +187,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_MISSIONRESULT_DIVORCE_EVENT_DESCRIPTION</zType>
-	<Translation>Расторжение брака {CHARACTER-SUBJECT} привело к событию...</Translation>
+	<Translation>Расторжение брака {CHARACTER-SUBJECT,1} привело к событию...</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_MISSIONRESULT_TUTOR_WISDOM_DESCRIPTION</zType>
@@ -207,7 +207,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_MISSIONRESULT_TUTOR_EVENT_DESCRIPTION</zType>
-    <Translation>Попытка обучения {CHARACTER-SUBJECT} привела к событию...</Translation>
+    <Translation>Попытка обучения {CHARACTER-SUBJECT,1} привела к событию...</Translation>
   </Entry>
   <!--Result Name-->
   <Entry>

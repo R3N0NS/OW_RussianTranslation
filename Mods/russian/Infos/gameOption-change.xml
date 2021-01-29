@@ -74,6 +74,11 @@
 		<zHelp>Нет всплывающих окон во время событий</zHelp>
 	</Entry>
 	<Entry>
+		<zType>GAMEOPTION_PLAY_TO_WIN</zType>
+		<zName>Играй ради победы</zName>
+		<zHelp>Нации ИИ будут пытаться удержать друг друга (включая Вас) от победы</zHelp>
+	</Entry>
+	<Entry>
 		<zType>GAMEOPTION_ONE_CITY_CHALLENGE</zType>
 		<zName>Один город</zName>
 		<zHelp>Игрокам не разрешается контролировать более одного города.</zHelp>

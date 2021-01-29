@@ -310,51 +310,51 @@
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_MONASTERY_ZOROASTRIANISM</zType>
-    <Translation>Зороастрийский монастырь</Translation>
+    <Translation>Зороастрийский монастырь~Зороастрийского монастыря~Зороастрийскому монастырю~Зороастрийского монастыря~Зороастрийским монастырем~Зороастрийском монастыре</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_MONASTERY_JUDAISM</zType>
-    <Translation>Иудейский монастырь</Translation>
+    <Translation>Иудейский монастырь~Иудейского монастыря~Иудейскому монастырю~Иудейского монастыря~Иудейским монастырем~Иудейском монастыре</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_MONASTERY_CHRISTIANITY</zType>
-    <Translation>Христианский монастырь</Translation>
+    <Translation>Христианский монастырь~Христианского монастыря~Христианскому монастырю~Христианского монастыря~Христианским монастырем~Христианском монастыре</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_MONASTERY_MANICHAEISM</zType>
-    <Translation>Манихейский монастырь</Translation>
+    <Translation>Манихейский монастырь~Манихейского монастыря~Манихейскому монастырю~Манихейского монастыря~Манихейским монастырем~Манихейском монастыре</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_TEMPLE_ZOROASTRIANISM</zType>
-    <Translation>Зороастрийский храм</Translation>
+    <Translation>Зороастрийский храм~Зороастрийского храма~Зороастрийскому храму~Зороастрийского храма~Зороастрийским храмом~Зороастрийском храме~Зороастрийские храмы~Зороастрийских храма</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_TEMPLE_JUDAISM</zType>
-    <Translation>Иудейский храмы</Translation>
+    <Translation>Иудейский храм~Иудейского храма~Иудейскому храму~Иудейского храма~Иудейским храмом~Иудейском храме~Иудейские храмы~Иудейских храма</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_TEMPLE_CHRISTIANITY</zType>
-    <Translation>Христианский храм</Translation>
+    <Translation>Христианский храм~Христианского храма~Христианскому храму~Христианского храма~Христианским храмом~Христианском храме~Христианские храмы~Христианских храма</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_TEMPLE_MANICHAEISM</zType>
-    <Translation>Манихейский храм</Translation>
+    <Translation>Манихейский храм~Манихейского храма~Манихейскому храму~Манихейского храма~Манихейским храмом~Манихейском храме~Манихейские храмы~Манихейских храма</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_CATHEDRAL_ZOROASTRIANISM</zType>
-    <Translation>Зороастрийский собор</Translation>
+    <Translation>Зороастрийский собор~Зороастрийского собора~Зороастрийскому собору~Зороастрийского собора~Зороастрийским собором~Зороастрийском соборе~Зороастрийские соборы~Зороастрийских собора</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_CATHEDRAL_JUDAISM</zType>
-    <Translation>Иудейский собор</Translation>
+    <Translation>Иудейский собор~Иудейского собора~Иудейскому собору~Иудейского собора~Иудейским собором~Иудейском соборе~Иудейские соборы~Иудейских собора</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_CATHEDRAL_CHRISTIANITY</zType>
-    <Translation>Христианский собор</Translation>
+    <Translation>Христианский собор~Христианского собора~Христианскому собору~Христианского собора~Христианским собором~Христианском соборе~Христианские соборы~Христианских собора</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_CATHEDRAL_MANICHAEISM</zType>
-    <Translation>Манихейский собор</Translation>
+    <Translation>Манихейский собор~Манихейского собора~Манихейскому собору~Манихейского собора~Манихейским собором~Манихейском соборе~Манихейские соборы~Манихейских собора</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_HOLY_SITE_ZOROASTRIANISM</zType>
@@ -370,86 +370,86 @@
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_HOLY_SITE_MANICHAEISM</zType>
-    <Translation>Цаоань</Translation>
+    <Translation>Цаоань~Цаоань~Цаоань</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_PYRAMIDS</zType>
-    <Translation>Пирамиды</Translation>
+    <Translation>Пирамиды~Пирамид~Пирамиды</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_GREAT_ZIGGURAT</zType>
-    <Translation>Великий Зиккурат</Translation>
+    <Translation>Великий Зиккурат~Великого Зиккурата~Великий Зиккурат</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_ORACLE</zType>
-    <Translation>Оракул</Translation>
+    <Translation>Оракул~Оракула~Оракул</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_HANGING_GARDENS</zType>
-    <Translation>Висячие сады</Translation>
+    <Translation>Висячие сады~Висячих садов~Висячие сады</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_NECROPOLIS</zType>
-    <Translation>Некрополь</Translation>
+    <Translation>Некрополь~Некрополя~Некрополь</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_ISHTAR_GATE</zType>
-    <Translation>Ворота Иштар</Translation>
+    <Translation>Ворота Иштар~Ворот Иштар~Ворота Иштар</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_LIGHTHOUSE</zType>
-    <Translation>Фаросский Маяк</Translation>
+    <Translation>Фаросский Маяк~Фаросского Маяка~Фаросский Маяк</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_APADANA</zType>
-    <Translation>Ападана</Translation>
+    <Translation>Ападана~Ападаны~Ападану</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_MAUSOLEUM</zType>
-    <Translation>Галикарнасский Мавзолей</Translation>
+    <Translation>Галикарнасский Мавзолей~Гарикарнасского Мавзолея~Гарикарнасский Мавзолей</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_ACROPOLIS</zType>
-    <Translation>Афинский Акрополь</Translation>
+    <Translation>Афинский Акрополь~Афинского Акрополя~Афинский Акрополь</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_COLOSSUS</zType>
-    <Translation>Колосс</Translation>
+    <Translation>Колосс~Колосса~Колосс</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_MUSAEUM</zType>
-    <Translation>Александрийская библиотека</Translation>
+    <Translation>Александрийская библиотека~Александрийской Библиотеки~Александрийскую библиотеку</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_CIRCUS_MAXIMUS</zType>
-    <Translation>Большой цирк</Translation>
+    <Translation>Большой цирк~Большого цирка~Большой цирк</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_PANTHEON</zType>
-    <Translation>Пантеон</Translation>
+    <Translation>Пантеон~Пантеона~Пантеон</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_HAGIA_SOPHIA</zType>
-    <Translation>Собор Святой Софии</Translation>
+    <Translation>Собор Святой Софии~Собора Святой Софии~Собор Святой Софии</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_VIA_RECTA_SOUK</zType>
-    <Translation>Улица Via Recta Souk</Translation>
+    <Translation>Улица Via Recta Souk~Улицу Via Recta Souk~Улице Via Recta Souk~Улицу Via Recta Souk~Улицей Via Recta Souk~Улице Via Recta Souk</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_LAURION_MINE</zType>
-    <Translation>Лаврионский рудник</Translation>
+    <Translation>Лаврионские рудники~Лаврионских рудников~Лаврионским рудникам~Лавриониские рудники~Лаврионскими рудниками~Лаврионских рудниках</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_FOREST_FIRE_TOMB</zType>
-    <Translation>Древняя гробница</Translation>
+    <Translation>Древняя гробница~Древней гробницы~Древней гробнице~Древнюю гробницу~Древней гробницей~Древней гробнице</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_FOREST_FIRE_MONUMENT</zType>
-    <Translation>Национальный монумент</Translation>
+    <Translation>Национальный монумент~Национального монумента~Национальному монументу~Национальный монумент~Национальным монументом~Национальном монументе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_IMPROVEMENT_GODS_CONSORT_SHRINE</zType>
-    <Translation>Святилище избранницы Бога</Translation>
+    <Translation>Святилище избранницы Бога~Святилища избранницы Бога~Святилищу избранницы Бога~Святилище избранницы Бога~Святилищем избранницы Бога~Святилище избранницы Бога</Translation>
   </Entry>
 </Root>

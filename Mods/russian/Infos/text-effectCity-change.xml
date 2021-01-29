@@ -254,27 +254,27 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_SERFDOM</zType>
-    <Translation>Крепостное право~Крепостном праве</Translation>
+    <Translation>Крепостное право~Крепостного права~Крепостному праву~Крепостное право~Крепостным правом~Крепостном праве~Крепостном праве</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_MONOTHEISM</zType>
-    <Translation>Монотеизм~Монотеизме</Translation>
+    <Translation>Монотеизм~Монотеизма~Монотеизму~Монотеизм~Монотеизмом~Монотеизме~Монотеизме</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_POLYTHEISM</zType>
-    <Translation>Политеизм~Политеизме</Translation>
+    <Translation>Политеизм~Политеизма~Политеизму~Политеизм~Политеизмом~Политеизме~Политеизме</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_LEGAL_CODE</zType>
-    <Translation>Юридический кодекс</Translation>
+    <Translation>Свод законов~Свода законов~Своду законов~Свод законов~Сводом законов~Своде законов</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_TOLERANCE</zType>
-    <Translation>Толерантность~Толерантности</Translation>
+    <Translation>Терпимость~Терпимости~Терпимости~Терпимость~Терпимостью~Терпимости</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_ORTHODOXY</zType>
-    <Translation>Православие~Православии</Translation>
+    <Translation>Догматизм~Догматизма~Догматизму~Догматизм~Догматизмом~Догматизме</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EFFECTCITY_LAW_PROFESSIONAL_ARMY</zType>
@@ -282,7 +282,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_VOLUNTEERS</zType>
-    <Translation>Добровольцы</Translation>
+    <Translation>Добровольная служба~Добровольной службы~Добровольной службе~Добровольную службу~Добровольной службой~Добровольной службе</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTCITY_LAW_PHILOSOPHY</zType>

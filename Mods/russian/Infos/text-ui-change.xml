@@ -27,7 +27,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_TRIBE_TURN</zType>
-    <Translation>Ход {0}</Translation>
+    <Translation>Ход {0,1}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_TRIBAL_TURN</zType>
@@ -39,7 +39,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_THEIR_TURN</zType>
-    <Translation>Ход {0}</Translation>
+    <Translation>Ход {0,1}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_HOTSEAT_PLAYER</zType>
@@ -71,11 +71,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_IDLE_LABEL_CHOOSE_PRODUCTION</zType>
-    <Translation><![CDATA[Выбрать производство<br>({0_city})]]></Translation>
+    <Translation><![CDATA[Выбрать производство<br><color=#e3c08c>({0_city})</color>]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_IDLE_LABEL_OPEN_CITY</zType>
-    <Translation><![CDATA[Открыть город<br>({0_city})]]></Translation>
+    <Translation><![CDATA[Открыть город<br><color=#e3c08c>({0_city})</color>]]></Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_UI_EVENT_LOG_TURN_SUMMARY</zType>
@@ -287,7 +287,7 @@
     </Entry>
   <Entry>
     <zType>TEXT_UI_CITY_TOOLTIP_GOVERNOR</zType>
-    <Translation>Губернатор</Translation>
+    <Translation>Губернатор~Губернатора~Губернатору~Губернатора~Губернатором~Губернаторе</Translation>
     </Entry>
   <Entry>
     <zType>TEXT_UI_CITY_TOOLTIP_HP</zType>
@@ -618,6 +618,10 @@
     <Translation>{0} (ПАУЗА)</Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_UI_TURN_LOCKED</zType>
+    <Translation>Ход заблокирован</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_UI_WINNER_ROSTER_VICTORY</zType>
     <Translation>ПОБЕДА!!!</Translation>
   </Entry>
@@ -666,7 +670,7 @@
     <Translation>Исследование...</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_UI_TECH_TREE_TOOLTIP_IN_TECH_DECK</zType>
+    <zType>TEXT_UI_TECH_TREE_TOOLTIP_IN_DRAW_PILE</zType>
     <Translation>В колоде технологий</Translation>
   </Entry>
   <Entry>
@@ -828,7 +832,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_UI_UNITLIST_MILITARY_INFANTRY_FILTER</zType>
-    <Translation><![CDATA[<true_0>Скрыть<false>Показать<end> Пехота]]></Translation>
+    <Translation><![CDATA[<true_0>Скрыть<false>Показать<end> пехотные отряды]]></Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_UI_RELIGION_NOT_FOUNDED</zType>
+    <Translation>Еще не основана</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UI_SELECTED_RELIGION_ADOPT_BUTTON</zType>
@@ -945,7 +953,15 @@
   <Entry>
     <zType>TEXT_GIFT_YIELD</zType>
     <Translation>Отправить товары</Translation>
-  </Entry>
+	</Entry>
+	<Entry>
+		<zType>TEXT_AGENT_MISSIONS</zType>
+		<English>Agent Missions</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_AGENT_MISSION_NAME</zType>
+		<English><![CDATA[{0_missionLink} <color=#e3c08c>({1_cityLink})</color>]]></English>
+	  </Entry>
   <!--single player menu-->
   <Entry>
     <zType>TEXT_SP_MENU_SCREEN_NEWGAME_BUTTON</zType>
@@ -1647,7 +1663,7 @@
     <Translation>Доступно</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_TOOL_TIPS_TECHDECK</zType>
+    <zType>TEXT_TOOL_TIPS_DRAWPILE</zType>
     <Translation>Набор технологий</Translation>
   </Entry>
   <Entry>

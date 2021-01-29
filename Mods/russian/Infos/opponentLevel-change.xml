@@ -5,7 +5,6 @@
 		<zType/>
 		<zName/>
 		<iWarModifier/>
-		<bPlayToWin/>
 	</Entry>
 	<Entry>
 		<zType>OPPONENTLEVEL_PASSIVE</zType>
@@ -30,6 +29,5 @@
 		<zType>OPPONENTLEVEL_COMPETITIVE</zType>
 		<zName>Конкурентный</zName>
 		<iWarModifier>50</iWarModifier>
-		<bPlayToWin>1</bPlayToWin>
 	</Entry>
 </Root>

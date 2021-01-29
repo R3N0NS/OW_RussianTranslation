@@ -56,16 +56,6 @@
 		<zModName>Carthage1</zModName>
 		<zAchievement>WON_CARTHAGE_1</zAchievement>
 		<Nation>NATION_CARTHAGE</Nation>
-		<abTribes>
-			<Pair>
-				<zIndex>TRIBE_SCYTHIANS</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRIBE_NUMIDIANS</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abTribes>
 		<abOptionValid>
 			<Pair>
 				<zIndex>GAMEOPTION_LOCKED_SAVE</zIndex>
@@ -86,28 +76,6 @@
 		<bContinue>1</bContinue>
 		<Prereq>SCENARIO_CARTHAGE_1</Prereq>
 		<Nation>NATION_CARTHAGE</Nation>
-		<abTribes>
-			<Pair>
-				<zIndex>TRIBE_DANES</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRIBE_VANDALS</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRIBE_THRACIANS</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRIBE_NUMIDIANS</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-			<Pair>
-				<zIndex>TRIBE_SCYTHIANS</zIndex>
-				<bValue>1</bValue>
-			</Pair>
-		</abTribes>
 		<abOptionValid>
 			<Pair>
 				<zIndex>GAMEOPTION_LOCKED_SAVE</zIndex>

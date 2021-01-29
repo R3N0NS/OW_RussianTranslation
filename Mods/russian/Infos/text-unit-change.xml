@@ -22,7 +22,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_UNIT_RELIGION_DISCIPLE</zType>
-    <Translation>{UNIT-RELIGION,1} апостол~{UNIT-RELIGION,2} апостол~{UNIT-RELIGION,1} апостолы</Translation>
+    <Translation>{UNIT-RELIGION,12} апостол~{UNIT-RELIGION,13} апостола~{UNIT-RELIGION,14} апостолу~{UNIT-RELIGION,15} апостола~{UNIT-RELIGION,16} апостолом~{UNIT-RELIGION,17} апостоле~{UNIT-RELIGION,18} апостолы~{UNIT-RELIGION,19} апостолов~{UNIT-RELIGION,20} апостолам~{UNIT-RELIGION,21} апостолов~{UNIT-RELIGION,22} апостолами~{UNIT-RELIGION,23} апостолах</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_UNIT_MILITIA</zType>

@@ -55,7 +55,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ASSASSINATION_OF_MONARCH_BATHS</zType>
-    <Translation>Приготовьте ванны. Затем запри двери и подожги все</Translation>
+    <Translation>Приготовьте купальни. Затем заприте двери и подожгите все</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PEACE_RESPONSE_OFFER_TRIBUTE_YES</zType>
@@ -2683,7 +2683,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_ALLIANCE_WELCOME</zType>
-    <Translation>Мы приветствуем альянс с {PLAYER-0}.</Translation>
+    <Translation>Мы приветствуем альянс с {TRIBE-0,4}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_ALLIANCE_NO</zType>
@@ -2779,15 +2779,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AN_UNLIKELY_MATCH_REFUSAL</zType>
-    <Translation>Наши люди не женятся на {TRIBE-0}.</Translation>
+    <Translation>Наши люди не женятся на {TRIBE-0,5}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AN_UNLIKELY_MATCH_DELAY</zType>
-    <Translation>Мы рассмотрим совпадение ... со временем.</Translation>
+    <Translation>Мы рассмотрим это... со временем.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AN_UNLIKELY_MATCH_SUBMISSION</zType>
-    <Translation>Мы не можем рисковать гневом {TRIBE-0}. Семья {FAMILY-1} примет совпадение.</Translation>
+    <Translation>Мы не можем рисковать. Семья {FAMILY-1} примет предложение.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AN_UNLIKELY_MATCH_DELAY_WEDDING_IS_ON</zType>
@@ -2951,11 +2951,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PAUSE_IN_HOSTILITIES_OPTION_1</zType>
-    <Translation>Нет, мы не хотим провоцировать {TRIBE-1}.</Translation>
+    <Translation>Нет, мы не хотим провоцировать {TRIBE-1,1}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ASSASSINATION_OF_MONARCH_ACCEPT_NOW</zType>
-    <Translation>Мы принимаем. Приготовьте пир для своих мужчин.</Translation>
+    <Translation>Мы принимаем их предложение. Приготовьте пир.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ASSASSINATION_OF_MONARCH_STALL</zType>
@@ -3043,7 +3043,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WALLS_YES</zType>
-    <Translation>Да, поделитесь своими знаниями о валах.</Translation>
+    <Translation>Да, поделитесь своими знаниями.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WALLS_NO</zType>
@@ -3051,11 +3051,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AN_UPGRADE_YES</zType>
-    <Translation>Мы будем продавать знания свежим призывникам.</Translation>
+    <Translation>Да, поделитесь знаниями с призывниками.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_AN_UPGRADE_NO</zType>
-    <Translation>Нет. Достаточно крыши над головой.</Translation>
+    <Translation>Нет. Достаточно крыши над головой что они имеют.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CITIZENSHIP_YES</zType>
@@ -3083,7 +3083,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_TINY_FAVOR_YES</zType>
-    <Translation>{PLAYER-0} можно доверить нашим секретам.</Translation>
+    <Translation>{PLAYER-0,1} можно доверить нашим секретам.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_A_TINY_FAVOR_NO</zType>
@@ -3091,11 +3091,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MARTIAL_CODE_COURTIER</zType>
-    <Translation>Мы просим одного из вас присоединиться к нашему суду.</Translation>
+    <Translation>Мы просим одного из вас присоединиться к нашему правительству.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MARTIAL_CODE_BODKIN_ARROW</zType>
-    <Translation>Наши лучники могли использовать улучшенные стрелы.</Translation>
+    <Translation>Наши лучники могли бы использовать улучшенные стрелы.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MARTIAL_CODE_NO</zType>
@@ -3111,11 +3111,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WINDMILLS_AND_WATERMILLS_VAULTING</zType>
-    <Translation>Секреты link(TECH_VAULTING).</Translation>
+    <Translation>link(TECH_VAULTING)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WINDMILLS_AND_WATERMILLS_WINDLASS</zType>
-    <Translation>Знание link(TECH_WINDLASS).</Translation>
+    <Translation>link(TECH_WINDLASS)</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WINDMILLS_AND_WATERMILLS_NO</zType>
@@ -3191,7 +3191,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_PEACE_HOSTAGE_YES</zType>
-    <Translation>Мы освободим заложника за мир.</Translation>
+    <Translation>Мы освободим заложника.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_PEACE_SOLID_FOUNDATION_OPTION_1</zType>
@@ -4042,10 +4042,6 @@
     <Translation>Напомните им, что они в долгу перед нами.</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_EVENTOPTION_PLAYER_WAR_DECLARE_HELPED_US</zType>
-    <Translation>Напомните им, когда мы им помогли.</Translation>
-  </Entry>
-  <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_WAR_DECLARE_HOLD_HOSTAGE</zType>
     <Translation>Верните благородного заложника, которого мы держим.</Translation>
   </Entry>
@@ -4063,11 +4059,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_DIPLO_MARRIAGE_1</zType>
-    <Translation>{CHARACTER-2} оштрафует {G2: мужа: жену}.</Translation>
+    <Translation>{CHARACTER-2} оштрафует {G2:мужа:жену}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_DIPLO_MARRIAGE_2</zType>
-    <Translation>{CHARACTER-3} оштрафует {G3: мужа: жену}.</Translation>
+    <Translation>{CHARACTER-3} оштрафует {G3:мужа:жену}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PLAYER_DIPLO_MARRIAGE_NO</zType>
@@ -4882,11 +4878,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_ALLIANCE_WELCOME_MIGHTY</zType>
-    <Translation>Мы приветствуем союз с {TRIBE-0}.</Translation>
+    <Translation>Мы приветствуем союз с {TRIBE-0,4}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_ALLIANCE_WELCOME_THEM</zType>
-    <Translation>Мы приветствуем союз с {TRIBE-1}.</Translation>
+    <Translation>Мы приветствуем союз с {TRIBE-1,4}.</Translation>
   </Entry>
 	<Entry beginGroup="Combat">
     <zType>TEXT_EVENTOPTION_LEADER_SMITING_FOES_STATUE</zType>
@@ -4894,7 +4890,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LEADER_SMITING_FOES_INSPIRATION</zType>
-    <Translation>Черпаю вдохновение в моих людях.</Translation>
+    <Translation>Я черпаю вдохновение в моих людях.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_BATTLEFIELD_BRILLIANCE_PEACE</zType>
@@ -4902,7 +4898,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_BATTLEFIELD_BRILLIANCE_AMUSE</zType>
-    <Translation>Меня забавляет трусость {TRIBE-1}.</Translation>
+    <Translation>Меня забавляет трусость {TRIBE-1,1}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ORDER_OF_BUSINESS_HEIR_FIRST</zType>
@@ -4934,11 +4930,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CAPTURED_PRISONERS_RANSOM</zType>
-    <Translation>Выкупите их обратно в семью.</Translation>
+    <Translation>Верните их обратно в семьи за выкуп.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CAPTURED_PRISONERS_EXECUTE</zType>
-    <Translation>Выполните их, чтобы отправить сообщение.</Translation>
+    <Translation>Убейте их, это будет наше сообщение.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CAPTURED_PRISONERS_RESETTLE</zType>
@@ -4954,7 +4950,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BATTLEFIELD_PROMOTION_PROMOTE</zType>
-    <Translation>Продвигайте {UNIT-1}.</Translation>
+    <Translation>Продвигайте {UNIT-1,1} по службе.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BATTLEFIELD_PROMOTION_TRIUMPH</zType>
@@ -4962,7 +4958,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_BATTLEFIELD_PROMOTION_DECLINE</zType>
-    <Translation>Мы не можем показать себе такую ​​расточительность.</Translation>
+    <Translation>Мы не можем позволить себе такую ​​расточительность.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HONOR_AND_GLORY_TRIUMPH</zType>
@@ -6017,6 +6013,10 @@
     <Translation>Я буду присутствовать один.</Translation>
   </Entry>
   <Entry beginGroup="Character">
+		<zType>TEXT_EVENTOPTION_NEW_COURTIER</zType>
+		<English>Welcome, {CHARACTER-0}.</English>
+	</Entry>
+	<Entry>
     <zType>TEXT_EVENTOPTION_DELICIOUS_DRINKS_BOTTOMS_UP</zType>
     <Translation>Поддержать тост.</Translation>
   </Entry>
@@ -8766,7 +8766,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ALLIANCE_UPKEEP_LEGITIMACY</zType>
-    <Translation>Мы смиряемся перед могучим {PLAYER-0}.</Translation>
+    <Translation>Мы смиряемся перед могучим {PLAYER-0,4}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ALLIANCE_UPKEEP_NO</zType>
@@ -12559,6 +12559,18 @@
   <Entry>
 	<zType>TEXT_EVENTOPTION_BREAKING_THEIR_FEAR_OPTION_2</zType>
 	<Translation>Мы устраним наши разногласия.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CURED_OF_THEIR_DEMONS_OPTION_1</zType>
+		<English>Begon you wreches! I will not accept any more so called help!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CURED_OF_THEIR_DEMONS_OPTION_1_HELP</zType>
+		<English>Those let free are never quite the same as before. </English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_CURED_OF_THEIR_DEMONS_OPTION_2</zType>
+		<English>Perhaps we might reach another agreement?</English>
     </Entry>
 	<Entry beginGroup="City">
     <zType>TEXT_EVENTOPTION_HAPPINESS_IMMIGRANTS_YES</zType>
@@ -14144,9 +14156,65 @@
     <zType>TEXT_EVENTOPTION_LAW_UNPAID_DEBTS_OPTION_2</zType>
     <Translation>Откажитесь оказывать {PLAYER-2,3} поддержку.</Translation>
   </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_AGE_OF_HEROES_OPTION_0</zType>
+    <Translation>Да, вечность звенит нашей историей.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_AGE_OF_HEROES_OPTION_1</zType>
+    <Translation>Меня не будут помнить как причину стольких смертей. </Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_ERA_OF_EXPLORATION_OPTION_0</zType>
+    <Translation>Давайте двигаться вперед, ибо лучшее еще впереди!</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_ERA_OF_EXPLORATION_OPTION_1</zType>
+    <Translation>Это оскорбило бы богов и навлекло бы гибель.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_REIGN_BY_WHIPS_AND_CHAINS_OPTION_0</zType>
+    <Translation>Сурово обойдитесь с двумя нашими самыми беспокойными городами.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_REIGN_BY_WHIPS_AND_CHAINS_OPTION_0_HELP</zType>
+    <Translation>Удвойте, нет, увеличьте в четыре раза охрану и назначьте губернаторами двух моих самых злых придворных.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_REIGN_BY_WHIPS_AND_CHAINS_OPTION_1</zType>
+    <Translation>Мы должны покончить с этим ужасом.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_REIGN_OF_CARNALITY_OPTION_0</zType>
+    <Translation>Мы оставим наследие, от которого даже боги покраснели бы.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_REIGN_OF_CARNALITY_OPTION_0_HELP</zType>
+    <Translation>В конце концов, в любви и на войне все справедливо.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_REIGN_OF_CARNALITY_OPTION_1</zType>
+    <Translation>Нет, это слишком дорого и ведет только к раздору.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_RULE_OF_LAW_OPTION_0</zType>
+    <Translation>Да, они будут примером для всех будущих губернаторов.</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_RULE_OF_LAW_OPTION_1</zType>
+    <Translation>Нет, они нужны при дворе для других дел</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_REIGN_OF_TERROR_OPTION_0</zType>
+    <Translation>Пусть будет так. Все будут бояться меня!</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_EVENTOPTION_REIGN_OF_TERROR_OPTION_1</zType>
+    <Translation>Нет. Морально я не могу принять это.</Translation>
+  </Entry>
 	<Entry beginGroup="Miscellaneous">
     <zType>TEXT_EVENTOPTION_ADOPT_RELIGION_YES</zType>
-    <Translation>Принять {RELIGION-0}.</Translation>
+    <Translation>Принять {RELIGION-0,3}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ADOPT_RELIGION_NO</zType>
@@ -14154,15 +14222,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_START_SLAVERY_YES</zType>
-    <Translation>Принять  link(LAW_SLAVERY).</Translation>
+    <Translation>Принять link(LAW_SLAVERY).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_START_SLAVERY_NO</zType>
-    <Translation>В {PLAYER-0} не будет рабов.</Translation>
+    <Translation>В {PLAYER-0,1} не будет рабов.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CEREMONIAL_OFFERING_PROVIDE</zType>
-    <Translation>Предоставлять все, что они просят.</Translation>
+    <Translation>Предоставлять все, что они попросят.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CEREMONIAL_OFFERING_NO</zType>
@@ -14210,7 +14278,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WONDER_FINISHED</zType>
-    <Translation>С этим чудом мое наследие сохранится.</Translation>
+    <Translation>Отныне о моем правлении будут слагать легенды.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_HARSH_RULE_ARREST</zType>
@@ -14266,7 +14334,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PYRAMIDS_DEATH</zType>
-    <Translation>Смерть - это не конец, а начало ...</Translation>
+    <Translation>Смерть — это не конец, а только начало...</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ISHTAR_GATE_ME</zType>
@@ -14310,7 +14378,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ANCIENT_STATUE_STOLEN_LOCATE</zType>
-    <Translation>Отправьте судебных шпионов в {CITY-1} для расследования.</Translation>
+    <Translation>Отправьте шпионов в {CITY-1} для расследования.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_ANCIENT_STATUE_STOLEN_FORGET</zType>
@@ -14370,11 +14438,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_RUNAWAY_SLAVE_BEAT</zType>
-    <Translation>Избить его и вернуть в {ГОРОД-1}.</Translation>
+    <Translation>Избить его и вернуть в {CITY-1}.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PRIESTLY_DWELLING_LAND</zType>
-    <Translation>Да, {CITY-0} может сэкономить землю.</Translation>
+    <Translation>Да, городу {CITY-0} можно выделить земли.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PRIESTLY_DWELLING_RESIDENCE</zType>
@@ -14526,67 +14594,67 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TRAINING_NEWS_ONAGER_OPTION_2</zType>
-    <Translation>Тренируйте их для боя в открытом поле.</Translation>
+    <Translation>Тренируйте их к бою в открытом поле.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MERCENARY_AXEMAN</zType>
-    <Translation>Платите им за их услуги.</Translation>
+    <Translation>Заплатите им за их услуги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MERCENARY_SPEARMAN</zType>
-    <Translation>Платите им за их услуги.</Translation>
+    <Translation>Заплатите им за их услуги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MERCENARY_MACEMAN</zType>
-    <Translation>Платите им за их услуги.</Translation>
+    <Translation>Заплатите им за их услуги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MERCENARY_SWORDSMAN</zType>
-    <Translation>Платите им за их услуги.</Translation>
+    <Translation>Заплатите им за их услуги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MERCENARY_PIKEMAN</zType>
-    <Translation>Платите им за их услуги.</Translation>
+    <Translation>Заплатите им за их услуги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MERCENARY_ARCHER</zType>
-    <Translation>Платите им за их услуги.</Translation>
+    <Translation>Заплатите им за их услуги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MERCENARY_LONGBOWMAN</zType>
-    <Translation>Платите им за их услуги.</Translation>
+    <Translation>Заплатите им за их услуги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MERCENARY_CROSSBOWMAN</zType>
-    <Translation>Платите им за их услуги.</Translation>
+    <Translation>Заплатите им за их услуги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MERCENARY_POLYBOLOS</zType>
-    <Translation>Платите им за их услуги.</Translation>
+    <Translation>Заплатите им за их услуги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MERCENARY_CHARIOT</zType>
-    <Translation>Платите им за их услуги.</Translation>
+    <Translation>Заплатите им за их услуги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MERCENARY_HORSEMAN</zType>
-    <Translation>Платите им за их услуги.</Translation>
+    <Translation>Заплатите им за их услуги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MERCENARY_HORSE_ARCHER</zType>
-    <Translation>Платите им за их услуги.</Translation>
+    <Translation>Заплатите им за их услуги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MERCENARY_CAMEL_ARCHER</zType>
-    <Translation>Платите им за их услуги.</Translation>
+    <Translation>Заплатите им за их услуги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MERCENARY_WAR_ELEPHANT</zType>
-    <Translation>Платите им за их услуги.</Translation>
+    <Translation>Заплатите им за их услуги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_MERCENARY_CATAPHRACT</zType>
-    <Translation>Платите им за их услуги.</Translation>
+    <Translation>Заплатите им за их услуги.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_PILLAGING_TRIBE_REVENGE</zType>
@@ -14606,7 +14674,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FRONTIER_WALL_FORTS</zType>
-    <Translation>Создайте link(IMPROVEMENT_FORT, 2), чтобы привлечь их к борьбе.</Translation>
+    <Translation>Постройте link(IMPROVEMENT_FORT,3), чтобы привлечь их к борьбе.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_FRONTIER_WALL_NO</zType>
@@ -14630,11 +14698,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXOTIC_PETS_FISH_FAN_OK</zType>
-    <Translation>Это успокаивает мои мысли.</Translation>
+    <Translation>Она успокаивает мои мысли.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXOTIC_PETS_FISH_FAN_TASTE</zType>
-    <Translation>Интересно, какой у него вкус.</Translation>
+    <Translation>Интересно, какой у нее вкус.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXOTIC_PETS_FISH_THOUGHTS_FISH</zType>
@@ -14646,7 +14714,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXOTIC_PETS_FISH_THOUGHTS_DISH_HELP</zType>
-    <Translation>Интересно ...</Translation>
+    <Translation>Интересно...</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_EXOTIC_PETS_FISH_HORROR_OK</zType>
@@ -17794,7 +17862,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_EVENTOPTION_TUTORIAL_PAGAN_SHRINE_OK</zType>
-	<Translation>Я построю больше link(CONCEPT_SHRINE,1),  если захочу распространять язычество!</Translation>
+	<Translation>Я построю больше link(CONCEPT_SHRINE,8),  если захочу распространять язычество!</Translation>
 	  </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_SPECIALIST_OPTION_0</zType>
@@ -17807,6 +17875,10 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_WORKER_SELECTED_OPTION_0</zType>
     <Translation>Давайте приступим к работе!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_CARAVAN_SELECTED_OPTION_0</zType>
+		<English>I'll send my link(UNIT_CARAVAN) on a link(CONCEPT_CARAVAN_MISSION)!</English>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_SLINGER_SELECTED_OKAY</zType>
@@ -18019,6 +18091,18 @@
   <Entry>
 	<zType>TEXT_EVENTOPTION_TUTORIAL_FAMILY_ANGRY_OKAY</zType>
 	<Translation>Я постараюсь сделать мою link(CONCEPT_FAMILY, 1) счастливой, чтобы они не взбунтовались!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_USE_AMBASSADOR_OKAY</zType>
+		<English>I will use my link(COUNCIL_AMBASSADOR) for diplomatic missions!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_USE_CHANCELLOR_OKAY</zType>
+		<English>I will send my link(COUNCIL_CHANCELLOR) on important missions!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTOPTION_TUTORIAL_USE_SPYMASTER_OKAY</zType>
+		<English>I will use my link(COUNCIL_SPYMASTER) for secret missions!</English>
   </Entry>
   <Entry>
 	<zType>TEXT_EVENTOPTION_TUTORIAL_APPOINT_AMBASSADOR_OKAY</zType>
@@ -18462,103 +18546,103 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_EIGHT_LAWS</zType>
-    <Translation>[STUB: ВОСЕМЬ ЗАКОНОВ]</Translation>
+    <Translation>[ВОСЕМЬ ЗАКОНОВ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_100_POPULATION</zType>
-    <Translation>[STUB: 100 НАСЕЛЕНИЕ]</Translation>
+    <Translation>[100 НАСЕЛЕНИЕ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_50_GOODS_TURN</zType>
-    <Translation>[STUB: 50 ТОВАРОВ / ХОД]</Translation>
+    <Translation>[50 ТОВАРОВ / ХОД]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_SIX_FAMILY_LUXURIES</zType>
-    <Translation>[STUB: 6 СЕМЕЙНЫХ РОСКОШЕЙ]</Translation>
+    <Translation>[6 СЕМЕЙНЫХ РОСКОШЕЙ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_FOUR_BATHS_3</zType>
-    <Translation>[STUB: 4 ТЕПЛОВЫЕ ВАННЫ]</Translation>
+    <Translation>[4 ТЕПЛОВЫЕ ВАННЫ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_FOUR_THEATER_3</zType>
-    <Translation>[STUB: 4 КОЛИЗЕЯ]</Translation>
+    <Translation>[4 КОЛИЗЕЯ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_FOUR_MARKET_3</zType>
-    <Translation>[STUB: 4 ЯРМАРКИ]</Translation>
+    <Translation>[4 ЯРМАРКИ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_FOUR_LIBRARY_3</zType>
-    <Translation>[STUB: 4 УНИВЕРСИТЕТА]</Translation>
+    <Translation>[4 УНИВЕРСИТЕТА]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_FOUR_COURTHOUSE_3</zType>
-    <Translation>[STUB: 4 ДВОРЦА]</Translation>
+    <Translation>[4 ДВОРЦА]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_FOUR_GARRISON_3</zType>
-    <Translation>[STUB: 4 ЦИТАДЕЛИ]</Translation>
+    <Translation>[4 ЦИТАДЕЛИ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_THREE_CATHEDRAL</zType>
-    <Translation>[STUB: 3 СОБОРА]</Translation>
+    <Translation>[3 СОБОРА]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_THREE_LEGENDARY</zType>
-    <Translation>[STUB: 3 УЛУЧШЕНИЯ МАКСИМАЛЬНОГО УРОВНЯ]</Translation>
+    <Translation>[3 УЛУЧШЕНИЯ МАКСИМАЛЬНОГО УРОВНЯ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_TWO_WONDERS</zType>
-    <Translation>[STUB: 2 ЧУДА]</Translation>
+    <Translation>[2 ЧУДА]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_FOUR_WONDERS</zType>
-    <Translation>[STUB: 4 ЧУДА]</Translation>
+    <Translation>[4 ЧУДА]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_5_ELDER_SPECIALISTS</zType>
-    <Translation>[STUB: 5 СТАРШИХ СПЕЦИАЛИСТОВ]</Translation>
+    <Translation>[5 СТАРШИХ СПЕЦИАЛИСТОВ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_LEGENDARY_PROJECTS</zType>
-    <Translation>[STUB: ЛЕГЕНДАРНЫЕ ПРОЕКТЫ]</Translation>
+    <Translation>[ЛЕГЕНДАРНЫЕ ПРОЕКТЫ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_ONE_CAPITAL</zType>
-    <Translation>[STUB: ЗАХВАТИТЬ 1 СТОЛИЦУ]</Translation>
+    <Translation>[ЗАХВАТИТЬ 1 СТОЛИЦУ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_SIX_CAPTURE_CITIES</zType>
-    <Translation>[STUB: ЗАХВАТИТЬ 8 ГОРОДОВ]</Translation>
+    <Translation>[ЗАХВАТИТЬ 8 ГОРОДОВ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_EIGHT_RELIGION_SPREAD</zType>
-    <Translation>[STUB: РАСПРОСТРАНЕНИЕ 8 РЕЛИГИЙ]</Translation>
+    <Translation>[РАСПРОСТРАНЕНИЕ 8 РЕЛИГИЙ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_10_KILLS_GENERAL</zType>
-    <Translation>[STUB: УБИТЬ 10 ​​ЮНИТОВ С ГЕНЕРАЛОМ]</Translation>
+    <Translation>[УБИТЬ 10 ​​ЮНИТОВ С ГЕНЕРАЛОМ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_TWO_MAX_LEVEL_UNIT</zType>
-    <Translation>[STUB: 2 ЕДИНИЦЫ МАКСИМАЛЬНОГО УРОВНЯ]</Translation>
+    <Translation>[2 ЕДИНИЦЫ МАКСИМАЛЬНОГО УРОВНЯ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_EIGHT_GENERALS</zType>
-    <Translation>[STUB: 8 ГЕНЕРАЛОВ]</Translation>
+    <Translation>[8 ГЕНЕРАЛОВ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_SIX_GOVERNORS</zType>
-    <Translation>[STUB: 6 ГУБЕРНАТОРОВ]</Translation>
+    <Translation>[6 ГУБЕРНАТОРОВ]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NEW_AMBITION_REVEAL_80</zType>
-    <Translation>[STUB: ОТКРЫТЬ 80% КЛЕТОК]</Translation>
+    <Translation>[ОТКРЫТЬ 80% КЛЕТОК]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_NO_AMBITION</zType>
-    <Translation>[STUB: НЕ СЕЙЧАС]</Translation>
+    <Translation>[НЕ СЕЙЧАС]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_SILVER_JUBILEE_OPTION_0</zType>

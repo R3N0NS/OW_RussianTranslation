@@ -56,7 +56,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_EPICS</zType>
-    <Translation>Героизм~Героизме</Translation>
+    <Translation>Героизм~Героизма~Героизму~Героизм~Героизмом~Героизме~Героизме</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_EXPLORATION</zType>
@@ -72,55 +72,55 @@
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_TYRANNY</zType>
-    <Translation>Тирания~Тирании</Translation>
+    <Translation>Тирания~Тирании~Тирании~Тиранию~Тиранией~Тирании</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_CONSTITUTION</zType>
-    <Translation>Конституция~Конституцию</Translation>
+    <Translation>Конституция~Конституции~Конституции~Конституцию~Конституцией~Конституции~Конституции</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_CENTRALIZATION</zType>
-    <Translation>Централизация~Централизации</Translation>
+    <Translation>Централизация~Централизации~Централизации~Централизацию~Централизацией~Централизации~Централизации</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_VASSALAGE</zType>
-    <Translation>Вассалитет~Вассалитете</Translation>
+    <Translation>Вассалитет~Вассалитета~Вассалитету~Вассалитет~Вассалитетом~Вассалитете~Вассалитете</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_CONSTITUTION_DECREE</zType>
-    <Translation>Указ в столице</Translation>
+    <Translation>Указ в столице~Указа в столице~Указу в столице~Указ в столице~Указом в столице~Указе в столице</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_COLONIZATION</zType>
-    <Translation>Колонизация~Колонизацию</Translation>
+    <Translation>Колонизация~Колонизации~Колонизации~Колонизацию~Колонизацией~Колонизации</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_SERFDOM</zType>
-    <Translation>Крепостное право~Крепостном праве</Translation>
+    <Translation>Крепостное право~Крепостного права~Крепостному праву~Крепостное право~Крепостным правом~Крепостном праве~Крепостном праве</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_MONOTHEISM</zType>
-    <Translation>Монотеизм~Монотеизме</Translation>
+    <Translation>Монотеизм~Монотеизма~Монотеизму~Монотеизм~Монотеизмом~Монотеизме~Монотеизме</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_POLYTHEISM</zType>
-    <Translation>Политеизм~Политеизме</Translation>
+    <Translation>Политеизм~Политеизма~Политеизму~Политеизм~Политеизмом~Политеизме~Политеизме</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_DIVINE_RULE</zType>
-    <Translation>Божественное происхождение власти~Божественном происхождении власти</Translation>
+    <Translation>Божественное правление~Божественного правления~Божественному правлению~Божественное правление~Божественным правлением~Божественном правлении</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_LEGAL_CODE</zType>
-    <Translation>Юридический кодекс</Translation>
+    <Translation>Свод законов~Свода законов~Своду законов~Свод законов~Сводом законов~Своде законов</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_TOLERANCE</zType>
-    <Translation>Толерантность~Толерантности</Translation>
+    <Translation>Терпимость~Терпимости~Терпимости~Терпимость~Терпимостью~Терпимости</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_ORTHODOXY</zType>
-    <Translation>Православие~Православии</Translation>
+    <Translation>Догматизм~Догматизма~Догматизму~Догматизм~Догматизмом~Догматизме</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EFFECTPLAYER_LAW_PROFESSIONAL_ARMY</zType>

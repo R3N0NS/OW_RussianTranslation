@@ -21,526 +21,413 @@
 	<Entry>
 		<zType>MAP_ELEMENT_NAMES_GENERIC</zType>
 		<azVolcanoNames>
-			<zValue>Килиманджаро</zValue>
+			<!--North Africa-->
+			<zValue>Вау-эн-Намус</zValue>
+			<!--Central Asia-->
 			<zValue>Эльбрус</zValue>
 			<zValue>Казбек</zValue>
-			<zValue>Пико</zValue>
-			<zValue>Меру</zValue>
-			<zValue>Карисимби</zValue>
-			<zValue>Мухабура</zValue>
 			<zValue>Арагац</zValue>
-			<zValue>Набро</zValue>
-			<zValue>Кения</zValue>
-			<zValue>Гилуве</zValue>
 			<zValue>Кабаргин</zValue>
 			<zValue>Дар-Алагес</zValue>
-			<zValue>Гегам Ридж</zValue>
-			<zValue>Туссайд</zValue>
-			<zValue>Вакак</zValue>
-			<zValue>Тарсо Вун</zValue>
+			<zValue>Гегамские горы</zValue>
 			<zValue>Порак</zValue>
-			<zValue>Лонгонот</zValue>
-			<zValue>Сусва</zValue>
 		</azVolcanoNames>
 		<azMountainRangeNames>
-			<zValue>Кавказские горы</zValue>
+			<!--Spain-->
 			<zValue>Пиренеи</zValue>
+			<!--Balkans-->
 			<zValue>Балканские горы</zValue>
-			<zValue>Горы Куньлунь</zValue>
 			<zValue>Карпаты</zValue>
-			<zValue>Уральские горы</zValue>
-			<zValue>Гиндукуш</zValue>
-			<zValue>Барасан</zValue>
+			<zValue>Динарское нагорье</zValue>
+			<!--Central Asia-->
+			<zValue>Кавказские горы</zValue>
+			<zValue>Паропамисады</zValue>
+			<zValue>Лазистанский хребет</zValue>
+			<!--Anatolia-->
 			<zValue>Понтийские горы</zValue>
-			<zValue>Диапазон Виндхья</zValue>
-			<zValue>Араканские горы</zValue>
-			<zValue>Каракорам</zValue>
+			<!--Levant-->
+			<zValue>Ливанский хребет</zValue>
+			<zValue>Кармель</zValue>
 		</azMountainRangeNames>
 		<azPeakNames>
+			<!--Balkans-->
 			<zValue>Кораб</zValue>
+			<zValue>Молдовяну</zValue>
+			<!--Central Asia-->
 			<zValue>Базардюзю</zValue>
-			<zValue>Монте-Роза</zValue>
-			<zValue>Пик Молдовену</zValue>
-			<zValue>Джебель Тубкаль</zValue>
-			<zValue>Пунта-ла-Мармора</zValue>
-			<zValue>Джабал Сауда</zValue>
-			<zValue>Динара</zValue>
-			<zValue>Тахат</zValue>
-			<zValue>Гроссглокнер</zValue>
-			<zValue>Бикку Битти</zValue>
-			<zValue>Малхацен</zValue>
-			<zValue>Рыси</zValue>
-			<zValue>Хермон</zValue>
 			<zValue>Шхара</zValue>
-			<zValue>Кекес</zValue>
-			<zValue>Джабаль Умм ад Дами</zValue>
+			<!--North Africa-->
+			<zValue>Тубкаль</zValue>
+			<zValue>Тахат</zValue>
+			<zValue>Бикку-Битти</zValue>
+			<!--Europe-->
+			<zValue>Гросглокнер</zValue>
+			<zValue>Муласен</zValue>
+			<zValue>Рысы</zValue>
+			<zValue>Кекеш</zValue>
 			<zValue>Триглав</zValue>
+			<!--Levant-->
+			<zValue>Хермон</zValue>
+			<zValue>Джабал Умм ад Дами</zValue>
 			<zValue>Саннин</zValue>
-			<zValue>Джабаль ан Наби Шуайб</zValue>
+			<!--Anatolia-->
+			<zValue>Диндимон</zValue>
 		</azPeakNames>
 		<azRiverNames>
-			<zValue>Дунай</zValue>
-			<zValue>Кура</zValue>
-			<zValue>Тежу</zValue>
-			<zValue>Иордан</zValue>
-			<zValue>Днепр</zValue>
-			<zValue>Висла</zValue>
-			<zValue>Сакарья</zValue>
-			<zValue>Амударья</zValue>
-			<zValue>Рона</zValue>
-			<zValue>Уэд Себу</zValue>
-			<zValue>Арас</zValue>
-			<zValue>Одер</zValue>
+			<!--Iberia-->
+			<zValue>Тахо</zValue>
+			<zValue>Ана</zValue>
+			<zValue>Гвадалквивир</zValue>
+			<zValue>Дуэро</zValue>
+			<zValue>Хамбер</zValue>
 			<zValue>Мондего</zValue>
-			<zValue>Кизилирмак</zValue>
-			<zValue>Мур</zValue>
-			<zValue>Уэд-Тенсифт</zValue>
-			<zValue>РТиса</zValue>
-			<zValue>Шеннон</zValue>
-			<zValue>Гедиз</zValue>
-			<zValue>Уэд Драа</zValue>
+			<!--Balcans-->
+			<zValue>Дрин</zValue>
+			<zValue>Дунай</zValue>
+			<zValue>Марош </zValue>
+			<zValue>Тиса</zValue>
+			<zValue>Драу</zValue>
+			<!--Anatolia-->
+			<zValue>Сакарья</zValue>
+			<zValue>Симав</zValue>
+			<zValue>Дальян</zValue>
+			<zValue>Кызылырмак</zValue>
+			<zValue>Цекус</zValue>
+			<!--France-->
+			<zValue>Родан</zValue>
+			<zValue>Дюранс</zValue>
+			<zValue>Луара</zValue>
+			<zValue>Секвана</zValue>
+			<zValue>Волга</zValue>
+			<zValue>Марна</zValue>
+			<!--Northern Europe-->
+			<zValue>Рено</zValue>
+			<zValue>Мозель</zValue>
+			<zValue>Маас</zValue>
+			<zValue>Эльба</zValue>
+			<zValue>Везер</zValue>
+			<zValue>Эмс</zValue>
+			<zValue>Темза</zValue>
+			<zValue>Шаннон</zValue>
+			<!--Eastern Europe-->
+			<zValue>Борисфен</zValue>
+			<zValue>Висла</zValue>
+			<zValue>Одра</zValue>
+			<zValue>Кубань</zValue>
+			<zValue>Тира</zValue>
+			<zValue>Прут</zValue>
+			<zValue>Одра</zValue>
+			<zValue>Маура</zValue>
+			<!--Levant-->
+			<zValue>Иордан</zValue>
+			<zValue>Эль-Аси</zValue>
+			<!--Central Asia-->
+			<zValue>Kypa</zValue>
+			<zValue>Даикс</zValue>
+			<zValue>Танаис</zValue>
+			<zValue>Рав</zValue>
+			<zValue>Амударье</zValue>
+			<zValue>Яксарта</zValue>
+			<zValue>Инд</zValue>
+			<zValue>Гидаспа</zValue>
+			<zValue>Биас</zValue>
+			<zValue>Атрек</zValue>
+			<!--North Africa-->
+			<zValue>Сейбуз</zValue>
+			<zValue>Драа</zValue>
 		</azRiverNames>
 		<azForestNames>
+			<zValue>Кавказский смешанный лес</zValue>
+			<zValue>Герцинский лес</zValue>
+			<zValue>Басситский сосновый лес</zValue>
 			<zValue>Беловежская пуща</zValue>
-			<zValue>Первобытный лес Бубена</zValue>
-			<zValue>Буковый лес Лагодехи</zValue>
+			<zValue>Бубинский лес</zValue>
+			<zValue>Лагодехский лес</zValue>
 			<zValue>Белградский лес</zValue>
-			<zValue>Джоглланд</zValue>
-			<zValue>Вулканический лес Ла Гарроча</zValue>
+			<zValue>Иаковский лес</zValue>
 			<zValue>Пихтовый лес Ирати</zValue>
 			<zValue>Анатолийский хвойный лес</zValue>
 			<zValue>Ретезатский лес</zValue>
 			<zValue>Карпатский буковый лес</zValue>
-			<zValue>Лес Ордеса</zValue>
-			<zValue>Саувальдский лес</zValue>
+			<zValue>Ордесский лес</zValue>
+			<zValue>Заувальдский лес</zValue>
+			<zValue>Финикийский кедровый лес</zValue>
+			<zValue>Финикийский пихтовый лес</zValue>
 		</azForestNames>
 		<azHeathNames>
-			<zValue>Триллемарка Тайга</zValue>
-			<zValue>Вечнозеленый лес Пиха-Хакки</zValue>
-			<zValue>Алькаррия Хит</zValue>
-			<zValue>Березовый лес Овре Дивидал</zValue>
+			<zValue>Триллемарковская тайга</zValue>
+			<zValue>Алькаррийская степь</zValue>
 			<zValue>Акарларский пойменный лес</zValue>
-			<zValue>Кедровый лес Гуро</zValue>
-			<zValue>Можжевельник Киренаика</zValue>
-			<zValue>Венский лес</zValue>
-			<zValue>Сосновый бор Монтерей</zValue>
-			<zValue>Лесные массивы Каталонии</zValue>
+			<zValue>Гуровский кедровый лес</zValue>
+			<zValue>Киренаика можжевеловые рощи</zValue>
+			<zValue>Виндобонская чаща</zValue>
+			<zValue>Монтерейский сосновый бор</zValue>
+			<zValue>Каталонские лесные массивы</zValue>
+			<zValue>Дельта дель Эбро</zValue>
+			<zValue>Дубовые лесные массивы</zValue>
+			<zValue>Ксерический пиньон–вереск</zValue>
+			<zValue>Маквисские Кустарники</zValue>
 		</azHeathNames>
 		<azPlainNames>
-			<zValue>Бугульминско-Белебейская Возвышенность</zValue>
-			<zValue>Восточно-Европейская Равнина</zValue>
-			<zValue>Великая Европейская Равнина</zValue>
-			<zValue>Казахского Мелкосопочника</zValue>
-			<zValue>Мазовецкое Плато</zValue>
-			<zValue>Овсенская Равнина</zValue>
-			<zValue>Панкрацская Равнина</zValue>
-			<zValue>Среднедунайская Равнину</zValue>
-			<zValue>Дунайская Равнина</zValue>
-			<zValue>Кампиданская Равнина</zValue>
-			<zValue>Месаорийская Равнина</zValue>
-			<zValue>Крауская Равнина</zValue>
+			<zValue>Бугульминско-Белебеевская возвышенность</zValue>
+			<zValue>Восточно-Европейская равнина</zValue>
+			<zValue>Казахский мелкосопочник</zValue>
+			<zValue>Мазовецко-Подлясская низменность</zValue>
+			<zValue>Среднедунайская низменность</zValue>
+			<zValue>Дунайская равнина</zValue>
+			<zValue>Кампиданская равнина</zValue>
+			<zValue>Месаорийская равнина</zValue>
+			<zValue>Кроская равнина</zValue>
 		</azPlainNames>
 		<azDesertNames>
-			<zValue>Пустыня Сахара</zValue>
-			<zValue>Аравийская пустыня</zValue>
-			<zValue>Пустыня Намиб</zValue>
-			<zValue>Пустыня Калахари</zValue>
-			<zValue>Пустыня Такламакан</zValue>
-			<zValue>Пустыня Кызылкум</zValue>
-			<zValue>Пустыня Гоби</zValue>
-			<zValue>Пустыня Тар</zValue>
-			<zValue>Большая пустыня Виктория</zValue>
-			<zValue>Великая песчаная пустыня</zValue>
+			<zValue>Альмерийская пустыня</zValue>
+			<zValue>Делиблатские пески</zValue>
+			<zValue>Сахара</zValue>
+			<zValue>Кызылкум</zValue>
+			<zValue>Тар</zValue>
+			<zValue>Каракумы</zValue>
 		</azDesertNames>
 		<azPlateauNames>
 			<zValue>Барним</zValue>
-			<zValue>Скайл Кросс</zValue>
-			<zValue>Дюмре</zValue>
+			<zValue>Скала Круа</zValue>
+			<zValue>Думре</zValue>
 			<zValue>Эленидд</zValue>
-			<zValue>Энгштлигенальп</zValue>
-			<zValue>Кривосе</zValue>
-			<zValue>Плато проигравшего</zValue>
-			<zValue>Лудогорье</zValue>
+			<zValue>Энгстлигенальп</zValue>
+			<zValue>Кривошия</zValue>
+			<zValue>Луз-аугстек</zValue>
+			<zValue>Лудогорие</zValue>
 			<zValue>Месета</zValue>
-			<zValue>Каестерт</zValue>
-			<zValue>Ровня под Снежкой</zValue>
-			<zValue>Ридж Вардия</zValue>
-			<zValue>Уиндмилл-Хилл-Флэтс</zValue>
-			<zValue>Катаро</zValue>
+			<zValue>Хеспенгау</zValue>
+			<zValue>Снежка</zValue>
+			<zValue>Вардижа</zValue>
 			<zValue>Кампо Императоре</zValue>
-			<zValue>Кампо Феличе</zValue>
-			<zValue>д'Асси</zValue>
-			<zValue>ПКаньюерс</zValue>
+			<zValue>Кампофеличе-ди-Фиталия</zValue>
+			<zValue>д'Аси</zValue>
+			<zValue>Конжюэр</zValue>
 			<zValue>Айнтаб</zValue>
 			<zValue>Алеппо</zValue>
 		</azPlateauNames>
 		<azValleyNames>
-			<zValue>Долина Атал</zValue>
-			<zValue>Альпийская долина Рейна</zValue>
-			<zValue>Долина Белопавличи</zValue>
-			<zValue>Долина Чаньик</zValue>
-			<zValue>Долина Дибера</zValue>
-			<zValue>Долина Дишма</zValue>
-			<zValue>Долина Гауя</zValue>
-			<zValue>Иннтальская долина</zValue>
-			<zValue>Долина Кайзербах</zValue>
-			<zValue>Долина Лейтен</zValue>
-			<zValue>Мадриу-Перафита-Долина Кларор</zValue>
-			<zValue>Долина Шамс</zValue>
-			<zValue>Софийская долина</zValue>
-			<zValue>Долина Таканьо</zValue>
-			<zValue>Долина Тюрингенских ворот</zValue>
-			<zValue>Долина Торне</zValue>
-			<zValue>Долина Валь Виньюм</zValue>
-			<zValue>Долина Айш</zValue>
+			<zValue>Валле-д’Аоста</zValue>
+			<zValue>Долина Альпийского Рейна</zValue>
+			<zValue>Белопавличи</zValue>
+			<zValue>Каник</zValue>
+			<zValue>Дибера</zValue>
+			<zValue>Дишма</zValue>
+			<zValue>Гауя</zValue>
+			<zValue>Интал</zValue>
+			<zValue>Кайзерсбах</zValue>
+			<zValue>Андорра-ла-Велья</zValue>
+			<zValue>Шам</zValue>
+			<zValue>Софийская котловина</zValue>
+			<zValue>Тюрингия</zValue>
+			<zValue>Айш</zValue>
 		</azValleyNames>
 		<azOceanNames>
 			<zValue>Индийский океан</zValue>
 			<zValue>Атлантический океан</zValue>
-			<zValue>Тихий океан</zValue>
-			<zValue>Северный Ледовитый океан</zValue>
 		</azOceanNames>
 		<azSeaNames>
-			<zValue>Мраморное море</zValue>
-			<zValue>Фракийское море</zValue>
 			<zValue>Балтийское море</zValue>
-			<zValue>Азовское море</zValue>
-			<zValue>Северное море</zValue>
+			<zValue>Дельта Дона</zValue>
 			<zValue>Кельтское море</zValue>
-			<zValue>Белое море</zValue>
-			<zValue>Лаккадивское море</zValue>
-			<zValue>Андаманское море</zValue>
-			<zValue>Банда Си</zValue>
-			<zValue>Филиппинское море</zValue>
-			<zValue>Тиморское море</zValue>
+			<zValue>Эритрейское море</zValue>
 		</azSeaNames>
 		<azBayNames>
-			<zValue>Кадисский залив</zValue>
-			<zValue>Залив Сеута</zValue>
-			<zValue>Залив Пальмы</zValue>
-			<zValue>Анс де Саблетт</zValue>
-			<zValue>Залив Трепасс</zValue>
-			<zValue>Лисция ди Вакка</zValue>
-			<zValue>Огаста Бэй</zValue>
-			<zValue>Залив Алкионидов</zValue>
-			<zValue>Залив Мирабелло</zValue>
-			<zValue>Залив Сувла</zValue>
-			<zValue>Залив Швейни</zValue>
+			<zValue>Бискайский залив</zValue>
+			<zValue>Галльский залив</zValue>
+			<zValue>Кадисский залив </zValue>
+			<zValue>Бадия де Пальма</zValue>			
+			<zValue>Мирабелон</zValue>
+			<zValue>Красноводский залив</zValue>
+			<zValue>Альгеро</zValue>
 		</azBayNames>
 		<azLakeNames>
-			<zValue>Озеро Ванерн</zValue>
-			<zValue>Озеро Севан</zValue>
-			<zValue>Озеро Инари</zValue>
-			<zValue>Озеро Балхаш</zValue>
-			<zValue>Боденское озеро</zValue>
-			<zValue>Озеро Иссык-Куль</zValue>
-			<zValue>Озеро Балатон</zValue>
+			<!--Northern Europe-->
+			<zValue>Флевонское озеро</zValue>
+			<!--Levant-->
+			<zValue>Мертвое море</zValue>
+			<zValue>Бригантинское озеро</zValue>
+			<zValue>Балатон</zValue>
 			<zValue>Женевское озеро</zValue>
-			<zValue>Озеро Сарыгамыш</zValue>
+			<zValue>Сарыкамышское озеро</zValue>
 			<zValue>Лох-Ней</zValue>
-			<zValue>Озеро Пиелинен</zValue>
-			<zValue>Гоуд-э-Зерех</zValue>
-			<zValue>Озеро Алаколь</zValue>
-			<zValue>Маркермер</zValue>
-			<zValue>Озеро Сувасвеси</zValue>
+			<zValue>Зара</zValue>			
+			<zValue>Аральское море</zValue>
 		</azLakeNames>
 		<azIslandNames>
-			<zValue>Бахрейн</zValue>
-			<zValue>Мадагаскар</zValue>
+			<zValue>Ивиса</zValue>
 			<zValue>Ирландия</zValue>
-			<zValue>Остров Мэн</zValue>
-			<zValue>Крит</zValue>
 			<zValue>Корсика</zValue>
-			<zValue>Кипр</zValue>
-			<zValue>Остров Пальма</zValue>
-			<zValue>Тасмания</zValue>
-			<zValue>Остров Пасхи</zValue>
-			<zValue>Исландия</zValue>
-			<zValue>Остров Яна</zValue>
-			<zValue>Остров Уайт</zValue>
-			<zValue>Остров Мадейра</zValue>
-			<zValue>Сицилия</zValue>
+			<zValue>Пальма</zValue>
+			<zValue>Уайт</zValue>
+			<zValue>Мадейра</zValue>
 			<zValue>Сардиния</zValue>
+			<zValue>Мона</zValue>
+			<zValue>Лампедуза</zValue>
 		</azIslandNames>
 	</Entry>
 	<Entry>
 		<zType>MAP_ELEMENT_NAMES_FOR_ASSYRIA</zType>
 		<azVolcanoNames>
 			<zValue>Арарат</zValue>
-			<zValue>Супхан</zValue>
-			<zValue>Нипур</zValue>
-			<zValue>Монте Тендурек</zValue>
-			<zValue>Монте-Немрут</zValue>
+			<zValue>Сюпхан</zValue>
+			<zValue>Тендюрек</zValue>
+			<zValue>Аргей</zValue>
 		</azVolcanoNames>
 		<azMountainRangeNames>
-			<zValue>Синджар</zValue>
-			<zValue>Таурус</zValue>
-			<zValue>Качкар</zValue>
-			<zValue>Чило-Сатский горный хребет</zValue>
+			<zValue>Альборз</zValue>
 			<zValue>Загрос</zValue>
-			<zValue>Джебель-Маклуб</zValue>
-			<zValue>Аманус</zValue>
+			<zValue>Тавр</zValue>
+			<zValue>Нур</zValue>
 		</azMountainRangeNames>
 		<azPeakNames>
-			<zValue>Джабал Замбар</zValue>
+			<zValue>Немрут-Даг</zValue>
+			<zValue>Ниппур</zValue>
+			<zValue>Синджар</zValue>
 			<zValue>Альфаф</zValue>
-			<zValue>Гир-э Кумар</zValue>
-			<zValue>Абдулазиз</zValue>
-			<zValue>Джабал Абу Руджмайн</zValue>
-			<zValue>Завия</zValue>
-			<zValue>Джабал Муса</zValue>
-			<zValue>Джабал ар Рувак</zValue>
 		</azPeakNames>
 		<azRiverNames>
+			<zValue>Аракс</zValue>
+			<zValue>Тигрис</zValue>
+			<zValue>Заб</zValue>
 			<zValue>Евфрат</zValue>
-			<zValue>Тигр</zValue>
-			<zValue>Великая река Заб</zValue>
-			<zValue>Маленькая река Заб</zValue>
-			<zValue>Нахр Аль Узайм</zValue>
-			<zValue>Вади Ат Тартар</zValue>
-			<zValue>Рубар Атрус</zValue>
-			<zValue>Хоср</zValue>
-			<zValue>Тублиас</zValue>
 			<zValue>Дияла</zValue>
-			<zValue>Хабур</zValue>
-			<zValue>Оронт</zValue>
-			<zValue>Хазир</zValue>
 		</azRiverNames>
-		<azForestNames>
-			<zValue>Сосновый бор Бассит</zValue>
-			<zValue>Дубовый лес Баэр</zValue>
-			<zValue>Турецкий сосновый бор</zValue>
-			<zValue>Лес Аккар</zValue>
-			<zValue>Лес Тельца</zValue>
-			<zValue>Хермельский лес</zValue>
-		</azForestNames>
-		<azHeathNames>
-			<zValue>Курд-Дагские леса</zValue>
-			<zValue>Хермельский лес</zValue>
-			<zValue>Денни Скрабленд</zValue>
-		</azHeathNames>
 		<azPlainNames>
-			<zValue>Ниневийская равнина</zValue>
-			<zValue>Равнина Урмия</zValue>
-			<zValue>Синджарская равнина</zValue>
-			<zValue>Равнина Куи</zValue>
-			<zValue>Равнина Харира</zValue>
-			<zValue>Доханская равнина</zValue>
-			<zValue>Равнина Алкос</zValue>
+			<zValue>Урмия</zValue>
+			<zValue>Синджар</zValue>
+			<zValue>Чукурова</zValue>
 		</azPlainNames>
 		<azDesertNames>
 			<zValue>Сирийская пустыня</zValue>
-			<zValue>Пустыня Каракумы</zValue>
 			<zValue>Аравийская пустыня</zValue>
-			<zValue>Вавилонская пустыня</zValue>
 		</azDesertNames>
 		<azPlateauNames>
-			<zValue>Анатолийское плато</zValue>
-			<zValue>Плато Ариби</zValue>
+			<zValue>Анатолия</zValue>
 			<zValue>Голанские высоты</zValue>
 		</azPlateauNames>
 		<azValleyNames>
-			<zValue>Мунзурская долина</zValue>
-			<zValue>Долина Дияла</zValue>
-			<zValue>Долина Бекаа</zValue>
+			<zValue>Бекаа</zValue>
+			<zValue>Мунзур</zValue>
 		</azValleyNames>
-		<azOceanNames>
-			<zValue>Индийский океан</zValue>
-		</azOceanNames>
 		<azSeaNames>
 			<zValue>Черное море</zValue>
 			<zValue>Средиземное море</zValue>
 			<zValue>Красное море</zValue>
 			<zValue>Каспийское море</zValue>
-			<zValue>Горькое море</zValue>
 		</azSeaNames>
 		<azBayNames>
-			<zValue>Бухта Туркменбаши</zValue>
-			<zValue>Таханрозский залив</zValue>
-			<zValue>Залив Акаба</zValue>
-			<zValue>Аденский залив</zValue>
-			<zValue>Залив Маррату</zValue>
+			<zValue>Акаба</zValue>
 		</azBayNames>
 		<azLakeNames>
-			<zValue>Озеро Тартар</zValue>
-			<zValue>Озеро Хаббания</zValue>
-			<zValue>Ван Голу</zValue>
-			<zValue>Хазар Голу</zValue>
-			<zValue>Озеро Хамрин</zValue>
-			<zValue>Озеро Урмия</zValue>
-			<zValue>Озеро Севан</zValue>
+			<zValue>Урмия </zValue>
+			<zValue>Ван</zValue>
+			<zValue>Севан</zValue>
+			<zValue>Хазар</zValue>
+			<zValue>Эль-Хаббания</zValue>
+			<zValue>Туз</zValue>
 		</azLakeNames>
 		<azIslandNames>
 			<zValue>Кипр</zValue>
-			<zValue>Мармара Адаси</zValue>
-			<zValue>Остров Лесбос</zValue>
-			<zValue>Остров Кефкен</zValue>
-			<zValue>Остров Самос</zValue>
-			<zValue>Остров Ореке</zValue>
-			<zValue>Анат</zValue>
-			<zValue>Остров Тильмун</zValue>
+			<zValue>Файлака</zValue>
 		</azIslandNames>
 	</Entry>
 	<Entry>
 		<zType>MAP_ELEMENT_NAMES_FOR_BABYLONIA</zType>
-		<azVolcanoNames>
-			<zValue>Хасан</zValue>
-			<zValue>Эрджиес</zValue>
-			<zValue>Монте-Немрут</zValue>
-			<zValue>Монте Тендурек</zValue>
-		</azVolcanoNames>
 		<azMountainRangeNames>
 			<zValue>Хамрин</zValue>
 			<zValue>Кандиль</zValue>
 			<zValue>Загрос</zValue>
 		</azMountainRangeNames>
 		<azPeakNames>
-			<zValue>Джабал Кумар</zValue>
-			<zValue>Джабаль Бирах Магрун</zValue>
-			<zValue>Чика Дар</zValue>
-			<zValue>Корек</zValue>
-			<zValue>Джабал Санам</zValue>
-			<zValue>Кухе Хаджи Эбрахим</zValue>
-			<zValue>Аль-Матла</zValue>
+			<zValue>Немрут-Даг</zValue>
+			<zValue>Ниппур</zValue>
+			<zValue>Синджар</zValue>
+			<zValue>Шееха-Дар</zValue>
 		</azPeakNames>
 		<azRiverNames>
-			<zValue>Тигр</zValue>
+			<zValue>Аракс</zValue>
+			<zValue>Тигрис</zValue>
+			<zValue>Заб</zValue>
 			<zValue>Евфрат</zValue>
-			<zValue>Карун</zValue>
-			<zValue>Нахр Аль Дияла</zValue>
-			<zValue>Маленькая река Заб</zValue>
-			<zValue>Великая река Заб</zValue>
+			<zValue>Дияла</zValue>
+			<zValue>Паситигрис</zValue>
 		</azRiverNames>
-		<azForestNames>
-			<zValue>Дубовый лес Ниневия</zValue>
-			<zValue>Сосновый бор Бассит</zValue>
-			<zValue>Дубовый лес Баэр</zValue>
-			<zValue>Турецкий сосновый бор</zValue>
-			<zValue>Лес Аккар</zValue>
-			<zValue>Лес Тельца</zValue>
-			<zValue>Хермельский лес</zValue>
-		</azForestNames>
-		<azHeathNames>
-			<zValue>Ахраш Скрубленд</zValue>
-			<zValue>Курд-Дагские леса</zValue>
-			<zValue>Хермельский лес</zValue>
-			<zValue>Денни Скрабленд</zValue>
-		</azHeathNames>
 		<azPlainNames>
-			<zValue>Равнина Халдея</zValue>
-			<zValue>Эдин Плейн</zValue>
-			<zValue>Ниневийская равнина</zValue>
-			<zValue>Равнина Урмия</zValue>
-			<zValue>Синджарская равнина</zValue>
+			<zValue>Халдеи</zValue>
+			<zValue>Гедина</zValue>
+			<zValue>Урмия</zValue>
+			<zValue>Синджар</zValue>
 		</azPlainNames>
 		<azDesertNames>
 			<zValue>Сирийская пустыня</zValue>
-			<zValue>Пустыня Каракумы</zValue>
 			<zValue>Аравийская пустыня</zValue>
 			<zValue>Вавилонская пустыня</zValue>
 		</azDesertNames>
 		<azPlateauNames>
-			<zValue>Сузиана</zValue>
-			<zValue>Персидское плато</zValue>
-			<zValue>Ариби</zValue>
-			<zValue>Голанские высоты</zValue>
+			<zValue>Иранское плато</zValue>
+			<zValue>Элам</zValue>
 		</azPlateauNames>
-		<azValleyNames>
-			<zValue>Долина Евфрата</zValue>
-			<zValue>Долина Дияла</zValue>
-			<zValue>Долина Бекаа</zValue>
-		</azValleyNames>
-		<azOceanNames>
-			<zValue>Индийский океан</zValue>
-		</azOceanNames>
 		<azSeaNames>
-			<zValue>Аравийское море</zValue>
 			<zValue>Каспийское море</zValue>
-			<zValue>Черное море</zValue>
 			<zValue>Средиземное море</zValue>
 		</azSeaNames>
 		<azBayNames>
 			<zValue>Персидский залив</zValue>
-			<zValue>Залив Акаба</zValue>
-			<zValue>Оманский залив</zValue>
-			<zValue>Аденский залив</zValue>
 		</azBayNames>
 		<azLakeNames>
-			<zValue>Озеро Хамрин</zValue>
-			<zValue>Озеро Дарбандихан</zValue>
-			<zValue>Озеро Дюкан</zValue>
-			<zValue>Озеро Разацца</zValue>
-			<zValue>Озеро Урмия</zValue>
+			<zValue>Урмия </zValue>
+			<zValue>Ван</zValue>
+			<zValue>Севан</zValue>
+			<zValue>Эль-Хаббания</zValue>
 		</azLakeNames>
 		<azIslandNames>
-			<zValue>Остров Варба</zValue>
-			<zValue>Остров Бубиян</zValue>
-			<zValue>Остров Файлака</zValue>
-			<zValue>Бахрейн</zValue>
-			<zValue>Остров Мискан</zValue>
-			<zValue>Остров Карух</zValue>
+			<zValue>Файлака</zValue>
+			<zValue>Тилос</zValue>
 		</azIslandNames>
 	</Entry>
 	<Entry>
 		<zType>MAP_ELEMENT_NAMES_FOR_CARTHAGE</zType>
-		<azVolcanoNames>
-			<zValue>Вау намус</zValue>
-			<zValue>Эми Куси</zValue>
-			<zValue>Гора Камерун</zValue>
-		</azVolcanoNames>
 		<azMountainRangeNames>
-			<zValue>Горы Аурес</zValue>
-			<zValue>Атласские горы</zValue>
-			<zValue>Могодские горы</zValue>
+			<zValue>Орес</zValue>
+			<zValue>Атлас</zValue>
+			<zValue>Могод</zValue>
+			<zValue>Телль-Атлас</zValue>
 		</azMountainRangeNames>
 		<azPeakNames>
-			<zValue>Джебель Букорнин</zValue>
-			<zValue>Джебель Рессас</zValue>
-			<zValue>Джебель Серж</zValue>
-			<zValue>Джебель эч Чамби</zValue>
-			<zValue>Джебель Орбата</zValue>
-			<zValue>Джебель Дахар</zValue>
-			<zValue>Тембаин</zValue>
+			<zValue>Тидикин</zValue>
+			<zValue>Джебель-Букорнин</zValue>
+			<zValue>Джебель-Рессас</zValue>
+			<zValue>Шамби</zValue>
 		</azPeakNames>
 		<azRiverNames>
-			<zValue>Уэд Мелиан</zValue>
-			<zValue>Уэд Меджерда</zValue>
-			<zValue>Уэд Зероуд</zValue>
-			<zValue>Уэд Седженан</zValue>
-			<zValue>Уэд Эль-Мелах</zValue>
-			<zValue>Уэд Небхана</zValue>
+			<zValue>Вади</zValue>
+			<zValue>Баградас</zValue>
+			<zValue>Мутул</zValue>
+			<zValue>Субур</zValue>
 		</azRiverNames>
 		<azForestNames>
-			<zValue>Алжирский лес пробкового дуба</zValue>
-			<zValue>Лес Ремел</zValue>
-			<zValue>Лес Небер</zValue>
-			<zValue>Лес Кесра</zValue>
+			<zValue>Нумидийский лес</zValue>
 		</azForestNames>
 		<azHeathNames>
-			<zValue>Холм-Дубовые леса</zValue>
-			<zValue>Берберские леса туи</zValue>
-			<zValue>Ксериковая сосна и можжевельник</zValue>
+			<zValue>Берберские леса</zValue>
 		</azHeathNames>
 		<azPlainNames>
-			<zValue>Равнина Баградаса</zValue>
-			<zValue>Зама равнина</zValue>
-			<zValue>Сахельская равнина</zValue>
-			<zValue>Равнина Гефара</zValue>
+			<zValue>Луговая равнина Зама</zValue>
+			<zValue>Эль-Джифара</zValue>
 		</azPlainNames>
 		<azDesertNames>
-			<zValue>Пустыня Сахара</zValue>
-			<zValue>Пустыня Табернас</zValue>
+			<zValue>Сахара</zValue>
 		</azDesertNames>
 		<azPlateauNames>
 			<zValue>Нефуса</zValue>
-			<zValue>Эль-Хамра</zValue>
-			<zValue>Верхнее</zValue>
+			<zValue>Триполитания</zValue>
+			<zValue>Алжирское высокогорье</zValue>
 		</azPlateauNames>
 		<azValleyNames>
-			<zValue>Долина Маджарда</zValue>
-			<zValue>Долина Мидес</zValue>
-			<zValue>Долина Меджерда</zValue>
-			<zValue>Долина Мелах</zValue>
+			<zValue>Меджерда</zValue>
+			<zValue>Мадес</zValue>
 		</azValleyNames>
 		<azOceanNames>
 			<zValue>Атлантический океан</zValue>
@@ -548,239 +435,221 @@
 		<azSeaNames>
 			<zValue>Средиземное море</zValue>
 			<zValue>Альборанское море</zValue>
-			<zValue>Балерическое море</zValue>
+			<zValue>Балеарское море</zValue>
 			<zValue>Тирренское море</zValue>
 		</azSeaNames>
 		<azBayNames>
 			<zValue>Тунисский залив</zValue>
-			<zValue>Залив Хаммамет</zValue>
-			<zValue>Залив Габес</zValue>
-			<zValue>Залив Беджая</zValue>
-			<zValue>Алжирский залив</zValue>
-			<zValue>Арзевский залив</zValue>
+			<zValue>Габес</zValue>
+			<zValue>Салдэ</zValue>
+			<zValue>Икозиум</zValue>
+			<zValue>Асинара</zValue>
 		</azBayNames>
 		<azLakeNames>
-			<zValue>Тунисское озеро</zValue>
-			<zValue>Озеро Бизерта</zValue>
-			<zValue>Озеро Ичкеуль</zValue>
-			<zValue>Озеро Фецара</zValue>
-			<zValue>Озеро Обейра</zValue>
-			<zValue>Озеро Меллах</zValue>
+			<zValue>Тритонис</zValue>
+			<zValue>Бахира</zValue>
+			<zValue>Бизерта</zValue>
+			<zValue>Ишкель</zValue>
+			<zValue>Фецара</zValue>
+			<zValue>Убеира</zValue>
+			<zValue>Мела</zValue>
 		</azLakeNames>
 		<azIslandNames>
-			<zValue>Остров Мальта</zValue>
+			<zValue>Мелита</zValue>
 			<zValue>Пантеллерия</zValue>
-			<zValue>Остров Шарки</zValue>
-			<zValue>Остров Пальма</zValue>
-			<zValue>Остров Понца</zValue>
+			<zValue>Керкенна</zValue>
+			<zValue>Сицилия</zValue>
 		</azIslandNames>
 	</Entry>
 	<Entry>
 		<zType>MAP_ELEMENT_NAMES_FOR_EGYPT</zType>
-		<azVolcanoNames>
-			<zValue>Вончи</zValue>
-			<zValue>Денди</zValue>
-			<zValue>Аялу</zValue>
-			<zValue>Коне</zValue>
-			<zValue>Гора Зуквалла</zValue>
-		</azVolcanoNames>
 		<azMountainRangeNames>
-			<zValue>Горы Марра</zValue>
-			<zValue>Горы Симиен</zValue>
-			<zValue>Горы Нуба</zValue>
-			<zValue>Атабайские горы</zValue>
+			<zValue>Габаль-эль-Увайнат</zValue>
 		</azMountainRangeNames>
 		<azPeakNames>
-			<zValue>Джабал Муса</zValue>
-			<zValue>Аль-Курн</zValue>
-			<zValue>Мокаттам</zValue>
-			<zValue>Шайиб аль-Банат</zValue>
+			<zValue>Синай</zValue>
+			<zValue>Эль-Курн</zValue>
+			<zValue>Мукаттам</zValue>
 			<zValue>Габал Тингар</zValue>
-			<zValue>Гора Эдмонстон</zValue>
-			<zValue>Джабаль Суфр аль-Милаха</zValue>
-			<zValue>Хрустальная гора</zValue>
+			<zValue>Шаиб-эль-Банат</zValue>
 		</azPeakNames>
 		<azRiverNames>
 			<zValue>Нил</zValue>
-			<zValue>Белый Нил</zValue>
-			<zValue>Голубой Нил</zValue>
-			<zValue>Река Собат</zValue>
-			<zValue>Река Атбара</zValue>
+			<zValue>Томис</zValue>
+			<zValue>Атбара </zValue>
 		</azRiverNames>
 		<azForestNames>
-			<zValue>Финикийский кедровый лес</zValue>
-			<zValue>Финикийский еловый лес</zValue>
-			<zValue>Финикийский еловый лес</zValue>
+			<zValue>Вади-эль-Райан</zValue>
 		</azForestNames>
 		<azHeathNames>
-			<zValue>Лес Кафа-Яю</zValue>
-			<zValue>Мангровые заросли Хамата</zValue>
+			<zValue>Кафа</zValue>
+			<zValue>Мангры</zValue>
 		</azHeathNames>
 		<azPlainNames>
-			<zValue>Саддская Равнина</zValue>
-			<zValue>Дельта Нила</zValue>
+			<zValue>Набта-Плайя</zValue>
 		</azPlainNames>
 		<azDesertNames>
-			<zValue>Пустыня Сахара</zValue>
-			<zValue>Синайская пустыня</zValue>
-			<zValue>Эритрейская пустыня</zValue>
-			<zValue>Белая пустыня</zValue>
+			<zValue>Ливийская пустыня</zValue>
+			<zValue>Нубийская пустыня</zValue>
+			<zValue>Байуда</zValue>
+			<zValue>Нитрийская пустыня</zValue>
 		</azDesertNames>
 		<azPlateauNames>
-			<zValue>Плато Гефир Кебир</zValue>
-			<zValue>Плато Эль-Мокаттам</zValue>
+			<zValue>Гильф-Кебир</zValue>
 			<zValue>Ливийское плато</zValue>
 		</azPlateauNames>
 		<azValleyNames>
 			<zValue>Долина Нила</zValue>
-			<zValue>Долина Та секхет Маат</zValue>
+			<zValue>Долина Царей</zValue>
 		</azValleyNames>
-		<azOceanNames>
-			<zValue>Индийский океан</zValue>
-		</azOceanNames>
 		<azSeaNames>
 			<zValue>Красное море</zValue>
 			<zValue>Средиземное море</zValue>
-			<zValue>Аравийское море</zValue>
-			<zValue>Эгейское море</zValue>
 		</azSeaNames>
 		<azBayNames>
 			<zValue>Суэцкий залив</zValue>
-			<zValue>Залив Акаба</zValue>
-			<zValue>Аденский залив</zValue>
+			<zValue>Акаба</zValue>
 		</azBayNames>
 		<azLakeNames>
-			<zValue>Озеро Карун</zValue>
-			<zValue>Тошкинские озера</zValue>
+			<zValue>Файюм</zValue>
+			<zValue>Карун</zValue>
+			<zValue>Тошка</zValue>
 			<zValue>Большое Горькое озеро</zValue>
-			<zValue>Озеро Буруллус</zValue>
-			<zValue>Озеро Бардавил</zValue>
+			<zValue>Сербонис</zValue>
 		</azLakeNames>
 		<azIslandNames>
 			<zValue>Остров Тиран</zValue>
-			<zValue>Остров Санафир</zValue>
-			<zValue>Остров Фарасан</zValue>
-			<zValue>Кипр</zValue>
-			<zValue>Крит</zValue>
+			<zValue>Санафир</zValue>
+			<zValue>Фарасан</zValue>
 		</azIslandNames>
 	</Entry>
 	<Entry>
 		<zType>MAP_ELEMENT_NAMES_FOR_GREECE</zType>
 		<azVolcanoNames>
-			<zValue>Чиомадул</zValue>
-			<zValue>Адатепе</zValue>
-			<zValue>Милош</zValue>
+			<zValue>Сент-Хелина</zValue>
+			<zValue>Метана</zValue>
+			<zValue>Тира</zValue>
 		</azVolcanoNames>
 		<azMountainRangeNames>
 			<zValue>Пинд</zValue>
 			<zValue>Тайгет</zValue>
-			<zValue>Лефка Ори</zValue>
-			<zValue>Родопские горы</zValue>
-			<zValue>Пиренейские горы</zValue>
+			<zValue>Лефка-Ори</zValue>
+			<zValue>Родопы</zValue>
+			<zValue>Пиерия</zValue>
 		</azMountainRangeNames>
 		<azPeakNames>
-			<zValue>Пентеликус</zValue>
+			<zValue>Пентеликон</zValue>
 			<zValue>Парнон</zValue>
 			<zValue>Олимп</zValue>
 			<zValue>Геликон</zValue>
 			<zValue>Ароания</zValue>
-			<zValue>Силлен</zValue>
-			<zValue>Варнус</zValue>
+			<zValue>Килини</zValue>
+			<zValue>Варноус</zValue>
 			<zValue>Эримантос</zValue>
 			<zValue>Отрис</zValue>
 			<zValue>Ида</zValue>
 			<zValue>Афон</zValue>
+			<zValue>Тмол</zValue>
+			<zValue>Пелион</zValue>
+			<zValue>Оса</zValue>
+			<zValue>Коридалос</zValue>
 		</azPeakNames>
 		<azRiverNames>
-			<zValue>Халиакмон</zValue>
+			<zValue>Альякмон</zValue>
 			<zValue>Эврос</zValue>
 			<zValue>Струма</zValue>
 			<zValue>Аксиос</zValue>
-			<zValue>Ахелой</zValue>
-			<zValue>Пинеос</zValue>
-			<zValue>Гермо</zValue>
+			<zValue>Ахелой</zValue>
+			<zValue>Пиньос</zValue>
+			<zValue>Гедиз</zValue>
 			<zValue>Вьоса</zValue>
 			<zValue>Нестос</zValue>
 			<zValue>Тиамис</zValue>
-			<zValue>Кефисс</zValue>
+			<zValue>Кифисос</zValue>
+			<zValue>Мендерес</zValue>
+			<zValue>Кучук</zValue>
+			<zValue>Еврот</zValue>
+			<zValue>Алфей</zValue>
+			<zValue>Асопос</zValue>
+			<zValue>Илисос</zValue>
 		</azRiverNames>
 		<azForestNames>
-			<zValue>Лес Дадиа</zValue>
-			<zValue>Дубовый лес Фолой</zValue>
-			<zValue>Лес Скиритида</zValue>
-			<zValue>Лес Айантейо</zValue>
-			<zValue>Пестрый лес</zValue>
+			<zValue>Дадиа</zValue>
+			<zValue>Фолоя</zValue>
+			<zValue>Скиритида</zValue>
+			<zValue>Саламинский лес</zValue>
+			<zValue>Фрактийский лес</zValue>
 		</azForestNames>
 		<azHeathNames>
 			<zValue>Пелопоннесский маквис</zValue>
-			<zValue>Пальмовый лес Вай</zValue>
+			<zValue>Ваи</zValue>
 		</azHeathNames>
 		<azPlainNames>
-			<zValue>Равнина драмы</zValue>
-			<zValue>Равнина Мессара</zValue>
-			<zValue>Аргон Педион равнина</zValue>
-			<zValue>Равнина Ханьи</zValue>
-			<zValue>Лелантин Плейн</zValue>
+			<zValue>Драма</zValue>
+			<zValue>Месара</zValue>
+			<zValue>Аргон Педион</zValue>
+			<zValue>Кидония</zValue>
+			<zValue>Лелантская равнина</zValue>
 			<zValue>Фессалийская равнина</zValue>
-			<zValue>Беотийская равнина</zValue>
+			<zValue>Беотия</zValue>
 			<zValue>Пелагония</zValue>
 		</azPlainNames>
-		<azDesertNames>
-			<zValue>Пески Делиблато</zValue>
-		</azDesertNames>
 		<azPlateauNames>
-			<zValue>Лассити</zValue>
+			<zValue>Ласити</zValue>
 			<zValue>Омалос</zValue>
 			<zValue>Нида</zValue>
+			<zValue>Катаро</zValue>
 		</azPlateauNames>
 		<azValleyNames>
-			<zValue>Тебинская долина</zValue>
-			<zValue>Долина Сперхейос</zValue>
-			<zValue>Долина Амари</zValue>
-			<zValue>Долина Дрино</zValue>
+			<zValue>Темпейская долина</zValue>
+			<zValue>Сперхиос</zValue>
+			<zValue>Амари</zValue>
+			<zValue>Дрино</zValue>
 		</azValleyNames>
 		<azSeaNames>
 			<zValue>Эгейское море</zValue>
-			<zValue>Миртоанское море</zValue>
+			<zValue>Икарийское море</zValue>
+			<zValue>Миртойское море</zValue>
 			<zValue>Критское море</zValue>
-			<zValue>Ионическое море</zValue>
 			<zValue>Фракийское море</zValue>
 			<zValue>Ионическое море</zValue>
 			<zValue>Черное море</zValue>
 			<zValue>Мраморное море</zValue>
 			<zValue>Ливийское море</zValue>
 			<zValue>Карпатское море</zValue>
+			<zValue>Средиземное море</zValue>
 		</azSeaNames>
 		<azBayNames>
 			<zValue>Коринфский залив</zValue>
+			<zValue>Лаконский залив</zValue>
+			<zValue>Арголидский залив</zValue>
 			<zValue>Саронический залив</zValue>
-			<zValue>Патрский залив</zValue>
-			<zValue>Северный Эвбейский залив</zValue>
-			<zValue>Арголийский залив</zValue>
-			<zValue>Пагасетический залив</zValue>
+			<zValue>Салоникский залив</zValue>
+			<zValue>Эвбейский залив</zValue>
+			<zValue>Пагасейский залив</zValue>
 			<zValue>Амбракийский залив</zValue>
-			<zValue>Северный Эвбейский залив</zValue>
-			<zValue>Пагасетический залив</zValue>
-			<zValue>Амбракийский залив</zValue>
+			<zValue>Мессинский залив</zValue>
+			<zValue>Мегарский залив</zValue>
 			<zValue>Малийский залив</zValue>
-			<zValue>Алкионида залив</zValue>
+			<zValue>Алкионский залив</zValue>
+			<zValue>Бозбурун</zValue>
 		</azBayNames>
 		<azLakeNames>
-			<zValue>Озеро Илики</zValue>
-			<zValue>Озеро Паралимни</zValue>
-			<zValue>Озеро Трихонида</zValue>
-			<zValue>Озеро Преспа</zValue>
-			<zValue>Озеро Волви</zValue>
-			<zValue>Озеро Керкини</zValue>
-			<zValue>Озеро Памвотида</zValue>
-			<zValue>Озеро Стимфалия</zValue>
+			<zValue>Илики</zValue>
+			<zValue>Трепия</zValue>
+			<zValue>Трихонис</zValue>
+			<zValue>Преспа</zValue>
+			<zValue>Волви</zValue>
+			<zValue>Янина</zValue>
+			<zValue>Корония</zValue>
+			<zValue>Стимфалия</zValue>
 		</azLakeNames>
 		<azIslandNames>
 			<zValue>Крит</zValue>
 			<zValue>Родос</zValue>
 			<zValue>Кипр</zValue>
 			<zValue>Делос</zValue>
-			<zValue>Эгина </zValue>
+			<zValue>Эгина</zValue>
 			<zValue>Наксос</zValue>
 			<zValue>Самос</zValue>
 			<zValue>Лесбос</zValue>
@@ -791,15 +660,15 @@
 			<zValue>Серифос</zValue>
 			<zValue>Эвбея</zValue>
 			<zValue>Скирос</zValue>
-			<zValue>Скиатос</zValue>
+			<zValue>Скиатос </zValue>
 			<zValue>Скопелос</zValue>
-			<zValue>Кифнос</zValue>
-			<zValue>Мелос</zValue>
-			<zValue>Кеа</zValue>
+			<zValue>Китнос</zValue>
+			<zValue>Милос</zValue>
+			<zValue>Кея</zValue>
 			<zValue>Иос</zValue>
 			<zValue>Икария</zValue>
 			<zValue>Саламин</zValue>
-			<zValue>Итаки</zValue>
+			<zValue>Итака</zValue>
 			<zValue>Закинф</zValue>
 			<zValue>Тасос</zValue>
 		</azIslandNames>
@@ -807,72 +676,67 @@
 	<Entry>
 		<zType>MAP_ELEMENT_NAMES_FOR_PERSIA</zType>
 		<azVolcanoNames>
-			<zValue>Дамаванд</zValue>
-			<zValue>Сабалан</zValue>
-			<zValue>Тафтан</zValue>
-			<zValue>Саханд</zValue>
-			<zValue>Базман</zValue>
+			<zValue>Демавенд</zValue>
+			<zValue>Себелан</zValue>
+			<zValue>Тефтан</zValue>
+			<zValue>Сехенд</zValue>
+			<zValue>Базмэн</zValue>
+			<zValue>Арарат</zValue>
 		</azVolcanoNames>
 		<azMountainRangeNames>
 			<zValue>Загрос</zValue>
-			<zValue>Эльбурз</zValue>
-			<zValue>Кафланкух</zValue>
-			<zValue>Башагардские горы</zValue>
+			<zValue>Эльбурс</zValue>
+			<zValue>Кфланти</zValue>
+			<zValue>Башагард </zValue>
 		</azMountainRangeNames>
 		<azPeakNames>
-			<zValue>Шир Кух</zValue>
-			<zValue>Гора Дена</zValue>
-			<zValue>Зард Кух</zValue>
-			<zValue>Таш Кух</zValue>
+			<zValue>Шир-Кух</zValue>
+			<zValue>Дена</zValue>
+			<zValue>Зард-кух</zValue>
 			<zValue>Альванд</zValue>
 			<zValue>Сиалан</zValue>
-			<zValue>Кабир Кух</zValue>
+			<zValue>Кабир-Кух</zValue>
 		</azPeakNames>
 		<azRiverNames>
-			<zValue>Арас</zValue>
+			<zValue>Оксос</zValue>
+			<zValue>Аракс</zValue>
 			<zValue>Карун</zValue>
-			<zValue>Кархех</zValue>
-			<zValue>Атрек</zValue>
-			<zValue>Сефид-Рудь</zValue>
-			<zValue>Зайандеруд</zValue>
+			<zValue>Керхе</zValue>
+			<zValue>Сефидруд</zValue>
+			<zValue>Зайендеруд</zValue>
 		</azRiverNames>
 		<azForestNames>
-			<zValue>Эльбурзский хребет Лесостепь</zValue>
-			<zValue>Каспийский Гирканский лес</zValue>
-			<zValue>Нур Форест</zValue>
-			<zValue>Лес Соркхе Хесар</zValue>
-			<zValue>Лес Соханак</zValue>
-			<zValue>Лес Бараджин</zValue>
+			<zValue>Эльбурсская лесостепь</zValue>
+			<zValue>Шомаль</zValue>
+			<zValue>Нур</zValue>
+			<zValue>Соркех Хесар</zValue>
+			<zValue>Соханакский лес</zValue>
+			<zValue>Перачанский лес</zValue>
+			<zValue>Мазендеранский лес</zValue>
 		</azForestNames>
 		<azHeathNames>
 			<zValue>Мангровые леса Кешма</zValue>
-			<zValue>Кавказский смешанный лес</zValue>
 		</azHeathNames>
 		<azPlainNames>
-			<zValue>Аварайрская равнина</zValue>
-			<zValue>Равнина Горгана</zValue>
-			<zValue>Хузестанская равнина</zValue>
+			<zValue>Аварайр</zValue>
+			<zValue>Горган</zValue>
+			<zValue>Хузестан</zValue>
 			<zValue>Нисейская равнина</zValue>
-			<zValue>Равнина Урмия</zValue>
+			<zValue>Урмия </zValue>
 		</azPlainNames>
 		<azDesertNames>
-			<zValue>Большая соляная пустыня</zValue>
-			<zValue>Пустыня с добычей</zValue>
-			<zValue>Пустыня Маранджаб</zValue>
-			<zValue>Пустыня Полонд</zValue>
+			<zValue>Деште-Кевир</zValue>
+			<zValue>Деште-Лут</zValue>
+			<zValue>Марейнджаб</zValue>
+			<zValue>Полонд</zValue>
 		</azDesertNames>
 		<azPlateauNames>
-			<zValue>Плато Калат-э-Надери</zValue>
-			<zValue>Персидское плато</zValue>
-			<zValue>Плато Хазаран</zValue>
-			<zValue>Плато Джебаль Барез</zValue>
+			<zValue>Калат-э Надери</zValue>
+			<zValue>Иранское плато</zValue>
+			<zValue>Хазаран</zValue>
 		</azPlateauNames>
 		<azValleyNames>
-			<zValue>Долина Эсталах-кафтах</zValue>
-			<zValue>Кул Херсонской долины</zValue>
-			<zValue>Аламутская долина</zValue>
-			<zValue>Долина Лар</zValue>
-			<zValue>Шамхалская долина</zValue>
+			<zValue>Аламут</zValue>
 		</azValleyNames>
 		<azOceanNames>
 			<zValue>Индийский океан</zValue>
@@ -880,135 +744,122 @@
 		<azSeaNames>
 			<zValue>Каспийское море</zValue>
 			<zValue>Аравийское море</zValue>
-			<zValue>Красное море</zValue>
 			<zValue>Черное море</zValue>
 		</azSeaNames>
 		<azBayNames>
 			<zValue>Персидский залив</zValue>
-			<zValue>Оманский залив</zValue>
 			<zValue>Горганский залив</zValue>
-			<zValue>Залив Туркменбаши</zValue>
 		</azBayNames>
 		<azLakeNames>
-			<zValue>Озеро Махарло</zValue>
-			<zValue>Озеро Ташкент</zValue>
-			<zValue>Озеро Бахтеган</zValue>
-			<zValue>Озеро Намак</zValue>
-			<zValue>Озеро Урмия</zValue>
+			<zValue>Махарлу</zValue>
+			<zValue>Ташк</zValue>
+			<zValue>Бахтеган</zValue>
+			<zValue>Дерьячейе-Немек</zValue>
+			<zValue>Урмия</zValue>
 		</azLakeNames>
 		<azIslandNames>
-			<zValue>Остров Кешм</zValue>
-			<zValue>Остров Лаван</zValue>
-			<zValue>Остров Киш</zValue>
-			<zValue>Остров Хендораби</zValue>
-			<zValue>Остров Ларак</zValue>
-			<zValue>Остров Ормуз</zValue>
+			<zValue>Кешм</zValue>
+			<zValue>Лаван</zValue>
+			<zValue>Киш</zValue>
+			<zValue>Энгано</zValue>
 		</azIslandNames>
 	</Entry>
 	<Entry>
 		<zType>MAP_ELEMENT_NAMES_FOR_ROME</zType>
 		<azVolcanoNames>
-			<zValue>Везувий</zValue>
+			<zValue>Везувий</zValue>
 			<zValue>Этна</zValue>
-			<zValue>Колли Албани</zValue>
-			<zValue>Монте-Стервятник</zValue>
-			<zValue>Монте Амиата</zValue>
+			<zValue>Альбанские горы</zValue>
+			<zValue>Вультуре</zValue>
+			<zValue>Амиата</zValue>
 		</azVolcanoNames>
 		<azMountainRangeNames>
-			<zValue>Апеннинские горы</zValue>
+			<zValue>Апеннины</zValue>
 			<zValue>Альпы</zValue>
-			<zValue>Горы Неброди </zValue>
-			<zValue>Динаридские горы</zValue>
+			<zValue>Неброди</zValue>
+			<zValue>Апуанские Альпы</zValue>
 		</azMountainRangeNames>
 		<azPeakNames>
-			<zValue>Велью</zValue>
-			<zValue>Корно</zValue>
-			<zValue>Амаро</zValue>
+			<zValue>Корно-Гранде</zValue>
+			<zValue>Маелла</zValue>
 			<zValue>Ветторе</zValue>
-			<zValue>Чимоне</zValue>
+			<zValue>Монте-Чимоне</zValue>
 			<zValue>Поллино</zValue>
-			<zValue>Альто</zValue>
+			<zValue>Визо</zValue>
+			<zValue>Мон-Сени</zValue>
+			<zValue>Монте-Роза</zValue>
+			<zValue>Монте-Гаргано</zValue>
 		</azPeakNames>
 		<azRiverNames>
 			<zValue>Тибр</zValue>
 			<zValue>По</zValue>
-			<zValue>Адидже</zValue>
 			<zValue>Арно</zValue>
 			<zValue>Пьяве</zValue>
 			<zValue>Алькантара</zValue>
-			<zValue>Сальсо</zValue>
-			<zValue>Тризо</zValue>
+			<zValue>Гимера</zValue>
+			<zValue>Омброне</zValue>
+			<zValue>Рубикон</zValue>
+			<zValue>Метауро</zValue>
+			<zValue>Атесис</zValue>
+			<zValue>Лири</zValue>
+			<zValue>Адда</zValue>		
+			<zValue>Ольо</zValue>		
+			<zValue>Офанто</zValue>		
+			<zValue>Селе</zValue>		
+			<zValue>Биферно</zValue>		
 		</azRiverNames>
 		<azForestNames>
-			<zValue>Киминийский лес</zValue>
-			<zValue>Лес Кансильо</zValue>
-			<zValue>Арсианский лес</zValue>
-			<zValue>Лес Поллино</zValue>
-			<zValue>Лес Казентинези</zValue>
+			<zValue>Циминский лес</zValue>
+			<zValue>Пьян-дель-Кансильо</zValue>
+			<zValue>Сильва Арсия</zValue>
+			<zValue>Калабрийский лес</zValue>
+			<zValue>Казентинези</zValue>
 		</azForestNames>
-		<azHeathNames>
-			<zValue>Кустарник Мачия</zValue>
-			<zValue>Лесной массив в дельте Эбро</zValue>
-		</azHeathNames>
 		<azPlainNames>
-			<zValue>Равнина По</zValue>
-			<zValue>Равнина Катании</zValue>
-			<zValue>Равнина Кампидано</zValue>
 			<zValue>Паданская равнина</zValue>
-			<zValue>Пьемонтская равнина</zValue>
+			<zValue>Катания</zValue>
+			<zValue>Кампидано </zValue>
+			<zValue>Пьемонт</zValue>
 		</azPlainNames>
-		<azDesertNames>
-			<zValue>Пустыня Табернас</zValue>
-			<zValue>Пустыня Аккона</zValue>
-		</azDesertNames>
 		<azPlateauNames>
 			<zValue>Аргимуско</zValue>
-			<zValue>Альтопиано делле Мурже</zValue>
-			<zValue>Карстовое плато</zValue>
-			<zValue>Плато Сила</zValue>
-			<zValue>Плато Кампо Императоре</zValue>
+			<zValue>Мурджа</zValue>
+			<zValue>Крас</zValue>
+			<zValue>Сила</zValue>
 		</azPlateauNames>
 		<azValleyNames>
-			<zValue>Долина По</zValue>
-			<zValue>Долина Итрия</zValue>
-			<zValue>Долина Лацио</zValue>
-			<zValue>Долина Дель Беличе</zValue>
-			<zValue>Долина Писцинаманна</zValue>
+			<zValue>Долина Итрии</zValue>
+			<zValue>Лаций</zValue>
+			<zValue>Писцинаманна</zValue>
 		</azValleyNames>
-		<azOceanNames>
-			<zValue>Атлантический океан</zValue>
-		</azOceanNames>
 		<azSeaNames>
 			<zValue>Тирренское море</zValue>
 			<zValue>Адриатическое море</zValue>
-			<zValue>Ионическое море</zValue>
 			<zValue>Лигурийское море</zValue>
 			<zValue>Средиземное море</zValue>
 		</azSeaNames>
 		<azBayNames>
-			<zValue>Неаполитанский залив</zValue>
+			<zValue>Тарентский залив</zValue>
+			<zValue>Неаполитанский зали</zValue>
 			<zValue>Триестский залив</zValue>
-			<zValue>Залив Манфредония</zValue>
-			<zValue>Лагуна Марано</zValue>
-			<zValue>Венецианская лагуна</zValue>
-			<zValue>Рада Альгеро</zValue>
+			<zValue>Сипонто</zValue>
+			<zValue>Марано-Лагунаре</zValue>
+			<zValue>Альтинум</zValue>
+			<zValue>Генуэзский залив</zValue>
 		</azBayNames>
 		<azLakeNames>
-			<zValue>Озеро Браччано</zValue>
-			<zValue>Лаго-ди-Вико</zValue>
-			<zValue>Озеро Больсена</zValue>
-			<zValue>Лаго Тразимено</zValue>
-			<zValue>Озеро Сан-Джулиано</zValue>
-			<zValue>Лаго ди Лентини</zValue>
-			<zValue>Озеро Муларджа</zValue>
+			<zValue>Лаго-Маджоре</zValue>
+			<zValue>Комо</zValue>
+			<zValue>Тразимено</zValue>
+			<zValue>Гарда</zValue>
+			<zValue>Фучино</zValue>
+			<zValue>Браччано</zValue>
 		</azLakeNames>
 		<azIslandNames>
 			<zValue>Сицилия</zValue>
 			<zValue>Сардиния</zValue>
-			<zValue>Эолийский остров</zValue>
-			<zValue>Корсика</zValue>
-			<zValue>Остров Эльба</zValue>
-			<zValue>Тосканский архипелаг</zValue>
+			<zValue>Липарские острова</zValue>
+			<zValue>Эльба</zValue>
 		</azIslandNames>
 	</Entry>
 </Root>

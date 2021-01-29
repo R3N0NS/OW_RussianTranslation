@@ -3,8 +3,8 @@
 <Root>
   <!--Assets/GameAssets/Resources/Infos/specialist.xml-->
   <Entry>
-    <zType />
-    <English />
+    <zType/>
+    <Translation/>
   </Entry>
   <Entry>
     <zType>TEXT_SPECIALISTCLASS_FARMER</zType>

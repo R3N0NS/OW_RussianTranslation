@@ -162,7 +162,7 @@
   <!-- Misc -->
   <Entry>
     <zType>TEXT_CHARACTER_DEAD</zType>
-    <Translation><![CDATA[<icon>skull</icon> {0_name}]]></Translation>
+    <Translation><![CDATA[<icon>DeathSkull</icon> {0_name}]]></Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_HAS_COGNOMEN</zType>
@@ -170,7 +170,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_GENERAL_OF</zType>
-    <Translation>link(CONCEPT_GENERAL) отряда {0_unit}</Translation>
+    <Translation>link(CONCEPT_GENERAL) отряда {0,1_unit}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_GOVERNOR_OF</zType>
@@ -199,7 +199,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_OF_NATION</zType>
-    <Translation>{0_name} из {1_nation}</Translation>
+    <Translation>{0_name} из {1,1_nation}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CHARACTER_THE_YOUNGER</zType>

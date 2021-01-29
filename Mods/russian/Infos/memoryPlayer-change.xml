@@ -22,164 +22,158 @@
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_SLANDER</zType>
-		<zText>Публично оклеветанный</zText>
+		<zText>Публично опороченный</zText>
 		<iValue>-40</iValue>
 		<iTurns>40</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_STEAL_RESEARCH</zType>
-		<zText>Stole Research</zText>
+		<zText>Украл исследования</zText>
 		<iValue>-40</iValue>
 		<iTurns>40</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_ADOPTED_RELIGION</zType>
-		<zText>We adopted a State Religion</zText>
+		<zText>Мы приняли государственную религию</zText>
 		<iTurns>5</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_STARTED_LAW</zType>
-		<zText>Changed a Law</zText>
+		<zText>Изменил закон</zText>
 		<iTurns>5</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_CHOSE_AMBITION</zType>
-		<zText>Chose an Ambition</zText>
+		<zText>Выбрал амбицию</zText>
 		<iTurns>5</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_DIVORCE</zType>
-		<zText>Divorce</zText>
+		<zText>Расторжение брака</zText>
 		<iValue>-100</iValue>
 		<iTurns>20</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_REMOVED_LUXURY</zType>
-		<zText>Removed Luxury</zText>
+		<zText>Расчистили роскошь</zText>
 		<iValue>-50</iValue>
 		<iTurns>5</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_TRADE_DEAL</zType>
-		<zText>New Trade Deal</zText>
+		<zText>Новая торговая сделка</zText>
 		<iValue>40</iValue>
 		<iTurns>20</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_TRUCE</zType>
-		<zText>Player Truce</zText>
+		<zText>Перемирие</zText>
 		<iTurns>5</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_PEACE</zType>
-		<zText>Player Peace</zText>
+		<zText>Мир</zText>
 		<iTurns>5</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_WAR</zType>
-		<zText>Player War</zText>
+		<zText>Война</zText>
 		<iTurns>5</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_OFFER</zType>
-		<zText>Player Offer</zText>
+		<zText>Предложение</zText>
 		<iTurns>5</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_OFFER_ALL</zType>
-		<zText>Player Offer (All)</zText>
+		<zText>Предложения (Все)</zText>
 		<iTurns>2</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_ATTACKED_UNIT</zType>
-		<zText>Attacked our Unit(s)</zText>
+		<zText>Напали на наши отряды</zText>
 		<iValue>-10</iValue>
 		<iTurns>5</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_ATTACKED_CITY</zType>
-		<zText>Attacked our Cit(ies)</zText>
+		<zText>Напали на наши города</zText>
 		<iValue>-20</iValue>
 		<iTurns>10</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_CAPTURED_CITY</zType>
-		<zText>Captured our Cit(ies)</zText>
+		<zText>Захватили наши города</zText>
 		<iValue>-40</iValue>
 		<iTurns>20</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_POACHED_CITY</zType>
-		<zText>Captured a City we were attacking</zText>
+		<zText>Захватили город, который мы атаковали</zText>
 		<iValue>-80</iValue>
 		<iTurns>40</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_ATTACKED_ENEMY</zType>
-		<zText>Attacked our Enemy</zText>
+		<zText>Напали на нашего врага</zText>
 		<iValue>2</iValue>
 		<iTurns>20</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_GIFTED_CITY</zType>
-		<zText>Gifted City</zText>
+		<zText>Дарованный город</zText>
 		<iValue>20</iValue>
 		<iTurns>40</iTurns>
 		<bName>1</bName>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_GIFTED_UNIT</zType>
-		<zText>Gifted Unit</zText>
+		<zText>Дарованный отряд</zText>
 		<iValue>5</iValue>
 		<iTurns>20</iTurns>
 		<bName>1</bName>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_GIFTED_YIELD</zType>
-		<zText>Gifted Goods</zText>
+		<zText>Дарованные товары</zText>
 		<iValue>1</iValue>
 		<iTurns>10</iTurns>
 		<bName>1</bName>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_GAVE_FAVOR</zType>
-		<zText>Gave Favor</zText>
+		<zText>Дал милость</zText>
 		<iValue>20</iValue>
 		<bName>1</bName>
 	</Entry>
 	<Entry>
-		<zType>MEMORYPLAYER_HELPED_US</zType>
-		<zText>Helped Us</zText>
-		<iValue>40</iValue>
-		<iTurns>40</iTurns>
-	</Entry>
-	<Entry>
 		<zType>MEMORYPLAYER_HOLD_HOSTAGE</zType>
-		<zText>Held a noble hostage</zText>
+		<zText>Держал благородного заложника</zText>
 		<iValue>-40</iValue>
 		<iTurns>40</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_KILLED_NOBLE_HOSTAGE</zType>
-		<zText>Killed a noble hostage</zText>
+		<zText>Убил благородного заложника</zText>
 		<iValue>-80</iValue>
 		<iTurns>40</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_NOBLE_DEFECT</zType>
-		<zText>Convinced a noble to defect</zText>
+		<zText>Убедил дворянина дезертировать</zText>
 		<iValue>-40</iValue>
 		<iTurns>20</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_CANCELLED_TRADE</zType>
-		<zText>Cancelled Trade</zText>
+		<zText>Отмененная сделка</zText>
 		<iValue>-40</iValue>
 		<iTurns>20</iTurns>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_DECLARED_WAR</zType>
-		<zText>Declared War on us</zText>
+		<zText>Объявили нам войну</zText>
 		<iValue>-80</iValue>
 		<iTurns>40</iTurns>
 	</Entry>
@@ -210,27 +204,27 @@
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_NEIGHBORS_ROME_PRIDE</zType>
-		<zText>You stood up to us!</zText>
+		<zText>Противостоял нам!</zText>
 		<MemoryLevel>MEMORYLEVEL_POS_LOW_NORMAL</MemoryLevel>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_NEIGHBORS_HUMBLE</zType>
-		<zText>Impressed us with your humility</zText>
+		<zText>Поразил нас своим смирением</zText>
 		<MemoryLevel>MEMORYLEVEL_POS_HIGH_SHORT</MemoryLevel>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_NEIGHBORS_FRIENDLY</zType>
-		<zText>Your people seem friendly</zText>
+		<zText>Ваши люди кажутся дружелюбными</zText>
 		<MemoryLevel>MEMORYLEVEL_POS_MEDIUM_NORMAL</MemoryLevel>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_NEIGHBORS_PRIDEFUL</zType>
-		<zText>You spoke boldly to us when we met</zText>
+		<zText>Смело заговорил с нами, когда мы встретились</zText>
 		<MemoryLevel>MEMORYLEVEL_POS_LOW_LONG</MemoryLevel>
 	</Entry>
 	<Entry>
 		<zType>MEMORYPLAYER_MADE_CONTACT</zType>
-		<zText>Made contact with your people</zText>
+		<zText>Установил контакт с вашими людьми</zText>
 		<MemoryLevel>MEMORYLEVEL_POS_LOW_NORMAL</MemoryLevel>
 	</Entry>
 	<Entry>

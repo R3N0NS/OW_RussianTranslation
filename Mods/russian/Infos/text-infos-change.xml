@@ -93,7 +93,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_CONCEPT_SHRINE</zType>
-	<Translation>Святыня~Святыни</Translation>
+	<Translation>Святыня~Святыни~Святыне~Святыню~Святыней~Святыне~Святыне~Святыни~Святынь~Святыням~Святыни~Святынями~Святынях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_SPECIALIST</zType>
@@ -156,12 +156,12 @@
     <Translation>Повышение~Повышения~Повышению~Повышение~Повышением~Повышении~Повышены~Повысить</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_CONCEPT_RAISE_IMPROVEMENTS</zType>
+    <zType>TEXT_CONCEPT_UPGRADE_IMPROVEMENTS</zType>
     <Translation>Возвести сооружение</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_IMPROVEMENT</zType>
-    <Translation>Улучшение~Улучшения</Translation>
+    <Translation>Улучшение~Улучшения~Улучшение~Улучшением~Улучшении~Улучшении~Улучшения~Улучшений~Улучшениям~Улучшения~Улучшениями~Улучшениях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_REBEL</zType>
@@ -169,7 +169,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_DISCIPLE</zType>
-    <Translation>Ученик~Ученики</Translation>
+    <Translation>Ученик~Ученика~Ученику~Ученика~Учеником~Ученике~Ученике~Ученики~Учеников~Ученикам~Учеников~Учениками~Учениках</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_ROAD</zType>
@@ -181,7 +181,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_SETTLEMENT</zType>
-    <Translation>Поселение~Поселения</Translation>
+    <Translation>Поселение~Поселения~Поселению~Поселение~Поселением~Поселении~Поселении~Поселения~Поселений~Поселениям~Поселения~Поселениями~Поселениях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_THEOLOGY</zType>
@@ -207,7 +207,6 @@
     <zType>TEXT_CONCEPT_URBAN</zType>
     <Translation><![CDATA[Городские клетки~Города~Городского~Городскому~Городской~Городским~Городском~Городское~Городского~Городскому~Городское~Городским~Городском~Городская~Городской~Городской~Городскую~Городской~Городской~Городские~Городских~Городским~Городские~Городскими~Городских~Города]]></Translation>
   </Entry>
-
   <Entry>
     <zType>TEXT_CONCEPT_ZOC</zType>
     <Translation>ЗК</Translation>
@@ -1051,11 +1050,11 @@
     <Translation>Открыть 80% карты</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_GOAL_THREE_CARAVANS</zType>
+    <zType>TEXT_GOAL_TWO_CARAVANS</zType>
     <Translation>Задачи трех караванов</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_GOAL_SIX_CARAVANS</zType>
+    <zType>TEXT_GOAL_FOUR_CARAVANS</zType>
     <Translation>Задачи шести караванов</Translation>
   </Entry>
   <Entry>
@@ -1926,11 +1925,11 @@
   </Entry>
   <Entry>
     <zType>TEXT_TECH_CATAPHRACT_ARCHER_BONUS</zType>
-    <Translation>Бесплатный отряд катафрактарских лучников~Бесплатного отряда катафрактарских лучников~Бесплатному отряду катафрактарских лучников</Translation>
+    <Translation>Бесплатный отряд катафрактов-лучников~Бесплатного отряда катафрактов-лучников~Бесплатному отряду катафрактов-лучников</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_HASTATUS_BONUS</zType>
-    <Translation>Бесплатный отряд гестатов~Бесплатного отряда гестатов~Бесплатному отряду гестатов</Translation>
+    <Translation>Бесплатный отряд гастатов~Бесплатного отряда гастатов~Бесплатному отряду гастатов</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TECH_LEGIONARY_BONUS</zType>
@@ -1980,7 +1979,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_VEGETATION_TREES_CUT_REMOVE</zType>
-    <Translation>link(CONCEPT_CLEAR) землю</Translation>
+    <Translation>link(CONCEPT_CLEAR,1) землю</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_VEGETATION_SCRUB</zType>
@@ -1996,36 +1995,36 @@
   </Entry>
   <Entry>
     <zType>TEXT_VEGETATION_SCRUB_CUT_REMOVE</zType>
-    <Translation>link(CONCEPT_CLEAR) землю</Translation>
+    <Translation>link(CONCEPT_CLEAR,1) землю</Translation>
   </Entry>
   <!--InfoYield-->
   <Entry>
     <zType>TEXT_YIELD_GROWTH_HELP</zType>
-    <Translation>Когда шкала link(YIELD_GROWTH) {YIELD_GROWTH} полностью заполняется, в городе появляется новый житель. Простой путь ускорить link(YIELD_GROWTH) {YIELD_GROWTH} - это обучить link(SPECIALIST_FARMER) и построить link(IMPROVEMENTCLASS_BATHS,2).</Translation>
+    <Translation>Когда шкала link(YIELD_GROWTH,1) {YIELD_GROWTH} полностью заполняется, в городе появляется новый житель. Простой путь ускорить link(YIELD_GROWTH) {YIELD_GROWTH} - это обучить link(SPECIALIST_FARMER,1) и построить link(IMPROVEMENTCLASS_BATHS,3).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_CIVICS_HELP</zType>
-    <Translation>Используется для обучения специалистов и завершения проектов. Неиспользованные очки link(YIELD_CIVICS,1) {YIELD_CIVICS} добавляются в национальный запас и расходуются на принятие законов и теологий. Получайте больше очков link(YIELD_CIVICS,1) {YIELD_CIVICS} строя link(IMPROVEMENTCLASS_COURTHOUSE,1) и link(PROJECT_FORUM_1,7).</Translation>
+    <Translation>Используется для обучения специалистов и завершения проектов. Неиспользованные очки link(YIELD_CIVICS,1) {YIELD_CIVICS} добавляются в национальный запас и расходуются на принятие законов и теологий. Получайте больше очков link(YIELD_CIVICS,1) {YIELD_CIVICS} строя link(IMPROVEMENTCLASS_COURTHOUSE,9) и link(PROJECT_FORUM_1,12).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_TRAINING_HELP</zType>
-    <Translation>Используются для обучения военных отрядов. Неиспользованные очки link(YIELD_TRAINING) {YIELD_TRAINING} добавляются в национальный запас и расходуются на повышение и модернизацию военных отрядов. Получайте больше очков link(YIELD_TRAINING) {YIELD_TRAINING} строя link(IMPROVEMENTCLASS_BARRACKS,2) и link(IMPROVEMENTCLASS_RANGE,2).</Translation>
+    <Translation>Используются для обучения военных отрядов. Неиспользованные очки link(YIELD_TRAINING,1) {YIELD_TRAINING} добавляются в национальный запас и расходуются на повышение и модернизацию военных отрядов. Получайте больше очков link(YIELD_TRAINING,1) {YIELD_TRAINING} строя link(IMPROVEMENTCLASS_BARRACKS,9) и link(IMPROVEMENTCLASS_RANGE,9).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_CULTURE_HELP</zType>
-    <Translation>Когда шкала link(YIELD_CULTURE) {YIELD_CULTURE} полностью заполняется, происходит благоприятное событие. Уровень городской link(YIELD_CULTURE) {YIELD_CULTURE} влияет на то, какие постройки и чудеса можно возвести. Получайте больше link(YIELD_CULTURE) {YIELD_CULTURE}, строя link(IMPROVEMENTCLASS_SHRINE,2) и link(IMPROVEMENTCLASS_THEATER,2).</Translation>
+    <Translation>Когда шкала link(YIELD_CULTURE,1) {YIELD_CULTURE} полностью заполняется, происходит благоприятное событие. Уровень городской link(YIELD_CULTURE,1) {YIELD_CULTURE} влияет на то, какие сооружения и Чудеса можно возвести. Получайте больше link(YIELD_CULTURE,1) {YIELD_CULTURE}, строя link(IMPROVEMENTCLASS_SHRINE,9) и link(IMPROVEMENTCLASS_ODEON,9).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_DISCONTENT_HELP</zType>
-    <Translation>В городах со временем накапливается link(YIELD_DISCONTENT) {YIELD_DISCONTENT}. Когда шкала link(YIELD_DISCONTENT) {YIELD_DISCONTENT} полностью заполняется, то повышается его уровень. Это приводит к увеличению link(YIELD_MAINTENANCE) {YIELD_MAINTENANCE} и снижению link(YIELD_GROWTH) {YIELD_GROWTH}. Проводите link(PROJECT_FESTIVAL,2), чтобы снизить link(YIELD_DISCONTENT) {YIELD_DISCONTENT}.</Translation>
+    <Translation>В городах со временем накапливается link(YIELD_DISCONTENT) {YIELD_DISCONTENT}. Когда шкала link(YIELD_DISCONTENT,1) {YIELD_DISCONTENT} города полностью заполняется, то его общий уровень link(YIELD_DISCONTENT,1) повышается. Это приводит к увеличению link(YIELD_MAINTENANCE,1) {YIELD_MAINTENANCE} и снижению link(YIELD_GROWTH,1) {YIELD_GROWTH}. Вы можете уменьшить link(YIELD_DISCONTENT,3){YIELD_DISCONTENT}, соединяя свои города link(CONCEPT_ROAD,10), нанимая link(SPECIALISTCLASS_PRIEST,7) или строя link(IMPROVEMENTCLASS_BATHS,3).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_SCIENCE_HELP</zType>
-    <Translation>Используется для исследования технологий. Получайте больше link(YIELD_SCIENCE,1) {YIELD_SCIENCE}, строя link(PROJECT_ARCHIVE_1,7) и link(IMPROVEMENTCLASS_LIBRARY,7).</Translation>
+    <Translation>Используется для исследования технологий. Получайте больше link(YIELD_SCIENCE,1){YIELD_SCIENCE}, строя link(PROJECT_ARCHIVE_1,9) и link(IMPROVEMENTCLASS_LIBRARY,9).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_MONEY_HELP</zType>
-    <Translation>Используются для покупки других ресурсов. Получайте больше link(YIELD_MONEY,1) {YIELD_MONEY}, строя link(IMPROVEMENT_HAMLET,1) и link(IMPROVEMENTCLASS_MARKET,7).</Translation>
+    <Translation>Используются для покупки других ресурсов. Получайте больше link(YIELD_MONEY,1) {YIELD_MONEY}, строя link(IMPROVEMENTCLASS_HAMLET,9) и link(IMPROVEMENTCLASS_MARKET,9).</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_MAINTENANCE_HELP</zType>
@@ -2033,6 +2032,6 @@
   </Entry>
   <Entry>
     <zType>TEXT_YIELD_ORDERS_HELP</zType>
-    <Translation>link(YIELD_ORDERS) {YIELD_ORDERS} можно потратить на различные действия, такие как: движение, атака и создание построек. Неиспользованные link(YIELD_ORDERS) {YIELD_ORDERS} продаются за link(YIELD_MONEY) {YIELD_MONEY} в конце года.</Translation>
+    <Translation>link(YIELD_ORDERS,6) {YIELD_ORDERS} можно потратить на различные действия, такие, как: движение, атака и создание построек. Неиспользованные link(YIELD_ORDERS,6) {YIELD_ORDERS} продаются за link(YIELD_MONEY,3) {YIELD_MONEY} в конце года.</Translation>
   </Entry>
 </Root>

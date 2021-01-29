@@ -560,10 +560,6 @@
 		<MemoryPlayer>MEMORYPLAYER_GAVE_FAVOR</MemoryPlayer>
 	</Entry>
 	<Entry>
-		<zType>BONUS_PLAYER_HELPED_US</zType>
-		<MemoryPlayer>MEMORYPLAYER_HELPED_US</MemoryPlayer>
-	</Entry>
-	<Entry>
 		<zType>BONUS_FAMILY_PURSUED_AMBITION</zType>
 		<MemoryFamily>MEMORYFAMILY_PURSUED_AMBITION</MemoryFamily>
 	</Entry>
@@ -6834,6 +6830,12 @@
 		<aeAddTraits>
 			<zValue>TRAIT_INCUBATED</zValue>
 		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_INCUBATED</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_INCUBATED</zValue>
+		</aeRemoveTraits>
 	</Entry>
 	<Entry>
 		<zType>BONUS_GIVE_TRAIT_POISONER</zType>

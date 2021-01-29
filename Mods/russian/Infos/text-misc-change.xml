@@ -7,15 +7,15 @@
   </Entry>
   <Entry>
     <zType>TEXT_TRIBE_ADJECTIVE</zType>
-    <Translation>{0,1_TribeAdjective}</Translation>
+    <Translation>{0,6_TribeAdjective}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRIBE_SITE</zType>
-    <Translation>{0,1_TribeAdjective} место</Translation>
+    <Translation>{0,6_TribeAdjective} место</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_NATION_SITE</zType>
-    <Translation>{0,1_NationAdjective} место</Translation>
+    <Translation>{0,13_NationAdjective} место</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_PLAYER_NUMBER</zType>
