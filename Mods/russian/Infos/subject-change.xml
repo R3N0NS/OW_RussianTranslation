@@ -3759,7 +3759,7 @@ They must be an adult (at least 18) and no older than
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_CHARACTER_AMBASSADOR_CANDIDATE</zType>
-		<zName>Ambassador Candidate</zName>
+		<zName>Кандидат в послы</zName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<aeTraitAny>
 			<zValue>TRAIT_COMMANDER_ARCHETYPE</zValue>
@@ -3769,7 +3769,7 @@ They must be an adult (at least 18) and no older than
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_CHARACTER_CHANCELLOR_CANDIDATE</zType>
-		<zName>Chancellor Candidate</zName>
+		<zName>Кандидат в канцлеры</zName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<aeTraitAny>
 			<zValue>TRAIT_ZEALOT_ARCHETYPE</zValue>
@@ -3779,7 +3779,7 @@ They must be an adult (at least 18) and no older than
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_CHARACTER_SPYMASTER_CANDIDATE</zType>
-		<zName>Spymaster Candidate</zName>
+		<zName>Кандидат в мастера шпионажа</zName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<aeTraitAny>
 			<zValue>TRAIT_TACTICIAN_ARCHETYPE</zValue>
@@ -3801,7 +3801,7 @@ They must be an adult (at least 18) and no older than
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_CHARACTER_GENERAL_CANDIDATE</zType>
-		<zName>General Candidate</zName>
+		<zName>Кандидат в генералы</zName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<aeTraitAny>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>
@@ -3812,7 +3812,7 @@ They must be an adult (at least 18) and no older than
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_CHARACTER_AGENT_CANDIDATE</zType>
-		<zName>Agent Candidate</zName>
+		<zName>Кандидат в агенты</zName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<aeTraitAny>
 			<zValue>TRAIT_HERO_ARCHETYPE</zValue>

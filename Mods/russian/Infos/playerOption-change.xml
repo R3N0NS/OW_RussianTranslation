@@ -92,7 +92,7 @@
 	<Entry>
 		<zType>PLAYEROPTION_HIDE_UNIT_MOVEMENT_STEPS</zType>
 		<zName>Скрыть шаги перемещения</zName>
-		<zDesc>Скрыть диапазон перемещения для каждого шага выбранного юнита</zDesc>
+		<zDesc>Скрыть диапазон перемещения для каждого шага выбранного отряда</zDesc>
 	</Entry>
 	<Entry>
 		<zType>PLAYEROPTION_SHOW_GHOST_UNITS</zType>

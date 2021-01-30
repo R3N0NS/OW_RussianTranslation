@@ -77,7 +77,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_FAMILY</zType>
-    <Translation>Семья~Семьи</Translation>
+    <Translation>Семья~Семьи~Семье~Семью~Семьей~Семье~Семье~Семьи~Семей~Семьям~Семьи~Семьями~Семьях</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_GENERAL</zType>
@@ -89,7 +89,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_CONCEPT_COUNCILOR</zType>
-    <Translation>Советник~Советники</Translation>
+    <Translation>Советник~Советника~Советнику~Советника~Советником~Советнике~Советнике~Советники~Советников~Советникам~Советников~Советниками~Советниках</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_CONCEPT_SHRINE</zType>

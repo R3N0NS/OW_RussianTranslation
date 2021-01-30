@@ -9,7 +9,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ASSUR</zType>
-		<zName>Ассур</zName>
+		<zName>Ашшур</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_NINEVEH</zType>
@@ -17,11 +17,11 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_KALHU</zType>
-		<zName>Калху</zName>
+		<zName>Калах</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_HALAB</zType>
-		<zName>Халаб</zName>
+		<zName>Халеб</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ARPAD</zType>
@@ -29,7 +29,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_KANESH</zType>
-		<zName>Канеш</zName>
+		<zName>Каниш</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_DUR_SHARRUKIN</zType>
@@ -69,7 +69,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ARRAPHA</zType>
-		<zName>Аррафа</zName>
+		<zName>Аррапха</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CARCHEMISH</zType>
@@ -85,7 +85,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_NISIBIS</zType>
-		<zName>Нисиби</zName>
+		<zName>Нусайбин</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BABYLON</zType>
@@ -117,15 +117,15 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_DUR_KURIGALZU</zType>
-		<zName>Дур-Куригалзу</zName>
+		<zName>Дур-Куригальзу</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ELLASAR</zType>
-		<zName>Элласар</zName>
+		<zName>Елласар</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_OPIS</zType>
-		<zName>Опис</zName>
+		<zName>Упи</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_LARSA</zType>
@@ -165,23 +165,23 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_DILBAT</zType>
-		<zName>Дилбат</zName>
+		<zName>Дильбат</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CARTHAGO</zType>
-		<zName>Карфагон</zName>
+		<zName>Карфаген</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BYBLOS</zType>
-		<zName>Библос</zName>
+		<zName>Библ</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_TYRE</zType>
-		<zName>Шина</zName>
+		<zName>Сур</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_SIDON</zType>
-		<zName>Сидон</zName>
+		<zName>Сайда</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ARWAD</zType>
@@ -197,11 +197,11 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BERYTOS</zType>
-		<zName>Беритос</zName>
+		<zName>Берит</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_LEBNAN</zType>
-		<zName>Лебнан</zName>
+		<zName>Лебанон</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ADONIS</zType>
@@ -209,27 +209,27 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ISHTARA</zType>
-		<zName>Иштара</zName>
+		<zName>Иштар</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_HIPPO_REGIUS</zType>
-		<zName>Бегемот</zName>
+		<zName>Гиппон</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PANORMUS</zType>
-		<zName>Панормус</zName>
+		<zName>Панормо</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_LEPTIS_MAGNA</zType>
-		<zName>Лептис Магна</zName>
+		<zName>Лептис-Магна</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_HADRUMETUM</zType>
-		<zName>Хадрумет</zName>
+		<zName>Гадрумет</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_LILYBAEUM</zType>
-		<zName>Лилибей</zName>
+		<zName>Лилибеи</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ZAMA</zType>
@@ -237,19 +237,19 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_KARALIS</zType>
-		<zName>Каралис</zName>
+		<zName>Кальяри</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_THAPSUS</zType>
-		<zName>Тапсус</zName>
+		<zName>Тапс</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_KERKUANE</zType>
-		<zName>Керкуане</zName>
+		<zName>Керкуан</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_TINGIS</zType>
-		<zName>Тингис</zName>
+		<zName>Танжер</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_SULCI</zType>
@@ -257,11 +257,11 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_THEVESTE</zType>
-		<zName>Тевест</zName>
+		<zName>Тебесса</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MELITE</zType>
-		<zName>Мелит</zName>
+		<zName>Мелитена</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_NORA</zType>
@@ -269,7 +269,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_KARTEIA</zType>
-		<zName>Картея</zName>
+		<zName>Картахена</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_SABRATA</zType>
@@ -281,7 +281,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BYRSA</zType>
-		<zName>Бирса</zName>
+		<zName>Бурса</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BAALBECK</zType>
@@ -289,7 +289,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_WASET</zType>
-		<zName>Васет</zName>
+		<zName>Васит</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MEMPHIS</zType>
@@ -297,15 +297,15 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ELEPHANTINE</zType>
-		<zName>Элефантин</zName>
+		<zName>Элефантина</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PI_RAMESSES</zType>
-		<zName>Пи-Рамсес</zName>
+		<zName>Пер-Рамсес</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_HELIOPOLIS</zType>
-		<zName>Гелиополис</zName>
+		<zName>Гелиополь</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ALEXANDRIA</zType>
@@ -321,11 +321,11 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_DENDERA</zType>
-		<zName>Дендера</zName>
+		<zName>Дандара</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_SHEDET</zType>
-		<zName>Шедет</zName>
+		<zName>Шедит</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_AVARIS</zType>
@@ -345,7 +345,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_HIERACONPOLIS</zType>
-		<zName>Иераконполис</zName>
+		<zName>Нехен</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_TANIS</zType>
@@ -353,7 +353,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PELUSIUM</zType>
-		<zName>Пелусиум</zName>
+		<zName>Пелузий</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ASWAN</zType>
@@ -365,7 +365,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_DAMIETTA</zType>
-		<zName>Дамиетта</zName>
+		<zName>Думьят</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ATHENS</zType>
@@ -389,11 +389,11 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ELIS</zType>
-		<zName>Элис</zName>
+		<zName>Элида</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MESSENE</zType>
-		<zName>Мессении</zName>
+		<zName>Месини</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ERETRIA</zType>
@@ -401,7 +401,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CORCYRA</zType>
-		<zName>Коркира</zName>
+		<zName>Керкира</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_LARISSA</zType>
@@ -429,11 +429,11 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PERGAMON</zType>
-		<zName>Пергамон</zName>
+		<zName>Пергам</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BYZANTIUM</zType>
-		<zName>Византия</zName>
+		<zName>Византий</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PELLA</zType>
@@ -457,7 +457,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CHAERONE</zType>
-		<zName>Шерон</zName>
+		<zName>Хеврон</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PHILIPPI</zType>
@@ -477,15 +477,15 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_OLYNTHUS</zType>
-		<zName>Олинтус</zName>
+		<zName>Олинф</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_POTIDAEA</zType>
-		<zName>Потидеи</zName>
+		<zName>Потидея</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MAGNESIA</zType>
-		<zName>Магнезия</zName>
+		<zName>Магнесия</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_THERMOPYLAE</zType>
@@ -505,11 +505,11 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_DIUM</zType>
-		<zName>Диум</zName>
+		<zName>Дион</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_HEBRUS</zType>
-		<zName>Хебрус</zName>
+		<zName>Марица</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_EUBOEA</zType>
@@ -517,7 +517,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PERSEPOLIS</zType>
-		<zName>Персеполис</zName>
+		<zName>Персеполь</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_SUSA</zType>
@@ -533,23 +533,23 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ANSHAN</zType>
-		<zName>Аншань</zName>
+		<zName>Аньшань</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_SARDIS</zType>
-		<zName>Сардис</zName>
+		<zName>Сарды</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_TARSUS</zType>
-		<zName>Тарс</zName>
+		<zName>Тарсус</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BACTRA</zType>
-		<zName>Bactra</zName>
+		<zName>Балх</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_GORDIUM</zType>
-		<zName>Гордиум</zName>
+		<zName>Гордион</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CTESIPHON</zType>
@@ -565,7 +565,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_SHUSHTAR</zType>
-		<zName>Шуштар</zName>
+		<zName>Шуштер</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_NISHAPUR</zType>
@@ -601,7 +601,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MEDEA</zType>
-		<zName>Медея</zName>
+		<zName>Медеа</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PERSIS</zType>
@@ -609,7 +609,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_THYMBRA</zType>
-		<zName>Тимбра</zName>
+		<zName>Фимбра</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_HYRBA</zType>
@@ -633,7 +633,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ANTIUM</zType>
-		<zName>Антиум</zName>
+		<zName>Анцио</zName>
 		<azNationAdjectivesMale>
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
@@ -665,7 +665,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BENEVENTUM</zType>
-		<zName>Беневентум</zName>
+		<zName>Беневенто</zName>
 		<azNationAdjectivesMale>
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
@@ -681,7 +681,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ARRETIUM</zType>
-		<zName>Арретиум</zName>
+		<zName>Ареццо</zName>
 		<azNationAdjectivesMale>
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
@@ -697,7 +697,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CAPUA</zType>
-		<zName>Капуа</zName>
+		<zName>Капуя</zName>
 		<azNationAdjectivesMale>
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
@@ -713,7 +713,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BRUNDISIUM</zType>
-		<zName>Брундизиум</zName>
+		<zName>Бриндизи</zName>
 		<azNationAdjectivesMale>
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
@@ -729,7 +729,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_NEAPOLIS</zType>
-		<zName>Неаполис</zName>
+		<zName>Неаполь</zName>
 		<azNationAdjectivesMale>
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
@@ -745,7 +745,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ARIMINUM</zType>
-		<zName>Ариминум</zName>
+		<zName>Аримин</zName>
 		<azNationAdjectivesMale>
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
@@ -761,7 +761,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MEDIOLANUM</zType>
-		<zName>Медиоланум</zName>
+		<zName>Милан</zName>
 		<azNationAdjectivesMale>
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
@@ -777,7 +777,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PATAVIUM</zType>
-		<zName>Патавиум</zName>
+		<zName>Падуя</zName>
 		<azNationAdjectivesMale>
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
@@ -809,7 +809,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_SALERNUM</zType>
-		<zName>Салернум</zName>
+		<zName>Салерно</zName>
 		<azNationAdjectivesMale>
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
@@ -873,7 +873,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BONONIA</zType>
-		<zName>Бонония</zName>
+		<zName>Болонья</zName>
 		<azNationAdjectivesMale>
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
@@ -889,7 +889,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_TICINUM</zType>
-		<zName>Тицинум</zName>
+		<zName>Тицин</zName>
 		<azNationAdjectivesMale>
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>

@@ -21,7 +21,7 @@
 		<zName>Мудрость</zName>
 		<zIconName>RATING_WISDOM</zIconName>
 		<zHelp>Для лидеров и губернаторов мудрость увеличивает {YIELD_SCIENCE}.
-Для генералов Мудрость увеличивает шанс критического удара юнита.</zHelp>
+Для генералов Мудрость увеличивает шанс критического удара отряда.</zHelp>
 		<iCriticalChance>1</iCriticalChance>
 		<aiYieldLeaderRate>
 			<Pair>

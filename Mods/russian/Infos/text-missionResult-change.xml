@@ -32,7 +32,7 @@
   <Entry>
 	<zType>TEXT_MISSIONRESULT_INFLUENCE_EVENT_DESCRIPTION</zType>
     <Translation>Попытка {CHARACTER-SUBJECT,1} распространить ваше влияние привела к событию...</Translation>
-	  </Entry>
+ </Entry>
   <Entry>
     <zType>TEXT_MISSIONRESULT_INFILTRATE_REVEAL_DESCRIPTION</zType>
     <Translation>{CHARACTER-SUBJECT} успешно проникает на территорию вашего соперника.</Translation>

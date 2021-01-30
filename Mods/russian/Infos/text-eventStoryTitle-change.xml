@@ -7287,7 +7287,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_UPGRADES_TITLE</zType>
-		<Translation>Обучение: Улучшение юнита</Translation>
+		<Translation>Обучение: Улучшение отряда</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_TRIBE_CAMP_CLEARED_TITLE</zType>
@@ -7311,7 +7311,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_ON_COOLDOWN_TITLE</zType>
-		<Translation>Обучение: Восстановление юнита</Translation>
+		<Translation>Обучение: Восстановление отряда</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_FATIGUED_TITLE</zType>

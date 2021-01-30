@@ -178,6 +178,7 @@
 		<bGeneralPrereq>1</bGeneralPrereq>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_ZEALOT_ARCHETYPE</LeaderEffectPlayer>
 		<GeneralEffectUnit>EFFECTUNIT_ZEALOT</GeneralEffectUnit>
+		<LeaderEffectUnit>EFFECTUNIT_ZEALOT_LEADER</LeaderEffectUnit>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
@@ -1889,6 +1890,7 @@
 	<Entry>
 		<zType>TRAIT_MISSING</zType>
 		<Name>TEXT_TRAIT_MISSING</Name>
+		<iRemoveProb>30</iRemoveProb>
 		<bNoEvents>1</bNoEvents>
 		<bNoMarry>1</bNoMarry>
 		<bNoBirth>1</bNoBirth>

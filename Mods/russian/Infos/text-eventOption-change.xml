@@ -14118,7 +14118,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LAW_HEAVENS_CHOSEN_OPTION_0</zType>
-    <Translation>Всем должно быть ясно, что я не бог.</Translation>
+    <Translation>Всем должно быть ясно, что я не Бог.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_LAW_HEAVENS_CHOSEN_OPTION_1</zType>
@@ -17890,7 +17890,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_EVENTOPTION_TUTORIAL_UNIT_UPGRADES_OKAY</zType>
-	<Translation>Я link(CONCEPT_PROMOTION,2) и link(CONCEPT_UPGRADE) свои подразделения, чтобы подготовить их к бою!</Translation>
+	<Translation>Я использую link(CONCEPT_PROMOTION) и link(CONCEPT_UPGRADE,3), чтобы подготовить отряды к бою!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_CHARIOT_SELECTED_OKAY</zType>
@@ -18078,7 +18078,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_SPEARMAN_SELECTED_OKAY</zType>
-    <Translation>Я буду использовать копейщиков для борьбы с конными юнитами!</Translation>
+    <Translation>Я буду использовать копейщиков для борьбы с конными отрядами!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_TUTORIAL_AXEMAN_SELECTED_OKAY</zType>
@@ -18094,15 +18094,15 @@
   </Entry>
   <Entry>
 	<zType>TEXT_EVENTOPTION_TUTORIAL_USE_AMBASSADOR_OKAY</zType>
-	<Translation>Я использую link(COUNCIL_AMBASSADOR,1) для дипломатических заданий!</Translation>
+	<Translation>Я назначу link(COUNCIL_AMBASSADOR,1) для дипломатических заданий!</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EVENTOPTION_TUTORIAL_USE_CHANCELLOR_OKAY</zType>
-	<Translation>I will send my link(COUNCIL_CHANCELLOR,1) для важных заданий!</Translation>
+	<Translation>Я назначу link(COUNCIL_CHANCELLOR,1) для важных заданий!</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EVENTOPTION_TUTORIAL_USE_SPYMASTER_OKAY</zType>
-	<Translation>I will use my link(COUNCIL_SPYMASTER,1) для секретных операций!</Translation>
+	<Translation>Я назначу link(COUNCIL_SPYMASTER,1) для секретных операций!</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EVENTOPTION_TUTORIAL_APPOINT_AMBASSADOR_OKAY</zType>
@@ -18114,7 +18114,7 @@
   </Entry>
   <Entry>
 	<zType>TEXT_EVENTOPTION_TUTORIAL_APPOINT_SPYMASTER_OKAY</zType>
-	<Translation>Если я захочу заняться каким-то мошенничеством, то обязательно назначу link(COUNCIL_SPYMASTER,1)!</Translation>
+	<Translation>Если я захочу заняться каким-то мошенничеством, то обязательно назначу link(COUNCIL_SPYMASTER,1)а!</Translation>
   </Entry>
   <Entry beginGroup="Community">
     <zType>TEXT_EVENTOPTION_GOT_YOUR_NOSE_0</zType>
