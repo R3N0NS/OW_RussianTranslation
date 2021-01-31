@@ -145,7 +145,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ESHARRA_HAMMAT</zType>
-		<zName>Эшарра-хаммат</zName>
+		<zName>Ашшур-шаррат</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_EZIPTU</zType>
@@ -181,19 +181,19 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_SAMMU_RAMAT</zType>
-		<zName>Самму-рамат</zName>
+		<zName>Шаммурамат</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SARAIA</zType>
-		<zName>Сарая</zName>
+		<zName>Сария</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SHADDITU</zType>
-		<zName>Шаддиту</zName>
+		<zName>Синаххериб</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_TASHMETU_SHARRAT</zType>
-		<zName>Ташмету-шаррат</zName>
+		<zName>Ташмету</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_YABA</zType>
@@ -201,7 +201,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ZARPANITU</zType>
-		<zName>Зарпаниту</zName>
+		<zName>Царпанит</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ABI_RATTASH</zType>
@@ -221,7 +221,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_BURNABURIASH</zType>
-		<zName>Бурнабуриаш</zName>
+		<zName>Бурна-Буриаш</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ERIBA</zType>
@@ -241,7 +241,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_KARA_HARDASH</zType>
-		<zName>Кара-хардаш</zName>
+		<zName>Караиндаш</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_KASHTILIASH</zType>
@@ -249,7 +249,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_KUDUR_ENLIL</zType>
-		<zName>Кудур-Энлиль</zName>
+		<zName>Энлиль</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_KURIGALZU</zType>
@@ -265,7 +265,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_MELI_SHIPAK</zType>
-		<zName>Мели-Шипак</zName>
+		<zName>Мели-Шиху</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_NABONIDUS</zType>
@@ -398,7 +398,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_UMMI_NINGAL</zType>
-		<zName>Умми-Нингал</zName>
+		<zName>Нингаль</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ZAKITI</zType>
@@ -450,7 +450,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_CARTHALO</zType>
-		<zName>Карфало</zName>
+		<zName>Картало</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ESHMUNAZAR</zType>
@@ -627,7 +627,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_IMILCE</zType>
-		<zName>Имилсе</zName>
+		<zName>Имильче</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_MUTUNBAAL</zType>
@@ -647,7 +647,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_SHAMSHYE</zType>
-		<zName>Шамшай</zName>
+		<zName>Шамшея</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SOPHONISBA</zType>
@@ -663,7 +663,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_THUBABATH</zType>
-		<zName>Тубабат</zName>
+		<zName>Тхуббат</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_UMASHTART</zType>
@@ -671,7 +671,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_YASMIN</zType>
-		<zName>Умаштарт</zName>
+		<zName>Ясмин</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_YZBAAL</zType>
@@ -683,7 +683,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ZOHUR</zType>
-		<zName>Зохур</zName>
+		<zName>Заур</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ZMORROD</zType>
@@ -691,7 +691,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ZYARA</zType>
-		<zName>Зяра</zName>
+		<zName>Зиара</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ZYABQOT</zType>
@@ -707,7 +707,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_AMENEMHAT</zType>
-		<zName>Аменемхат</zName>
+		<zName>Аменемхет</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_AMENHOTEP</zType>
@@ -723,7 +723,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_DJEDEFRE</zType>
-		<zName>Джедефре</zName>
+		<zName>Джедефра</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_DJOSER</zType>
@@ -747,15 +747,15 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_KHAFRE</zType>
-		<zName>Хефрена</zName>
+		<zName>Хафра</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_KHUFU</zType>
-		<zName>Хуфу</zName>
+		<zName>Хеопс</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_MENKAURE</zType>
-		<zName>Менкауре</zName>
+		<zName>Микерин</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_MENTUHOTEP</zType>
@@ -763,7 +763,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_MERENPTAH</zType>
-		<zName>Меренптах</zName>
+		<zName>Мернептах</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_NARMER</zType>
@@ -771,19 +771,19 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_NEFERKARE</zType>
-		<zName>Неферкаре</zName>
+		<zName>Неферкара</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_PEPI</zType>
-		<zName>Пепи</zName>
+		<zName>Пиопи</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_PSAMTIK</zType>
-		<zName>Псамтик</zName>
+		<zName>Псамметих</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SENUSRET</zType>
-		<zName>Сенусрет</zName>
+		<zName>Сенусерт</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SETI</zType>
@@ -799,15 +799,15 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ANKHESENAMUN</zType>
-		<zName>Анхесенамун</zName>
+		<zName>Анхесенамон</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_BERENIB</zType>
-		<zName>Берениб</zName>
+		<zName>Има-Иб</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ESENCHEBIS</zType>
-		<zName>Эсенчебис</zName>
+		<zName>Эсеншебис</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_HATSHEPSUT</zType>
@@ -861,7 +861,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_NITIQRET</zType>
-		<zName>Нитикрет</zName>
+		<zName>Нитокрис</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_REKHETRE</zType>
@@ -885,7 +885,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_SOBEKNEFERU</zType>
-		<zName>Собекнеферу</zName>
+		<zName>Нефрусебек</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_TETOBASTIS</zType>
@@ -893,11 +893,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_TIYE</zType>
-		<zName>Тии</zName>
+		<zName>Тия</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_TWOSRET</zType>
-		<zName>Твосрет</zName>
+		<zName>Таусерт</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_UDJEBTEN</zType>
@@ -909,11 +909,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_AGIS</zType>
-		<zName>Эгис</zName>
+		<zName>Агис</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ALCETAS</zType>
-		<zName>Альсетас</zName>
+		<zName>Алкета</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ALCIBIADES</zType>
@@ -942,23 +942,23 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ARYBBAS</zType>
-		<zName>Арибва</zName>
+		<zName>Арриб</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ARYMBAS</zType>
-		<zName>Аримбас</zName>
+		<zName>Аримб</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ATTALUS</zType>
-		<zName>Атталус</zName>
+		<zName>Аттал</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_BALACRUS</zType>
-		<zName>Балакрус</zName>
+		<zName>Балакр</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_BARDYLIS</zType>
-		<zName>Бардилис</zName>
+		<zName>Бардил</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_CASSANDER</zType>
@@ -966,7 +966,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_CHRYSEIS</zType>
-		<zName>Хрисенда</zName>
+		<zName>Хрисеида</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_CIMON</zType>
@@ -990,11 +990,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_DERDAS</zType>
-		<zName>Дердас</zName>
+		<zName>Дерда</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_DEMETRIUS</zType>
-		<zName>Деметриус</zName>
+		<zName>Деметрий</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_DIODORUS</zType>
@@ -1030,7 +1030,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_MACHATAS</zType>
-		<zName>Machatas</zName>
+		<zName>Махат</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_MELEAGER</zType>
@@ -1042,7 +1042,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_NEOPTLEMUS</zType>
-		<zName>Неоптлемус</zName>
+		<zName>Неоптолем</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_NICIAS</zType>
@@ -1054,7 +1054,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_PARMENIO</zType>
-		<zName>Парменио</zName>
+		<zName>Парменион</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_PAUSANIAS</zType>
@@ -1086,7 +1086,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_PHILOTAS</zType>
-		<zName>Филоты</zName>
+		<zName>Филота</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_POLYPERCHON</zType>
@@ -1115,7 +1115,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ANYTE</zType>
-		<zName>Аните</zName>
+		<zName>Анита</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ARCHIDAMIA</zType>
@@ -1123,7 +1123,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ARETE</zType>
-		<zName>Арете</zName>
+		<zName>Арета</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ARSINOE</zType>
@@ -1131,11 +1131,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ARTEMISIA</zType>
-		<zName>Артемизия</zName>
+		<zName>Артемисия</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ASPASIA</zType>
-		<zName>Аспазия</zName>
+		<zName>Аспасия</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_AUDATA</zType>
@@ -1143,15 +1143,15 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_BERENICE</zType>
-		<zName>Беренис</zName>
+		<zName>Береника</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_BILISTICHE</zType>
-		<zName>Билистиче</zName>
+		<zName>Билистиха</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_CHILONIS</zType>
-		<zName>Хилонис</zName>
+		<zName>Хилонида</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_CYNANE</zType>
@@ -1199,7 +1199,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_LANIKE</zType>
-		<zName>Ланике</zName>
+		<zName>Ланика</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_METRODORA</zType>
@@ -1207,7 +1207,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_MORALIA</zType>
-		<zName>Мораль</zName>
+		<zName>Моралия</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_MYRTALE</zType>
@@ -1219,7 +1219,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_NICASIPOLIS</zType>
-		<zName>Никасиполис</zName>
+		<zName>Никесиполида</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_OLYMPIAS</zType>
@@ -1260,7 +1260,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_THEANO</zType>
-		<zName>Теано</zName>
+		<zName>Теона</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_TIMAEA</zType>
@@ -1268,7 +1268,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_XANTHIPPE</zType>
-		<zName>Ксантип</zName>
+		<zName>Ксантиппа</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ARDASHIR</zType>
@@ -1276,11 +1276,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ARIASPES</zType>
-		<zName>Ариаспы</zName>
+		<zName>Ариасп</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ARTABANUS</zType>
-		<zName>Артабанус</zName>
+		<zName>Артабан</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ARTAXERXES</zType>
@@ -1292,7 +1292,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ARUKU</zType>
-		<zName>Аруку</zName>
+		<zName>Арук</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_BAHRAM</zType>
@@ -1305,16 +1305,16 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_CAMBYSES</zType>
-		<zName>Камбиз</zName>
+		<zName>Камбис</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_CYRUS</zType>
-		<zName>Сайрус</zName>
+		<zName>Кир</zName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_CYRUS</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_DARIUS</zType>
-		<zName>Дариус</zName>
+		<zName>Дарий</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_HARPAGUS</zType>
@@ -1322,11 +1322,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_HORMIZD</zType>
-		<zName>Хормизд</zName>
+		<zName>Ормизд</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_HYSTASPES</zType>
-		<zName>Гистаспы</zName>
+		<zName>Гистасп</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_KHOSRAU</zType>
@@ -1334,11 +1334,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_MAZYAR</zType>
-		<zName>Мазьяр</zName>
+		<zName>Мазъяр</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_MEGABAZUS</zType>
-		<zName>Мегабаз</zName>
+		<zName>Мегабат</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_MITHRIDATES</zType>
@@ -1346,19 +1346,19 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ORODES</zType>
-		<zName>Ородес</zName>
+		<zName>Ород</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_OXATHRES</zType>
-		<zName>Оксатрес</zName>
+		<zName>Оксатр</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_PHARNASPES</zType>
-		<zName>Фарнаспес</zName>
+		<zName>Фарнасп</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_PHRAATES</zType>
-		<zName>Фрааты</zName>
+		<zName>Фраат</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SHAPUR</zType>
@@ -1366,7 +1366,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_SMERDIS</zType>
-		<zName>Смердис</zName>
+		<zName>Бардия</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SUKHRA</zType>
@@ -1374,15 +1374,15 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_TEISPES</zType>
-		<zName>Тайспес</zName>
+		<zName>Теисп</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_TIRIDATES</zType>
-		<zName>Тиридат</zName>
+		<zName>Трдат</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_VOLOGASES</zType>
-		<zName>Вологасы</zName>
+		<zName>Вологез</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_XERXES</zType>
@@ -1390,7 +1390,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_YAZDEGERD</zType>
-		<zName>Йездигерд</zName>
+		<zName>Йездегерд</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_AMESTRIS</zType>
@@ -1410,11 +1410,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ARTAZOSTRE</zType>
-		<zName>Артазостре</zName>
+		<zName>Артазостра</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ARTYSTONE</zType>
-		<zName>Артстоун</zName>
+		<zName>Артистона</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ASTAR</zType>
@@ -1422,7 +1422,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_AZARMIDOKHT</zType>
-		<zName>Азармидохт</zName>
+		<zName>Азармедохт</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_BARSINE</zType>
@@ -1431,11 +1431,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_BORAN</zType>
-		<zName>Боран</zName>
+		<zName>Бора</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_CASSANDANE</zType>
-		<zName>Кассандан</zName>
+		<zName>Кассанда</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_GORDIYA</zType>
@@ -1443,7 +1443,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_GURDZAD</zType>
-		<zName>Гурдзад</zName>
+		<zName>Гурдза</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_IFRA</zType>
@@ -1455,7 +1455,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_KHURANZIM</zType>
-		<zName>Хуранзим</zName>
+		<zName>Хуранзима</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_MANDANA</zType>
@@ -1475,7 +1475,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_PARYSATIS</zType>
-		<zName>Парисатис</zName>
+		<zName>Парисатида</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ROXANA</zType>
@@ -1496,15 +1496,15 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ZAND</zType>
-		<zName>Занд</zName>
+		<zName>Зенд</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ZURVANDOKHT</zType>
-		<zName>Зурвандохт</zName>
+		<zName>Зурвандухт</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_APPIUS</zType>
-		<zName>Аппиус</zName>
+		<zName>Аппий</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_AULUS</zType>
@@ -1536,15 +1536,15 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_HOSTUS</zType>
-		<zName>Хостус</zName>
+		<zName>Хост</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_KAESO</zType>
-		<zName>Каэсо</zName>
+		<zName>Кэсо</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_LUCIUS</zType>
-		<zName>Люциус</zName>
+		<zName>Луций</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_MAMERCUS</zType>
@@ -1552,23 +1552,23 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_MANIUS</zType>
-		<zName>Маниус</zName>
+		<zName>Маний</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_MARCUS</zType>
-		<zName>Маркус</zName>
+		<zName>Марк</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_NONUS</zType>
-		<zName>Нонус</zName>
+		<zName>Нон</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_NUMERIUS</zType>
-		<zName>Нумериус</zName>
+		<zName>Нумериан</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_OCTAVIUS</zType>
-		<zName>Октавиус</zName>
+		<zName>Октавиан</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_POSTUMUS</zType>
@@ -1580,7 +1580,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_QUINTUS</zType>
-		<zName>Квинта</zName>
+		<zName>Квинт</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_REMUS</zType>
@@ -1752,27 +1752,27 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_CAMULOGENOS</zType>
-		<zName>Камулогенос</zName>
+		<zName>Камулоген</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_CASTICOS</zType>
-		<zName>Кастикос</zName>
+		<zName>Кастикс</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_CAVARINOS</zType>
-		<zName>Каваринос</zName>
+		<zName>Каварин</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_COMMIOS</zType>
-		<zName>Коммиос</zName>
+		<zName>Коммий</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_DIVICO</zType>
-		<zName>Дивико</zName>
+		<zName>Дивикон</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_DIVITIACOS</zType>
-		<zName>Дивитиакус</zName>
+		<zName>Дивитиак</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_DUMNORIX</zType>
@@ -1788,35 +1788,35 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_GALATOS</zType>
-		<zName>Галатос</zName>
+		<zName>Галат</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_LICNOS</zType>
-		<zName>Лицензии</zName>
+		<zName>Ликн</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_RIGATIKOS</zType>
-		<zName>Ригатикос</zName>
+		<zName>Ригат</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_TOGODUMNOS</zType>
-		<zName>Тогодумно</zName>
+		<zName>Тогодумн</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_VECTITOS</zType>
-		<zName>Вектитос</zName>
+		<zName>Вектит</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_VINDIACOS</zType>
-		<zName>Виндиакос</zName>
+		<zName>Виндиак</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_VIRIDOMAROS</zType>
-		<zName>Виридомарос</zName>
+		<zName>Виридомар</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ABESIA</zType>
-		<zName>Абезия</zName>
+		<zName>Авесия</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ADIEGA</zType>
@@ -1860,7 +1860,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_OBALDA</zType>
-		<zName>Обалда</zName>
+		<zName>Обальда</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_PAULLA</zType>
@@ -1872,7 +1872,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_RUFENA</zType>
-		<zName>Руфена</zName>
+		<zName>Руфина</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_STAIA</zType>
@@ -1888,7 +1888,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_VENITOUTA</zType>
-		<zName>Венитута</zName>
+		<zName>Венита</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_VLATUCA</zType>
@@ -1896,7 +1896,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ARIFRIDOS</zType>
-		<zName>Арифридос</zName>
+		<zName>Арифрид</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_FREDIBAL</zType>
@@ -1908,7 +1908,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_GAISERIC</zType>
-		<zName>Гейзерик</zName>
+		<zName>Гейзерих</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_GELIMER</zType>
@@ -1916,7 +1916,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_GENTO</zType>
-		<zName>Гэнто</zName>
+		<zName>Хенто</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_GIBAMUND</zType>
@@ -1932,15 +1932,15 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_GUNDERIC</zType>
-		<zName>Гундерик</zName>
+		<zName>Гундерих</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_GUNTHAMUND</zType>
-		<zName>Гюнтамунд</zName>
+		<zName>Гунтамунд</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_HILDERIC</zType>
-		<zName>Хильдер</zName>
+		<zName>Хильдерих</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_HUNERIC</zType>
@@ -1948,7 +1948,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_SCARILA</zType>
-		<zName>Скариола</zName>
+		<zName>Скарила</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SINDIVULT</zType>
@@ -1980,7 +1980,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_BEREMUDA</zType>
-		<zName>Беремуда</zName>
+		<zName>Бермуда</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_BRUNHILDA</zType>
@@ -1992,7 +1992,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ERELEUVA</zType>
-		<zName>Ерелеува</zName>
+		<zName>Эрелиева</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ERMENGON</zType>
@@ -2000,7 +2000,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_GALSUINTHA</zType>
-		<zName>Галсуинта</zName>
+		<zName>Галесвинта</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_GAMBARA</zType>
@@ -2032,7 +2032,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_MATASUNTHA</zType>
-		<zName>Матасунтха</zName>
+		<zName>Матасунта</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_RAGNAGILD</zType>
@@ -2048,7 +2048,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_VALILU</zType>
-		<zName>Валилу</zName>
+		<zName>Валиулла</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_WELLA</zType>
@@ -2056,7 +2056,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_AMLETH</zType>
-		<zName>Амлет</zName>
+		<zName>Гамлет</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_BJARKE</zType>
@@ -2064,15 +2064,15 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_CANUTE</zType>
-		<zName>Канут</zName>
+		<zName>Кнуд</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_FENG</zType>
-		<zName>Фэн</zName>
+		<zName>Фенг</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_FRODE</zType>
-		<zName>Фроде</zName>
+		<zName>Фрод</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_GORM</zType>
@@ -2092,7 +2092,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_HARTHACANUTE</zType>
-		<zName>Хартаканут</zName>
+		<zName>Хардекнуд</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_HAVELOK</zType>
@@ -2104,11 +2104,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_HJALTE</zType>
-		<zName>Хьялте</zName>
+		<zName>Яльт</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_HROTHGAR</zType>
-		<zName>Хротгар</zName>
+		<zName>Хродгар</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_IVAR</zType>
@@ -2128,7 +2128,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_SWEYN</zType>
-		<zName>Свейн</zName>
+		<zName>Свен</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_VALDEMAR</zType>
@@ -2136,7 +2136,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ALFHILD</zType>
-		<zName>Альфилд</zName>
+		<zName>Альфхильд</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ASA</zType>
@@ -2152,7 +2152,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_GUNNHILD</zType>
-		<zName>Ганнхильд</zName>
+		<zName>Гуннхильда</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_GURUTHA</zType>
@@ -2164,11 +2164,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_HERMUTRUDE</zType>
-		<zName>Гермутруд</zName>
+		<zName>Гермутруда</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_HETHA</zType>
-		<zName>Хета</zName>
+		<zName>Герта</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_KRAKA</zType>
@@ -2180,11 +2180,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_RUTE</zType>
-		<zName>Рута</zName>
+		<zName>Рут</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SELA</zType>
-		<zName>Села</zName>
+		<zName>Сэла</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SIGNE</zType>
@@ -2196,7 +2196,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_SKULDE</zType>
-		<zName>Скулде</zName>
+		<zName>Скульд</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_THORA</zType>
@@ -2204,11 +2204,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_URSE</zType>
-		<zName>Урс</zName>
+		<zName>Урса</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_WEBIORG</zType>
-		<zName>Вебиорг</zName>
+		<zName>Веборг</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_WISNA</zType>
@@ -2220,15 +2220,15 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_AMADOCUS</zType>
-		<zName>Амадокус</zName>
+		<zName>Амадок</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_BERISADES</zType>
-		<zName>Берисадес</zName>
+		<zName>Берисад</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_CERSOBLEPTES</zType>
-		<zName>Керсоблепты</zName>
+		<zName>Керсеблепт</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_COSINGAS</zType>
@@ -2236,19 +2236,19 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_COTYS</zType>
-		<zName>Котис</zName>
+		<zName>Коттис</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_GETAS</zType>
-		<zName>Гетас</zName>
+		<zName>Гет</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_LANGARUS</zType>
-		<zName>Лангарус</zName>
+		<zName>Лангар</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_MESADES</zType>
-		<zName>Месады</zName>
+		<zName>Месад</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_MOSTIS</zType>
@@ -2260,31 +2260,31 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_RHAISCUS</zType>
-		<zName>Раискус</zName>
+		<zName>Раиск</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_RHESCUPORIS</zType>
-		<zName>Резкупорис</zName>
+		<zName>Рескупорид</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SADALAS</zType>
-		<zName>Садалас</zName>
+		<zName>Садал</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SADOCUS</zType>
-		<zName>Садокус</zName>
+		<zName>Садок</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SEUTHES</zType>
-		<zName>Севф</zName>
+		<zName>Севт</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SITALCES</zType>
-		<zName>Ситальцес</zName>
+		<zName>Ситалк</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SPARTOCUS</zType>
-		<zName>Спартокус</zName>
+		<zName>Спартак</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_TERES</zType>
@@ -2332,11 +2332,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_HARPALYCE</zType>
-		<zName>Гарпалиц</zName>
+		<zName>Гарпалика</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_HEGESIPYLE</zType>
-		<zName>Гегезипиль</zName>
+		<zName>Эгесипиль</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_KIASA</zType>
@@ -2344,7 +2344,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_MAESIRA</zType>
-		<zName>Маэсира</zName>
+		<zName>Майсара</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_MEDA</zType>
@@ -2372,7 +2372,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_TATAZA</zType>
-		<zName>Татаза</zName>
+		<zName>Татахаза</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ABARIS</zType>
@@ -2380,7 +2380,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_AGAR</zType>
-		<zName>Агар</zName>
+		<zName>Агарь</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ANTIR</zType>
@@ -2388,7 +2388,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ARIANT</zType>
-		<zName>Ариант</zName>
+		<zName>Ариан</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ARIMAZ</zType>
@@ -2396,7 +2396,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ATEAS</zType>
-		<zName>Атеас</zName>
+		<zName>Атей</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_BRADACOS</zType>
@@ -2404,7 +2404,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_IDANTHIRS</zType>
-		<zName>Идантиры</zName>
+		<zName>Идантир</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ISHPAKAI</zType>
@@ -2428,7 +2428,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_OLKAVAS</zType>
-		<zName>Олкава</zName>
+		<zName>Олкавас</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_PALAK</zType>
@@ -2440,19 +2440,19 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_SAVLIUS</zType>
-		<zName>Савлиус</zName>
+		<zName>Саулиус</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SAVMAKOS</zType>
-		<zName>Савмакос</zName>
+		<zName>Савмака</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SKILUR</zType>
-		<zName>Склур</zName>
+		<zName>Шклур</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_TANUS</zType>
-		<zName>Танус</zName>
+		<zName>Танас</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ANTIANIRA</zType>
@@ -2468,7 +2468,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_DEIANIRA</zType>
-		<zName>Дейанира</zName>
+		<zName>Деянира</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_HIPPOLYTA</zType>
@@ -2484,7 +2484,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_MARPESIA</zType>
-		<zName>Марпезия</zName>
+		<zName>Марпесия</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_MOLPADIA</zType>
@@ -2496,7 +2496,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_OPIS</zType>
-		<zName>Описание</zName>
+		<zName>Упи</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_OPIYA</zType>
@@ -2564,11 +2564,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_HIEMPSAL</zType>
-		<zName>Хиемпсал</zName>
+		<zName>Гимпсал</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ISALCAS</zType>
-		<zName>Исалкас</zName>
+		<zName>Изалькас</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_JUBA</zType>
@@ -2588,11 +2588,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_MICIPSA</zType>
-		<zName>Мичипса</zName>
+		<zName>Миципса</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_NIPTASAN</zType>
-		<zName>Ниптасан</zName>
+		<zName>Ниптазан</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_OXYNTA</zType>
@@ -2600,7 +2600,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_STEMBANOS</zType>
-		<zName>Стембано</zName>
+		<zName>Стефанос</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SYPHAX</zType>
@@ -2612,7 +2612,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_ZALELSAN</zType>
-		<zName>Залельсан</zName>
+		<zName>Залелсан</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_DASSIN</zType>
@@ -2620,7 +2620,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_DIHYA</zType>
-		<zName>Дихья</zName>
+		<zName>Дакия</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_FARIZA</zType>
@@ -2628,7 +2628,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_FEDDADA</zType>
-		<zName>Феддада</zName>
+		<zName>Фидана</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_GHIDA</zType>
@@ -2644,11 +2644,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_LUNDJA</zType>
-		<zName>Лунджа</zName>
+		<zName>Лундежи</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_MADELE</zType>
-		<zName>Мадель</zName>
+		<zName>Мадлен</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_MENZA</zType>
@@ -2664,11 +2664,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_SEKKURA</zType>
-		<zName>Секкура</zName>
+		<zName>Шекура</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_SILYA</zType>
-		<zName>Силя</zName>
+		<zName>Силия</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_TAFAT</zType>
@@ -2676,11 +2676,11 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_TALALLIT</zType>
-		<zName>Талаллит</zName>
+		<zName>Талита</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_TANEST</zType>
-		<zName>Танест</zName>
+		<zName>Танис</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_TAYRI</zType>
@@ -2688,7 +2688,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_TINHINAN</zType>
-		<zName>Тинхинан</zName>
+		<zName>Тин-Хинан</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_ZAMRA</zType>
@@ -2707,7 +2707,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_HIARBAS</zType>
-		<zName>Хиарбас</zName>
+		<zName>Иарб</zName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_HIARBAS</PreferredPortrait>
 	</Entry>
 	<Entry>
@@ -2732,7 +2732,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_TUTOR_AGNODICE</zType>
-		<zName>Агнодице</zName>
+		<zName>Агнодика</zName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_TUTOR_AGNODICE</PreferredPortrait>
 	</Entry>
 	<Entry>
@@ -2747,7 +2747,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_TUTOR_BARDAISAN</zType>
-		<zName>Бардайсан</zName>
+		<zName>Бардесан</zName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_TUTOR_BARDAISAN</PreferredPortrait>
 	</Entry>
 	<Entry>
@@ -2762,7 +2762,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_TUTOR_HANNO</zType>
-		<zName>Ханно</zName>
+		<zName>Ганнон</zName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_TUTOR_HANNO</PreferredPortrait>
 	</Entry>
 	<Entry>
@@ -2777,7 +2777,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_TUTOR_ESAGIL_KIN_APLI</zType>
-		<zName>Эсагил-кин-апли</zName>
+		<zName>Есагил-кин-апли</zName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_NAME_TUTOR_ESAGIL_KIN_APLI</PreferredPortrait>
 	</Entry>
 	<Entry>
@@ -2797,7 +2797,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_TUTOR_SENENMUT</zType>
-		<zName>Сененмут</zName>
+		<zName>Сенмут</zName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_NAME_TUTOR_SENENMUT</PreferredPortrait>
 	</Entry>
 	<Entry>
@@ -2812,7 +2812,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_TUTOR_AVICENNA</zType>
-		<zName>Авиценна</zName>
+		<zName>Ибн Сина</zName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_TUTOR_AVICENNA</PreferredPortrait>
 	</Entry>
 	<Entry>
@@ -2837,7 +2837,7 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_BOUDICEA</zType>
-		<zName>Боадицея</zName>
+		<zName>Боудикка</zName>
 		<PreferredPortrait>CHARACTER_PORTRAIT_BOUDICEA</PreferredPortrait>
 	</Entry>
 	<Entry>
@@ -2862,6 +2862,6 @@
 	</Entry>
 	<Entry>
 		<zType>NAME_INCITATUS</zType>
-		<zName>Инцитатус</zName>
+		<zName>Инцитат</zName>
 	</Entry>
 </Root>
