@@ -5490,7 +5490,7 @@
   <!--Character Help-->
   <Entry>
     <zType>TEXT_HELPTEXT_CHARACTER_HELP_NAME</zType>
-    <Translation>{0_gender}, возраст {1}{true_2:, {2}/{3}}{true_4: icon(skull)}</Translation>
+    <Translation>{0_gender}, возраст {1}{true_2:, {2}/{3} ОП}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_CHARACTER_HELP_LEADER_OF</zType>
