@@ -203,7 +203,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DISCOVERED_TECH_LOG_DATA</zType>
-    <Translation>>Открыта технология {0_tech} {0_city} теряет link(CONCEPT_PROJECT_INFO): {1_project}</Translation>
+    <Translation>>Открыта технология {0_tech}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_CITY_FINISHED_PROJECT_LOG_DATA</zType>
