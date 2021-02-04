@@ -87,7 +87,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_HINT_21</zType>
-    <Translation>Дороги позволяют отрядам продвигаться дальше с каждым потраченным icon(YIELD_ORDERS)link(YIELD_ORDERS,4), особенно если дорога проложена через труднопроходимую местность.</Translation>
+    <Translation>Дороги позволяют отрядам продвигаться дальше с каждым потраченным  icon(YIELD_ORDERS) link(YIELD_ORDERS,4), особенно если дорога проложена через труднопроходимую местность.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HINT_22</zType>

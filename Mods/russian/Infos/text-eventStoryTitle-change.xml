@@ -281,6 +281,90 @@
 		<zType>TEXT_EVENTSTORY_A_SCHOLAR_DENOUNCED_TITLE</zType>
 		<Translation>Осужденный ученый</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THOUGHTS_WORDS_DEEDS_TITLE</zType>
+		<Translation>Мысли, Слова и дела</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_HOUSE_OF_SONG_TITLE</zType>
+		<Translation>Обитель песни</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_LEGENDS_OF_MITHRA_TITLE</zType>
+		<Translation>Легенды о Митре</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TRUTH_AND_ORDER_TITLE</zType>
+		<Translation>Правда и порядок</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_DECEPTION_AND_CHAOS_TITLE</zType>
+		<Translation>Обман и хаос</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_CHARITY_OF_AHURA_MAZDA_TITLE</zType>
+		<Translation>Милосердие Ахура Мазды</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_BEATING_POETS_TITLE</zType>
+		<Translation>Избиение поэтов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PAYING_FOR_THE_SACRIFICE_TITLE</zType>
+		<Translation>Расплата за жертву</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_HAOMA_TITLE</zType>
+		<Translation>Хаома</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_A_WARNING_OF_JUDGEMENT_TITLE</zType>
+		<Translation>Предупреждение о суде</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_PREPARING_THE_SACRIFICE_TITLE</zType>
+		<Translation>Подготовка жертвоприношения</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THUS_SPOKE_ZOROASTER_TITLE</zType>
+		<Translation>Так говорил Заратустра</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RIVER_REVELATION_TITLE</zType>
+		<Translation>Речное откровение</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AHUNA_VAIRYA_TITLE</zType>
+		<Translation>Ахуна ваирья</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_FINAL_FIGHT_TITLE</zType>
+		<Translation>Последний бой</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_IMPERFECT_MADE_PREFECT_TITLE</zType>
+		<Translation>Несовершенное стало совершенным</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_AFTER_THE_YASNA_TITLE</zType>
+		<Translation>После Ясны</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_NOWRUZ_TITLE</zType>
+		<Translation>Навруз</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_WAR_IN_THE_STARS_TITLE</zType>
+		<Translation>Война в звездах</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_RITUAL_AND_LIFE_TITLE</zType>
+		<Translation>Ритуал и жизнь</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_THE_DIVINE_PRIEST_TITLE</zType>
+		<Translation>Божественный священник</Translation>
+	</Entry>
 	<Entry beginGroup="Exploration">
 		<zType>TEXT_EVENTSTORY_RUINS_SURVIVORS_TITLE</zType>
 		<Translation>Выжившие</Translation>
@@ -4925,6 +5009,90 @@
 		<zType>TEXT_EVENTSTORY_BREAKING_THEIR_FEAR_TITLE</zType>
 		<Translation>Разрушая их страх</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CURED_OF_THEIR_DEMONS_TITLE</zType>
+		<Translation>Исцеленные от своих Демонов</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_ARMED_AND_INCUBATED_TITLE</zType>
+		<Translation>Вооруженный и взращенный</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_CHARACTERS_MIRACULOUS_RETURN_TITLE</zType>
+		<Translation>Чудесное возвращение {CHARACTER-0}</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_CLUB_TITLE</zType>
+		<Translation>Внезапная атака!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_STAB_TITLE</zType>
+		<Translation>Внезапная атака!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_SHOT_TITLE</zType>
+		<Translation>Внезапная атака!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_POISONED_TITLE</zType>
+		<Translation>Внезапная атака!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_SNAKES_TITLE</zType>
+		<Translation>Внезапная атака!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_STRANGLED_TITLE</zType>
+		<Translation>Внезапная атака!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_CLUB_LIVE_TITLE</zType>
+		<Translation>Внезапная атака: Вы выживете!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_STAB_LIVE_TITLE</zType>
+		<Translation>Внезапная атака: Вы выживете!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_SHOT_LIVE_TITLE</zType>
+		<Translation>Внезапная атака: Вы выживете!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_POISONED_LIVE_TITLE</zType>
+		<Translation>Внезапная атака: Вы выживете!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_SNAKES_LIVE_TITLE</zType>
+		<Translation>Внезапная атака: Вы выживете!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_STRANGLED_LIVE_TITLE</zType>
+		<Translation>Внезапная атака: Вы выживете!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_CLUB_DIE_TITLE</zType>
+		<Translation>Внезапная атака: Вы гибнете!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_STAB_DIE_TITLE</zType>
+		<Translation>Внезапная атака: Вы гибнете!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_SHOT_DIE_TITLE</zType>
+		<Translation>Внезапная атака: Вы гибнете!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_POISON_DIE_TITLE</zType>
+		<Translation>Внезапная атака: Вы гибнете!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_SNAKES_DIE_TITLE</zType>
+		<Translation>Внезапная атака: Вы гибнете!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_SCHEMING_HEIR_ONE_STRANGLED_DIE_TITLE</zType>
+		<Translation>Внезапная атака: Вы гибнете!</Translation>
+	</Entry>
 	<Entry beginGroup="City">
 		<zType>TEXT_EVENTSTORY_HAPPINESS_IMMIGRANTS_TITLE</zType>
 		<Translation>Иммигранты</Translation>
@@ -7310,7 +7478,11 @@
 		<Translation>Обучение: Сбор урожая</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_ON_COOLDOWN_TITLE</zType>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_ATTACK_COOLDOWN_TITLE</zType>
+		<Translation>Обучение: Перезарядка отряда</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EVENTSTORY_TUTORIAL_UNIT_MOVE_COOLDOWN_TITLE</zType>
 		<Translation>Обучение: Восстановление отряда</Translation>
 	</Entry>
 	<Entry>

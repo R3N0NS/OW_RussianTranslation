@@ -809,6 +809,253 @@
 	<zType>TEXT_EVENTSTORY_A_SCHOLAR_DENOUNCED_ARGUE</zType>
 	<Translation>Объясните, как полученные данные на самом деле дополняют {RELIGION-2}.</Translation>
   </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THOUGHTS_WORDS_DEEDS_THOUGHT</zType>
+    <Translation>Хорошо продуманно.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THOUGHTS_WORDS_DEEDS_WORDS</zType>
+    <Translation>Хорошо сказанные слова.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THOUGHTS_WORDS_DEEDS_DEEDS</zType>
+    <Translation>Дело сделано.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THOUGHTS_WORDS_DEEDS_NONE</zType>
+    <Translation>Я постараюсь стать лучше.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTIONS_LEGENDS_OF_MITHRA_0_COPY</zType>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HOUSE_OF_SONG_1</zType>
+    <Translation>Мой дворец как минимум равный. </Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HOUSE_OF_SONG_2</zType>
+    <Translation>Я не смею сравнивать мой дворец с дворцом Ахура Мазды. </Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HOUSE_OF_SONG_3</zType>
+    <Translation>Дом может и не сравниться, но, безусловно, наполнен песней! </Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRUTH_AND_ORDER_1</zType>
+    <Translation>Разоблачить {CHARACTER-1}. Правда и порядок, священнее всего </Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRUTH_AND_ORDER_2</zType>
+    <Translation>Я знаю, что это правильно, но не могу.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DECEPTION_AND_CHAOS_0</zType>
+    <Translation>Менее {G1:честный мужчин:честная женщина} поможет.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTSTORY_DECEPTION_AND_CHAOS_1</zType>
+    <Translation>Может, глава {RELIGION-2,1} должен исчезнуть..</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_DECEPTION_AND_CHAOS_2_</zType>
+    <Translation>Войди и удиви их.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_CHARITY_OF_AHURA_MAZDA_0</zType>
+    <Translation>Мы будем посылать людям еду.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_CHARITY_OF_AHURA_MAZDA_2</zType>
+    <Translation>Нет, это все мое.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_CHARITY_OF_AHURA_MAZDA_1</zType>
+    <Translation>{PLAYER-0,6} заслуживают моей щедрости..</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTIONS_BEATING_POETS_0</zType>
+    <Translation>{CHARACTER-SHORT-0} явно превосходящий.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BEATING_POETS_1</zType>
+    <Translation>Никто не может быть лучше {CHARACTER-SHORT-1}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_BEATING_POETS_2</zType>
+    <Translation>Позвольте мне показать вам, как это делается.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_PAYING_FOR_THE_SACRIFICE_2</zType>
+    <Translation>Пожертвование компенсирует унижение.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_PAYING_FOR_THE_SACRIFICE_1</zType>
+    <Translation>Благословения Ахура Мазды стоят лишнего золота. </Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_PAYING_FOR_THE_SACRIFICE_0</zType>
+    <Translation>Учение Зороастра не должно отвлекаться на материальное.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAOMA_0</zType>
+    <Translation>Мой разум мчится со знаниями!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAOMA_1</zType>
+    <Translation>Мое сердце переполняется песней!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAOMA_2</zType>
+    <Translation>Мое тело наполняется силой!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_HAOMA_3</zType>
+    <Translation>Моей слабости больше нет!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_A_WARNING_OF_JUDGEMENT_1</zType>
+    <Translation>Может быть, со временем я это выясню.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_A_WARNING_OF_JUDGEMENT_0</zType>
+    <Translation>Спасибо за предупреждение, это был тревожный звонок.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_A_WARNING_OF_JUDGEMENT_2</zType>
+    <Translation>Выгнать {G1:его:ее}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_PREPARING_THE_SACRIFICE_NO</zType>
+    <Translation>Сейчас не время.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_PREPARING_THE_SACRIFICE_1</zType>
+    <Translation>Воху Манах, ‘хорошая мысль’</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_PREPARING_THE_SACRIFICE_2</zType>
+    <Translation>Аша Вахишта, ‘лучший способ’</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_PREPARING_THE_SACRIFICE_3</zType>
+    <Translation>Кхшатра Вайрия, ‘достойная власть’</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_PREPARING_THE_SACRIFICE_4</zType>
+    <Translation>Спента Армати, ‘животворящее смирение’</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_PREPARING_THE_SACRIFICE_5</zType>
+    <Translation>Хаурватат, ‘целостность’</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_PREPARING_THE_SACRIFICE_6</zType>
+    <Translation>Амертатат, ‘долголетие’</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THUS_SPOKE_ZOROASTER_0</zType>
+    <Translation>Авеста должна быть записана.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THUS_SPOKE_ZOROASTER_1</zType>
+    <Translation>Сохраняйте устную традицию.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_RIVER_REVELATION_0</zType>
+    <Translation>Какая удивительная история! {CHARACTER-2}, несомненно, благословен.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_RIVER_REVELATION_1</zType>
+    <Translation>Не тратьте мое время.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_RIVER_REVELATION_2</zType>
+    <Translation>{CHARACTER-2} был вызван. {G2:Он:Она} должен стать новым главой {RELIGION-0,1}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_AHUNA_VAIRYA_0</zType>
+    <Translation>У меня есть дела поважнее.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_AHUNA_VAIRYA_1</zType>
+    <Translation>Я должен посредничать в этом дальше.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_FINAL_FIGHT_0</zType>
+    <Translation>Я буду бороться за лучший мир.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_FINAL_FIGHT_1</zType>
+    <Translation>Я больше не могу продолжать эту борьбу.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_FINAL_FIGHT_2</zType>
+    <Translation>Я - Саошьянт</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_IMPERFECT_MADE_PERFECT_0</zType>
+    <Translation>Не читайте лекций {G3:королю:королеве}.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_IMPERFECT_MADE_PERFECT_1</zType>
+    <Translation>Очень хорошо, эта вражда окончена.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_AFTER_THE_YASNA_0</zType>
+    <Translation>Мы должны обедать так все время!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_AFTER_THE_YASNA_1</zType>
+    <Translation>Обсудите тонкости ритуала.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_AFTER_THE_YASNA_2</zType>
+    <Translation>Возможно, нам стоит проводить больше времени вместе...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NOWRUZ_0</zType>
+    <Translation>Произнесите тост в честь благородных семей.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NOWRUZ_1</zType>
+    <Translation>Наградите {CHARACTER-SHORT-1,1} за {G1:его:ее} слова.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NOWRUZ_2</zType>
+    <Translation>Продолжайте праздновать всю ночь!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WAR_IN_THE_STARS_0</zType>
+    <Translation>Принесите дополнительные жертвы Тиштрии.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_WAR_IN_THE_STARS_1</zType>
+    <Translation>Увеличьте запасы на случай засухи.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_RITUAL_AND_LIFE_0</zType>
+    <Translation>Начните писать их прямо сейчас.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_RITUAL_AND_LIFE_1</zType>
+    <Translation>Посмотрим, как это будет развиваться.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_RITUAL_AND_LIFE_2</zType>
+    <Translation>Я отказываюсь следовать таким законам.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_DIVINE_PRIEST_0</zType>
+    <Translation>Воистину, он - Бог веры и наставления.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_DIVINE_PRIEST_1</zType>
+    <Translation>Он будет покровителем моей семьи, Богом праведного правления.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_DIVINE_PRIEST_2</zType>
+    <Translation>Зороастр был великим человеком, но всего лишь человеком.</Translation>
+  </Entry>
 	<Entry beginGroup="Exploration">
     <zType>TEXT_EVENTOPTION_RUINS_SURVIVORS_INVITE</zType>
     <Translation>Предложу им новый дом в нашей стране.</Translation>
@@ -5600,6 +5847,18 @@
 	<zType>TEXT_EVENTOPTION_TRIBE_ELIMINATED_POST_WAR_OPTION_COURT</zType>
 	<Translation>Доказать законность войны.</Translation>
   </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_TIDE_OF_BATTLE_OPTION_0</zType>
+    <Translation>Я сам возглавлю атаку.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_TIDE_OF_BATTLE_OPTION_1</zType>
+    <Translation>Подайте сигнал к отступлению.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_THE_TIDE_OF_BATTLE_OPTION_2</zType>
+    <Translation>Это прекрасный день для смерти.</Translation>
+  </Entry>
 	<Entry beginGroup="Marriage">
     <zType>TEXT_EVENTOPTION_MARRIAGE_OFFER_YES</zType>
     <Translation>Да, звоните в колокола.</Translation>
@@ -8795,6 +9054,22 @@
   <Entry>
     <zType>TEXT_EVENTOPTION_TRIBE_ALLIANCE_OPINION</zType>
 	<Translation>[OK]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_PEACE_UPKEEP_MONEY</zType>
+    <Translation>[ПОДНОШЕНИЕ ДЕНЕГ]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_PEACE_UPKEEP_LEGITIMACY</zType>
+    <Translation>[СМИРИТЬСЯ]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_PEACE_UPKEEP_NO</zType>
+    <Translation>[A link(DIPLOMACY_TRUCE)]</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_TRIBE_PEACE_OPINION</zType>
+    <Translation>[OK]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_CHARACTER_LOVE_KILLS_OPTION_0</zType>
@@ -12529,24 +12804,116 @@
     <Translation>Никогда не забывайте, мир и торговля - это пути к процветанию.</Translation>
   </Entry>
   <Entry>
-	<zType>TEXT_EVENTOPTION_INFLUENCE_OF_TERROR_OPTION_0</zType>
-	<Translation>Да, {CHARACTER-1} должен меня бояться.</Translation>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_ROBUST</zType>
+    <Translation>Ничто так не укрепляет силы, как бег по снегу.</Translation>
   </Entry>
   <Entry>
-	<zType>TEXT_EVENTOPTION_INFLUENCE_OF_TERROR_OPTION_1</zType>
-	<Translation>Нет, это не так.</Translation>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_RIGHTEOUS</zType>
+    <Translation>В природе нет ни алчности, ни злобы.</Translation>
   </Entry>
   <Entry>
-	<zType>TEXT_EVENTOPTION_INFLUENCE_OF_TERROR_OPTION_2</zType>
-	<Translation>Этот разговор еще можно спасти!</Translation>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_VIGILANT</zType>
+    <Translation>Ястреб и орел всегда настороже.</Translation>
   </Entry>
   <Entry>
-	<zType>TEXT_EVENTOPTION_REIGN_OF_TERROR_OPTION_0</zType>
-	<Translation>Пусть будет так. Все будут бояться меня!</Translation>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_EQUESTRIAN</zType>
+    <Translation>Нет ничего лучше продуваемой ветром свободы верховой езды.</Translation>
   </Entry>
   <Entry>
-	<zType>TEXT_EVENTOPTION_REIGN_OF_TERROR_OPTION_1</zType>
-	<Translation>Нет. Я не могу с этим мириться.</Translation>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_ANGLER</zType>
+    <Translation>Вода может многому нас научить.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_PLANTER</zType>
+    <Translation>Некоторые смотрят на небо. Вместо этого посмотрите на почву.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_FORESTER</zType>
+    <Translation>Дуб, мирра, можжевельник, кедр, акация, инжир, финиковая пальма - познайте их.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_DELVER</zType>
+    <Translation>Мудрость можно найти в камнях, по которым мы ходим.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_SMELTER</zType>
+    <Translation>Звон кузнечного горна меняет человека.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_HERDER</zType>
+    <Translation>Скот может научить многим вещам.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_CUNNING</zType>
+    <Translation>Будь хитер как змей.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_TRACKER</zType>
+    <Translation>Нет ничего более значимого и захватывающего, чем выслеживание диких животных.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_TOUGH</zType>
+    <Translation>Синяки, порезы и царапины, полученные на природе, будут ценными уроками.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_FIERCE</zType>
+    <Translation>Будьте так же свирепы, как {G0:лев защищающий:львица защищающая} детенышей.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_HIGHLANDER</zType>
+    <Translation>Холмы вдохновляют нас всех.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_RANGER</zType>
+    <Translation>Пусть лес направляет ваши шаги.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_BOLD</zType>
+    <Translation>Будьте смелы, как медведь.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_ROMANTIC</zType>
+    <Translation>Нет такой чистой любви, как любовь зверя к своим сородичам.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_RUTHLESS</zType>
+    <Translation>Хищник наносит удар без сожаления.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_BRAVE</zType>
+    <Translation>Никогда не позволяйте холму, зверю, погоде или человеку остановить вас.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_HUMBLE</zType>
+    <Translation>Природа лишает меня дара речи.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_EXPLORING</zType>
+    <Translation>Есть много других загадок, которые можно увидеть в мире.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_LOYAL</zType>
+    <Translation>Охраняй своих сородичей, как мать-волчица охраняет своих детенышей.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_POISONER</zType>
+    <Translation>Есть много корней и цветов, которые могут убить.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_NATURE_INSPIRATION_HERBALIST</zType>
+    <Translation>Корни, ягоды и цветы могут излечить почти любую болезнь.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_INFLUENCE_OF_TERROR_OPTION_0</zType>
+    <Translation>Да, {CHARACTER-1} должен бояться меня.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_INFLUENCE_OF_TERROR_OPTION_1</zType>
+    <Translation>Нет, это не выход.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_INFLUENCE_OF_TERROR_OPTION_2</zType>
+    <Translation>Этот разговор еще можно спасти!</Translation>
   </Entry>
   <Entry>
 	<zType>TEXT_EVENTOPTION_BREAKING_THEIR_FEAR_OPTION_0</zType>
@@ -12561,6 +12928,14 @@
 	<Translation>Мы устраним наши разногласия.</Translation>
   </Entry>
   <Entry>
+    <zType>TEXT_EVENTOPTION_CURED_OF_THEIR_DEMONS_OPTION_0</zType>
+    <Translation>Рабочий достоин своей зарплаты.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_CURED_OF_THEIR_DEMONS_OPTION_0_HELP</zType>
+    <Translation>Их методы наиболее нетрадиционны и лучше всего оставить для описания.</Translation>
+  </Entry>
+  <Entry>
 	<zType>TEXT_EVENTOPTION_CURED_OF_THEIR_DEMONS_OPTION_1</zType>
 	<Translation>Прочь! Я больше не приму так называемой помощи!</Translation>
   </Entry>
@@ -12571,6 +12946,262 @@
   <Entry>
 	<zType>TEXT_EVENTOPTION_CURED_OF_THEIR_DEMONS_OPTION_2</zType>
 	<Translation>Может быть, мы могли бы прийти к другому соглашению?</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_ARMED_AND_INCUBATED_OPTION_0</zType>
+    <Translation>{CHARACTER-1}, готовьте своих убийц. У меня есть для тебя задание.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_ARMED_AND_INCUBATED_OPTION_1</zType>
+    <Translation>Я уверен, что это пустяки.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_ARMED_AND_INCUBATED_OPTION_2</zType>
+    <Translation>Я тоже сошел с ума!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_PREGNANT</zType>
+    <Translation>"...встретил любовь всей моей жизни и у нас скоро будет ребенок."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_ROBUST</zType>
+    <Translation>"...целый год работал в доках."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_WANTON</zType>
+    <Translation>"...танцевали заграницей в борделях ."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_GAY</zType>
+    <Translation>"...выяснил, что у меня есть вкус к {G0:мужчинам:женщинам}."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_ARTIST</zType>
+    <Translation>"...понял, что искусство - моя страсть."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_CLERGY</zType>
+    <Translation>"...принял монашеский постриг из рукоположенных священнослужителей."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_EQUESTRIAN</zType>
+    <Translation>"...обнаружил большую радость в верховой езде."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_PROPHET</zType>
+    <Translation>"...я видел Бога лицом к лицу, и теперь я слышу его."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_INTELLIGENT</zType>
+    <Translation>"...посвятил себя науке и ее чудесам."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_INSPIRING</zType>
+    <Translation>"...люди следуют за мной, когда я их веду."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_PROSPEROUS</zType>
+    <Translation>"...стать чем-то, вроде производителя денег."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_RIGHTEOUS</zType>
+    <Translation>"...провел год в цепях как раб."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_DEALMAKER</zType>
+    <Translation>"...отправился на Дальний Восток с торговым караваном, продавая шелк."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_ANGLER</zType>
+    <Translation>"...плавал по морям, зарабатывая на жизнь его обитателями."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_PLANTER</zType>
+    <Translation>"...работал батраком на небольшой ферме."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_FORESTER</zType>
+    <Translation>"...заботился о лесах как дровосек."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_HERDER</zType>
+    <Translation>"...заботился об овцах и коровах как пастух."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_DELVER</zType>
+    <Translation>"...год работал в каменоломнях."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_SMELTER</zType>
+    <Translation>"...работал в карьере и рудниках."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_CUNNING</zType>
+    <Translation>"...жил своим остроумием и клинками в трущобах."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_TRACKER</zType>
+    <Translation>"...выслеживали и охотились на дичь, выживавая в лесах."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_TOUGH</zType>
+    <Translation>"...воевал в армии и кое-чему научился."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_FIERCE</zType>
+    <Translation>"...на время связался с бандитами."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_BLOODTHIRSTY</zType>
+    <Translation>"...после работы наемным убийцей пристрастился к убийствам."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_RANGER</zType>
+    <Translation>"...проводил лето в лесу - как можно свободнее."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_BOLD</zType>
+    <Translation>"...я понял, что нельзя полагаться на судьбу, чтобы выжить."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_ROMANTIC</zType>
+    <Translation>"...познакомился с группой странствующих поэтов и музыкантов."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_RUTHLESS</zType>
+    <Translation>"...работал шпионом среди племени."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_BRAVE</zType>
+    <Translation>"...сражался как гладиатор в ямах."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_COMPASSIONATE</zType>
+    <Translation>"...ухаживал за больными и ранеными в святилищах."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_HUMBLE</zType>
+    <Translation>"...я просто рад быть дома."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_DOG_OWNER</zType>
+    <Translation>"...встретил веселого маленького слюнявого монстра, который спас мне жизнь."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_PET_MONKEY</zType>
+    <Translation>"...встретил маленького смутьяна после того, как он что-то у меня украл."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_HERBALIST</zType>
+    <Translation>"...научился фармакопее у известного мудреца.."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_MISSING_ADVENTURE_MINISTER</zType>
+    <Translation>"...встретил {G1:блестящего парня, которого:блестящею женщину, которую} я убедил присоединиться к нашему правительству."</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_CLUB_STRUGGLE</zType>
+    <Translation>Начинается борьба!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_STAB_DODGE</zType>
+    <Translation>Я пытаюсь увернуться!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_STAB_DODGE_HELP</zType>
+    <Translation>Вы пытаетесь увернуться!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_SHOT_WHAT</zType>
+    <Translation>Что за?!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_SHOT_WHAT_HELP</zType>
+    <Translation>Ты инстинктивно отворачиваешься!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_POSIONED_STRANGE</zType>
+    <Translation>Как странно!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_POISONED_HELP</zType>
+    <Translation>Миндаль?</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_SNAKES</zType>
+    <Translation>Что за?!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_POISONED_HELP_COPY</zType>
+    <Translation>Ааа!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_STRANGLED</zType>
+    <Translation>Начинается борьба!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_STRANGLED_HELP</zType>
+    <Translation>Не подавись!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_CLUB_LIVE</zType>
+    <Translation>Очень близко!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_STAB_LIVE</zType>
+    <Translation>Очень близко!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_SHOT_LIVE</zType>
+    <Translation>Очень близко!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_POISONED_LIVE</zType>
+    <Translation>Очень близко!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_SNAKES_LIVE</zType>
+    <Translation>Очень близко!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_SNAKES_LIVE_HELP</zType>
+    <Translation>Я прикажу сжечь кровать...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_STRANGLED_LIVE</zType>
+    <Translation>Очень близко!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_STRANGLED_LIVE_HELP</zType>
+    <Translation>Счастливый случай!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_CLUB_DIE</zType>
+    <Translation>Все погружается во тьму...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_STAB_DIE</zType>
+    <Translation>Все погружается во тьму...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_SHOT_DIE</zType>
+    <Translation>Все погружается во тьму...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_POISON_DIE</zType>
+    <Translation>Все погружается во тьму...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_POISON_DIE_HELP</zType>
+    <Translation>Хотя вино было хорошее!</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_SNAKES_DIE</zType>
+    <Translation>Все погружается во тьму...</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_SCHEMING_HEIR_STRANGLED_DIE</zType>
+    <Translation>Все погружается во тьму...</Translation>
   </Entry>
 	<Entry beginGroup="City">
     <zType>TEXT_EVENTOPTION_HAPPINESS_IMMIGRANTS_YES</zType>
@@ -14000,6 +14631,14 @@
 	<zType>TEXT_EVENTOPTION_RELIGIOUS_PRAISE_NO</zType>
 	<Translation>Я буду одним из спонсоров фестиваля.</Translation>
   </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_LEGENDS_OF_MITHRA_1</zType>
+    <Translation>Должно быть, он следит за моими соглашениями.</Translation>
+  </Entry>
+  <Entry>
+    <zType>TEXT_EVENTOPTION_LEGENDS_OF_MITHRA_0</zType>
+    <Translation>Митра поведет наших воинов в бой.</Translation>
+  </Entry>
 	<Entry beginGroup="Law">
     <zType>TEXT_EVENTOPTION_THREAT_OF_MUTINY_OPTION_0</zType>
     <Translation>{PLAYER-1} обретет свободу.</Translation>
@@ -14886,7 +15525,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WAYWARD_SUBJECT_IMPRISON</zType>
-    <Translation>{G0:Он:Она} никогда не должен был возвращаться.</Translation>
+    <Translation>{G0:Он:Она} никогда не {G0:должен был:должна была} возвращаться.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_GEM_SEEKERS_YES</zType>
@@ -14958,7 +15597,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_INSOLENT_GENERALS_WAR</zType>
-    <Translation>{PLAYER-1,3} всегда был жестоким.</Translation>
+    <Translation>{PLAYER-1,6} всегда были жестокими.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_VIEW_FROM_THE_THRONE_OPTION_0</zType>
@@ -14994,7 +15633,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WONDER_ETERNAL_REST_OPTION_2</zType>
-    <Translation>Только вождь моего роста годится для такой могилы.</Translation>
+    <Translation>Только человек моего положения достоин покоиться в этой гробнице.</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WONDER_GODS_AND_MEN_OPTION_0</zType>
@@ -15018,7 +15657,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WONDER_A_SPIRITUAL_CROSSROADS_OPTION_0</zType>
-    <Translation>Это будет молитвенный дом для {RELIGION-1}</Translation>
+    <Translation>Это будет молитвенный дом для {RELIGION-1,1}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_EVENTOPTION_WONDER_A_SPIRITUAL_CROSSROADS_OPTION_1</zType>
@@ -17913,7 +18552,7 @@
     <Translation>Воин наверняка поможет справиться с {TRIBE-0}!</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_EVENTOPTION_TUTORIAL_UNIT_ON_COOLDOWN_OKAY</zType>
+    <zType>TEXT_EVENTOPTION_TUTORIAL_UNIT_COOLDOWN_OKAY</zType>
     <Translation>В следующем году я попробую снова!</Translation>
   </Entry>
   <Entry>

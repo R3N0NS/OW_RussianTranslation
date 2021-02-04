@@ -33,7 +33,7 @@
 	<Entry>
 		<zType>NAME_ASHURBANIPAL</zType>
 		<zName>Ашшурбанапал</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_ASHURBANIPAL</PreferredPortrait>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ASSYRIA_LEADER_MALE_16</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_ASHURNASIRPAL</zType>
@@ -278,7 +278,7 @@
 	<Entry>
 		<zType>NAME_NEBUCHADNEZZAR</zType>
 		<zName>Навуходоносор</zName>
-        <PreferredPortrait>CHARACTER_PORTRAIT_NEBUCHADNEZZAR</PreferredPortrait>
+        <PreferredPortrait>CHARACTER_PORTRAIT_BABYLONIA_LEADER_MALE_17</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_NERIGLISSAR</zType>
@@ -603,7 +603,7 @@
 	<Entry>
 		<zType>NAME_DIDO</zType>
 		<zName>Дидона</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_DIDO</PreferredPortrait>
+		<PreferredPortrait>CHARACTER_PORTRAIT_CARTHAGE_LEADER_FEMALE_16</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_ELISSAR</zType>
@@ -790,6 +790,10 @@
 		<zName>Сети</zName>
 	</Entry>
 	<Entry>
+		<zType>NAME_THUTMOSE</zType>
+		<zName>Тутмос</zName>
+	</Entry>
+	<Entry>
 		<zType>NAME_TUTANKHAMUN</zType>
 		<zName>Тутанхамон</zName>
 	</Entry>
@@ -812,7 +816,7 @@
 	<Entry>
 		<zType>NAME_HATSHEPSUT</zType>
 		<zName>Хатшепсут</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_HATSHEPSUT</PreferredPortrait>
+		<PreferredPortrait>CHARACTER_PORTRAIT_EGYPT_LEADER_FEMALE_02</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_HETEPHERES</zType>
@@ -821,6 +825,10 @@
 	<Entry>
 		<zType>NAME_IPUT</zType>
 		<zName>Ипут</zName>
+	</Entry>
+	<Entry>
+		<zType>NAME_ISET</zType>
+		<zName>Асет</zName>
 	</Entry>
 	<Entry>
 		<zType>NAME_KHENUT</zType>
@@ -857,7 +865,7 @@
 	<Entry>
 		<zType>NAME_NEFERURE</zType>
 		<zName>Нефрура</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_NEFERURE</PreferredPortrait>
+		<PreferredPortrait>CHARACTER_PORTRAIT_EGYPT_LEADER_FEMALE_01</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_NITIQRET</zType>
@@ -922,7 +930,7 @@
 	<Entry>
 		<zType>NAME_ALEXANDER</zType>
 		<zName>Александр</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_ALEXANDER</PreferredPortrait>
+		<PreferredPortrait>CHARACTER_PORTRAIT_GREECE_LEADER_MALE_01</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_ANTIGONUS</zType>
@@ -1095,7 +1103,7 @@
 	<Entry>
 		<zType>NAME_PHILIP</zType>
  		<zName>Филипп</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_PHILIP</PreferredPortrait>
+		<PreferredPortrait>CHARACTER_PORTRAIT_GREECE_LEADER_MALE_16</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_PYRRHUS</zType>
@@ -1224,7 +1232,7 @@
 	<Entry>
 		<zType>NAME_OLYMPIAS</zType>
 		<zName>Олимпиада</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_OLYMPIAS</PreferredPortrait>
+		<PreferredPortrait>CHARACTER_PORTRAIT_GREECE_LEADER_FEMALE_01</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_PHERETIMA</zType>
@@ -1310,7 +1318,7 @@
 	<Entry>
 		<zType>NAME_CYRUS</zType>
 		<zName>Кир</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_CYRUS</PreferredPortrait>
+		<PreferredPortrait>CHARACTER_PORTRAIT_PERSIA_LEADER_MALE_16</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_DARIUS</zType>
@@ -1585,12 +1593,12 @@
 	<Entry>
 		<zType>NAME_REMUS</zType>
 		<zName>Ремус</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_REMUS</PreferredPortrait>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_02</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_ROMULUS</zType>
 		<zName>Ромул</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_ROMULUS</PreferredPortrait>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ROMAN_LEADER_MALE_17</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_SERVIUS</zType>
@@ -1680,7 +1688,7 @@
 	<Entry>
 		<zType>NAME_ILIA</zType>
 		<zName>Илия</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_ILIA</PreferredPortrait>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ROME_LEADER_FEMALE_01</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_LIVIA</zType>
@@ -2693,7 +2701,7 @@
 	<Entry>
 		<zType>NAME_ZAMRA</zType>
 		<zName>Замра</zName>
-		<PreferredPortrait>CHARACTER_PORTRAIT_DIDO</PreferredPortrait>
+		<PreferredPortrait>CHARACTER_PORTRAIT_ZAMRA</PreferredPortrait>
 	</Entry>
 	<Entry>
 		<zType>NAME_ATOSSA</zType>

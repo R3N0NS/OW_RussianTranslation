@@ -76,6 +76,13 @@
 		</aeInvalidateRelationship>
 	</Entry>
 	<Entry>
+		<zType>RELATIONSHIP_INFLUENCED_BY</zType>
+		<zName>Под влиянием</zName>
+		<iOpinion>40</iOpinion>
+		<iMinAgeUs>10</iMinAgeUs>
+		<iMinAgeThem>15</iMinAgeThem>
+	</Entry>
+	<Entry>
 		<zType>RELATIONSHIP_JEALOUS_ABOUT</zType>
 		<zName>Завидует</zName>
 		<iOpinion>-40</iOpinion>
@@ -157,12 +164,12 @@
 	</Entry>
 	<Entry>
 		<zType>RELATIONSHIP_BYPASSED_BY</zType>
-		<zName>Bypassed by</zName>
+		<zName>Избегает</zName>
 		<iOpinion>-100</iOpinion>
 	</Entry>
 	<Entry>
 		<zType>RELATIONSHIP_DIVORCED_BY</zType>
-		<zName>Divorced by</zName>
+		<zName>Разведен(а) с</zName>
 		<iOpinion>-100</iOpinion>
 	</Entry>
 </Root>

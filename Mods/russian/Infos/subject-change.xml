@@ -7,6 +7,7 @@
 		<Class/>
 		<RelationUs comment="Has this SubjectRelationship with the Player."/>
 		<RelationLeader comment="Has this SubjectRelationship with the Leader."/>
+		<NoRelationLeader comment="Doesn't have this SubjectRelationship with the Leader."/>
 		<Religion comment="Is this Religion."/>
 		<Law comment="Is this Law."/>
 		<Theology comment="Is this Theology."/>
@@ -2218,6 +2219,12 @@ They must be an adult (at least 18) and no older than
 		<RelationLeader>SUBJECTRELATION_STEPPARENT_OF</RelationLeader>
 		<bIsUs>1</bIsUs>
 	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_DESCENDANT_OF_LEADER_US</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<RelationLeader>SUBJECTRELATION_NOT_DESCENDANT</RelationLeader>
+		<bIsUs>1</bIsUs>
+	</Entry>
 	<Entry comment="Character of human nation with a Family">
 		<zType>SUBJECT_CHARACTER_FAMILY_US</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
@@ -2451,6 +2458,16 @@ They must be an adult (at least 18) and no older than
 		<zType>SUBJECT_OBLIGED_TO_LEADER</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<RelationLeader>SUBJECTRELATION_OBLIGED_TO</RelationLeader>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_INFLUENCED_BY_LEADER</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<RelationLeader>SUBJECTRELATION_INFLUENCED_BY</RelationLeader>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NO_INFLUENCE_BY_LEADER</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<NoRelationLeader>SUBJECTRELATION_INFLUENCED_BY</NoRelationLeader>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_JEALOUS_ABOUT_LEADER</zType>
@@ -3971,6 +3988,16 @@ They must be an adult (at least 18) and no older than
 		<TraitPrereq>TRAIT_CLAIMED</TraitPrereq>
 	</Entry>
 	<Entry>
+		<zType>SUBJECT_CLERGY</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_CLERGY</TraitPrereq>
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_ASCETIC</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_ASCETIC</TraitPrereq>
+	</Entry>
+	<Entry>
 		<zType>SUBJECT_MONKEY_PAW_OWNER</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_MONKEY_PAW</TraitPrereq>
@@ -4086,19 +4113,9 @@ They must be an adult (at least 18) and no older than
 		<TraitPrereq>TRAIT_DROUGHT_STRICKEN</TraitPrereq>
 	</Entry>
 	<Entry>
-		<zType>SUBJECT_ASCETIC</zType>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<TraitPrereq>TRAIT_ASCETIC</TraitPrereq>
-	</Entry>
-	<Entry>
 		<zType>SUBJECT_ARTIST</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_ARTIST</TraitPrereq>
-	</Entry>
-	<Entry>
-		<zType>SUBJECT_PRIEST</zType>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<TraitPrereq>TRAIT_PRIEST</TraitPrereq>
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_PROPHET</zType>
@@ -4136,12 +4153,6 @@ They must be an adult (at least 18) and no older than
 		<zName>Not link(TRAIT_IMPRISONED) recently</zName>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<MemoryCharacterInvalid>MEMORYCHARACTER_IMPRISONED_RECENTLY</MemoryCharacterInvalid>
-	</Entry>
-	<Entry>
-		<zType>SUBJECT_CHARACTER_NO_INFLUENCE</zType>
-		<zName>Not Influenced</zName>
-		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<MemoryCharacterInvalid>MEMORYCHARACTER_INFLUENCE</MemoryCharacterInvalid>
 	</Entry>
 	<Entry comment="If a leader demanded money ransom">
 		<zType>SUBJECT_CHARACTER_DEMANDED_MONEY</zType>

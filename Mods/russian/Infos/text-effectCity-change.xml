@@ -723,12 +723,4 @@
     <zType>TEXT_EFFECTCITY_TRAIT_HERDER</zType>
     <Translation>Лидер пастухов</Translation>
   </Entry>
-  <Entry>
-    <zType>TEXT_EFFECTCITY_TRAIT_ASCETIC</zType>
-    <Translation>Аскет</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_EFFECTCITY_TRAIT_PRIEST</zType>
-    <Translation>Священник</Translation>
-  </Entry>
 </Root>

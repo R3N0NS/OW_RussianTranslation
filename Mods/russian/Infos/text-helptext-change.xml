@@ -609,8 +609,12 @@
     <Translation>{0}{true_1:*}</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_HELPTEXT_EVENT_REQUIRES</zType>
+    <zType>TEXT_HELPTEXT_EVENT_REQUIRES_SINGLE</zType>
     <Translation>[Требуется: {0}]</Translation>
+  </Entry>
+  <Entry>
+        <zType>TEXT_HELPTEXT_EVENT_REQUIRES_MULTI</zType>
+    <Translation>Требуется:</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_NO</zType>
@@ -621,12 +625,12 @@
     <Translation>[Не требуется: {0}]</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_HELPTEXT_EVENT_REQUIRES_X</zType>
-    <Translation>[Требуется {0}: {1}]</Translation>
+    <zType>TEXT_HELPTEXT_EVENT_REQUIRES_TWO</zType>
+    <Translation>[Требуется {0}: {1}{2}]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_TWO</zType>
-    <Translation>[Требуется {0}: {1} {2}]</Translation>
+    <Translation>[{0}: не {1} {2}]</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_EVENT_REQUIRES_GT_LT</zType>
@@ -1020,8 +1024,18 @@
   <Entry>
     <zType>TEXT_HELPTEXT_WIDGET_CYCLE_IDLE_DECISIONS_KEYS</zType>
     <Translation><![CDATA[<TEXT_HOTKEY_RIGHT_CLICK> — смена городов в обратном порядке<true_0><br><TEXT_HOTKEY_CTRL_SHIFT_CLICK> — установить приоритет<false><end>]]></Translation>
+	</Entry>
+	<!-- Unassigned for now
+	<Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_CYCLE_PREVIOUS_CITIES</zType>
+		<Translation>Previous City{true_0: {0_presskey}}</Translation>
   </Entry>
   <Entry>
+		<zType>TEXT_HELPTEXT_WIDGET_CYCLE_NEXT_CITIES</zType>
+		<Translation>Next City{true_0: {0_presskey}}</Translation>
+	</Entry> -->
+	<!-- Temp text entries for city cycling help without hotkey-->
+	<Entry>
     <zType>TEXT_HELPTEXT_WIDGET_CYCLE_PREVIOUS_CITIES</zType>
     <Translation>Предыдущий город{true_0: {0_presskey}}</Translation>
   </Entry>
@@ -5352,6 +5366,10 @@
   <Entry>
     <zType>TEXT_HELPTEXT_TAB_PANEL_CHARACTERS_SPOUSES</zType>
     <Translation>Супруг(и) </Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_HELPTEXT_SUCCESSION_HELP_CURRENT_SUCCESSION_LAW</zType>
+	<Translation>Current Succession Law: {0_law}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_HELPTEXT_TAB_PANEL_CHARACTERS_HEIRS</zType>

@@ -2000,15 +2000,37 @@
 		<Name>TEXT_TRAIT_CLAIMED</Name>
 	</Entry>
 	<Entry>
-		<zType>TRAIT_PRIEST</zType>
-		<Name>TEXT_TRAIT_PRIEST</Name>
+		<zType>TRAIT_CLERGY</zType>
+		<Name>TEXT_TRAIT_CLERGY</Name>
 		<bNoMarry>1</bNoMarry>
 		<bNoBirth>1</bNoBirth>
 		<bNoHeir>1</bNoHeir>
-		<GovernorEffectCity>EFFECTCITY_TRAIT_PRIEST</GovernorEffectCity>
+		<bNoJob>1</bNoJob>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_DISCIPLINE</zIndex>
+				<iValue>2</iValue>
+			</Pair>
+		</aiRating>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ASCETIC</zType>
+		<Name>TEXT_TRAIT_ASCETIC</Name>
+		<bNoMarry>1</bNoMarry>
+		<bNoBirth>1</bNoBirth>
+		<bNoHeir>1</bNoHeir>
+		<bNoJob>1</bNoJob>
+		<aiRating>
+			<Pair>
+				<zIndex>RATING_CHARISMA</zIndex>
+				<iValue>-2</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_DISCIPLINE</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_WISDOM</zIndex>
 				<iValue>1</iValue>
 			</Pair>
 		</aiRating>
@@ -2187,28 +2209,6 @@
 		<iDieProb>10</iDieProb>
 		<iRemoveProb>50</iRemoveProb>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_DROUGHT_STRICKEN</LeaderEffectPlayer>
-	</Entry>
-	<Entry>
-		<zType>TRAIT_ASCETIC</zType>
-		<Name>TEXT_TRAIT_ASCETIC</Name>
-		<bNoMarry>1</bNoMarry>
-		<bNoBirth>1</bNoBirth>
-		<bNoHeir>1</bNoHeir>
-		<bNoJob>1</bNoJob>
-		<aiRating>
-			<Pair>
-				<zIndex>RATING_CHARISMA</zIndex>
-				<iValue>-2</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>RATING_DISCIPLINE</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>RATING_WISDOM</zIndex>
-				<iValue>1</iValue>
-			</Pair>
-		</aiRating>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_HORSE</zType>

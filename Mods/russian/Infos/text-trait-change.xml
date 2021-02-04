@@ -323,20 +323,20 @@
     <Translation>Остроумный~Остроумного~Остроумному~Остроумному~Остроумным~Остроумном</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_TRAIT_STUDY_TACTICS</zType>
-    <Translation>Ученик тактика</Translation>
+    <zType>TEXT_TRAIT_STUDY_PHILOSOPHY</zType>
+    <Translation>Ученик философа</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_STUDY_RHETORIC</zType>
     <Translation>Ученик риторика</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_TRAIT_STUDY_COMMERCE</zType>
-    <Translation>Ученик торговца</Translation>
+    <zType>TEXT_TRAIT_STUDY_TACTICS</zType>
+    <Translation>Ученик тактика</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_TRAIT_STUDY_PHILOSOPHY</zType>
-    <Translation>Ученик философа</Translation>
+    <zType>TEXT_TRAIT_STUDY_COMMERCE</zType>
+    <Translation>Ученик торговца</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_BLESSED</zType>
@@ -439,8 +439,12 @@
     <Translation>Востребованный~Востребованного~Востребованному~Востребованный~Востребованным~Востребованном</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_TRAIT_PRIEST</zType>
+    <zType>TEXT_TRAIT_CLERGY</zType>
     <Translation>Священник~Священника~Священнику~Священника~Священником~Священнике</Translation>
+ </Entry>
+  <Entry>
+	<zType>TEXT_TRAIT_ASCETIC</zType>
+	<Translation>Аскет~Аскета~Аскету~Аскета~Аскетом~Аскете</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_ARTIST</zType>
@@ -569,10 +573,6 @@
   <Entry>
     <zType>TEXT_TRAIT_DROUGHT_STRICKEN</zType>
     <Translation>Пораженный засухой</Translation>
-  </Entry>
-  <Entry>
-    <zType>TEXT_TRAIT_ASCETIC</zType>
-    <Translation>Аскет~Аскета~Аскету~Аскета~Аскетом~Аскете</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_TRAIT_HORSE</zType>

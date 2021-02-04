@@ -678,8 +678,8 @@
     <Translation>Контролировать 3 города с легендарной культурой</Translation>
   </Entry>
   <Entry>
-    <zType>TEXT_GOAL_SIX_LEGENDARY</zType>
-    <Translation>Контролировать 3 городов с легендарной культурой</Translation>
+    <zType>TEXT_GOAL_FIVE_LEGENDARY</zType>
+    <Translation>Контролировать 5 городов с легендарной культурой</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GOAL_TWO_WONDERS</zType>

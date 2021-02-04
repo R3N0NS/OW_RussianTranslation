@@ -88,6 +88,26 @@
 		<zName>Нусайбин</zName>
 	</Entry>
 	<Entry>
+		<zType>CITYNAME_RESEN</zType>
+		<zName>Ресен</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_KAR_SULMANU_ASAREDU</zType>
+		<zName>Тиль-Барсип</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MALIDIYA</zType>
+		<zName>Малидия</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HAMAT</zType>
+		<zName>Хамат</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_QADESH</zType>
+		<zName>Кадеш</zName>
+	</Entry>
+	<Entry>
 		<zType>CITYNAME_BABYLON</zType>
 		<zName>Вавилон</zName>
 	</Entry>
@@ -172,44 +192,12 @@
 		<zName>Карфаген</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_BYBLOS</zType>
-		<zName>Библ</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_TYRE</zType>
-		<zName>Сур</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_SIDON</zType>
-		<zName>Сайда</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_ARWAD</zType>
-		<zName>Арвад</zName>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_UTICA</zType>
 		<zName>Ютика</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CADIZ</zType>
 		<zName>Кадис</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_BERYTOS</zType>
-		<zName>Берит</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_LEBNAN</zType>
-		<zName>Лебанон</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_ADONIS</zType>
-		<zName>Адонис</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_ISHTARA</zType>
-		<zName>Иштар</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_HIPPO_REGIUS</zType>
@@ -268,10 +256,6 @@
 		<zName>Нора</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_KARTEIA</zType>
-		<zName>Картахена</zName>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_SABRATA</zType>
 		<zName>Сабрата</zName>
 	</Entry>
@@ -280,12 +264,32 @@
 		<zName>Ликсус</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_BYRSA</zType>
-		<zName>Бурса</zName>
+		<zType>CITYNAME_CARTHAGO_NOVA</zType>
+		<zName>Картахена</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_BAALBECK</zType>
-		<zName>Баальбек</zName>
+		<zType>CITYNAME_MALACA</zType>
+		<zName>Малага</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CARTENNA</zType>
+		<zName>Картенны</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SALDAE</zType>
+		<zName>Салдэ</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SICCA</zType>
+		<zName>Эль-Кеф</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_THAENAE</zType>
+		<zName>Тэна</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ARAE_PHILAENORUM</zType>
+		<zName>Рас-эль-Ануф</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_WASET</zType>
@@ -332,10 +336,6 @@
 		<zName>Аварис</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_GIZA</zType>
-		<zName>Гиза</zName>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_BUSIRIS</zType>
 		<zName>Бусирис</zName>
 	</Entry>
@@ -356,60 +356,384 @@
 		<zName>Пелузий</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_ASWAN</zType>
-		<zName>Асуан</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_CAIRO</zType>
-		<zName>Каир</zName>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_DAMIETTA</zType>
 		<zName>Думьят</zName>
 	</Entry>
 	<Entry>
+		<zType>CITYNAME_KHEM</zType>
+		<zName>Кхем</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_YAMU</zType>
+		<zName>Яму</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_KHITO</zType>
+		<zName>Рашид</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PTKHEKA</zType>
+		<zName>Танта</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PER_WADJET</zType>
+		<zName>Пер-Ваджет</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_KHASUT</zType>
+		<zName>Сакха</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TIMINHOR</zType>
+		<zName>Даманхур</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PIEMRO</zType>
+		<zName>Навкратис</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_THONIS</zType>
+		<zName>Гераклион</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MENOUTHIS</zType>
+		<zName>Менуфис</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PIKUAT</zType>
+		<zName>Канопус</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PER_ATUM</zType>
+		<zName>Пифом</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HUT_HERY_IB</zType>
+		<zName>Атрибис</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TAREMU</zType>
+		<zName>Леонтополис</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SETENNU</zType>
+		<zName>Фарбает</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TJEBNUTJER</zType>
+		<zName>Себеннит</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PACHNAMUNIS</zType>
+		<zName>Пахнамунис</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TJARU</zType>
+		<zName>Тьяру</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PER_AMUN</zType>
+		<zName>Амон</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_WEPREHWY</zType>
+		<zName>Гермополь</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_DJEDET</zType>
+		<zName>Мендес</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SEMABEHDET</zType>
+		<zName>Смабехдет</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PER_BAST</zType>
+		<zName>Баст</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PER_SOPDU</zType>
+		<zName>Сопду</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SWENETT</zType>
+		<zName>Асуан</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_NUBT</zType>
+		<zName>Небут</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_BEHDET</zType>
+		<zName>Идфу</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_NEKHEB</zType>
+		<zName>Нехеб</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TE_SENET</zType>
+		<zName>Исна</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PER_HATHOR</zType>
+		<zName>Гебелейн</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_IUNY</zType>
+		<zName>Иуни</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SUMENU</zType>
+		<zName>Сумену</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_DJERTY</zType>
+		<zName>Эль-Тод</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MADU</zType>
+		<zName>Маду</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_IUSHENSHEN</zType>
+		<zName>Иушеншен</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_GESY</zType>
+		<zName>Кус</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_GEBTU</zType>
+		<zName>Коптос</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SESHESH</zType>
+		<zName>Сешешет</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TJENU</zType>
+		<zName>Тинис</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_IPU</zType>
+		<zName>Хент-Мин</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HUT_REPYT</zType>
+		<zName>Трифейон</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TJEBU</zType>
+		<zName>Тюбу</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SHASHOTEP</zType>
+		<zName>Гипселис</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PER_NEMTY</zType>
+		<zName>Немти</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ZAWTY</zType>
+		<zName>Асьют</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_QIS</zType>
+		<zName>Кис</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_KHMUN</zType>
+		<zName>Шмун</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HERWER</zType>
+		<zName>Хур</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HEBENU</zType>
+		<zName>Хэбену</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MER_NEFER_ET</zType>
+		<zName>Акорис</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SAKA</zType>
+		<zName>Кинополь</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TAYU_DJAYET</zType>
+		<zName>Эль-Хиба</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PER_MEDJED</zType>
+		<zName>Оксиринх</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HENEN_NESUT</zType>
+		<zName>Гераклеополь</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TEPIHU</zType>
+		<zName>Атфих</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CHENEM_WASET</zType>
+		<zName>Амара</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_IKEN</zType>
+		<zName>Икен</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_BUHEN</zType>
+		<zName>Бухен</zName>
+	</Entry>
+	<Entry>
 		<zType>CITYNAME_ATHENS</zType>
 		<zName>Афины</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Athenarum</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Athenarum</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_SPARTA</zType>
 		<zName>Спарта</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Spartae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Spartae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CORINTH</zType>
 		<zName>Коринф</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Corinthi</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Corinthi</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_THEBES</zType>
 		<zName>Фивы</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Thebarum</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Thebarum</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ARGOS</zType>
 		<zName>Аргос</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_ELIS</zType>
-		<zName>Элида</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_MESSENE</zType>
-		<zName>Месини</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Argi</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Argi</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ERETRIA</zType>
 		<zName>Эретрия</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Eretriae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Eretriae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CORCYRA</zType>
 		<zName>Керкира</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Corcyrae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Corcyrae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_LARISSA</zType>
 		<zName>Лариса</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Larissae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Larissae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_MILETUS</zType>
 		<zName>Милет</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Mileti</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Mileti</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_SYRACUSE</zType>
@@ -418,102 +742,482 @@
 	<Entry>
 		<zType>CITYNAME_EPHESUS</zType>
 		<zName>Эфес</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Ephesi</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Ephesi</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_CYRENE</zType>
 		<zName>Кирена</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Cyrenes</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Cyrenes</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_HALICARNASSUS</zType>
 		<zName>Галикарнас</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Halicarnassi</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Halicarnassi</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PERGAMON</zType>
 		<zName>Пергам</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Pergami</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Pergami</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_BYZANTIUM</zType>
 		<zName>Византий</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Byzantii</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Byzantii</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_THESSALONIKE</zType>
+		<zName>Салоники</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Thessalonicae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Thessalonicae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PELLA</zType>
 		<zName>Пелла</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_THESSALONIKI</zType>
-		<zName>Салоники</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Pellae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Pellae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PATRAS</zType>
 		<zName>Патры</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_CYPRUS</zType>
-		<zName>Кипр</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_ILLYRIA</zType>
-		<zName>Иллирия</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_CHAERONE</zType>
-		<zName>Хеврон</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Patrarum</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Patrarum</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PHILIPPI</zType>
 		<zName>Филиппы</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Philipporum</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Philipporum</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_AMPHIPOLIS</zType>
 		<zName>Амфиполис</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_PYDNA</zType>
-		<zName>Пидна</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_METHONI</zType>
-		<zName>Метони</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Amphipolis</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Amphipolis</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_OLYNTHUS</zType>
 		<zName>Олинф</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Olynthi</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Olynthi</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_POTIDAEA</zType>
 		<zName>Потидея</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_MAGNESIA</zType>
-		<zName>Магнесия</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_THERMOPYLAE</zType>
-		<zName>Фермопилы</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_DELPHI</zType>
-		<zName>Дельфы</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_RHODES</zType>
-		<zName>Родос</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_AEGEA</zType>
-		<zName>Эгея</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_DIUM</zType>
+		<zType>CITYNAME_DION</zType>
 		<zName>Дион</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Dii</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Dii</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_HEBRUS</zType>
-		<zName>Марица</zName>
+		<zType>CITYNANE_CHALKIS</zType>
+		<zName>Халкида</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_EUBOEA</zType>
-		<zName>Эвбея</zName>
+		<zType>CITYNANE_MYTILENE</zType>
+		<zName>Митилини</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Mytilenes</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Mytilenes</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNANE_PYLOS</zType>
+		<zName>Пилос</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Pyli</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Pyli</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNANE_GORTYN</zType>
+		<zName>Гортина</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNANE_CROTON</zType>
+		<zName>Кротоне</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Crotonis</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Crotonis</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNANE_RHEGION</zType>
+		<zName>Регий</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Rhegii</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Rhegii</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNANE_ALEXANDRIA</zType>
+		<zName>Троада</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Alexandriae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Alexandriae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_IALYSUS</zType>
+		<zName>Ялис</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Ialysi</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Ialysi</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_LINDOS</zType>
+		<zName>Линдос</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Lindi</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Lindi</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_KARYSTOS</zType>
+		<zName>Каристос</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HERACLEA</zType>
+		<zName>Гераклея</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Heracleae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Heracleae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_LYCTOS</zType>
+		<zName>Литос</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Lycti</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Lycti</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_APOLLONIA</zType>
+		<zName>Аполлония</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Apolloniae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Apolloniae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PHOCAEA</zType>
+		<zName>Фокея</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Phocaeae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Phocaeae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MEGARA</zType>
+		<zName>Мегара</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Megarae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Megarae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_EPIDAMNOS</zType>
+		<zName>Эпидамн</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ATTALEIA</zType>
+		<zName>Анталья</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ASPALATHOS</zType>
+		<zName>Аликампос</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_NICODMEDIA</zType>
+		<zName>Никомедия</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Nicomediae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Nicomediae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_NICAEA</zType>
+		<zName>Никея</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Nicaeae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Nicaeae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TRAPEZUS</zType>
+		<zName>Трабзон</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Trapezuntis</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Trapezuntis</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ANTIOCHEIA</zType>
+		<zName>Антиохия</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MASSALIA</zType>
+		<zName>Массалия</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Massiliae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Massiliae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PERSEPOLIS</zType>
@@ -576,44 +1280,72 @@
 		<zName>Шираз</zName>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_ISFAHAN</zType>
-		<zName>Исфахан</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_HAMADAN</zType>
-		<zName>Хамадан</zName>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_KERMANSHAH</zType>
-		<zName>Керманшах</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_ARDABIL</zType>
-		<zName>Ардебиль</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_TABRIZ</zType>
-		<zName>Тебриз</zName>
+		<zName>Kermanshah</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_PTERIA</zType>
-		<zName>Птерия</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_MEDEA</zType>
-		<zName>Медеа</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_PERSIS</zType>
-		<zName>Персис</zName>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_THYMBRA</zType>
-		<zName>Фимбра</zName>
+		<zName>Pteria</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_HYRBA</zType>
-		<zName>Хирба</zName>
+		<zName>Hyrba</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CYRESCHATE</zType>
+		<zName>Cyreschate</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ORTOSPANA</zType>
+		<zName>Ortospana</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PAHRAH</zType>
+		<zName>Pahrah</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PROPHTHASIA</zType>
+		<zName>Prophthasia</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ARTACOANA</zType>
+		<zName>Artacoana</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TUS</zType>
+		<zName>Tus</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ZADRACARTA</zType>
+		<zName>Zadracarta</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SADDARVAZEH</zType>
+		<zName>Saddarvazeh</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_RHAGES</zType>
+		<zName>Rhages</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_GABAE</zType>
+		<zName>Gabae</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_YAZD</zType>
+		<zName>Yazd</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CARMANIA</zType>
+		<zName>Carmania</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HORMIRZAD</zType>
+		<zName>Hormirzad</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TEREDON</zType>
+		<zName>Teredon</zName>
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ROMA</zType>
@@ -664,38 +1396,6 @@
 		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_BENEVENTUM</zType>
-		<zName>Беневенто</zName>
-		<azNationAdjectivesMale>
-			<Pair>
-				<zIndex>NATION_ROME</zIndex>
-				<zValue>Beneventanus</zValue>
-			</Pair>
-		</azNationAdjectivesMale>
-		<azNationAdjectivesFemale>
-			<Pair>
-				<zIndex>NATION_ROME</zIndex>
-				<zValue>Beneventana</zValue>
-			</Pair>
-		</azNationAdjectivesFemale>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_ARRETIUM</zType>
-		<zName>Ареццо</zName>
-		<azNationAdjectivesMale>
-			<Pair>
-				<zIndex>NATION_ROME</zIndex>
-				<zValue>Aretinus</zValue>
-			</Pair>
-		</azNationAdjectivesMale>
-		<azNationAdjectivesFemale>
-			<Pair>
-				<zIndex>NATION_ROME</zIndex>
-				<zValue>Aretina</zValue>
-			</Pair>
-		</azNationAdjectivesFemale>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_CAPUA</zType>
 		<zName>Капуя</zName>
 		<azNationAdjectivesMale>
@@ -708,22 +1408,6 @@
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
 				<zValue>Capuana</zValue>
-			</Pair>
-		</azNationAdjectivesFemale>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_BRUNDISIUM</zType>
-		<zName>Бриндизи</zName>
-		<azNationAdjectivesMale>
-			<Pair>
-				<zIndex>NATION_ROME</zIndex>
-				<zValue>Brundisinus</zValue>
-			</Pair>
-		</azNationAdjectivesMale>
-		<azNationAdjectivesFemale>
-			<Pair>
-				<zIndex>NATION_ROME</zIndex>
-				<zValue>Brundisina</zValue>
 			</Pair>
 		</azNationAdjectivesFemale>
 	</Entry>
@@ -745,7 +1429,7 @@
 	</Entry>
 	<Entry>
 		<zType>CITYNAME_ARIMINUM</zType>
-		<zName>Аримин</zName>
+		<zName>Римини</zName>
 		<azNationAdjectivesMale>
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
@@ -824,22 +1508,6 @@
 		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_TUSCULUM</zType>
-		<zName>Тускул</zName>
-		<azNationAdjectivesMale>
-			<Pair>
-				<zIndex>NATION_ROME</zIndex>
-				<zValue>Tusculanus</zValue>
-			</Pair>
-		</azNationAdjectivesMale>
-		<azNationAdjectivesFemale>
-			<Pair>
-				<zIndex>NATION_ROME</zIndex>
-				<zValue>Tusculana</zValue>
-			</Pair>
-		</azNationAdjectivesFemale>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_AQUILEIA</zType>
 		<zName>Аквилея</zName>
 		<azNationAdjectivesMale>
@@ -856,22 +1524,6 @@
 		</azNationAdjectivesFemale>
 	</Entry>
 	<Entry>
-		<zType>CITYNAME_CIRCEII</zType>
-		<zName>Цирцеи</zName>
-		<azNationAdjectivesMale>
-			<Pair>
-				<zIndex>NATION_ROME</zIndex>
-				<zValue>Circeiensis</zValue>
-			</Pair>
-		</azNationAdjectivesMale>
-		<azNationAdjectivesFemale>
-			<Pair>
-				<zIndex>NATION_ROME</zIndex>
-				<zValue>Circeiensis</zValue>
-			</Pair>
-		</azNationAdjectivesFemale>
-	</Entry>
-	<Entry>
 		<zType>CITYNAME_BONONIA</zType>
 		<zName>Болонья</zName>
 		<azNationAdjectivesMale>
@@ -884,22 +1536,6 @@
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
 				<zValue>Bononiensis</zValue>
-			</Pair>
-		</azNationAdjectivesFemale>
-	</Entry>
-	<Entry>
-		<zType>CITYNAME_TICINUM</zType>
-		<zName>Тицин</zName>
-		<azNationAdjectivesMale>
-			<Pair>
-				<zIndex>NATION_ROME</zIndex>
-				<zValue>Ticinensis</zValue>
-			</Pair>
-		</azNationAdjectivesMale>
-		<azNationAdjectivesFemale>
-			<Pair>
-				<zIndex>NATION_ROME</zIndex>
-				<zValue>Ticinensis</zValue>
 			</Pair>
 		</azNationAdjectivesFemale>
 	</Entry>
@@ -932,6 +1568,489 @@
 			<Pair>
 				<zIndex>NATION_ROME</zIndex>
 				<zValue>Florentina</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_BERYTUS</zType>
+		<zName>Берит</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Beryti</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Beryti</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SERDICA</zType>
+		<zName>Сердика</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CELEIA</zType>
+		<zName>Целе</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_BELUM</zType>
+		<zName>Селевкополис</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Beli</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Beli</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TARRACO</zType>
+		<zName>Таррагона</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Tarraconis</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Tarraconis</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ITALICA</zType>
+		<zName>Италика</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Italicae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Italicae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MODICIA</zType>
+		<zName>Модика</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_FORUM_LIVII</zType>
+		<zName>Форли</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_REGIUM_LEPIDI</zType>
+		<zName>Реджо-нель-Эмилия</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CORDUBA</zType>
+		<zName>Кордова</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Cordubae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Cordubae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_ASCRIVIUM</zType>
+		<zName>Аскривиум</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_VALENTIA</zType>
+		<zName>Валентия</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Valentiae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Valentiae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SCALABIS</zType>
+		<zName>Скалабис</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_VILLA_EURACINI</zType>
+		<zName>Повуа-ди-Варзин</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MASSA</zType>
+		<zName>Масса</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Massae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Massae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PISTORIA</zType>
+		<zName>Пистоя</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_GERUNDA</zType>
+		<zName>Герунда</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_POMPALEO</zType>
+		<zName>Памплона</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_NAISSUS</zType>
+		<zName>Ниш</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_VESONTIO</zType>
+		<zName>Безансон</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Vesontionis</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Vesontionis</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_LUTETIA</zType>
+		<zName>Лютеция</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Lutetiae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Lutetiae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>	</Entry>
+	<Entry>
+		<zType>CITYNAME_HISPALIS</zType>
+		<zName>Севилья</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Hispalis</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Hispalis</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_LUGDUNUM</zType>
+		<zName>Лугдун</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Lugduni</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Lugduni</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SISCIA</zType>
+		<zName>Сисция</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_AUGUSTA_TREVERORUM</zType>
+		<zName>Трир</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CASTRA_LEGIONIS</zType>
+		<zName>Леон</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_AUGUSTA_TAURINORUM</zType>
+		<zName>Турин</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_NOVAESIUM</zType>
+		<zName>Нойс</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_OVILAVA</zType>
+		<zName>Вельс</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_IUVAVUM</zType>
+		<zName>Кьети</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_TURICUM</zType>
+		<zName>Турикум</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_POMPEII</zType>
+		<zName>Помпеи</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Pompeiorum</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Pompeiorum</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_VOLUBILIS</zType>
+		<zName>Волюбилис</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Volubilis</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Volubilis</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_BARIUM</zType>
+		<zName>Барий</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Barii</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Barii</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_BRIXIA</zType>
+		<zName>Брешиа</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Brixiae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Brixiae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_COMUM</zType>
+		<zName>Комо</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Comi</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Comi</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_THERANDA</zType>
+		<zName>Тирана</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_HADRIANOPOLIS</zType>
+		<zName>Адрианополис</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_DUROVIGUTUM</zType>
+		<zName>Хантингдон</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_PONUS_AELIUS</zType>
+		<zName>Понс-Элий</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_AQUINCUM</zType>
+		<zName>Аквинк</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CIBALAE</zType>
+		<zName>Цибала</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SALONA</zType>
+		<zName>Салона</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Salonae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Salonae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_AEMINIUM</zType>
+		<zName>Эминиум</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_LENTIA</zType>
+		<zName>Линц</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_NIDA</zType>
+		<zName>Нида</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SUMELOCENNA</zType>
+		<zName>Неккар</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CALLEVA_ATREBATUM</zType>
+		<zName>Каллева</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_CAMULODUNUM</zType>
+		<zName>Камулодун</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Camuloduni</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Camuloduni</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_VIMINACIUM</zType>
+		<zName>Виминациум</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_LONDINIUM</zType>
+		<zName>Лондиниум</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Londinii</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Londinii</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_AVENTICUM</zType>
+		<zName>Аванш</zName>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_FAVENTIA</zType>
+		<zName>Фавенция</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Faventiae</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Faventiae</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_MOGONTIACUM</zType>
+		<zName>Могонтиакум</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Mogontiaci</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Mogontiaci</zValue>
+			</Pair>
+		</azNationAdjectivesFemale>
+	</Entry>
+	<Entry>
+		<zType>CITYNAME_SIRMIUM</zType>
+		<zName>Сирмий</zName>
+		<azNationAdjectivesMale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Sirmii</zValue>
+			</Pair>
+		</azNationAdjectivesMale>
+		<azNationAdjectivesFemale>
+			<Pair>
+				<zIndex>NATION_ROME</zIndex>
+				<zValue>Sirmii</zValue>
 			</Pair>
 		</azNationAdjectivesFemale>
 	</Entry>

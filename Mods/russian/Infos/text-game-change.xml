@@ -158,6 +158,10 @@
     <Translation>Вы провалили задание: {0}</Translation>
   </Entry>
   <Entry>
+	<zType>TEXT_GAME_MAKE_LEGACY</zType>
+	<Translation>Старая амбиция, {0_ambition}, теперь Наследие. У вас будет {1} {2_turnScale} завершить его.</Translation>
+  </Entry>
+  <Entry>
     <zType>TEXT_GAME_AMBITION_IMPOSSIBLE</zType>
     <Translation>Эта амбиция стала недоступной и исключена из списка: {0}</Translation>
   </Entry>
@@ -203,7 +207,7 @@
   </Entry>
   <Entry>
     <zType>TEXT_GAME_DISCOVERED_TECH_LOG_DATA</zType>
-    <Translation>>Открыта технология {0_tech}</Translation>
+    <Translation>Открыта технология {0_tech}</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_CITY_FINISHED_PROJECT_LOG_DATA</zType>
@@ -658,6 +662,10 @@
   <Entry>
     <zType>TEXT_GAME_CAMP_DESTROYED_LOG_DATA</zType>
     <Translation>{0_barbarian} {1_improvement} разрушили!</Translation>
+  </Entry>
+  <Entry>
+	<zType>TEXT_GAME_CITY_RAZED_LOG_DATA</zType>
+	<Translation>{0_city} был стерт с лица земли!</Translation>
   </Entry>
   <Entry>
     <zType>TEXT_GAME_CITY_CAPTURED_LOG_DATA</zType>

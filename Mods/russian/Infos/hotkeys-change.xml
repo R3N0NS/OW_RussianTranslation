@@ -279,6 +279,7 @@
 		<HotkeyClass>HOTKEYCLASS_NAVIGATION</HotkeyClass>
 		<Keys>LeftShift+Alpha6,RightShift+Alpha6</Keys>
 	</Entry>
+	<!-- Unassigned for now
 	<Entry>
 		<zType>HOTKEY_PREVIOUS_CITY</zType>
 		<zName>Previous City</zName>
@@ -292,7 +293,7 @@
 		<HotkeyClass>HOTKEYCLASS_NAVIGATION</HotkeyClass>
 		<Keys>E</Keys>
 		<bKeyboardMap>1</bKeyboardMap>
-	</Entry>
+	</Entry> -->
 	<Entry>
 		<zType>HOTKEY_PASS</zType>
 		<zName>Cycle and Pass Selected Unit</zName>
@@ -396,6 +397,20 @@
 		<zName>Show Help Screen</zName>
 		<HotkeyClass>HOTKEYCLASS_SCREENS</HotkeyClass>
 		<Keys>F8</Keys>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_PREVIOUS_TAB</zType>
+		<zName>Previous Tab</zName>
+		<HotkeyClass>HOTKEYCLASS_SCREENS</HotkeyClass>
+		<Keys>Q</Keys>
+		<bKeyboardMap>1</bKeyboardMap>
+	</Entry>
+	<Entry>
+		<zType>HOTKEY_NEXT_TAB</zType>
+		<zName>Next Tab</zName>
+		<HotkeyClass>HOTKEYCLASS_SCREENS</HotkeyClass>
+		<Keys>E</Keys>
+		<bKeyboardMap>1</bKeyboardMap>
 	</Entry>
 	<Entry>
 		<zType>HOTKEY_GAME_EDITOR</zType>
